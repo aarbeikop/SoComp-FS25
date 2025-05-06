@@ -1,0 +1,32 @@
+{
+    "total_posts": 85,
+    "total_comments": 492,
+    "failed_subreddits": [],
+    "successful_subreddits": [
+        "climatechange",
+        "climate",
+        "ClimateActionPlan",
+        "environment",
+        "science",
+        "worldnews",
+        "news",
+        "collapse",
+        "sustainability",
+        "renewable"
+    ],
+    "start_time": "2025-05-06 14:16:29",
+    "end_time": "2025-05-06 14:19:02",
+    "rate_limit_hits": 0,
+    "posts_file": "data/raw/reddit_posts_20250506_141902.csv",
+    "comments_file": "data/raw/reddit_comments_20250506_141902.csv",
+    "timestamp": "20250506_141902",
+    "query": "climate change",
+    "time_filter": "week",
+    "limit_per_subreddit": 50,
+    "comment_limit": 25,
+    "post_count": 85,
+    "comment_count": 492,
+    "subreddits_attempted": 10,
+    "subreddits_successful": 10,
+    "subreddits_failed": 0
+}
