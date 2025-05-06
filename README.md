@@ -57,7 +57,7 @@ This project analyzes how sentiment varies between Reddit and Twitter when users
 5. The `client_id` is the string under the app name
 6. The `client_secret` is labeled "secret"
 
-For more information on setting up PRAW, check [this beginner's guide](https://medium.com/@archanakkokate/scraping-reddit-data-using-python-and-praw-a-beginners-guide-7047962f5d29).
+For more information on setting up PRAW for Reddit scraping, check [this beginner's guide on Medium](https://medium.com/@archanakkokate/scraping-reddit-data-using-python-and-praw-a-beginners-guide-7047962f5d29).
 
 ## Running the Scraper
 
