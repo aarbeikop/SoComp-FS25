@@ -1,0 +1,19 @@
+{
+    "start_time": "2025-05-06 17:25:25",
+    "reddit_posts_count": 0,
+    "reddit_comments_count": 0,
+    "twitter_posts_count": 0,
+    "platforms_compared": [],
+    "sentiment_distributions": {},
+    "end_time": "2025-05-06 17:25:28",
+    "output_files": {
+        "sentiment_distribution": "data/sentiment/visualizations/sentiment_distribution.png",
+        "sentiment_by_length": "data/sentiment/visualizations/sentiment_by_length.png",
+        "sentiment_by_engagement": "data/sentiment/visualizations/sentiment_by_engagement.png",
+        "top_words": {},
+        "wordclouds": {},
+        "sentiment_over_time": "data/sentiment/visualizations/sentiment_over_time.png",
+        "html_report": "data/sentiment/sentiment_report.html",
+        "stats_json": "data/sentiment/sentiment_stats.json"
+    }
+}

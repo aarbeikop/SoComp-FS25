@@ -1,0 +1,39 @@
+# queries.yaml
+scientific:
+  - "climate science"
+  - "IPCC report"
+  - "CO2 emissions"
+  - "climate data"
+  - "global temperature rise"
+  - "sea level projections"
+  - "carbon capture"
+
+emotional:
+  - "climate anxiety"
+  - "climate doom"
+  - "eco grief"
+  - "our planet is dying"
+  - "climate justice"
+  - "climate crisis"
+
+action_oriented:
+  - "climate protest"
+  - "climate strike"
+  - "Fridays for Future"
+  - "renewables now"
+  - "green energy transition"
+  - "climate legislation"
+
+skeptical:
+  - "climate hoax"
+  - "global warming myth"
+  - "CO2 is good"
+  - "climate alarmism"
+  - "fossil fuels aren't bad"
+
+solutions:
+  - "zero waste"
+  - "carbon footprint"
+  - "how to go green"
+  - "climate-friendly diet"
+  - "eco friendly habits"

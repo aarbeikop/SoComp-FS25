@@ -1,0 +1,328 @@
+2025-05-06 17:13:45,092 - __main__ - INFO - Downloaded NLTK resources
+2025-05-06 17:13:45,093 - __main__ - ERROR - Error processing data: 
+**********************************************************************
+  Resource [93mstopwords[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('stopwords')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mcorpora/stopwords[0m
+
+  Searched in:
+    - '/Users/isabellecretton/nltk_data'
+    - '/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/nltk_data'
+    - '/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/share/nltk_data'
+    - '/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/nltk/corpus/util.py", line 84, in __load
+    root = nltk.data.find(f"{self.subdir}/{zip_name}")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/nltk/data.py", line 583, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mstopwords[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('stopwords')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mcorpora/stopwords.zip/stopwords/[0m
+
+  Searched in:
+    - '/Users/isabellecretton/nltk_data'
+    - '/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/nltk_data'
+    - '/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/share/nltk_data'
+    - '/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 480, in main
+    processor = RedditDataProcessor(output_dir=args.output)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 52, in __init__
+    self.stopwords = set(stopwords.words('english'))
+                         ^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/nltk/corpus/util.py", line 121, in __getattr__
+    self.__load()
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/nltk/corpus/util.py", line 86, in __load
+    raise e
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/nltk/corpus/util.py", line 81, in __load
+    root = nltk.data.find(f"{self.subdir}/{self.__name}")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/nltk/data.py", line 583, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mstopwords[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('stopwords')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mcorpora/stopwords[0m
+
+  Searched in:
+    - '/Users/isabellecretton/nltk_data'
+    - '/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/nltk_data'
+    - '/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/share/nltk_data'
+    - '/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-05-06 17:29:14,243 - __main__ - INFO - No input files specified, looking for most recent files in data/raw/
+2025-05-06 17:29:14,243 - __main__ - INFO - Loading posts from: data/raw/reddit_posts_20250506_141902.csv
+2025-05-06 17:29:14,243 - __main__ - INFO - Loading comments from: data/raw/reddit_comments_20250506_141902.csv
+2025-05-06 17:29:14,253 - __main__ - INFO - Loaded 85 posts and 492 comments
+2025-05-06 17:29:14,253 - __main__ - INFO - Cleaning and filtering data...
+2025-05-06 17:29:14,255 - __main__ - INFO - Removed 0 deleted/removed posts
+2025-05-06 17:29:14,255 - __main__ - INFO - Removed 0 deleted/removed comments
+2025-05-06 17:29:14,272 - __main__ - INFO - Removed 0 bot posts
+2025-05-06 17:29:14,272 - __main__ - INFO - Removed 8 bot comments
+2025-05-06 17:29:14,444 - __main__ - INFO - Removed 85 non-English posts
+2025-05-06 17:29:14,444 - __main__ - INFO - Removed 479 non-English comments
+2025-05-06 17:29:14,447 - __main__ - INFO - Removed 0 posts with very short content
+2025-05-06 17:29:14,447 - __main__ - INFO - Removed 0 comments with very short content
+2025-05-06 17:29:14,447 - __main__ - INFO - Adding metadata...
+2025-05-06 17:29:14,450 - __main__ - ERROR - Error processing data: non convertible value 2025-04-29 22:40:58 with the unit 's', at position 0
+Traceback (most recent call last):
+  File "tslib.pyx", line 316, in pandas._libs.tslib.array_with_unit_to_datetime
+ValueError: could not convert string to float: '2025-04-29 22:40:58'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 483, in main
+    file_paths = processor.process_data(
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 422, in process_data
+    posts_with_metadata, comments_with_metadata = self.add_metadata(posts_filtered, comments_filtered)
+                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 256, in add_metadata
+    comments['created_date'] = pd.to_datetime(comments['created_utc'], unit='s')
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/pandas/core/tools/datetimes.py", line 1067, in to_datetime
+    values = convert_listlike(arg._values, format)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/pandas/core/tools/datetimes.py", line 407, in _convert_listlike_datetimes
+    return _to_datetime_with_unit(arg, unit, name, utc, errors)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/pandas/core/tools/datetimes.py", line 526, in _to_datetime_with_unit
+    arr, tz_parsed = tslib.array_with_unit_to_datetime(arg, unit, errors=errors)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "tslib.pyx", line 344, in pandas._libs.tslib.array_with_unit_to_datetime
+  File "tslib.pyx", line 318, in pandas._libs.tslib.array_with_unit_to_datetime
+ValueError: non convertible value 2025-04-29 22:40:58 with the unit 's', at position 0
+2025-05-06 17:33:40,855 - __main__ - INFO - No input files specified, looking for most recent files in data/raw/
+2025-05-06 17:33:40,856 - __main__ - INFO - Loading posts from: data/raw/reddit_posts_20250506_141902.csv
+2025-05-06 17:33:40,856 - __main__ - INFO - Loading comments from: data/raw/reddit_comments_20250506_141902.csv
+2025-05-06 17:33:40,866 - __main__ - INFO - Loaded 85 posts and 492 comments
+2025-05-06 17:33:40,866 - __main__ - INFO - Cleaning and filtering data...
+2025-05-06 17:33:40,869 - __main__ - INFO - Removed 0 deleted/removed posts
+2025-05-06 17:33:40,869 - __main__ - INFO - Removed 0 deleted/removed comments
+2025-05-06 17:33:40,887 - __main__ - INFO - Removed 0 bot posts
+2025-05-06 17:33:40,887 - __main__ - INFO - Removed 8 bot comments
+2025-05-06 17:33:41,059 - __main__ - INFO - Removed 85 non-English posts
+2025-05-06 17:33:41,059 - __main__ - INFO - Removed 479 non-English comments
+2025-05-06 17:33:41,061 - __main__ - INFO - Removed 0 posts with very short content
+2025-05-06 17:33:41,061 - __main__ - INFO - Removed 0 comments with very short content
+2025-05-06 17:33:41,061 - __main__ - INFO - Adding metadata...
+2025-05-06 17:33:41,069 - __main__ - INFO - Analyzing text characteristics...
+2025-05-06 17:33:41,070 - __main__ - INFO - Creating Twitter-compatible subset...
+2025-05-06 17:33:41,071 - __main__ - INFO - Created Twitter-compatible subset: 0 posts and 5 comments
+2025-05-06 17:33:41,071 - __main__ - INFO - Creating validation sample...
+2025-05-06 17:33:41,074 - __main__ - ERROR - Error processing data: Cannot take a larger sample than population when 'replace=False'
+Traceback (most recent call last):
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 483, in main
+    file_paths = processor.process_data(
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 436, in process_data
+    sample_posts, sample_comments = self.sample_data_for_manual_validation(posts_analyzed, comments_analyzed, sample_size)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 331, in sample_data_for_manual_validation
+    comments_sample = comments_df.sample(sample_size)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/pandas/core/generic.py", line 6115, in sample
+    sampled_indices = sample.sample(obj_len, size, replace, weights, rs)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/pandas/core/sample.py", line 152, in sample
+    return random_state.choice(obj_len, size=size, replace=replace, p=weights).astype(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "numpy/random/mtrand.pyx", line 1001, in numpy.random.mtrand.RandomState.choice
+ValueError: Cannot take a larger sample than population when 'replace=False'
+2025-05-06 17:33:52,393 - __main__ - INFO - No input files specified, looking for most recent files in data/raw/
+2025-05-06 17:33:52,394 - __main__ - INFO - Loading posts from: data/raw/reddit_posts_20250506_141902.csv
+2025-05-06 17:33:52,394 - __main__ - INFO - Loading comments from: data/raw/reddit_comments_20250506_141902.csv
+2025-05-06 17:33:52,406 - __main__ - INFO - Loaded 85 posts and 492 comments
+2025-05-06 17:33:52,406 - __main__ - INFO - Cleaning and filtering data...
+2025-05-06 17:33:52,407 - __main__ - INFO - Removed 0 deleted/removed posts
+2025-05-06 17:33:52,408 - __main__ - INFO - Removed 0 deleted/removed comments
+2025-05-06 17:33:52,427 - __main__ - INFO - Removed 0 bot posts
+2025-05-06 17:33:52,428 - __main__ - INFO - Removed 8 bot comments
+2025-05-06 17:33:52,605 - __main__ - INFO - Removed 85 non-English posts
+2025-05-06 17:33:52,605 - __main__ - INFO - Removed 479 non-English comments
+2025-05-06 17:33:52,607 - __main__ - INFO - Removed 0 posts with very short content
+2025-05-06 17:33:52,607 - __main__ - INFO - Removed 0 comments with very short content
+2025-05-06 17:33:52,608 - __main__ - INFO - Adding metadata...
+2025-05-06 17:33:52,614 - __main__ - INFO - Analyzing text characteristics...
+2025-05-06 17:33:52,615 - __main__ - INFO - Creating Twitter-compatible subset...
+2025-05-06 17:33:52,615 - __main__ - INFO - Created Twitter-compatible subset: 0 posts and 5 comments
+2025-05-06 17:33:52,615 - __main__ - INFO - Creating validation sample...
+2025-05-06 17:33:52,618 - __main__ - ERROR - Error processing data: Cannot take a larger sample than population when 'replace=False'
+Traceback (most recent call last):
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 483, in main
+    file_paths = processor.process_data(
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 436, in process_data
+    sample_posts, sample_comments = self.sample_data_for_manual_validation(posts_analyzed, comments_analyzed, sample_size)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 331, in sample_data_for_manual_validation
+    comments_sample = comments_df.sample(sample_size)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/pandas/core/generic.py", line 6115, in sample
+    sampled_indices = sample.sample(obj_len, size, replace, weights, rs)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/pandas/core/sample.py", line 152, in sample
+    return random_state.choice(obj_len, size=size, replace=replace, p=weights).astype(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "numpy/random/mtrand.pyx", line 1001, in numpy.random.mtrand.RandomState.choice
+ValueError: Cannot take a larger sample than population when 'replace=False'
+2025-05-06 17:35:38,742 - __main__ - INFO - No input files specified, looking for most recent files in data/raw/
+2025-05-06 17:35:38,742 - __main__ - INFO - Loading posts from: data/raw/reddit_posts_20250506_141902.csv
+2025-05-06 17:35:38,742 - __main__ - INFO - Loading comments from: data/raw/reddit_comments_20250506_141902.csv
+2025-05-06 17:35:38,755 - __main__ - INFO - Loaded 85 posts and 492 comments
+2025-05-06 17:35:38,756 - __main__ - INFO - Cleaning and filtering data...
+2025-05-06 17:35:38,760 - __main__ - INFO - Removed 0 deleted/removed posts
+2025-05-06 17:35:38,760 - __main__ - INFO - Removed 0 deleted/removed comments
+2025-05-06 17:35:38,777 - __main__ - INFO - Removed 0 bot posts
+2025-05-06 17:35:38,777 - __main__ - INFO - Removed 8 bot comments
+2025-05-06 17:35:38,951 - __main__ - INFO - Removed 85 non-English posts
+2025-05-06 17:35:38,951 - __main__ - INFO - Removed 479 non-English comments
+2025-05-06 17:35:38,954 - __main__ - INFO - Removed 0 posts with very short content
+2025-05-06 17:35:38,954 - __main__ - INFO - Removed 0 comments with very short content
+2025-05-06 17:35:38,955 - __main__ - INFO - Adding metadata...
+2025-05-06 17:35:38,964 - __main__ - INFO - Analyzing text characteristics...
+2025-05-06 17:35:38,965 - __main__ - INFO - Creating Twitter-compatible subset...
+2025-05-06 17:35:38,967 - __main__ - INFO - Created Twitter-compatible subset: 0 posts and 5 comments
+2025-05-06 17:35:38,967 - __main__ - INFO - Creating validation sample...
+2025-05-06 17:35:38,972 - __main__ - INFO - Saving processed data...
+2025-05-06 17:35:38,975 - __main__ - INFO - Saved processed posts to: data/processed/processed_posts_20250506_173538.csv
+2025-05-06 17:35:38,975 - __main__ - INFO - Saved processed comments to: data/processed/processed_comments_20250506_173538.csv
+2025-05-06 17:35:38,975 - __main__ - INFO - Saved Twitter-compatible posts to: data/processed/twitter_compatible_posts_20250506_173538.csv
+2025-05-06 17:35:38,975 - __main__ - INFO - Saved Twitter-compatible comments to: data/processed/twitter_compatible_comments_20250506_173538.csv
+2025-05-06 17:35:38,976 - __main__ - INFO - Saved sample posts for validation to: data/processed/sample_posts_for_validation_20250506_173538.csv
+2025-05-06 17:35:38,976 - __main__ - INFO - Saved sample comments for validation to: data/processed/sample_comments_for_validation_20250506_173538.csv
+2025-05-06 17:35:38,976 - __main__ - INFO - Saved processing metadata to: data/processed/processing_metadata_20250506_173538.json
+2025-05-06 17:35:38,976 - __main__ - INFO - Data processing complete!
+2025-05-06 17:35:38,976 - __main__ - INFO - Processing complete!
+2025-05-06 17:35:38,976 - __main__ - INFO - Output files: {
+  "posts_file": "data/processed/processed_posts_20250506_173538.csv",
+  "comments_file": "data/processed/processed_comments_20250506_173538.csv",
+  "twitter_posts_file": "data/processed/twitter_compatible_posts_20250506_173538.csv",
+  "twitter_comments_file": "data/processed/twitter_compatible_comments_20250506_173538.csv",
+  "sample_posts_file": "data/processed/sample_posts_for_validation_20250506_173538.csv",
+  "sample_comments_file": "data/processed/sample_comments_for_validation_20250506_173538.csv",
+  "metadata_file": "data/processed/processing_metadata_20250506_173538.json"
+}
+2025-05-06 17:37:21,653 - __main__ - INFO - No input files specified, looking for most recent files in data/raw/
+2025-05-06 17:37:21,654 - __main__ - INFO - Loading posts from: data/raw/reddit_posts_20250506_141902.csv
+2025-05-06 17:37:21,654 - __main__ - INFO - Loading comments from: data/raw/reddit_comments_20250506_141902.csv
+2025-05-06 17:37:21,665 - __main__ - INFO - Loaded 85 posts and 492 comments
+2025-05-06 17:37:21,665 - __main__ - INFO - Cleaning and filtering data...
+2025-05-06 17:37:21,669 - __main__ - INFO - Removed 0 deleted/removed posts
+2025-05-06 17:37:21,669 - __main__ - INFO - Removed 0 deleted/removed comments
+2025-05-06 17:37:21,685 - __main__ - INFO - Removed 0 bot posts
+2025-05-06 17:37:21,685 - __main__ - INFO - Removed 8 bot comments
+2025-05-06 17:37:21,862 - __main__ - INFO - Removed 85 non-English posts
+2025-05-06 17:37:21,863 - __main__ - INFO - Removed 479 non-English comments
+2025-05-06 17:37:21,864 - __main__ - INFO - Removed 0 posts with very short content
+2025-05-06 17:37:21,864 - __main__ - INFO - Removed 0 comments with very short content
+2025-05-06 17:37:21,865 - __main__ - INFO - Adding metadata...
+2025-05-06 17:37:21,868 - __main__ - ERROR - Error processing data: non convertible value 2025-04-29 22:40:58 with the unit 's', at position 0
+Traceback (most recent call last):
+  File "tslib.pyx", line 316, in pandas._libs.tslib.array_with_unit_to_datetime
+ValueError: could not convert string to float: '2025-04-29 22:40:58'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 484, in main
+    file_paths = processor.process_data(
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 423, in process_data
+    posts_with_metadata, comments_with_metadata = self.add_metadata(posts_filtered, comments_filtered)
+                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/processing/reddit_processing.py", line 256, in add_metadata
+    comments['created_date'] = pd.to_datetime(comments['created_utc'], unit='s')
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/pandas/core/tools/datetimes.py", line 1067, in to_datetime
+    values = convert_listlike(arg._values, format)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/pandas/core/tools/datetimes.py", line 407, in _convert_listlike_datetimes
+    return _to_datetime_with_unit(arg, unit, name, utc, errors)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isabellecretton/Desktop/UGBERT/SEM_6/SOCO/project/SoComp-FS25/venv/lib/python3.11/site-packages/pandas/core/tools/datetimes.py", line 526, in _to_datetime_with_unit
+    arr, tz_parsed = tslib.array_with_unit_to_datetime(arg, unit, errors=errors)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "tslib.pyx", line 344, in pandas._libs.tslib.array_with_unit_to_datetime
+  File "tslib.pyx", line 318, in pandas._libs.tslib.array_with_unit_to_datetime
+ValueError: non convertible value 2025-04-29 22:40:58 with the unit 's', at position 0
+2025-05-06 17:38:00,207 - __main__ - INFO - No input files specified, looking for most recent files in data/raw/
+2025-05-06 17:38:00,208 - __main__ - INFO - Loading posts from: data/raw/reddit_posts_20250506_141902.csv
+2025-05-06 17:38:00,208 - __main__ - INFO - Loading comments from: data/raw/reddit_comments_20250506_141902.csv
+2025-05-06 17:38:00,220 - __main__ - INFO - Loaded 85 posts and 492 comments
+2025-05-06 17:38:00,220 - __main__ - INFO - Cleaning and filtering data...
+2025-05-06 17:38:00,223 - __main__ - INFO - Removed 0 deleted/removed posts
+2025-05-06 17:38:00,223 - __main__ - INFO - Removed 0 deleted/removed comments
+2025-05-06 17:38:00,240 - __main__ - INFO - Removed 0 bot posts
+2025-05-06 17:38:00,240 - __main__ - INFO - Removed 8 bot comments
+2025-05-06 17:38:00,408 - __main__ - INFO - Removed 85 non-English posts
+2025-05-06 17:38:00,409 - __main__ - INFO - Removed 479 non-English comments
+2025-05-06 17:38:00,410 - __main__ - INFO - Removed 0 posts with very short content
+2025-05-06 17:38:00,410 - __main__ - INFO - Removed 0 comments with very short content
+2025-05-06 17:38:00,410 - __main__ - INFO - Adding metadata...
+2025-05-06 17:38:00,418 - __main__ - INFO - Analyzing text characteristics...
+2025-05-06 17:38:00,420 - __main__ - INFO - Creating Twitter-compatible subset...
+2025-05-06 17:38:00,421 - __main__ - INFO - Created Twitter-compatible subset: 0 posts and 5 comments
+2025-05-06 17:38:00,421 - __main__ - INFO - Creating validation sample...
+2025-05-06 17:38:00,426 - __main__ - INFO - Saving processed data...
+2025-05-06 17:38:00,430 - __main__ - INFO - Saved processed posts to: data/processed/processed_posts_20250506_173800.csv
+2025-05-06 17:38:00,430 - __main__ - INFO - Saved processed comments to: data/processed/processed_comments_20250506_173800.csv
+2025-05-06 17:38:00,431 - __main__ - INFO - Saved Twitter-compatible posts to: data/processed/twitter_compatible_posts_20250506_173800.csv
+2025-05-06 17:38:00,431 - __main__ - INFO - Saved Twitter-compatible comments to: data/processed/twitter_compatible_comments_20250506_173800.csv
+2025-05-06 17:38:00,432 - __main__ - INFO - Saved sample posts for validation to: data/processed/sample_posts_for_validation_20250506_173800.csv
+2025-05-06 17:38:00,432 - __main__ - INFO - Saved sample comments for validation to: data/processed/sample_comments_for_validation_20250506_173800.csv
+2025-05-06 17:38:00,432 - __main__ - INFO - Saved processing metadata to: data/processed/processing_metadata_20250506_173800.json
+2025-05-06 17:38:00,432 - __main__ - INFO - Data processing complete!
+2025-05-06 17:38:00,432 - __main__ - INFO - Processing complete!
+2025-05-06 17:38:00,432 - __main__ - INFO - Output files: {
+  "posts_file": "data/processed/processed_posts_20250506_173800.csv",
+  "comments_file": "data/processed/processed_comments_20250506_173800.csv",
+  "twitter_posts_file": "data/processed/twitter_compatible_posts_20250506_173800.csv",
+  "twitter_comments_file": "data/processed/twitter_compatible_comments_20250506_173800.csv",
+  "sample_posts_file": "data/processed/sample_posts_for_validation_20250506_173800.csv",
+  "sample_comments_file": "data/processed/sample_comments_for_validation_20250506_173800.csv",
+  "metadata_file": "data/processed/processing_metadata_20250506_173800.json"
+}
