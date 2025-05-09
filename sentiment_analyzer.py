@@ -5,7 +5,7 @@ This script performs sentiment analysis on processed Reddit and Twitter data usi
 and generates comparative visualizations and insights.
 
 Usage:
-    python reddit_twitter_sentiment_analyzer.py --reddit-posts [POSTS_CSV] --reddit-comments [COMMENTS_CSV] --twitter [TWITTER_CSV] --output [OUTPUT_DIR]
+    python sentiment_analyzer.py --reddit-posts [POSTS_CSV] --reddit-comments [COMMENTS_CSV] --twitter [TWITTER_CSV] --output [OUTPUT_DIR]
 """
 
 import pandas as pd
@@ -18,15 +18,13 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 import seaborn as sns
 from tqdm import tqdm
-import glob
-import re
 from collections import Counter
 import nltk
+import ssl
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk.tokenize import word_tokenize
 import string
 from wordcloud import WordCloud
-import matplotlib.colors as mcolors
 
 # Set up logging
 logging.basicConfig(
@@ -38,10 +36,6 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
-
-# Add at the beginning of your script
-import ssl
-import nltk
 
 try:
     _create_unverified_https_context = ssl._create_unverified_context
@@ -96,43 +90,47 @@ class SentimentAnalyzer:
     def load_data(self, reddit_posts_file=None, reddit_comments_file=None, twitter_file=None):
         """Load processed data files for sentiment analysis"""
         data = {}
-        
+
         # Load Reddit posts if specified
         if reddit_posts_file:
             logger.info(f"Loading Reddit posts from: {reddit_posts_file}")
             data['reddit_posts'] = pd.read_csv(reddit_posts_file)
             self.analysis_stats['reddit_posts_count'] = len(data['reddit_posts'])
             logger.info(f"Loaded {len(data['reddit_posts'])} Reddit posts")
-            
+
             if 'platform' not in data['reddit_posts'].columns:
                 data['reddit_posts']['platform'] = 'reddit'
-        
+
         # Load Reddit comments if specified
         if reddit_comments_file:
             logger.info(f"Loading Reddit comments from: {reddit_comments_file}")
             data['reddit_comments'] = pd.read_csv(reddit_comments_file)
             self.analysis_stats['reddit_comments_count'] = len(data['reddit_comments'])
             logger.info(f"Loaded {len(data['reddit_comments'])} Reddit comments")
-            
+
             if 'platform' not in data['reddit_comments'].columns:
                 data['reddit_comments']['platform'] = 'reddit'
-        
+
         # Load Twitter data if specified
         if twitter_file:
             logger.info(f"Loading Twitter data from: {twitter_file}")
             data['twitter'] = pd.read_csv(twitter_file)
             self.analysis_stats['twitter_posts_count'] = len(data['twitter'])
             logger.info(f"Loaded {len(data['twitter'])} Twitter posts")
-            
+
+            # Ensure the dataset has the required columns
             if 'platform' not in data['twitter'].columns:
-                data['twitter']['platform'] = 'twitter'
-        
+                data['twitter']['platform'] = 'twitter' 
+            if 'sentiment' not in data['twitter'].columns:
+                logger.error("Twitter dataset must contain a 'sentiment' column")
+                raise ValueError("Twitter dataset must contain a 'sentiment' column")
+
         # Check what platforms we have for comparison
         if 'reddit_posts' in data or 'reddit_comments' in data:
             self.analysis_stats['platforms_compared'].append('reddit')
         if 'twitter' in data:
             self.analysis_stats['platforms_compared'].append('twitter')
-        
+
         return data
     
     def analyze_sentiment(self, text):
@@ -157,34 +155,48 @@ class SentimentAnalyzer:
         else:
             sentiment_scores['sentiment_category'] = 'neutral'
         
+        logger.debug(f"Sentiment analysis output: {sentiment_scores}")
         return sentiment_scores
     
     def apply_sentiment_analysis(self, df, text_column='cleaned_text'):
         """Apply sentiment analysis to a dataframe"""
-        logger.info(f"Applying sentiment analysis to {len(df)} items...")
+        logger.debug(f"Available columns: {df.columns.tolist()}")
         
+        logger.info(f"Applying sentiment analysis to {len(df)} items...")
+
+        # Fallback to 'message' column if the specified text_column is not found
+        if text_column not in df.columns:
+            logger.warning(f"Column '{text_column}' not found. Falling back to 'message' column.")
+            text_column = 'message'
+
+        # Ensure the fallback column exists
+        if text_column not in df.columns:
+            logger.error(f"Neither '{text_column}' nor 'message' column found in the dataset.")
+            raise ValueError(f"Required text column '{text_column}' is missing from the dataset.")
+
         # Initialize sentiment columns
         for col in ['compound', 'pos', 'neu', 'neg', 'sentiment_category']:
             df[f'sentiment_{col}'] = None
-        
+
         # Process in batches with progress bar
         batch_size = 1000
         for i in tqdm(range(0, len(df), batch_size), desc="Analyzing sentiment"):
             batch = df.iloc[i:i+batch_size].copy()
-            
+
             # Apply sentiment analysis to each item in the batch
             sentiments = batch[text_column].apply(self.analyze_sentiment)
-            
+
             # Extract sentiment scores and categories
             batch['sentiment_compound'] = sentiments.apply(lambda x: x['compound'])
             batch['sentiment_pos'] = sentiments.apply(lambda x: x['pos'])
             batch['sentiment_neu'] = sentiments.apply(lambda x: x['neu'])
             batch['sentiment_neg'] = sentiments.apply(lambda x: x['neg'])
             batch['sentiment_category'] = sentiments.apply(lambda x: x['sentiment_category'])
-            
+
             # Update the original dataframe
             df.iloc[i:i+batch_size, df.columns.get_indexer(batch.columns)] = batch
-        
+
+        logger.debug(f"Sample data after sentiment analysis: {df.head()}")
         logger.info(f"Sentiment analysis complete")
         return df
     
@@ -1006,16 +1018,19 @@ class SentimentAnalyzer:
             # 1. Load data
             logger.info("Loading data files...")
             data = self.load_data(reddit_posts_file, reddit_comments_file, twitter_file)
-            
+
             # 2. Apply sentiment analysis to each dataset
             analyzed_data = {}
             for key, df in data.items():
                 if df is not None and len(df) > 0:
                     logger.info(f"Analyzing sentiment for {key}...")
-                    # Use cleaned_text column if it exists, otherwise use text column
-                    text_column = 'cleaned_text' if 'cleaned_text' in df.columns else 'text'
+                    # Use the "message" column for Twitter, otherwise default to "cleaned_text" or "text"
+                    if key == 'twitter':
+                        text_column = 'message'
+                    else:
+                        text_column = 'cleaned_text' if 'cleaned_text' in df.columns else 'text'
                     analyzed_data[key] = self.apply_sentiment_analysis(df, text_column)
-            
+
             # 3. Combine Reddit posts and comments if both are present
             if 'reddit_posts' in analyzed_data and 'reddit_comments' in analyzed_data:
                 logger.info("Combining Reddit posts and comments for analysis...")

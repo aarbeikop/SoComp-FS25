@@ -1,0 +1,368 @@
+2025-05-08 18:18:41,393 - __main__ - INFO - Loading data files...
+2025-05-08 18:18:41,393 - __main__ - INFO - Computing sentiment statistics...
+2025-05-08 18:18:41,393 - __main__ - INFO - Generating visualizations...
+2025-05-08 18:18:41,721 - __main__ - WARNING - No data available for sentiment distribution plot
+2025-05-08 18:18:42,008 - __main__ - INFO - Saved sentiment by content length plot to: data/sentiment/visualizations/sentiment_by_length.png
+2025-05-08 18:18:42,145 - __main__ - INFO - Saved sentiment by engagement plot to: data/sentiment/visualizations/sentiment_by_engagement.png
+2025-05-08 18:18:42,145 - __main__ - INFO - Generating top words visualizations...
+2025-05-08 18:18:42,145 - __main__ - INFO - Generating wordclouds...
+2025-05-08 18:18:42,302 - __main__ - INFO - Saved sentiment over time plot to: data/sentiment/visualizations/sentiment_over_time.png
+2025-05-08 18:18:42,302 - __main__ - INFO - Generating HTML report...
+2025-05-08 18:18:42,302 - __main__ - INFO - Generated HTML report at: data/sentiment/sentiment_report.html
+2025-05-08 18:18:42,302 - __main__ - INFO - Saving analyzed data...
+2025-05-08 18:18:42,303 - __main__ - INFO - Sentiment analysis complete!
+2025-05-08 18:18:42,303 - __main__ - INFO - All outputs saved to: data/sentiment
+2025-05-08 18:18:42,303 - __main__ - INFO - Analysis complete!
+2025-05-08 18:18:42,303 - __main__ - INFO - HTML report available at: data/sentiment/sentiment_report.html
+2025-05-08 18:35:19,262 - __main__ - INFO - Loading data files...
+2025-05-08 18:35:19,263 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-08 18:35:19,266 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-08 18:35:19,266 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-08 18:35:19,267 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-08 18:35:19,267 - __main__ - INFO - Loading Twitter data from: twitter_data/the_climate_change_twitter_dataset.csv
+2025-05-08 18:35:31,556 - __main__ - INFO - Loaded 15789411 Twitter posts
+2025-05-08 18:35:31,578 - __main__ - ERROR - Twitter dataset must contain a 'cleaned_text' or 'text' column
+2025-05-08 18:35:31,578 - __main__ - ERROR - Error during sentiment analysis: Twitter dataset must contain a 'cleaned_text' or 'text' column
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1163, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1017, in run_complete_analysis
+    data = self.load_data(reddit_posts_file, reddit_comments_file, twitter_file)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 130, in load_data
+    raise ValueError("Twitter dataset must contain a 'cleaned_text' or 'text' column")
+ValueError: Twitter dataset must contain a 'cleaned_text' or 'text' column
+2025-05-08 18:42:45,005 - __main__ - INFO - Loading data files...
+2025-05-08 18:42:45,005 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-08 18:42:45,006 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-08 18:42:45,006 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-08 18:42:45,007 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-08 18:42:45,007 - __main__ - INFO - Loading Twitter data from: twitter_data/the_climate_change_twitter_dataset.csv
+2025-05-08 18:42:57,401 - __main__ - INFO - Loaded 15789411 Twitter posts
+2025-05-08 18:42:57,424 - __main__ - ERROR - Twitter dataset must contain a 'cleaned_text' or 'text' column
+2025-05-08 18:42:57,424 - __main__ - ERROR - Error during sentiment analysis: Twitter dataset must contain a 'cleaned_text' or 'text' column
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1163, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1017, in run_complete_analysis
+    data = self.load_data(reddit_posts_file, reddit_comments_file, twitter_file)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 130, in load_data
+    raise ValueError("Twitter dataset must contain a 'cleaned_text' or 'text' column")
+ValueError: Twitter dataset must contain a 'cleaned_text' or 'text' column
+2025-05-08 18:59:24,772 - __main__ - INFO - Loading data files...
+2025-05-08 18:59:24,773 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-08 18:59:24,775 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-08 18:59:24,775 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-08 18:59:24,776 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-08 18:59:24,776 - __main__ - INFO - Loading Twitter data from: twitter_data/twitter_sentiment_data.csv
+2025-05-08 18:59:24,826 - __main__ - INFO - Loaded 43943 Twitter posts
+2025-05-08 18:59:24,826 - __main__ - WARNING - Twitter dataset does not contain a 'topic' column. Some analyses may be limited.
+2025-05-08 18:59:24,826 - __main__ - INFO - Analyzing sentiment for reddit_comments...
+2025-05-08 18:59:24,826 - __main__ - INFO - Applying sentiment analysis to 6 items...
+2025-05-08 18:59:24,845 - __main__ - INFO - Sentiment analysis complete
+2025-05-08 18:59:24,846 - __main__ - INFO - Analyzing sentiment for twitter...
+2025-05-08 18:59:24,846 - __main__ - INFO - Applying sentiment analysis to 43943 items...
+2025-05-08 18:59:24,847 - __main__ - ERROR - Error during sentiment analysis: 'text'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1154, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1017, in run_complete_analysis
+    analyzed_data[key] = self.apply_sentiment_analysis(df, text_column)
+                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 176, in apply_sentiment_analysis
+    sentiments = batch[text_column].apply(self.analyze_sentiment)
+                 ~~~~~^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'text'
+2025-05-08 19:01:33,427 - __main__ - INFO - Loading data files...
+2025-05-08 19:01:33,428 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-08 19:01:33,429 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-08 19:01:33,429 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-08 19:01:33,430 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-08 19:01:33,430 - __main__ - INFO - Loading Twitter data from: twitter_data/twitter_sentiment_data.csv
+2025-05-08 19:01:33,477 - __main__ - INFO - Loaded 43943 Twitter posts
+2025-05-08 19:01:33,477 - __main__ - WARNING - Twitter dataset does not contain a 'topic' column. Some analyses may be limited.
+2025-05-08 19:01:33,477 - __main__ - INFO - Analyzing sentiment for reddit_comments...
+2025-05-08 19:01:33,477 - __main__ - INFO - Applying sentiment analysis to 6 items...
+2025-05-08 19:01:33,493 - __main__ - INFO - Sentiment analysis complete
+2025-05-08 19:01:33,493 - __main__ - INFO - Analyzing sentiment for twitter...
+2025-05-08 19:01:33,493 - __main__ - INFO - Applying sentiment analysis to 43943 items...
+2025-05-08 19:01:36,706 - __main__ - INFO - Sentiment analysis complete
+2025-05-08 19:01:36,706 - __main__ - INFO - Computing sentiment statistics...
+2025-05-08 19:01:36,706 - __main__ - ERROR - Error during sentiment analysis: 'sentiment_category'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'sentiment_category'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1157, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1032, in run_complete_analysis
+    sentiment_stats = self.compute_sentiment_stats(analyzed_data)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 238, in compute_sentiment_stats
+    sentiment_counts = df['sentiment_category'].value_counts(normalize=True).to_dict()
+                       ~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'sentiment_category'
+2025-05-08 19:15:14,333 - __main__ - INFO - Loading data files...
+2025-05-08 19:15:14,334 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-08 19:15:14,335 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-08 19:15:14,336 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-08 19:15:14,336 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-08 19:15:14,336 - __main__ - INFO - Loading Twitter data from: twitter_data/twitter_sentiment_data.csv
+2025-05-08 19:15:14,383 - __main__ - INFO - Loaded 43943 Twitter posts
+2025-05-08 19:15:14,383 - __main__ - WARNING - Twitter dataset does not contain a 'topic' column. Some analyses may be limited.
+2025-05-08 19:15:14,383 - __main__ - INFO - Analyzing sentiment for reddit_comments...
+2025-05-08 19:15:14,383 - __main__ - INFO - Applying sentiment analysis to 6 items...
+2025-05-08 19:15:14,405 - __main__ - INFO - Sentiment analysis complete
+2025-05-08 19:15:14,405 - __main__ - INFO - Analyzing sentiment for twitter...
+2025-05-08 19:15:14,405 - __main__ - INFO - Applying sentiment analysis to 43943 items...
+2025-05-08 19:15:17,533 - __main__ - INFO - Sentiment analysis complete
+2025-05-08 19:15:17,533 - __main__ - INFO - Computing sentiment statistics...
+2025-05-08 19:15:17,533 - __main__ - ERROR - Error during sentiment analysis: 'sentiment_category'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'sentiment_category'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1158, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1033, in run_complete_analysis
+    sentiment_stats = self.compute_sentiment_stats(analyzed_data)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 239, in compute_sentiment_stats
+    sentiment_counts = df['sentiment_category'].value_counts(normalize=True).to_dict()
+                       ~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'sentiment_category'
+2025-05-08 19:17:57,381 - __main__ - INFO - Loading data files...
+2025-05-08 19:17:57,381 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-08 19:17:57,383 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-08 19:17:57,383 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-08 19:17:57,384 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-08 19:17:57,384 - __main__ - INFO - Loading Twitter data from: twitter_data/twitter_sentiment_data.csv
+2025-05-08 19:17:57,433 - __main__ - INFO - Loaded 43943 Twitter posts
+2025-05-08 19:17:57,433 - __main__ - WARNING - Twitter dataset does not contain a 'topic' column. Some analyses may be limited.
+2025-05-08 19:17:57,433 - __main__ - INFO - Analyzing sentiment for reddit_comments...
+2025-05-08 19:17:57,433 - __main__ - INFO - Applying sentiment analysis to 6 items...
+2025-05-08 19:17:57,454 - __main__ - INFO - Sentiment analysis complete
+2025-05-08 19:17:57,454 - __main__ - INFO - Analyzing sentiment for twitter...
+2025-05-08 19:17:57,454 - __main__ - INFO - Applying sentiment analysis to 43943 items...
+2025-05-08 19:18:00,654 - __main__ - INFO - Sentiment analysis complete
+2025-05-08 19:18:00,654 - __main__ - INFO - Computing sentiment statistics...
+2025-05-08 19:18:00,654 - __main__ - ERROR - Error during sentiment analysis: 'sentiment_category'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'sentiment_category'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1168, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1043, in run_complete_analysis
+    sentiment_stats = self.compute_sentiment_stats(analyzed_data)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 249, in compute_sentiment_stats
+    sentiment_counts = df['sentiment_category'].value_counts(normalize=True).to_dict()
+                       ~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'sentiment_category'
+2025-05-08 19:21:34,402 - __main__ - INFO - Loading data files...
+2025-05-08 19:21:34,402 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-08 19:21:34,404 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-08 19:21:34,404 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-08 19:21:34,405 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-08 19:21:34,405 - __main__ - INFO - Loading Twitter data from: twitter_data/twitter_sentiment_data.csv
+2025-05-08 19:21:34,454 - __main__ - INFO - Loaded 43943 Twitter posts
+2025-05-08 19:21:34,455 - __main__ - INFO - Analyzing sentiment for reddit_comments...
+2025-05-08 19:21:34,455 - __main__ - INFO - Applying sentiment analysis to 6 items...
+2025-05-08 19:21:34,475 - __main__ - INFO - Sentiment analysis complete
+2025-05-08 19:21:34,475 - __main__ - INFO - Analyzing sentiment for twitter...
+2025-05-08 19:21:34,475 - __main__ - INFO - Applying sentiment analysis to 43943 items...
+2025-05-08 19:21:37,653 - __main__ - INFO - Sentiment analysis complete
+2025-05-08 19:21:37,654 - __main__ - INFO - Computing sentiment statistics...
+2025-05-08 19:21:37,654 - __main__ - ERROR - Error during sentiment analysis: 'sentiment_category'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'sentiment_category'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1166, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1041, in run_complete_analysis
+    sentiment_stats = self.compute_sentiment_stats(analyzed_data)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 247, in compute_sentiment_stats
+    sentiment_counts = df['sentiment_category'].value_counts(normalize=True).to_dict()
+                       ~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'sentiment_category'
+2025-05-08 19:24:47,891 - __main__ - INFO - Loading data files...
+2025-05-08 19:24:47,894 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-08 19:24:47,894 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-08 19:24:47,895 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-08 19:24:47,895 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-08 19:24:47,895 - __main__ - INFO - Loading Twitter data from: twitter_data/twitter_sentiment_data.csv
+2025-05-08 19:24:47,940 - __main__ - INFO - Loaded 43943 Twitter posts
+2025-05-08 19:24:47,940 - __main__ - INFO - Analyzing sentiment for reddit_comments...
+2025-05-08 19:24:47,941 - __main__ - INFO - Applying sentiment analysis to 6 items...
+2025-05-08 19:24:47,952 - __main__ - ERROR - Error during sentiment analysis: 'dict' object has no attribute 'head'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1169, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1032, in run_complete_analysis
+    analyzed_data[key] = self.apply_sentiment_analysis(df, text_column)
+                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 187, in apply_sentiment_analysis
+    sentiments = batch[text_column].apply(self.analyze_sentiment)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/series.py", line 4924, in apply
+    ).apply()
+      ~~~~~^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/apply.py", line 1427, in apply
+    return self.apply_standard()
+           ~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/apply.py", line 1507, in apply_standard
+    mapped = obj._map_values(
+        mapper=curried, na_action=action, convert=self.convert_dtype
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/algorithms.py", line 1743, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "lib.pyx", line 2972, in pandas._libs.lib.map_infer
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 158, in analyze_sentiment
+    logger.debug(f"Sentiment analysis output: {sentiment_scores.head()}")
+                                               ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'head'
+2025-05-08 19:25:40,300 - __main__ - INFO - Loading data files...
+2025-05-08 19:25:40,300 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-08 19:25:40,301 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-08 19:25:40,302 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-08 19:25:40,302 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-08 19:25:40,303 - __main__ - INFO - Loading Twitter data from: twitter_data/twitter_sentiment_data.csv
+2025-05-08 19:25:40,355 - __main__ - INFO - Loaded 43943 Twitter posts
+2025-05-08 19:25:40,355 - __main__ - INFO - Analyzing sentiment for reddit_comments...
+2025-05-08 19:25:40,355 - __main__ - INFO - Applying sentiment analysis to 6 items...
+2025-05-08 19:25:40,375 - __main__ - INFO - Sentiment analysis complete
+2025-05-08 19:25:40,375 - __main__ - INFO - Analyzing sentiment for twitter...
+2025-05-08 19:25:40,375 - __main__ - INFO - Applying sentiment analysis to 43943 items...
+2025-05-08 19:25:43,629 - __main__ - INFO - Sentiment analysis complete
+2025-05-08 19:25:43,629 - __main__ - INFO - Computing sentiment statistics...
+2025-05-08 19:25:43,629 - __main__ - ERROR - Error during sentiment analysis: 'sentiment_category'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'sentiment_category'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1169, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1044, in run_complete_analysis
+    sentiment_stats = self.compute_sentiment_stats(analyzed_data)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 250, in compute_sentiment_stats
+    sentiment_counts = df['sentiment_category'].value_counts(normalize=True).to_dict()
+                       ~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'sentiment_category'
