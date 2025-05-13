@@ -158,17 +158,17 @@ class SentimentAnalyzer:
         logger.debug(f"Sentiment analysis output: {sentiment_scores}")
         return sentiment_scores
     
-    def apply_sentiment_analysis(self, df, text_column='cleaned_text'):
+    def apply_sentiment_analysis(self, df, text_column=None):
         """Apply sentiment analysis to a dataframe"""
         logger.debug(f"Available columns: {df.columns.tolist()}")
         logger.info(f"Applying sentiment analysis to {len(df)} items...")
 
-        # Dynamically determine the text column
-        if text_column not in df.columns:
+        # Dynamically determine the text column if not provided
+        if text_column is None:
             if 'message' in df.columns:
-                text_column = 'message'
+                text_column = 'message'  # Twitter dataset
             elif 'text' in df.columns:
-                text_column = 'text'
+                text_column = 'text'  # Reddit datasets
             else:
                 raise ValueError("No suitable text column found in the dataset.")
 
@@ -213,37 +213,40 @@ class SentimentAnalyzer:
         # Create copies to avoid modifying original data
         posts = posts_df.copy() if posts_df is not None else None
         comments = comments_df.copy() if comments_df is not None else None
-        
+
         if posts is None and comments is None:
             logger.warning("No Reddit data provided to combine")
             return None
-        
+
+        # Determine the text column dynamically
+        text_column = 'text'
+
         # Prepare common columns
-        common_columns = ['platform', 'cleaned_text', 'created_date', 'word_count', 
-                          'sentiment_compound', 'sentiment_pos', 'sentiment_neu',
-                          'sentiment_neg', 'sentiment_category']
-        
+        common_columns = ['platform', text_column, 'created_date', 'word_count', 
+                        'sentiment_compound', 'sentiment_pos', 'sentiment_neu',
+                        'sentiment_neg', 'sentiment_category']
+
         # Additional columns specific to each type
         post_columns = common_columns + ['title', 'subreddit', 'score', 'num_comments']
         comment_columns = common_columns + ['subreddit', 'score', 'parent_id']
-        
+
         # Select columns and add content_type
         if posts is not None:
             selected_posts = posts[post_columns].copy()
             selected_posts['content_type'] = 'post'
         else:
             selected_posts = pd.DataFrame(columns=post_columns + ['content_type'])
-        
+
         if comments is not None:
             selected_comments = comments[comment_columns].copy()
             selected_comments['content_type'] = 'comment'
         else:
             selected_comments = pd.DataFrame(columns=comment_columns + ['content_type'])
-        
+
         # Combine data
         combined_data = pd.concat([selected_posts, selected_comments], ignore_index=True)
         logger.info(f"Combined {len(selected_posts)} posts and {len(selected_comments)} comments")
-        
+
         return combined_data
     
     def compute_sentiment_stats(self, data):
@@ -1022,8 +1025,8 @@ class SentimentAnalyzer:
                 Dictionary with file paths to all generated outputs
             """
             outputs = {}
-        
-                # 1. Load data
+            
+            # 1. Load data
             logger.info("Loading data files...")
             data = self.load_data(reddit_posts_file, reddit_comments_file, twitter_file)
 

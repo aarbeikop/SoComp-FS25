@@ -972,3 +972,250 @@ Traceback (most recent call last):
   File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
     raise KeyError(key) from err
 KeyError: 'cleaned_text'
+2025-05-13 18:05:56,884 - __main__ - INFO - Loading data files...
+2025-05-13 18:05:56,885 - __main__ - INFO - Loading Twitter data from: /Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/twitter_data/twitter_sentiment_data.csv
+2025-05-13 18:05:56,934 - __main__ - INFO - Loaded 43943 Twitter posts
+2025-05-13 18:05:56,935 - __main__ - INFO - Analyzing sentiment for twitter...
+2025-05-13 18:05:56,935 - __main__ - INFO - Applying sentiment analysis to 43943 items...
+2025-05-13 18:06:00,289 - __main__ - INFO - Sentiment analysis complete
+2025-05-13 18:06:00,289 - __main__ - INFO - Computing sentiment statistics...
+2025-05-13 18:06:00,303 - __main__ - INFO - Generating visualizations...
+2025-05-13 18:06:00,551 - __main__ - INFO - Saved sentiment distribution plot to: data/sentiment/visualizations/sentiment_distribution.png
+2025-05-13 18:06:00,693 - __main__ - INFO - Saved sentiment by content length plot to: data/sentiment/visualizations/sentiment_by_length.png
+2025-05-13 18:06:00,702 - __main__ - WARNING - No engagement metrics found for twitter
+2025-05-13 18:06:00,830 - __main__ - INFO - Saved sentiment by engagement plot to: data/sentiment/visualizations/sentiment_by_engagement.png
+2025-05-13 18:06:00,830 - __main__ - INFO - Generating top words visualizations...
+2025-05-13 18:06:00,832 - __main__ - ERROR - Error during sentiment analysis: 'cleaned_text'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'cleaned_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1183, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1084, in run_complete_analysis
+    top_words_visualizations = self.plot_top_words_by_sentiment(analyzed_data, viz_dir)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 477, in plot_top_words_by_sentiment
+    top_words = self.generate_top_words_by_sentiment(df)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 448, in generate_top_words_by_sentiment
+    all_text = ' '.join(category_df[text_column].fillna(''))
+                        ~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cleaned_text'
+2025-05-13 18:06:12,076 - __main__ - INFO - Loading data files...
+2025-05-13 18:06:12,077 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-13 18:06:12,079 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-13 18:06:12,079 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-13 18:06:12,080 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-13 18:06:12,080 - __main__ - INFO - Loading Twitter data from: /Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/twitter_data/twitter_sentiment_data.csv
+2025-05-13 18:06:12,131 - __main__ - INFO - Loaded 43943 Twitter posts
+2025-05-13 18:06:12,131 - __main__ - INFO - Analyzing sentiment for reddit_comments...
+2025-05-13 18:06:12,131 - __main__ - INFO - Applying sentiment analysis to 6 items...
+2025-05-13 18:06:12,149 - __main__ - INFO - Sentiment analysis complete
+2025-05-13 18:06:12,149 - __main__ - INFO - Analyzing sentiment for twitter...
+2025-05-13 18:06:12,149 - __main__ - INFO - Applying sentiment analysis to 43943 items...
+2025-05-13 18:06:15,380 - __main__ - INFO - Sentiment analysis complete
+2025-05-13 18:06:15,380 - __main__ - INFO - Computing sentiment statistics...
+2025-05-13 18:06:15,393 - __main__ - INFO - Generating visualizations...
+2025-05-13 18:06:15,634 - __main__ - INFO - Saved sentiment distribution plot to: data/sentiment/visualizations/sentiment_distribution.png
+2025-05-13 18:06:15,773 - __main__ - INFO - Saved sentiment by content length plot to: data/sentiment/visualizations/sentiment_by_length.png
+2025-05-13 18:06:15,793 - __main__ - WARNING - No engagement metrics found for twitter
+2025-05-13 18:06:15,931 - __main__ - INFO - Saved sentiment by engagement plot to: data/sentiment/visualizations/sentiment_by_engagement.png
+2025-05-13 18:06:15,931 - __main__ - INFO - Generating top words visualizations...
+2025-05-13 18:06:15,932 - __main__ - ERROR - Error during sentiment analysis: 'cleaned_text'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'cleaned_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1183, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1084, in run_complete_analysis
+    top_words_visualizations = self.plot_top_words_by_sentiment(analyzed_data, viz_dir)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 477, in plot_top_words_by_sentiment
+    top_words = self.generate_top_words_by_sentiment(df)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 448, in generate_top_words_by_sentiment
+    all_text = ' '.join(category_df[text_column].fillna(''))
+                        ~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cleaned_text'
+2025-05-13 18:08:25,145 - __main__ - INFO - Loading data files...
+2025-05-13 18:08:25,145 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-13 18:08:25,146 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-13 18:08:25,147 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-13 18:08:25,147 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-13 18:08:25,148 - __main__ - INFO - Analyzing sentiment for reddit_comments...
+2025-05-13 18:08:25,148 - __main__ - INFO - Applying sentiment analysis to 6 items...
+2025-05-13 18:08:25,168 - __main__ - INFO - Sentiment analysis complete
+2025-05-13 18:08:25,168 - __main__ - INFO - Computing sentiment statistics...
+2025-05-13 18:08:25,169 - __main__ - INFO - Generating visualizations...
+2025-05-13 18:08:25,408 - __main__ - INFO - Saved sentiment distribution plot to: data/sentiment/visualizations/sentiment_distribution.png
+2025-05-13 18:08:25,549 - __main__ - INFO - Saved sentiment by content length plot to: data/sentiment/visualizations/sentiment_by_length.png
+2025-05-13 18:08:25,709 - __main__ - INFO - Saved sentiment by engagement plot to: data/sentiment/visualizations/sentiment_by_engagement.png
+2025-05-13 18:08:25,709 - __main__ - INFO - Generating top words visualizations...
+2025-05-13 18:08:25,710 - __main__ - ERROR - Error during sentiment analysis: 'cleaned_text'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'cleaned_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1183, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1084, in run_complete_analysis
+    top_words_visualizations = self.plot_top_words_by_sentiment(analyzed_data, viz_dir)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 477, in plot_top_words_by_sentiment
+    top_words = self.generate_top_words_by_sentiment(df)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 448, in generate_top_words_by_sentiment
+    all_text = ' '.join(category_df[text_column].fillna(''))
+                        ~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cleaned_text'
+2025-05-13 18:08:43,629 - __main__ - INFO - Loading data files...
+2025-05-13 18:08:43,630 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-13 18:08:43,631 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-13 18:08:43,631 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-13 18:08:43,632 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-13 18:08:43,632 - __main__ - INFO - Loading Twitter data from: /Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/twitter_data/twitter_sentiment_data.csv
+2025-05-13 18:08:43,684 - __main__ - INFO - Loaded 43943 Twitter posts
+2025-05-13 18:08:43,684 - __main__ - INFO - Analyzing sentiment for reddit_comments...
+2025-05-13 18:08:43,684 - __main__ - INFO - Applying sentiment analysis to 6 items...
+2025-05-13 18:08:43,703 - __main__ - INFO - Sentiment analysis complete
+2025-05-13 18:08:43,703 - __main__ - INFO - Analyzing sentiment for twitter...
+2025-05-13 18:08:43,703 - __main__ - INFO - Applying sentiment analysis to 43943 items...
+2025-05-13 18:08:46,990 - __main__ - INFO - Sentiment analysis complete
+2025-05-13 18:08:46,990 - __main__ - INFO - Computing sentiment statistics...
+2025-05-13 18:08:47,003 - __main__ - INFO - Generating visualizations...
+2025-05-13 18:08:47,244 - __main__ - INFO - Saved sentiment distribution plot to: data/sentiment/visualizations/sentiment_distribution.png
+2025-05-13 18:08:47,383 - __main__ - INFO - Saved sentiment by content length plot to: data/sentiment/visualizations/sentiment_by_length.png
+2025-05-13 18:08:47,402 - __main__ - WARNING - No engagement metrics found for twitter
+2025-05-13 18:08:47,537 - __main__ - INFO - Saved sentiment by engagement plot to: data/sentiment/visualizations/sentiment_by_engagement.png
+2025-05-13 18:08:47,538 - __main__ - INFO - Generating top words visualizations...
+2025-05-13 18:08:47,538 - __main__ - ERROR - Error during sentiment analysis: 'text_column'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'text_column'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1183, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1084, in run_complete_analysis
+    top_words_visualizations = self.plot_top_words_by_sentiment(analyzed_data, viz_dir)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 477, in plot_top_words_by_sentiment
+    top_words = self.generate_top_words_by_sentiment(df)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 448, in generate_top_words_by_sentiment
+    all_text = ' '.join(category_df['text_column'].fillna(''))
+                        ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'text_column'
+2025-05-13 18:11:46,256 - __main__ - INFO - Loading data files...
+2025-05-13 18:11:46,256 - __main__ - INFO - Loading Reddit posts from: data/raw/reddit_posts_20250506_180725.csv
+2025-05-13 18:11:46,257 - __main__ - INFO - Loaded 0 Reddit posts
+2025-05-13 18:11:46,257 - __main__ - INFO - Loading Reddit comments from: data/raw/reddit_comments_20250506_180008.csv
+2025-05-13 18:11:46,258 - __main__ - INFO - Loaded 6 Reddit comments
+2025-05-13 18:11:46,258 - __main__ - INFO - Loading Twitter data from: /Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/twitter_data/twitter_sentiment_data.csv
+2025-05-13 18:11:46,303 - __main__ - INFO - Loaded 43943 Twitter posts
+2025-05-13 18:11:46,303 - __main__ - INFO - Analyzing sentiment for reddit_comments...
+2025-05-13 18:11:46,303 - __main__ - INFO - Applying sentiment analysis to 6 items...
+2025-05-13 18:11:46,322 - __main__ - INFO - Sentiment analysis complete
+2025-05-13 18:11:46,322 - __main__ - INFO - Analyzing sentiment for twitter...
+2025-05-13 18:11:46,322 - __main__ - INFO - Applying sentiment analysis to 43943 items...
+2025-05-13 18:11:49,669 - __main__ - INFO - Sentiment analysis complete
+2025-05-13 18:11:49,670 - __main__ - INFO - Computing sentiment statistics...
+2025-05-13 18:11:49,682 - __main__ - INFO - Generating visualizations...
+2025-05-13 18:11:49,925 - __main__ - INFO - Saved sentiment distribution plot to: data/sentiment/visualizations/sentiment_distribution.png
+2025-05-13 18:11:50,064 - __main__ - INFO - Saved sentiment by content length plot to: data/sentiment/visualizations/sentiment_by_length.png
+2025-05-13 18:11:50,083 - __main__ - WARNING - No engagement metrics found for twitter
+2025-05-13 18:11:50,225 - __main__ - INFO - Saved sentiment by engagement plot to: data/sentiment/visualizations/sentiment_by_engagement.png
+2025-05-13 18:11:50,225 - __main__ - INFO - Generating top words visualizations...
+2025-05-13 18:11:50,225 - __main__ - ERROR - Error during sentiment analysis: 'cleaned_text'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'cleaned_text'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1186, in main
+    outputs = analyzer.run_complete_analysis(
+        reddit_posts_file=args.reddit_posts,
+        reddit_comments_file=args.reddit_comments,
+        twitter_file=args.twitter
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 1087, in run_complete_analysis
+    top_words_visualizations = self.plot_top_words_by_sentiment(analyzed_data, viz_dir)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 480, in plot_top_words_by_sentiment
+    top_words = self.generate_top_words_by_sentiment(df)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/sentiment_analyzer.py", line 451, in generate_top_words_by_sentiment
+    all_text = ' '.join(category_df[text_column].fillna(''))
+                        ~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cleaned_text'
