@@ -161,22 +161,25 @@ class SentimentAnalyzer:
     def apply_sentiment_analysis(self, df, text_column='cleaned_text'):
         """Apply sentiment analysis to a dataframe"""
         logger.debug(f"Available columns: {df.columns.tolist()}")
-        
         logger.info(f"Applying sentiment analysis to {len(df)} items...")
 
-        # Fallback to 'message' column if the specified text_column is not found
+        # Dynamically determine the text column
         if text_column not in df.columns:
-            logger.warning(f"Column '{text_column}' not found. Falling back to 'message' column.")
-            text_column = 'message'
+            if 'message' in df.columns:
+                text_column = 'message'
+            elif 'text' in df.columns:
+                text_column = 'text'
+            else:
+                raise ValueError("No suitable text column found in the dataset.")
 
-        # Ensure the fallback column exists
-        if text_column not in df.columns:
-            logger.error(f"Neither '{text_column}' nor 'message' column found in the dataset.")
-            raise ValueError(f"Required text column '{text_column}' is missing from the dataset.")
+        # Define sentiment category column
+        sentiment_category_col = 'sentiment_category'
 
-        # Initialize sentiment columns
-        for col in ['compound', 'pos', 'neu', 'neg', 'sentiment_category']:
-            df[f'sentiment_{col}'] = None
+        # Initialize sentiment columns if missing
+        required_columns = ['sentiment_compound', 'sentiment_pos', 'sentiment_neu', 'sentiment_neg', sentiment_category_col]
+        for col in required_columns:
+            if col not in df.columns:
+                df[col] = None
 
         # Process in batches with progress bar
         batch_size = 1000
@@ -191,10 +194,15 @@ class SentimentAnalyzer:
             batch['sentiment_pos'] = sentiments.apply(lambda x: x['pos'])
             batch['sentiment_neu'] = sentiments.apply(lambda x: x['neu'])
             batch['sentiment_neg'] = sentiments.apply(lambda x: x['neg'])
-            batch['sentiment_category'] = sentiments.apply(lambda x: x['sentiment_category'])
+            batch[sentiment_category_col] = sentiments.apply(lambda x: x.get('sentiment_category', 'neutral'))
 
             # Update the original dataframe
             df.iloc[i:i+batch_size, df.columns.get_indexer(batch.columns)] = batch
+
+        # Debugging: Check if sentiment category column exists
+        if sentiment_category_col not in df.columns:
+            logger.error(f"Column '{sentiment_category_col}' is missing after sentiment analysis.")
+            raise ValueError(f"Sentiment analysis failed to populate '{sentiment_category_col}'.")
 
         logger.debug(f"Sample data after sentiment analysis: {df.head()}")
         logger.info(f"Sentiment analysis complete")
@@ -1014,21 +1022,27 @@ class SentimentAnalyzer:
                 Dictionary with file paths to all generated outputs
             """
             outputs = {}
-            
-            # 1. Load data
+        
+                # 1. Load data
             logger.info("Loading data files...")
             data = self.load_data(reddit_posts_file, reddit_comments_file, twitter_file)
 
-            # 2. Apply sentiment analysis to each dataset
+            # 2. Apply sentiment analysis
             analyzed_data = {}
             for key, df in data.items():
                 if df is not None and len(df) > 0:
                     logger.info(f"Analyzing sentiment for {key}...")
-                    # Use the "message" column for Twitter, otherwise default to "cleaned_text" or "text"
+
+                    # Specify the correct text column for each dataset
                     if key == 'twitter':
                         text_column = 'message'
+                    elif key in ['reddit_posts', 'reddit_comments']:
+                        text_column = 'text'
                     else:
-                        text_column = 'cleaned_text' if 'cleaned_text' in df.columns else 'text'
+                        logger.error(f"Unknown dataset key: {key}")
+                        continue
+
+                    # Apply sentiment analysis
                     analyzed_data[key] = self.apply_sentiment_analysis(df, text_column)
 
             # 3. Combine Reddit posts and comments if both are present
@@ -1038,7 +1052,7 @@ class SentimentAnalyzer:
                     analyzed_data['reddit_posts'], 
                     analyzed_data['reddit_comments']
                 )
-            
+
             # 4. Compute sentiment statistics
             logger.info("Computing sentiment statistics...")
             sentiment_stats = self.compute_sentiment_stats(analyzed_data)
