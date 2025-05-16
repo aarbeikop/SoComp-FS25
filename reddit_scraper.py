@@ -186,7 +186,7 @@ class RedditScraper:
         logger.info(f"Saved {len(posts_df)} posts and {len(comments_df)} comments")
         return self.stats
 
-def load_queries_from_yaml(path="queries.yaml"):
+def load_queries_from_yaml(path="utils/queries.yaml"):
     with open(path, 'r') as f:
         return yaml.safe_load(f)
 
