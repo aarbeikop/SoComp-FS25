@@ -4,6 +4,19 @@ import pandas as pd
 import logging
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from tqdm import tqdm
+from data.data_processor import SentimentProcessor
+
+# Load your Twitter data
+df = pd.read_csv("twitter_data/twitter_sentiment_data.csv")
+
+# Initialize the processor
+processor = SentimentProcessor()
+
+# Process sentiment (it will use the 'message' column)
+df_with_sentiment = processor.process_dataframe(df)
+
+# Now df_with_sentiment contains sentiment columns for each tweet
+print(df_with_sentiment.head())
 
 logger = logging.getLogger('sentiment_analysis')
 
@@ -122,58 +135,3 @@ class SentimentProcessor:
         logger.info("Sentiment analysis completed")
         return df_copy
     
-    def combine_reddit_data(self, posts_df, comments_df):
-        """Combine Reddit posts and comments data.
-        
-        Args:
-            posts_df (pandas.DataFrame): Reddit posts DataFrame.
-            comments_df (pandas.DataFrame): Reddit comments DataFrame.
-            
-        Returns:
-            pandas.DataFrame: Combined DataFrame.
-        """
-        # Create copies to avoid modifying original data
-        posts = posts_df.copy() if posts_df is not None else None
-        comments = comments_df.copy() if comments_df is not None else None
-        
-        if posts is None and comments is None:
-            logger.warning("No Reddit data provided to combine")
-            return None
-        
-        logger.info("Combining Reddit posts and comments")
-        
-        # Define text column
-        text_column = 'text'
-        
-        # Define common columns
-        common_columns = [
-            'platform', text_column, 'created_date', 'word_count', 
-            'sentiment_compound', 'sentiment_pos', 'sentiment_neu',
-            'sentiment_neg', 'sentiment_category'
-        ]
-        
-        # Define dataset-specific columns
-        post_columns = common_columns + ['title', 'subreddit', 'score', 'num_comments']
-        comment_columns = common_columns + ['subreddit', 'score', 'parent_id']
-        
-        # Select columns for posts
-        if posts is not None:
-            available_post_cols = [col for col in post_columns if col in posts.columns]
-            selected_posts = posts[available_post_cols].copy()
-            selected_posts['content_type'] = 'post'
-        else:
-            selected_posts = pd.DataFrame()
-        
-        # Select columns for comments
-        if comments is not None:
-            available_comment_cols = [col for col in comment_columns if col in comments.columns]
-            selected_comments = comments[available_comment_cols].copy()
-            selected_comments['content_type'] = 'comment'
-        else:
-            selected_comments = pd.DataFrame()
-        
-        # Combine data
-        combined_data = pd.concat([selected_posts, selected_comments], ignore_index=True)
-        logger.info(f"Combined {len(selected_posts)} posts and {len(selected_comments)} comments")
-        
-        return combined_data
