@@ -1,0 +1,4 @@
+2025-05-17 10:39:29,680 - __main__ - INFO - Loading Twitter data from: /Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/twitter_data/twitter_sentiment_data.csv
+2025-05-17 10:39:29,729 - __main__ - INFO - Loaded 43943 tweets
+2025-05-17 10:39:31,336 - __main__ - INFO - Filtered out 36 tweets (empty or too short)
+2025-05-17 10:39:31,473 - __main__ - INFO - Saved processed Twitter data to: data/processed/processed_twitter_20250517_103931.csv
