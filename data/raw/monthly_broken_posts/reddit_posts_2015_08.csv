@@ -1,0 +1,128 @@
+id,subreddit,tone,title,text,created_utc,score,num_comments,upvote_ratio,url,is_self,author,scraped_utc,query_used,query_category
+3hylyw,science,scientific,"Science AMA Series: We are living in Concordia station, Antarctica, researching glaciology, climate and physiology. We haven’t seen the Sun for 4 months and 4 months to go before fresh supplies are flown in. The temperature outside is –67.8°C. AMA!","We are based at the French-Italian research station Concordia on the east high Antarctic plateau (75°S, 123°E, 3233m). It is one of the remotest, coldest, driest places on Earth, we are 1200 km from the coast and our nearest neighbour is 600 km away: the Russian station Vostok. The landscape is an immense white, flat surface of compacted snow extending 1000 km in all directions. The snow and ice on which we walk is more than 3 km thick. Living here is like living on another planet, ‘Planet Concordia’ or ‘White Mars’. During the nine months of winter from February to November, the station is completely isolated from the rest of the world. No plane or vehicle can reach us, even in an emergency as the harsh weather conditions make all travel impossible. We have experienced temperatures down to –80°C and three months of complete darkness. The multicultural crew is consists of 13 people: seven for logistics and six scientists. We are five Italians, one Swiss, one English and six French. This year we are three women and ten men from 24 to 56 years old. We must rely on our own skills and teamwork while being prepared to face any kind of emergency through training, fire, rescue and medical exercises.
+
+Antarctica is the largest, most extreme, multi-disciplinary, open-air scientific laboratory that helps us understand the mechanisms that regulate our planet, its climate, its history and offers a platform to observe and understand the structure of the universe, as well as charting the adaptation of humans to harsh environments. Thanks to the Antarctic Treaty, nations worldwide collaborate peacefully with respect for this environment in the name of science. We are one of very few stations at the heart of the Antarctic continent, so Concordia stands as an important node in the Earth Observatory Grid, for fields such as meteorology, seismology, geomagnetism and atmospheric chemistry.
+
+
+- Lorenzo Moggio (@Antarnauta on Twitter): 30 years old, Italian physicist, research fellow at the Bologna Institute of Atmospheric Sciences and Climate of the Italian National Research Council. This is my second winter spent at Concordia, I was here in 2010 as well.
+ 
+- Giampietro Casasanta: 35 years old, Italian physicist with a PhD in Remote Sensing and research fellow at the Rome Bologna Institute of Atmospheric Sciences and Climate of the Italian National Research Council. I am in charge of the Italian glaciology and remote sensing experiments.
+Our tasks are to maintain and assure the scientific instruments work, retrieve the data run a first analysis and send it to Europe on a daily basis. We measure radiative balances at Earth’s surface, Meterological variables, optical and physical properties of aerosols, properties of clouds. We have at our disposal broadband and spectral radiometers in the shortwave, longwave and ultraviolet part of the electromagnetic spectrum, particle counters and sizers, lidar, sodar, sonic anemometers, automatic weather stations and sounding stations equipped with: barometers, anemometers, thermo-hygrometers, GPS and radio transmitters/receivers.
+
+
+- Beth Healey (@Bethahealey on Twitter): British medical doctor. I am running studies for the European Space Agency on the crew and myself to see how we adapt to living in this extreme environment. Our nine-month isolation living completely cut off from the world with low air pressure is similar in many ways to the stress astronauts will endure during a long spaceflight. I am running experiments on morale, eyesight, blood pressure and even searching for new life! http://www.esa.int/concordia
+
+Ask Us Anything about life here and the science we do!
+
+
+P.S. if you like to see some PICTURES try this: https://www.flickr.com/search/?w=54183220@N06&q=concordia
+
+You can find some more infos here:
+
+PNRA - institutional website: http://www.pnra.it/ - http://www.italiantartide.it/
+
+IPEV - institutional website: http://www.institut-polaire.fr/language/en/
+
+ESA BLOG: Chronicles from Concordia: http://blogs.esa.int/concordia/
+
+Blog of one of the first overwinterers at Concordia Station: http://www.gdargaud.net/Antarctica/WinterDC.html
+
+Some videos on youtube about Concordia:
+
+https://www.youtube.com/watch?v=GbpMa5cXjp8&index=2&list=PLFm0BcqYH0TwwXsmaMNEu_idyESutf7kl
+
+https://www.youtube.com/watch?v=FgCNL0XyG5I&index=3&list=PLFm0BcqYH0TwwXsmaMNEu_idyESutf7kl
+
+https://www.youtube.com/watch?v=M8jn0S2BiXU&index=27&list=PLFm0BcqYH0TwwXsmaMNEu_idyESutf7kl
+
+
+
+**Moderator note:**  
+
+**Due to a scheduling mix up they will not be able to answer questions at the normal time (turns out it's 1:30 am their time right now!)  We will work on getting them online as soon as is reasonable, sorry for the confusion!**
+
+Edit: We have started, sorry for the delay. Proof: http://imgur.com/joZLQvf
+
+Edit2: here it is 4am in the morning :-) I think it is time to go to sleep for us. Thank you for your support, maybe tomorrow we could ask some last few questions.",2015-08-22 12:05:24,11542,1784,0.91,https://www.reddit.com/r/science/comments/3hylyw/science_ama_series_we_are_living_in_concordia/,True,Concordia_Station,1747572980.034189,climate science,scientific
+3flzb4,science,scientific,"Science AMA Series: Climate models are more accurate than previous evaluations suggest. We are a bunch of scientists and graduate students who recently published a paper demonstrating this, Ask Us Anything!","**EDIT**:  Okay everyone, thanks for all of your questions! We hope we got to them. If we didn't feel free to message me at /u/past_is_future and I will try to answer you specifically!
+
+Thanks so much!
+
+---
+
+**Hello there, /r/Science!**
+
+We* are a group of researchers who just [published a paper](http://onlinelibrary.wiley.com/doi/10.1002/2015GL064888/abstract) showing previous comparisons of global temperatures change from observations and climate models were comparing slightly different things, causing them to appear to disagree far more than they actually do.
+
+The lead author Kevin Cowtan has a backgrounder on the paper [here](http://www-users.york.ac.uk/~kdc3/papers/robust2015/background.html) and data and code posted [here](http://www-users.york.ac.uk/~kdc3/papers/robust2015/methods.html). Coauthor /u/ed_hawkins also did a background post on his blog [here](http://www.climate-lab-book.ac.uk/2015/an-apples-to-apples-comparison-of-global-temperatures/). 
+
+Basically, the observational temperature record consists of land surface measurements which are taken at 2m off the ground, and sea surface temperature measurements which are taken from, well, the surface waters of the sea. However, most climate model data used in comparisons to observations samples the air temperature at 2m over land and ocean. The actual sea surface temperature warms at a slightly lower rate than the air above it in climate models, so this apples to oranges comaprison makes it look like the models are running too hot compared to observations than they actually are. This gets further complicated when dealing with the way the temperature at the sea ice-ocean boundaries are treated, as these change over time. All of this is detailed in greater length in Kevin's backgrounder and of course in the paper itself. 
+
+The upshot of our paper is that climate models and observations are in better agreement than some recent comparisons have made it seem, and we are basically warming inline with model expectations when we also consider differences in the modeled and realized forcings and internal climate variability (e.g. [Schmidt et al. 2014](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20150000726.pdf)). 
+
+You can read some other summaries of this project [here](https://tamino.wordpress.com/2015/07/30/getting-model-data-comparison-right/),  [here](http://www.carbonbrief.org/blog/2015/07/new-study-shrinks-the-gap-between-observed-and-model-global-temperatures/), and [here](http://www.theguardian.com/environment/climate-consensus-97-per-cent). 
+
+We're here to answer your questions about ~~Rampart~~ this paper and maybe climate science more generally. Ask us anything!
+
+*Joining you today will be:
+
+* Zeke Hausfather aka /u/ZekeHausfather
+* Ed Hawkins aka /u/ed_hawkins
+* Peter Jacobs aka /u/past_is_future
+* Michael Mann aka /u/MichaelEMann
+* Robert Way aka https://twitter.com/labradorice
+* and perhaps some others if they have time",2015-08-03 11:55:53,4965,1105,0.83,https://www.reddit.com/r/science/comments/3flzb4/science_ama_series_climate_models_are_more/,True,RobustTempComparison,1747573011.2604249,climate science,scientific
+3gge6v,science,scientific,"Science AMA Series: We authored two recent studies covering options for human intervention to address climate change for the National Academies of Science, Engineering, and Medicine, Ask Us Anything!","Hi reddit,
+
+I’m Scott Doney, a Senior Scientist at the Woods Hole Oceanographic Institution. My research focuses on how the global carbon cycle and ocean ecology respond to natural and human-driven climate change.  
+
+I’m Waleed Abdalati, Director of the Cooperative Institute for Research in Environmental Sciences at CU-Boulder’s Geography Department. My research focuses on the use of satellites and aircraft to understand how Earth's ice cover, particularly glaciers and ice sheets, is changing and what those changes mean for life on Earth.
+
+We’re talking about risks and possibilities of climate intervention, or as it is often referred to, geoengineering.  Ask us anything!
+
+[You can read more about the work the National Academies are doing here.](http://nas-sites.org/americasclimatechoices/)
+
+**We will be back at 1 pm ET to answer your questions, ask us anything!**
+
+We're signing out now. Thanks for these great questions and discussion.  If you are interested in learning more, please visit the webpage for the study: http://nas-sites.org/americasclimatechoices/ ",2015-08-10 11:58:09,454,90,0.81,https://www.reddit.com/r/science/comments/3gge6v/science_ama_series_we_authored_two_recent_studies/,True,Climate_Intervention,1747573132.619602,climate science,scientific
+3gporh,science,scientific,"PLOS Science Wednesday: We're Jim Hansen, a professor at Columbia’s Earth Institute, and Paul Hearty, a professor at UNC-Wilmington, here to make the case for urgent action to reduce carbon dioxide emissions, which are on the verge of locking in highly undesirable consequences, Ask Us Anything.","Hi Reddit,
+
+I’m Jim Hansen, a professor at [Columbia University’s Earth Institute]( http://www.earthinstitute.columbia.edu/sections/view/9).<http://www.earthinstitute.columbia.edu/sections/view/9> I'm  joined today by 3 colleagues who are scientists representing different aspects of climate science and coauthors on papers we'll be talking about on this AMA.
+
+--Paul Hearty, paleoecologist and professor at University of North Carolina at Wilmington, NC Dept. of Environmental Studies. “I study the geology of sea-level changes”
+
+--George Tselioudis, of NASA Goddard Institute for Space Studies; “I head a research team that analyzes observations and model simulations to investigate cloud, radiation, and precipitation changes with climate and the resulting radiative feedbacks.”
+
+--Pushker Kharecha from Columbia University Earth Institute; “I study the global carbon cycle; the exchange of carbon in its various forms among the different components of the climate system --atmosphere, land, and ocean.”
+
+Today we make the case for urgent action to reduce carbon dioxide (CO2) emissions, which are on the verge of locking in highly undesirable consequences, leaving young people with a climate system out of humanity's control. Not long after my 1988 testimony to Congress, when I concluded that human-made climate change had begun, practically all nations agreed in a 1992 United Nations Framework Convention to reduce emissions so as to avoid dangerous human-made climate change.  Yet little has been done to achieve that objective.
+
+I am glad to have the opportunity today to discuss with researchers and general science readers here on redditscience an alarming situation — as the science reveals climate threats that are increasingly alarming, policymakers propose only ineffectual actions while allowing continued development of fossil fuels that will certainly cause disastrous consequences for today's young people. Young people need to understand this situation and stand up for their rights.
+
+To further a broad exchange of views on the implications of this research, my colleagues and I have published in a variety of open access journals, including, in [PLOS ONE]( http://journals.plos.org/plosone), [Assessing Dangerous Climate Change: Required Reduction of Carbon Emissions to Protect Young People, Future Generations and Nature (2013)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0081648),
+[PLOS ONE](http://journals.plos.org/plosone), [Assessing Dangerous Climate Change: Required Reduction of Carbon Emissions to Protect Young People, Future Generations and Nature (2013)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0081648), and most recently, [Ice Melt, Sea Level Rise and Superstorms: Evidence from the Paleoclimate Data, Climate Modeling that 2 C Global Warming is Highly Dangerous](http://www.columbia.edu/%7Ejeh1/2015/20150704_IceMelt.pdf), in [Atmos. Chem. & Phys. Discussions](http://www.atmos-chem-phys-discuss.net/volumes_and_issues.html) (July, 2015).
+
+One conclusion we share in the latter paper is that ice sheet models that guided [IPCC (Intergovernmental Panel on Climate Change)](http://www.ipcc.ch/) sea level projections and upcoming United Nations meetings in Paris are far too sluggish compared with the magnitude and speed of sea level changes in the paleoclimate record. An implication is that continued high emissions likely would result in multi-meter sea level rise this century and lock in continued ice sheet disintegration such that building cities or rebuilding cities on coast lines would become foolish.
+
+The bottom line message we as scientists should deliver to the public and to policymakers is that we have a global crisis, an emergency that calls for global cooperation to reduce emissions as rapidly as practical. We conclude and reaffirm in our present paper that the crisis calls for an across-the-board rising carbon fee and international technical cooperation in carbon-free technologies. This urgent science must become part of a global conversation about our changing climate and what all citizens can do to make the world livable for future generations.
+
+Joining me is my co-author, Professor Paul Hearty, a professor at University of North Carolina — Wilmington. 
+
+**We'll be answering your questions from 1 – 2pm ET today. Ask Us Anything!**",2015-08-12 12:00:18,5430,872,0.86,https://www.reddit.com/r/science/comments/3gporh/plos_science_wednesday_were_jim_hansen_a/,True,PLOSScienceWednesday,1747573152.259711,climate science,scientific
+3hkoun,science,scientific,"PLOS Science Wednesday: Hi! We’re Camilo Mora and Iain Caldwell, here to talk about our paper in PLOS Biology that investigates how plant growth is impacted by climate change — AUA!","My name is Dr. Camilo Mora and I am an assistant professor at the [University of Hawaii Manoa](https://manoa.hawaii.edu/). My research focuses on understanding the feedback loops between people and biodiversity. My earlier career was on basic ecology, but then I realized that the effects of people on various species were massive and already evident. Quantifying such impacts and their feedbacks on people represent the main topic of my latest research.
+
+
+And my name is Dr. Iain Caldwell and I am a post-doctoral researcher at the [University of Hawaii Manoa](https://manoa.hawaii.edu/). I am an ecologist with broad interests in how organisms can respond to changes in their environment, including the potential consequences of projected climate changes for such organisms.
+
+
+Along with several colleagues from the University of Hawaii and the [University of Montana](http://www.umt.edu/), we recently published a study in [PLOS Biology](http://journals.plos.org/plosbiology) titled [Suitable Days for Plant Growth Disappear under Projected Climate Change: Potential Human and Biotic Vulnerability](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002167). In this paper, we explored the potential consequences of projected climate changes on future plant growth worldwide, and what that could mean for various ecosystems and the people that depend on those ecosystems.
+
+
+Our findings indicate that, if climate change continues as it has in the past, there could be significant global declines in the number of suitable plant growing days by 2100; with the most drastic changes affecting people in the poorest countries of the world. There is hope though; as our results also indicate that if we can curb our global carbon emissions, these changes in plant-growing conditions should be far less severe.
+
+
+
+We will be answering your questions at 1pm ET. Ask Us Anything!
+
+
+Don’t forget to follow Iain on Twitter [@ircaldwell](http://www.twitter.com/ircaldwell).",2015-08-19 12:00:20,407,36,0.8,https://www.reddit.com/r/science/comments/3hkoun/plos_science_wednesday_hi_were_camilo_mora_and/,True,PLOSScienceWednesday,1747573189.5360441,climate science,scientific
