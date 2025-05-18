@@ -270,10 +270,10 @@ def main():
                     comments_path = os.path.join(
                         month_dir, f"reddit_comments_{month_tag}.csv")
 
-                    posts_df.to_csv(posts_path, index=False,
-                                    quoting=csv.QUOTE_ALL)
+                    posts_df.to_csv(
+                        posts_path, index=False, quoting=csv.QUOTE_ALL, doublequote=True, encoding='utf-8-sig')
                     comments_df.to_csv(
-                        comments_path, index=False, quoting=csv.QUOTE_ALL)
+                        comments_path, index=False, quoting=csv.QUOTE_ALL, doublequote=True, encoding='utf-8-sig')
 
                     logger.info(
                         f"Saved {len(posts_df)} posts and {len(comments_df)} comments for {month_tag}")
