@@ -15,6 +15,7 @@ import sys
 from tenacity import retry, wait_exponential, stop_after_attempt
 from langdetect import detect
 import calendar
+import csv
 
 
 # Logging setup
@@ -219,6 +220,9 @@ def parse_arguments():
 
 
 def main():
+
+    logger.info("=== Reddit scraping session started ===")
+
     start_time = datetime.datetime.now()
     args = parse_arguments()
     custom_subreddits = [s.strip() for s in args.subreddits.split(
@@ -266,11 +270,19 @@ def main():
                     comments_path = os.path.join(
                         month_dir, f"reddit_comments_{month_tag}.csv")
 
-                    posts_df.to_csv(posts_path, index=False)
-                    comments_df.to_csv(comments_path, index=False)
+                    posts_df.to_csv(posts_path, index=False,
+                                    quoting=csv.QUOTE_ALL)
+                    comments_df.to_csv(
+                        comments_path, index=False, quoting=csv.QUOTE_ALL)
 
                     logger.info(
                         f"Saved {len(posts_df)} posts and {len(comments_df)} comments for {month_tag}")
+                    logger.info(
+                        f"Saved {len(posts_df)} posts and {len(comments_df)} comments for {month_tag}")
+                    logger.info(
+                        "=== Reddit scraping session completed successfully ===")
+                    logger.info(
+                        f"Total time taken: {datetime.datetime.now() - start_time}")
 
 
 if __name__ == "__main__":
