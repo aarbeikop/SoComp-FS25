@@ -1,0 +1,80 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"d6mua7n","t3_4yd3p6","4yd3p6","science","scientific","Hi Dr. Richardson, Dr. Singh and Dr. Pribram-Jones. Thanks for taking the time to do this AMA.
+
+
+Dr. Richardson: What is a genetic toolkit and how do you construct them? What do they allow you to do?
+
+
+Dr. Singh: I was surprised when you mentioned that you work with models that are simple enough to be analyzed by hand. Do you struggle to balance robustness, complexity and accuracy? Could you give an example of one of your simplest and one of your most complex models? Do you have a favorite?
+
+Dr. Pribram-Jones: My quick googling reveals that DFT is a quantum mechanical model. Are there special considerations you have to make in order to model quantum phenomenon using traditional (binary) computers? Also, what is a pseudo-molecule?","2016-08-18 17:16:56","6","PapaNachos","1747613456.427961","climate science","scientific"
+"d6mtayb","t3_4yd3p6","4yd3p6","science","scientific","Dr. Pribram-Jones: It sounds like you work with people who work at a wide range of scales (from particles to planets). What's your favorite thing about dealing with that kind of variety in your work?","2016-08-18 16:57:24","4","myersjustinc","1747613456.43032","climate science","scientific"
+"d6mtslc","t3_4yd3p6","4yd3p6","science","scientific","How do you describe what you do to the general public? What makes your work worth funding? I applaud you all for engaging us with this AMA but I'm curious how much ""advocacy"" do scientists do, do you have time for it and how do we help convince the general population something so granular matters a lot in terms of our energy/environment/health future.","2016-08-18 17:07:11","5","mia7812","1747613456.4326851","climate science","scientific"
+"d6mturq","t3_4yd3p6","4yd3p6","science","scientific","A few question for Hansi Singh:
+
+1. Which came first, your interest in math and computer science or climatology?
+2. What progress were you able to make in understanding Dansgaard-Oeschger events during your PhD?
+3. What is your take on the differing reponses of the Arctic and Antarctic to anthropogenic GhG forcing? Do you see ozone loss over Antarctica as playing an important role?
+
+Thanks!","2016-08-18 17:08:25","3","IceBean","1747613456.4350688","climate science","scientific"
+"d6mv1ta","t3_4yd3p6","4yd3p6","science","scientific","A question for all 3 of the guests:
+
+How much of your work is done in the cloud? How do you expect this to change? Are there prohibitive factors?
+
+Thanks so much!","2016-08-18 17:32:00","4","discofreak","1747613456.436416","climate science","scientific"
+"d6mte6e","t3_4yd3p6","4yd3p6","science","scientific","Dr. Singh: I'm used to hearing about a lot of implications of climate change, but I'm not that familiar with how telecom is affected. Redditors love our networks, of course, so what should we know about how climate and telecommunications interact?","2016-08-18 16:59:10","3","myersjustinc","1747613456.43769","climate science","scientific"
+"d6mtgzf","t3_4yd3p6","4yd3p6","science","scientific","Thanks for doing this AMA! I have a couple of questions about modeling.
+
+How does one ensure rigor in computational and mathematical models? Are there general standards for ensuring rigor that work across different disciplines, or does it have to be subject-specific?
+
+More generally, could you give a layperson-friendly description of how one goes about developing a novel computational or mathematical model? Where do you start? Is a computational model primarily a tool to transition into a mathematical one, or vice-versa, or do they each have their own uses? ","2016-08-18 17:00:39","3","rslake","1747613456.440348","climate science","scientific"
+"d6mtmhg","t3_4yd3p6","4yd3p6","science","scientific","@Hansi and Aurora: I'm an electrical engineer interested in optimizing computer architectures for various applications. What tools do you use for the computations you perform? NVIDI's CUDA seems like a good start, but I have a feeling that we could eventually develop even more application-specific computer architectures to allow for even faster execution of certain algorithms.
+
+Have you studied how your algorithms are implemented in hardware? Are your problems structured in a data-parallel way that makes it easy to break them up for multiple processors? Have you found that there are bottlenecks to the computation you're currently using? Are there any features you'd like to see in future computing architectures (or languages / compilers)?","2016-08-18 17:03:45","3","jesterbuzzo","1747613456.442967","climate science","scientific"
+"d6mwwv3","t3_4yd3p6","4yd3p6","science","scientific","Hansi,
+PNNL is known for innovation in high performance computing, I worked with them in the past and heard about their recent designs, reducing the impact of supercomputers on the environment. 
+How environmentally sustainable are supercomputing and cloud computing?","2016-08-18 18:08:34","3","iamisg","1747613456.444106","climate science","scientific"
+"d6n5t9u","t3_4yd3p6","4yd3p6","science","scientific","Dear Dr. Pribram-Jones:
+      I am a grad student in computational chemistry. I am doing my second attempt for a doctorate. In my previous school I tried to develop a hybrid QM-MM method, but got negative results, which annoyed my previous advisor. How often do you see situations like this happen?
+
+    Now I am doing more practical and applied research (still in computational chemistry) in Chicago. Now it seems that I can get a reasonable amount of publications. I just started in December. What are job prospects for PhD's in computational chemistry?
+
+Finally, I have a disability. How do people with disabilities succeed in science? What are their employment prospects (i.e. would employers be interested in hiring people with disabilities)?","2016-08-18 21:07:21","3","vanrossum1","1747613456.446584","climate science","scientific"
+"d6mx7ov","t3_4yd3p6","4yd3p6","science","scientific","Sarah, what do you think about synthetic microbiomes and synthetic phages for modulating microbiota affecting human health?","2016-08-18 18:14:33","2","iamisg","1747613456.448131","climate science","scientific"
+"d6n3q5b","t3_4yd3p6","4yd3p6","science","scientific","For all: What was your experience like in the DOE CGSF program and now as postdocs in national labs? Any advice to those considering such a similar path?","2016-08-18 20:24:34","2","obriennolan","1747613456.4494421","climate science","scientific"
+"d6nxoqr","t3_4yd3p6","4yd3p6","science","scientific","Why was this AMA removed?","2016-08-19 12:05:52","2","MTGKaioshin","1747613456.45013","climate science","scientific"
+"d6mqvf7","t3_4yd3p6","4yd3p6","science","scientific","Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts.
+ 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+","2016-08-18 16:09:18","1","Doomhammer458","1747613456.4518661","climate science","scientific"
+"d6mszoj","t3_4yd3p6","4yd3p6","science","scientific","This AMA is being permanently archived by *The Winnower*, a publishing platform that offers traditional scholarly publishing tools to traditional *and* non-traditional scholarly outputs—because scholarly communication doesn’t just happen in journals.
+
+To cite this AMA please use: [https://doi.org/10.15200/winn.147153.39061](https://www.thewinnower.com/papers/5199-science-ama-series-we-re-sarah-hansi-and-aurora-postdocs-at-national-labs-in-the-us-we-each-study-a-different-flavor-of-computational-science-computational-genomics-sarah-climate-science-hansi-and-mathematical-chemistry-aurora-aua)
+
+You can learn more and start contributing at [*thewinnower.com*](https://thewinnower.com)
+","2016-08-18 16:51:11","1","redditWinnower","1747613456.4531121","climate science","scientific"
+"d6mt32x","t3_4yd3p6","4yd3p6","science","scientific","Thanks, everyone, for the AMA!
+
+Dr. Richardson: You mentioned ""the reconciliation of computational genomics with experimental genomics"". I don't know much about the field, so I'm curious what kinds of things need to be reconciled. Are you refining models to align more closely with experimental observations, or are there some fundamental discrepancies that need to be resolved?","2016-08-18 16:53:03","1","myersjustinc","1747613456.454554","climate science","scientific"
+"d6mtru5","t3_4yd3p6","4yd3p6","science","scientific","Hello all,
+
+As someone who has a basic grasp of how to to code, how would you suggest someone who is interested in applying/learning more about computational science go about learning more? I'm familiar with the methods to solve ""simple"" PDEs, but it always seems like most computational scientists ended up doing a Ph.D. that area leaving the rest of us in the dark about how to model systems. Is there any way you'd suggest to ""ease"" my way into the world of computational science beyond pursing another Ph.D.?","2016-08-18 17:06:45","1","rseasmith","1747613456.4559329","climate science","scientific"
+"d6mykfm","t3_4yd3p6","4yd3p6","science","scientific","Dr. Richardson, 
+
+Thanks for chatting with us science plebeians! I was wondering if you could briefly touch on the most interesting/ground-breaking thing, in your opinion, that the Sc2.0 project is working on. I realize building a fully synthetic eukaryotic genome is ground-breaking in its own right, but what are some specific applications for these yeasts?","2016-08-18 18:41:26","1","nsteinauer","1747613456.457202","climate science","scientific"
+"d6mysgn","t3_4yd3p6","4yd3p6","science","scientific","I hope these questions aren't too off-topic.
+How did you get started in working in this field, what program would you recommend to get started in programming and which do you use?
+
+Are there some specific models who are benefitiary in your work (some kind of multiple time series regressions)?","2016-08-18 18:45:56","1","alessandrux","1747613456.458696","climate science","scientific"
+"d6mzsvr","t3_4yd3p6","4yd3p6","science","scientific","Sarah: What kind of tricks is it useful to teach microbes to do?
+
+Hansi: Can you tell us more about how the Arctic and Antarctic are responding differently? What do we know about what is happening there and why?
+
+Aurora: Please tell us more about DFT- as one of the most popular computational models in the world, what are some things it's used for that we might not realize?","2016-08-18 19:06:11","1","p1percub","1747613456.459782","climate science","scientific"
+"d6n2sg7","t3_4yd3p6","4yd3p6","science","scientific","Dr. Richardson, Dr. Singh, and Dr. Pribram-Jones - thank you for your time today. How do you hope that your success in your respective fields will inspire the next generation of women and minorities to achieve in the sciences?","2016-08-18 20:05:51","1","Chinatown_Kid","1747613456.460887","climate science","scientific"
+"d6n2ujn","t3_4yd3p6","4yd3p6","science","scientific","Hansi, word on the street is that you're into knitting and that you consider it coding in yarn. Does this craft/hobby/art impact your computational work, and vice versa?","2016-08-18 20:07:01","1","obriennolan","1747613456.461895","climate science","scientific"
+"d6na3aa","t3_4yd3p6","4yd3p6","science","scientific","Aurora, what are the current limitations of TD-DFT other than system size. Thanks for doing this AMA! ","2016-08-18 22:43:19","1","RieszRepresent","1747613456.462838","climate science","scientific"

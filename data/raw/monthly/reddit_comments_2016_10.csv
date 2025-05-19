@@ -1,0 +1,124 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"d8q7195","t3_579v6t","579v6t","science","scientific","We've been seeing some news reports about how global warming is expected to make hurricanes worse in the coming century.  I'm concerned that such claims may not be well supported by the science.  I build and run numerical simulations of electromechanical systems for my job.  As such, I know that its important not to ask a question of a model that the model hasn't been designed to answer.  I'm concerned that there are variables involved in hurricane formation that the climate models may not have been designed to answer, and that public-facing climatologists are going out on a weak limb when they claim that hurricanes will get worse going forward.  As I understand it, the points in favor (of stronger and more damaging storms) are:
+
+ * Higher baseline sea level means that storm surge + high tide bring the sea farther inland.
+ * Warmer oceans mean more heat available for powering hurricanes.
+
+But there are many other factors involved that the climate-scale models may not be capturing, or that the model runs aren't being inspected for these features.  Things that I know about as a layman include:
+
+ * Vertical wind shear can kill a storm that otherwise has plenty of available energy.
+ * Ingesting the Saharan Air Layer can rob a storm of valuable atmospheric moisture.
+ * Upper level atmospheric steering patterns may change, leading to fewer (or more) storms making landfall.
+ * Climate-scale models are typically run at a lower resolution, so that 100's of years can be simulated in a reasonable time.  While climate models are closely related to weather models, IIUC climate-scale model runs aren't even capable of generating hurricanes.
+
+My question: Are the other changes in wind and air mass patterns favorable or unfavorable for hurricane formation and steering as the CO2 levels continue to rise?  Do we even know right now?
+","2016-10-13 13:21:34","93","gruehunter","1747615342.733355","climate science","scientific"
+"d8q50n6","t3_579v6t","579v6t","science","scientific","Good morning! Why is the European weather forecasting model considered to be so much better than the U.S. Model? ","2016-10-13 12:19:03","67","Redryanhood","1747615342.734876","climate science","scientific"
+"d8q74mi","t3_579v6t","579v6t","science","scientific","My five year old son was fascinated by the recent hurricane news. So we tracked the wind maps and other projections of Hurricanes Matthew and Nicole on NHC and watched some videos online. Do you have any recommendations on sources for young kids who want to understand hurricanes and weather in general better?","2016-10-13 13:24:10","30","bloggingsbyboz","1747615342.736656","climate science","scientific"
+"d8q53r4","t3_579v6t","579v6t","science","scientific","1. How is the severity of a hurricane/typhoon season predicted? 
+
+2. What sort of indicators factor into the prediction? 
+
+3. Is there a metric for categorizing a season after the fact?","2016-10-13 12:21:55","21","shutupshake","1747615342.737705","climate science","scientific"
+"d8q4rxa","t3_579v6t","579v6t","science","scientific","Hi, I don't follow your research so maybe this is a basic question, but could you talk a little bit about what you mean by us moving away from an active Atlantic hurricane era? ","2016-10-13 12:10:21","21","madroaster","1747615342.738786","climate science","scientific"
+"d8q5fxq","t3_579v6t","579v6t","science","scientific","Thanks for doing an AMA. What breakthroughs in weather forecasting do you think will happen within your lifetime? 
+
+I'm fairly new to models but I hear people say ""ohhh this model is good for tropical systems but it can't model it as well when it goes post tropical"" like Matthew did when it turned into more of a nor'easter. Why is that? ","2016-10-13 12:33:25","13","ava_ati","1747615342.740109","climate science","scientific"
+"d8q70pj","t3_579v6t","579v6t","science","scientific","As the Earths temperature rises how much of a factor does global warming play into the process of predicting the magnitude of future hurricanes? ","2016-10-13 13:21:09","9","559Monster","1747615342.741302","climate science","scientific"
+"d8q4lwg","t3_579v6t","579v6t","science","scientific","Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts.
+ 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+","2016-10-13 12:04:09","1","nate","1747615342.742986","climate science","scientific"
+"d8q8c3j","t3_579v6t","579v6t","science","scientific","Hey Phil, What’s something interesting about hurricanes/typhoon you would like to share?
+","2016-10-13 13:55:28","9","menohero","1747615342.744118","climate science","scientific"
+"d8q64nq","t3_579v6t","579v6t","science","scientific","I work for a local government in central Florida and with Hurricane Matthew seemingly bearing down on us last week there was a bit of a scramble to get information out to the public.  I work in the GIS department so we were ready with all kinds of maps, both paper and web-based.  I'm mostly curious how GIS is used and seen in your field.  Is it seen as a useful tool or more of an extension of modeling systems already in place?  Thanks!","2016-10-13 12:55:16","8","Napalmradio","1747615342.7457302","climate science","scientific"
+"d8q7kpn","t3_579v6t","579v6t","science","scientific","Why can't we call them the same thing no matter what ocean they are in?  Is there really a functional difference between a typhoon, a cyclone, and a hurricane beyond their location?","2016-10-13 13:36:12","8","SednaBoo","1747615342.746697","climate science","scientific"
+"d8q5lp3","t3_579v6t","579v6t","science","scientific","What are the advances in predicting hurricanes?","2016-10-13 12:38:43","7","PavelD500","1747615342.7475939","climate science","scientific"
+"d8q5toe","t3_579v6t","579v6t","science","scientific","Thank you for doing this 2 questions
+1)Do you think there is any feasible way to ""control"" hurricanes by directing their pat?
+2) Would there be an effecient way of absorbing their power for our own power grid?","2016-10-13 12:45:49","6","bonerfiedmurican","1747615342.7486122","climate science","scientific"
+"d8q51s0","t3_579v6t","579v6t","science","scientific","What factors do you use to predict the severity of an upcoming hurricane season, and how early in the year are you able to start making these predictions? ","2016-10-13 12:20:05","5","tdschwarz","1747615342.74955","climate science","scientific"
+"d8q63pe","t3_579v6t","579v6t","science","scientific","I heard an interesting fact in the news today, Bermuda had only had 4 major hurricane warnings in the past couple of years. If this is true, and it lies in the Atlantic, what contributes to being missed by the storms so much? It seems when the storms are done coming up the Caribbean and Florida, they always take a North-easterly route towards where Bermuda would be to eventually dissipate. Being that it still has some waters around that area, would they not just strengthen? ","2016-10-13 12:54:28","5","Gekinwired24","1747615342.750777","climate science","scientific"
+"d8q5cyi","t3_579v6t","579v6t","science","scientific","What's your forecast for the rest of the 2016 season?  And has anything about this season surprised you?","2016-10-13 12:30:36","2","pantsmeplz","1747615342.7513988","climate science","scientific"
+"d8qaj9g","t3_579v6t","579v6t","science","scientific","I live in Seattle and we're expected to have a massive storm from today through the weekend. How bad do you believe 'typhoon season' will be this year? Is it dumb to bike to work during the high wind warnings?","2016-10-13 14:45:49","3","Ryflsc","1747615342.752372","climate science","scientific"
+"d8q8a26","t3_579v6t","579v6t","science","scientific","Many thanks for your AMA. This is slightly off-topic, I have a question about earth winds visualizations. I keep seeing these bands where winds from two systems/directions hit on each other, effectively cancelling each other out. They are more pronounced in this visualization [Earth Winds](https://earth.nullschool.net/) but you can also see them on [Ventusky](https://www.ventusky.com/). Go just south of Iceland (-18.95,54.66) and you see a long band of zero wind velocity.
+
+Now, i am used to such things as an engineer and doing fluids simulations, take for example an extensional flow profile. But I am confused about what is happening, since a mass balance doesn't seem to work here. Sorry for the many questions, but:
+
+*Are the winds really cancelling each other out?
+
+*Are the winds in these bands being pushed in the upper atmosphere, thus not showing on this kind of visualization? 
+
+*Do they have a name? I kept searching something like stagnant wind bands on oceans, but i can't find anything
+
+*Are these known from sailors, from the past, because although you just spend a few days sailing with nice winds, all of a sudden you are stuck in such a band?","2016-10-13 13:54:07","3","booble_dooble","1747615342.754312","climate science","scientific"
+"d8q8f4m","t3_579v6t","579v6t","science","scientific","I've always wondered, who gets to name a hurricane (Mathew, Katrina etc.)? ","2016-10-13 13:57:32","3","Chryzonicus","1747615342.755636","climate science","scientific"
+"d8q8uwv","t3_579v6t","579v6t","science","scientific","I don't know much at all about hurricanes to even have questions about them beyond what's already posted, so...What question hasn't been asked that you hoped would be asked, and what is your answer to that question?","2016-10-13 14:07:56","4","lurklurklurky","1747615342.756732","climate science","scientific"
+"d8q9lkw","t3_579v6t","579v6t","science","scientific","Phil, how is the Oval looking this time of year?","2016-10-13 14:25:07","3","dat_trigga","1747615342.757396","climate science","scientific"
+"d8qe4gl","t3_579v6t","579v6t","science","scientific","Hi, teacher here. My science class is doing an assignment of careers and e-mailing people about their professions. I was wondering:
+
+1. What is the best/worst parts about your profession?
+2. Do you have any advice for my students who want to pursue similar studies?","2016-10-13 16:00:54","3","[deleted]","1747615342.758688","climate science","scientific"
+"d8q5gi5","t3_579v6t","579v6t","science","scientific","Is there a fundamental reason for tropical storm/hurricane inactivity in the western Gulf of Mexico?  I went through the 1960s and 1970s when every other year was flood-wind damage-flood etc., and by comparison, not having hurricanes is a good thing.  Any climate change math to account for the lull?  Thank you for your time.  ","2016-10-13 12:33:57","2","dpunisher","1747615342.75976","climate science","scientific"
+"d8q5ia2","t3_579v6t","579v6t","science","scientific","What interesting thing you found about the 2016 Atlantic hurricane season?","2016-10-13 12:35:37","2","[deleted]","1747615342.7605069","climate science","scientific"
+"d8q6ai0","t3_579v6t","579v6t","science","scientific","What has made you to pursue your current profession? Also, what do you love the most about it?","2016-10-13 13:00:09","2","Hearthsynkrz","1747615342.762007","climate science","scientific"
+"d8q6dya","t3_579v6t","579v6t","science","scientific","Howdy! Thanks for doing this AMA. I am a huge weather nerd (and amateur atmospheric scientist) so this AMA will be great to follow. 
+
+Do you have a favorite hurricane or typhoon? In other words, is there one particular tropical system that just engages you due to the cultural aspects of it, the science learned from it, etc?","2016-10-13 13:02:59","2","spacegurl07","1747615342.763011","climate science","scientific"
+"d8q6heo","t3_579v6t","579v6t","science","scientific","As a researcher of atmospheric science, how much of your work and research revolve around a warming climate? What kinds of things have you noticed with the atmosphere over the years in relation to warming?
+
+Edit to clarify: what have you seen in the atmosphere for warming that relates specifically to Hurricanes?","2016-10-13 13:05:58","2","spiffybaldguy","1747615342.764085","climate science","scientific"
+"d8q6ufj","t3_579v6t","579v6t","science","scientific","Do you think a fundamental atmospheric change will be occurring in the next century that could see Hurricanes moving towards Africa or Specifically Southern Africa? If we surpass the 2 Degree guardrail anytime soon , what would that effect have on hurricanes? Do rosby waves and the El Nino have an effect on hurricane formation and will they have an effect in the near future? Also thanks for doing this :D","2016-10-13 13:16:25","2","Zangoma","1747615342.7652092","climate science","scientific"
+"d8q97yc","t3_579v6t","579v6t","science","scientific","Hi I am from the st Augustine/Jacksonville part of north Florida... we just had Hurricane Matthew. 
+
+What was the difference between that category 4/5 storm compared to Hurricane Andrew in the 90's category 4/5 storm?
+
+Once the storm hit us, even at 3 it just seemed like it was a bit calmer than people made it out to be. Thoughts?","2016-10-13 14:16:30","2","lurkcityfl","1747615342.766413","climate science","scientific"
+"d8q9mmu","t3_579v6t","579v6t","science","scientific","I'm seeing a lot of global warming questions on here, and I figured I should just add another since I'm performing an analysis of hurricane data and global warming to see if there is a correlation for one of my college classes.
+
+Would you say there is/has been a correlation between hurricanes and Global Warming? While the oldest data we have was recorded near the mid 1850s, technology has certainly changed a ton since then, consequently creating more accurate and precise data. What year from the 1850s to now would you say is the beginning of reliable, accurate hurricane data, and should be included in our analysis? Finally, do you believe this year's hurricane season is an anomaly or part of a trend in relation to the data seen in the previous decade or so?","2016-10-13 14:25:46","2","[deleted]","1747615342.76806","climate science","scientific"
+"d8q9p18","t3_579v6t","579v6t","science","scientific","Hi Phil,
+
+To what extent could we attribute the downward trend in Atlantic hurricanes to the downward trend in the AMO in recent decades?
+
+Thanks! ","2016-10-13 14:27:15","2","[deleted]","1747615342.7689621","climate science","scientific"
+"d8qbjj2","t3_579v6t","579v6t","science","scientific","Hi Phil, thank you so much for doing this AMA! My question is what you meant exactly by your comment, ""we might be moving out of the active Atlantic Hurricane era""? Thank you, and keep up the great science, and great work!","2016-10-13 15:07:33","2","twoEZpayments","1747615342.770028","climate science","scientific"
+"d8qea5i","t3_579v6t","579v6t","science","scientific","Hi Phil!
+
+I'm a Floridian who has seen quite a few hurricanes! My question is, how predictable are hurricanes?
+
+It always seems like the track constantly changes or the strength picks up in a moment's notice. Are these storms really predictable at all?","2016-10-13 16:04:07","2","iblondie","1747615342.771199","climate science","scientific"
+"d8qehay","t3_579v6t","579v6t","science","scientific","Do you believe the Earth has experienced 'hypercanes' before? ","2016-10-13 16:08:10","2","[deleted]","1747615342.771892","climate science","scientific"
+"d8qgg2n","t3_579v6t","579v6t","science","scientific","Hey Phil! Go Rams! I used to work in the Physics department when I went to CSU. (Little Shop of Physics!)
+Do you give any lectures in FoCo or the Denver area? 
+Also, I would like to hear more about the anthropogenic causes. 
+","2016-10-13 16:48:22","2","thrashglam","1747615342.772883","climate science","scientific"
+"d8qj46b","t3_579v6t","579v6t","science","scientific","Thanks so much for all of the excellent questions!  I have really enjoyed answering them.  Unfortunately, I was not able to get to all of them.  
+
+In the future, feel free to follow our seasonal forecasts at CSU at our project's website:
+
+http://tropical.colostate.edu
+
+Also, I post frequently on hurricane-related topics on my Twitter feed via @philklotzbach.","2016-10-13 17:41:50","2","AmGeophysicalU-AMA","1747615342.774016","climate science","scientific"
+"d8qja6g","t3_579v6t","579v6t","science","scientific","Good afternoon, and thank you for doing this AMA. 
+I have a question that's been brought up a few times at my workplace. 
+How much of a direct factor is global warming on increasing the intensity and frequency of these hurricanes? ","2016-10-13 17:45:10","2","BeardedNoodle","1747615342.774844","climate science","scientific"
+"d8qmnal","t3_579v6t","579v6t","science","scientific","As a CU Boulder student, I am putting aside all rivalries for this AMA.
+
+A general question for undergraduate students planning to pursue a PhD in his/her field for a research career: Aside from GPA, letters of recommendation, research experience, etc... What did you find to be the optimal aspect of undergraduate studies to be successful later in your career?
+","2016-10-13 18:53:03","2","iHeartless","1747615342.7765288","climate science","scientific"
+"d8q4kvv","t3_579v6t","579v6t","science","scientific","Good morning. Really basic question, but what occurs during or after a tropical storm makes it feel less humid than before the storm moved in? ","2016-10-13 12:03:04","1","I_am_NOT_a_brat","1747615342.777524","climate science","scientific"
+"d8q4y4e","t3_579v6t","579v6t","science","scientific","How do you study hurricanes from such a far distance? Don't you feel the need to be more like Jim Cantore and get youself right in the middle?","2016-10-13 12:16:37","1","[deleted]","1747615342.778723","climate science","scientific"
+"d8q52n4","t3_579v6t","579v6t","science","scientific"," What's the current trend in typhoon generation around the Pacific?","2016-10-13 12:20:54","1","_isBobtaken","1747615342.779497","climate science","scientific"
+"d8q5phd","t3_579v6t","579v6t","science","scientific","Do you feel that our growing urban heat zones potentially strengthen hurricanes just as they make landfall? ","2016-10-13 12:42:08","1","handyandy727","1747615342.780478","climate science","scientific"
+"d8q6eqg","t3_579v6t","579v6t","science","scientific","Good day Phil! 
+
+
+I wanted to ask, how hard or easy is it to find a job in something you love? I would like to study Meteorology or anything related to the Earth.","2016-10-13 13:03:42","1","sidhantsv","1747615342.781513","climate science","scientific"
+"d8q6hr8","t3_579v6t","579v6t","science","scientific","Do you see the category scale of Hurricane's changing in the near future to accommodate larger storms?","2016-10-13 13:06:16","1","Bkeeneme","1747615342.782333","climate science","scientific"
+"d8q6rla","t3_579v6t","579v6t","science","scientific","Hello, I am curious why the northeast of the united states have been hit by more hurricanes recently. Are these storms also getting worse? And also why do storms that hit India with crazy wind speeds not hit here.
+Thanks!","2016-10-13 13:14:11","1","Imwhite007","1747615342.783262","climate science","scientific"

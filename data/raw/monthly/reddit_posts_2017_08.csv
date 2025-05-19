@@ -1,0 +1,58 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"6s56co","science","scientific","Science AMA: I’m Seema Jayachandran, economist at Northwestern University. Let me tell you why paying poor farmers to not cut down forests is a cheap way to combat climate change. AMA about why small amounts of money for Ugandan farmers helped preserve endangered chimp habitat, and the atmosphere.","Hi Reddit!
+
+My name is Seema Jayachandran, and I’m an economics professor at Northwestern University, specializing in low-income countries.
+
+I am affiliated with the Poverty Action Lab at MIT (J-PAL), which has championed the use of randomized controlled trials to study the effectiveness of social/economic policies. I am also affiliated with Innovations for Poverty Action, who was our partner for data collection in Uganda for the research I am here to talk about.
+
+My collaborators and I just [published a paper in Science](http://science.sciencemag.org/content/357/6348/267),
+ [short summary here](http://www.poverty-action.org/study/testing-effectiveness-payments-ecosystem-services-enhance-conservation-uganda), that evaluates a program in Uganda that paid individuals to keep their forest intact. Most of the forest is owned by poor farmers who have been cutting trees to sell to timber or charcoal dealers as an extra source of income, or to use the cleared land for growing crops. As a result, the forest is disappearing at one of the fastest rates seen anywhere in the world. The Ugandan government wanted to protect the forest to save chimpanzees and other endangered species, whose habitat is dwindling.
+
+Preserving forests has another big benefit for all of us: It keeps CO2 out of the atmosphere. Trees naturally absorb and sequester CO2 from the atmosphere as part of photosynthesis.  The carbon they are storing is emitted into the atmosphere when they are burned or decompose. Paying forest owners to keep their forests intact is thus one way we can reduce global CO2 emissions.  Furthermore, offering a payment and making the program voluntary means that, unlike under a ban, we are not making poor people worse off. This approach (called “Payments for Ecosystem Services” or PES) has been used in Costa Rica and elsewhere, but there has been a lot of skepticism about whether it actually works (for reasons I’m happy to discuss).
+
+We decided to rigorously test how well PES works using a randomized trial; some villages got the program, and some didn’t. A Ugandan conservation non-profit called [CSWCT](http://www.ngambaisland.org/pes-project) ran the program, and we evaluated the program’s impacts. We compared the amount of deforestation in villages with the program (treatment group) to the ones without it (control group) using satellite imagery.  This is the first time PES has been tested with the randomized controlled trial method.
+
+Bottom-line finding: The program saved a lot of forest. We converted that gain in forest into a quantitative dollar benefit to the world from the delayed CO2 emissions (I’m happy to explain more about how we did that). The climate-change benefits were more than twice the program costs. Our findings don’t mean PES will work always and everywhere, but they should make us more bullish on it. IMO, rich countries should be upping their funding for programs that pay people in poor countries to preserve forests. We need to reduce CO2 emissions, and this seems like a bargain way to do it.
+
+The study was widely covered, [including by the NYT](https://www.nytimes.com/2017/07/20/climate/a-cheap-fix-for-climate-change-pay-people-not-to-chop-down-trees-uganda.html), [the Atlantic](https://www.theatlantic.com/science/archive/2017/07/paying-people-to-preserve-their-trees/534351/), [InsideClimateNews](https://insideclimatenews.org/news/20072017/stopping-deforestation-payment-ecosystem-services-trees-uganda-climate-change), and [Popular Science](http://www.popsci.com/uganda-deforestation-pay).  Northwestern was kind (or mean) enough to post a [short video interview](https://news.northwestern.edu/stories/2017/july/cash-for-carbon-a-cost-effective-way-to-reduce-deforestation/) with me as well.
+
+TL;DR In a first-of-its-kind controlled experiment, paying poor Ugandans not to cut down their forests created twice the value in avoided climate costs as was spent on the program.  We should do it more.
+
+I’ll be back at ~12:00 ET to answer questions!
+
+Edit #1:  Thanks for the insightful questions. This was fun. The allotted time is up, and I am signing off, but will check back later to answer a few more questions. Thanks again for your interest! sj
+
+Edit #2 (4 pm ET): I posted a few more replies. I'll check back in again this evening, so upvote any particular posts that I overlooked but you'd like to see answered!
+
+Edit #3 (6:30 pm ET): There were some great new questions posted, and I posted some answers. Thanks again for your interest in the topic. This was fun! Read the [full study](http://www.seemajayachandran.com/cashforcarbon.pdf) if you want more details, and if you want to help support conservation projects like this one, [our partner in Uganda](http://ngambaisland.org/experimental-methodology-testing-effectiveness-pes/) is hoping to raise money to continue and scale up the program. There is a bunch of other good conservation work being done in Uganda and elsewhere, too. It's a wrap!
+","2017-08-07 12:24:48","15542","460","0.84","https://www.reddit.com/r/science/comments/6s56co/science_ama_im_seema_jayachandran_economist_at/","True","Seema-Jayachandran","1747624538.2849321","climate science","scientific"
+"6uviip","science","scientific","Science AMA Series: We’re a group of researchers in Tuktoyaktuk using drones, thermal imaging, laser scanning and more to better understand the climate-change driven acceleration of Arctic coastal erosion in the Western Canadian Arctic. Ask us anything!","Hi Reddit! Permafrost coasts are incredibly dynamic, and highly vulnerable to climate change. Across the ice rich coasts of the western Canadian Arctic, erosion rates have increased by 20 to 200% since the year 2000, with some coasts now retreating at over 50m per year. The erosional mechanisms here are complex and diverse, with a range of often spectacular failure types, from [huge collapsing blocks]( https://i.imgur.com/WUpQ8pv.jpg) to [massive thaw slumps.](https://i.imgur.com/JPPY97O.jpg) As well as causing rapid changes on land, the increased erosion rate over recent decades is substantially increasing the volume of sediment, nutrients and organic carbon exported to the marine eco-system on an annual basis, with knock on impacts on fisheries, carbon balance and more. To better understand the processes governing the increased erosion and to more accurately assess coastal retreat rates, we’re currently using a range of new and novel technologies, from drones and laser scanning, to long-tern time-lapse photography and thermal imaging [even along large stretches using helicopters!]( https://i.imgur.com/UehI4G9.jpg).
+
+We have a great group here, listed below, ready to answer your questions, and a few others that will chime in too!
+
+
+**Dustin Whalen**: I’m a coastal scientist with Natural Resources Canada. I’ve been studying coastal and nearshore process in the Beaufort sea for the last decade. In that time, I’ve conducted over 30 field programs in the region over the spring, summer and winter, with particular focus on coastal erosion, nearshore sediment dynamics and sea ice break-up.
+
+**Mike Lim**: I’m a senior lecturer in civil engineering from Northumbria University with research interests in coastal geomorphology and slope processes. I’ve previously been engaged in monitoring of coastal dynamics in Svalbard using 3D change detection and thermal characterisation of cliffs.
+
+
+**Samuel Hayes**: I’m PhD student from Northumbria University studying Arctic coastal erosion. This is my first trip to the Arctic, where my activities have ranged from spending hours digging holes for passive seismic surveys to collecting thermal imagery of permafrost cliffs from helicopter!
+
+
+**Roger Macleod**: I’m a remote sensing and geomatics specialist with Geological Survey of Canada. I apply new geomatics technologies, from satellite imagery to drones, to improving our understanding of coastal dynamics in the western Canadian Arctic.
+
+
+**Andrew Gordon**: I’m a technician from the Aurora Research Institute, I have lived here my whole life. I’m an Inuvialuit and a whale hunter.
+
+**Scott Dallimore**: I'm a permafrost scientist with the Geological Survey of Canada. On this project, I'm looking at near shore permafrost degradation.
+
+
+A special thanks must go to [NERC](http://www.nerc.com/Pages/default.aspx) and [INTERACT](http://www.eu-interact.org/) for providing much of the funding for this research.
+
+
+We'll be back around 8 pm EST to answer your questions. Ask us anything about Arctic coastal and near-shore change, conducting field campaigns, life in the Arctic, whale hunting or anything else related, AUA!
+
+[Hard at work answering your questions!](https://i.imgur.com/2Kcx77r.jpg)
+
+
+**EDIT**: Thanks for the questions everyone. We're going to take a break for the night, will try to answer a few more questions over the next day or so. Thanks!","2017-08-20 12:43:02","4375","205","0.86","https://www.reddit.com/r/science/comments/6uviip/science_ama_series_were_a_group_of_researchers_in/","True","Tuktoyaktuk_Research","1747624606.2409332","climate science","scientific"
