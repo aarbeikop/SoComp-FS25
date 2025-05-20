@@ -98,16 +98,14 @@ class SentimentProcessor:
         
         # Try to find the text column if not specified
         if text_column is None:
-            if 'cleaned_message' in df.columns:
-                text_column = 'cleaned_message'
-            elif 'message' in df.columns:
+            if 'message' in df.columns:
                 text_column = 'message'  # Twitter
             elif 'text' in df.columns:
                 text_column = 'text'  # Reddit
             else:
                 logger.error("Could not determine text column for sentiment analysis")
                 raise ValueError("No suitable text column found in the dataset")
-
+        
         logger.info(f"Processing sentiment for {len(df_copy)} items using '{text_column}' column")
         
         # Define sentiment columns
@@ -152,7 +150,11 @@ def main():
     processor = SentimentProcessor()
     df_with_sentiment = processor.process_dataframe(df)
     print(df_with_sentiment.head())
-       
+    
+    output_path = f"data/processed/twitter_data_classified.csv"
+    # Save to a new CSV file
+    df_with_sentiment.to_csv(output_path, index=False)
+    print(f"Saved processed data with sentiment to {output_path}") 
 
 if __name__ == "__main__":
     main()
