@@ -4,19 +4,28 @@ import pandas as pd
 import logging
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from tqdm import tqdm
-from data.data_processor import SentimentProcessor
+from data_processor import SentimentProcessor
+import argparse
+import os
+import sys
+# Add the parent directory to the system path to be able to import nlp_utils.py
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'utils')))
+from nlp_utils import get_vader_analyzer
+# Add the parent directory to the system path to be able to import config.py
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from config import SENTIMENT_THRESHOLDS
 
 # Load your Twitter data
-df = pd.read_csv("twitter_data/twitter_sentiment_data.csv")
+#df = pd.read_csv("twitter_data/twitter_sentiment_data.csv")
 
 # Initialize the processor
-processor = SentimentProcessor()
+#processor = SentimentProcessor()
 
 # Process sentiment (it will use the 'message' column)
-df_with_sentiment = processor.process_dataframe(df)
+#df_with_sentiment = processor.process_dataframe(df)
 
 # Now df_with_sentiment contains sentiment columns for each tweet
-print(df_with_sentiment.head())
+#print(df_with_sentiment.head())
 
 logger = logging.getLogger('sentiment_analysis')
 
@@ -32,7 +41,6 @@ class SentimentProcessor:
         """
         # Initialize VADER sentiment analyzer
         if analyzer is None:
-            from utils.nlp_utils import get_vader_analyzer
             self.analyzer = get_vader_analyzer()
         else:
             self.analyzer = analyzer
@@ -60,7 +68,6 @@ class SentimentProcessor:
         sentiment_scores = self.analyzer.polarity_scores(text)
         
         # Add sentiment category
-        from config import SENTIMENT_THRESHOLDS
         if sentiment_scores['compound'] >= SENTIMENT_THRESHOLDS['positive']:
             sentiment_scores['sentiment_category'] = 'positive'
         elif sentiment_scores['compound'] <= SENTIMENT_THRESHOLDS['negative']:
@@ -91,14 +98,16 @@ class SentimentProcessor:
         
         # Try to find the text column if not specified
         if text_column is None:
-            if 'message' in df.columns:
+            if 'cleaned_message' in df.columns:
+                text_column = 'cleaned_message'
+            elif 'message' in df.columns:
                 text_column = 'message'  # Twitter
             elif 'text' in df.columns:
                 text_column = 'text'  # Reddit
             else:
                 logger.error("Could not determine text column for sentiment analysis")
                 raise ValueError("No suitable text column found in the dataset")
-        
+
         logger.info(f"Processing sentiment for {len(df_copy)} items using '{text_column}' column")
         
         # Define sentiment columns
@@ -135,3 +144,15 @@ class SentimentProcessor:
         logger.info("Sentiment analysis completed")
         return df_copy
     
+def main():
+    parser = argparse.ArgumentParser(description="Process Twitter sentiment data.")
+    parser.add_argument('--path', type=str, required=True, help='Path to the CSV file')
+    args = parser.parse_args()
+    df = pd.read_csv(args.path)
+    processor = SentimentProcessor()
+    df_with_sentiment = processor.process_dataframe(df)
+    print(df_with_sentiment.head())
+       
+
+if __name__ == "__main__":
+    main()

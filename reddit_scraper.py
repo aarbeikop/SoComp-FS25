@@ -228,7 +228,7 @@ def main():
     custom_subreddits = [s.strip() for s in args.subreddits.split(
         ',')] if args.subreddits else None
 
-    # ✅ Use CLI query if provided, otherwise load from YAML
+    # Use CLI query if provided, otherwise load from YAML
     if args.query:
         queries = {"manual": [args.query]}
     else:
