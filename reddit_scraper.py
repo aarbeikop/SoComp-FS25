@@ -220,14 +220,19 @@ def parse_arguments():
 
 
 def main():
-
     logger.info("=== Reddit scraping session started ===")
 
     start_time = datetime.datetime.now()
     args = parse_arguments()
+
     custom_subreddits = [s.strip() for s in args.subreddits.split(
         ',')] if args.subreddits else None
-    queries = load_queries_from_yaml()
+
+    # ✅ Use CLI query if provided, otherwise load from YAML
+    if args.query:
+        queries = {"manual": [args.query]}
+    else:
+        queries = load_queries_from_yaml()
 
     for category, query_list in queries.items():
         for query in query_list:
@@ -237,14 +242,25 @@ def main():
                     last_day = calendar.monthrange(year, month)[1]
                     end_date = datetime.datetime(
                         year, month, last_day, 23, 59, 59)
+                    month_tag = f"{year}_{month:02}"
 
-                    logger.info(f"Scraping '{query}' for {year}-{month:02}")
+                    logger.info(f"Scraping '{query}' for {month_tag}")
+
                     scraper = RedditScraper(
-                        query=query, time_filter='all', limit=args.limit, comment_limit=args.comment_limit)
+                        query=query,
+                        time_filter='all',
+                        limit=args.limit,
+                        comment_limit=args.comment_limit
+                    )
+
                     posts_df, comments_df = scraper.scrape_multiple_subreddits(
                         custom_subreddits)
 
-                    # Filter by actual timestamp
+                    if posts_df.empty and comments_df.empty:
+                        logger.info(f"No data found for {month_tag}")
+                        continue
+
+                    # Filter by timestamp
                     posts_df['created_utc'] = pd.to_datetime(
                         posts_df['created_utc'], unit='s')
                     comments_df['created_utc'] = pd.to_datetime(
@@ -254,16 +270,12 @@ def main():
                     comments_df = comments_df[(comments_df['created_utc'] >= start_date) & (
                         comments_df['created_utc'] <= end_date)]
 
-                    if posts_df.empty and comments_df.empty:
-                        logger.info(f"No data found for {year}-{month:02}")
-                        continue
-
                     posts_df["query_category"] = category
                     comments_df["query_category"] = category
 
+                    # Save to CSVs
                     month_dir = os.path.join(args.output_dir, "monthly")
                     os.makedirs(month_dir, exist_ok=True)
-                    month_tag = f"{year}_{month:02}"
 
                     posts_path = os.path.join(
                         month_dir, f"reddit_posts_{month_tag}.csv")
@@ -275,8 +287,6 @@ def main():
                     comments_df.to_csv(
                         comments_path, index=False, quoting=csv.QUOTE_ALL, doublequote=True, encoding='utf-8-sig')
 
-                    logger.info(
-                        f"Saved {len(posts_df)} posts and {len(comments_df)} comments for {month_tag}")
                     logger.info(
                         f"Saved {len(posts_df)} posts and {len(comments_df)} comments for {month_tag}")
                     logger.info(
