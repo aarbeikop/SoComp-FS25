@@ -1,0 +1,59 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"4rq4i4","science","scientific","Science AMA Series: We are scientists working in (or in collaboration with) NASA’s Earths in Other Solar Systems Team – We have a large program aimed at imaging planets around other stars. Come discuss some of our early and exciting results!","Hi reddit!
+
+We are scientists working to directly image planets around other stars in our galaxy using the world’s biggest ground-based telescopes. Directly imaging the faint light of planets orbiting bright stars is one of the most challenging observations possible in modern astronomy, but is in fact possible with the combined technologies of adaptive optics – correcting for the blurring of the Earth’s atmosphere, and coronagraphy – blocking out most of the starlight, while leaving the planet's light in tact. 
+
+Using SPHERE, one of the latest generations of adaptive optics and coronagraphic imaging instruments installed on the Very Large Telescope (VLT), on mount Cerro Paranal high in the Atacama Desert of Chile, we are conducting a survey of approximately 100 stars to build a census of giant planets in wide orbits. Our survey has just produced its first confirmed planet – one of the first directly imaged planets, and a strange world on a wide orbit in a triple star system. 
+
+While we know of several other exoplanets in multi-star systems, and even one other directly imaged exoplanet in a triple star system, these planets all orbit very close to one of their stars, and are more reminiscent of the case of a planet orbiting a single star. The orbit of this newly discovered planet is roughly one-third of the size of the orbit of the stars, making the planet surprisingly close to boundary of orbital stability. The planet is named HD 131399Ab, and you will have to excuse the alphabet soup catalog name, or suggest a better one. 
+
+In addition to being on a unique orbit, our newly discovered planet is also one of the least massive planets to have been directly imaged. While the planet’s mass estimate of 4±1 times that of Jupiter isn’t exactly “small”, it is when compared to other directly imaged exoplanets, which are each mostly around 10 times Jupiter’s mass. 
+
+The discovery of this lower mass world with direct imaging (and the recent discovery of the even lower mass 51 Eri b) exemplifies the trend of pushing direct imaging capabilities toward lower mass planets, and eventually to Earth-mass planets. Since imaging allows us to directly study the light coming through the planet’s atmosphere, it also uniquely allows us to perform spectral analyses of exoplanet spectra to study their atmospheric compositions. An exciting future possibility of direct imaging is the ability to search for atmospheric chemical biosignatures of life on alien planets.
+
+Currently there are several concepts for a large space-based telescope whose primary science goal will be to directly image Earth-like planets and to study their signs for atmospheric biosignatures. With continued support, it may be possible to perform a truly scientific search for life on other planets by 2040. 
+
+
+We’re interested to see what questions the Reddit community comes up with, and we look forward to talking with you in the comments!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+tl;dr we found a pretty unusual planet by taking pictures of it and would be happy to answer questions about directly imaging exoplanets, exoplanets, space, aliens, science, etc.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We will all be replying under the handle “EOS-Team”, which is to represent those of us formally involved with EOS as well as our irreplaceable collaborators. Project EOS (Earths in Other Solar Systems) is a NASA funded program studying how Earth-like planets form and where we should look for them (led by Daniel Apai at the University of Arizona). EOS is not to be confused with ESO – the European Southern Observatory, with which two of our team members are affiliated. ESO manages the VLT, which was used in the discovery of HD 131399Ab. 
+
+
+We will begin answering questions at 5 PM ET and will continue until 7 PM ET (and later depending on how long our hands can type for). Some of our European team members will also be signing on Friday morning to respond to questions from the other hemisphere. 
+
+
+
+Kevin Wagner, lead author on the discovery paper of HD 131399Ab, NSF Graduate Research Fellow, Astronomy Ph.D. student at University of Arizona, and EOS team-member. 
+
+Daniel Apai, Principal investigator on project EOS, principal investigator on the survey which discovered the planet, and professor at University of Arizona.
+
+Markus Kasper, SPHERE project manager, ESO adaptive optics scientist, EPICS principal investigator (the planet-finding camera for the upcoming 39 meter European Extremely Large Telescope scheduled for 2024)
+
+Kaitlin Kratter, theoretical astrophysicist and expert dynamicist, professor of Astronomy at University of Arizona. 
+
+Melissa McClure, SPHERE science data products fellow at ESO Garching (will be available until Friday morning to answer questions from Europeans who may just be waking up and seeing this)
+
+Daniel Stolte, Science writer at University of Arizona 
+
+Also maybe chiming in:
+
+Shawn Domagal-Goldman, atmospheric biosignatures expert, NASA Goddard Space Flight Center
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+For more information on our recent discovery, see the [press release](https://www.eso.org/public/news/eso1624/) or the [paper](http://science.sciencemag.org/content/early/recent) (or [here](http://arxiv.org/list/astro-ph/new) after 5 PM ET).
+
+For more on [SPHERE](https://www.eso.org/sci/facilities/paranal/instruments/sphere.html)
+
+For more on project [EOS](http://eos-nexus.org/) - [Earths in Other Solar Systems](https://www.facebook.com/EOSNEXSS/?pnref=story)
+
+For more information on [EPICS](http://www.eso.org/sci/facilities/eelt/science/meetings/jenam08/presentations/JENAM08_Kasper.pdf)
+
+For more on [concepts of space-based direct imaging missions](http://www.hdstvision.org/)","2016-07-07 18:29:24","778","153","0.85","https://www.reddit.com/r/science/comments/4rq4i4/science_ama_series_we_are_scientists_working_in/","True","EOS-Team","1747840748.0453372","Fridays for Future","manual"

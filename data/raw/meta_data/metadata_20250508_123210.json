@@ -1,0 +1,38 @@
+{
+    "total_posts": 1,
+    "total_comments": 6,
+    "failed_subreddits": [],
+    "successful_subreddits": [
+        "climatechange",
+        "climate",
+        "ClimateActionPlan",
+        "environment",
+        "science",
+        "worldnews",
+        "news",
+        "collapse",
+        "sustainability",
+        "renewable"
+    ],
+    "start_time": "2025-05-08 12:31:31",
+    "end_time": "2025-05-08 12:32:10",
+    "rate_limit_hits": 0,
+    "posts_file": "data/raw/reddit_posts_20250508_123210.csv",
+    "comments_file": "data/raw/reddit_comments_20250508_123210.csv",
+    "metadata_file": "data/raw/metadata_20250508_123210.json",
+    "tone_mapping": {
+        "climatechange": "action-oriented",
+        "climate": "scientific",
+        "ClimateActionPlan": "activist",
+        "environment": "emotional",
+        "science": "scientific",
+        "worldnews": "mixed",
+        "news": "neutral",
+        "collapse": "skeptical",
+        "sustainability": "action-oriented",
+        "renewable": "action-oriented",
+        "energy": "technical",
+        "green": "lifestyle",
+        "conservation": "scientific"
+    }
+}
