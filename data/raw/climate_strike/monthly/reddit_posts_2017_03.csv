@@ -1,0 +1,34 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"61rj29","collapse","skeptical","Should we introduce a new rule?","During the last months, there was a noticable increase of a particular type of contributions (representative examples. there's much more where these came from):
+
+> **iamsorryunbanme**: Your people can die out but im going to have many children so my people have a chance of living. (-9 points)
+
+> **diversity_is_racism**: The only sane solution is to let them starve. (-8 points)
+
+> **MakeTotalDestr0i**: Thats why we have guns. When some government tells you it is illegal to survive then it is clearly time to start that militia and put some bureaucrats down. (0 points)
+
+> **420AznButtsecks69**: Cap a mudabitch right in da dome. (-8 points)
+
+
+Both the vote count as well as the very emotional reactions (e.g. Topyka2: ""Hang yourself, you scum sucking leach."" (-9 points)) show me that you don't want to see these types of comments here.
+
+We did end up banning diversity_is_racism because he was the strongest offender, but there is one huge issue with that: technically, we had to ban him for climate denial (violation of rule 4). There is no rule yet for these more or less abstract antisocial comments.
+
+
+I thought about expanding rules 6 or 8, but found that these two rules have a different spirit. Rule 6 is purely about minorities, and rule 8 is about preventing harm to our community members. 
+
+Rule 8 (""*No trolling/abusive behavior: Heated discussion is inevitable and tolerated, however there is a clear boundary between heated discussion and abusive behavior. Per reddit site rules, threats, harassment or bullying are all grounds for a warning and then ban.*"") doesn't entirely work in this context. These comments are sincere, in spirit of the discussion, and on-topic, so they really don't count as trolling. There's also no specific victim, so they don't count as threats. And abuse involves violence another discussion partner, which is not the point in these cases.
+
+Rule 6 seems to come close in spirit (""*No discriminatory material: Posts and comments that are found to discriminate against any ethnic minority or social group will be removed and a warning given to the submitter. Repeated violations will result in a ban.*"") but actually there's no specific minority or subgroup involved.
+
+We also can't introduce trivial rules like ""No nazis"" because (1) technically those are all dead now and (2) people can just hide their political orientation. That's why I'd prefer to outlaw *behavior* rather than *orientation*.
+
+Outlawing anti-social behavior would be a good rule in any normal sub, but we do discuss the death of billions of people around here, and I don't think we even *have* social rules in our culture for that context. ""Oh, I'm so sorry your whole country is now permanently underwater. Tissue?""
+
+This is why I propose a new rule:
+
+""*Discuss with empathy: Posts and comments that propose or approve harm against any other people will be removed. That includes indirect harm, for example, proposing or approving to steal food from someone who is starving. Repeated violations will result in a ban.*""
+
+As for the background of this rule: we do have a strong tradition of [consolation](https://www.reddit.com/r/collapse/search?q=flair%3Acoping) and [advice](https://www.reddit.com/r/collapse/search?q=flair%3Aadaptation&restrict_sr=on), and our self post discussions are unusually lively compared to other subreddits of our size. This rule is aimed to make /r/collapse a more humane and comforting place. But it could also prevent an open and honest discussion about our bleak future. So there's a balance to strike here.
+
+I suggest that we discuss possible improvements and loopholes of this rule in this thread. If a majority consensus seems to be forming, we can go to vote next week. Your thoughts?","2017-03-27 11:15:19","51","175","0.81","https://www.reddit.com/r/collapse/comments/61rj29/should_we_introduce_a_new_rule/","True","goocy","1747796485.523478","climate strike","manual"

@@ -1,0 +1,63 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"dyctjbp","t3_8gkfbx","8gkfbx","climatechange","action-oriented","Hello! Environmental science major (with focus in climatology) here! This is a good topic, and you’re right it could be reversed; however, it must be soon, very very soon. As NOAA states “Currently the atmospheric concentration of CO2 (the leading greenhouse gas) is approximately 398.55 parts per million (ppm). The current average annual rate of increase of 1.92 ppm means we could reach the point of no return by 2042.” That being said, any changes need to be made in less than a decade if we hope to slow or reverse CO2 emissions before the point of no return. As for finding data trends your best bet is to use google.scholar it will only bring back scholarly, peer reviewed articles and it should have just about anything you are looking for. I hope this helped!","2018-05-03 00:30:37","3","[deleted]","1747792392.8957949","climate data","scientific"
+"dycvqvf","t3_8gkfbx","8gkfbx","climatechange","action-oriented","I got you fam....
+
+
+Below is the math that shows why trying to do anything that would ACTUALLY affect global temperatures is economic suicide.
+
+-----------------------------------------------
+
+Using the IPCC's own calculations, I will show that the policy recommendations to ""stop"" climate change are insane.
+
+- The IPCC figured a 5% cut in emissions when Australia implemented it's carbon tax by 2020. (the largest and most ambitious plan implemented to date) [source](https://en.wikipedia.org/wiki/Carbon_pricing_in_Australia#History) [source2](http://www.garnautreview.org.au/update-2011/garnaut-review-2011/garnaut-review-2011.pdf)
+
+- 100% of Australia's emissions are 1.2% of global emissions.
+
+- The 5% cut of Australia's global amount of 1.2% is 0.07% of total global emissions.
+
+- IPCC figures Co2 will be 410ppm by 2020
+
+- 0.07% of 410 is 409.988 ppm
+
+- IPCC equation for Co2 forcing is (5.35 * ln(current Co2 / revised Co2 )) or (5.35 * ln(410/409.988)) [source](https://en.wikipedia.org/wiki/Radiative_forcing#Forcing_due_to_atmospheric_gas)
+
+- (5.35 * ln(410/409.988)) = 0.00016 w/m2 of reduced forcing
+
+- Climate sensitivity parameter is simple the change in temperature per w/m2 increase. In other words, the actual change in temp divided by the change in energy 'imbalance' since the start of the industrial revolution(150 years).  Accounting for El Nino it's risen ~ 0.7-0.8 K over the last 150 years, but lets just say 1 C.  
+
+- (5.35 * ln(400 / 280)) = 1.90821095007 w/m2
+
+- 1 C / 1.90821095007 = 0.52 K per w/m2 (PS, This number is unlikely to rise because it's derived from a natural logarithm, thus will asymptotically approach zero as Co2 concentrations rise)
+
+- Then figure the climate sensitivity parameter of 0.52(0.00016) and you get 0.0000832 C reduction in global temperatures.
+
+Read that again... it's 1:12,000th of a single degree Celsius.
+
+Now... for the kicker... The IPCC estimated it would cost Australia 160 billion dollars over the 10 year carbon tax plan to get 0.00016 w/m2 of reduced forcing.. [source, 2011 Garnaut Report, 11.2 billion per year tax, plus other indirect costs](http://www.garnautreview.org.au/update-2011/garnaut-review-2011/garnaut-review-2011.pdf)
+
+**To save a full degree Celsius of warming, based on the IPCC's own math on the Australian carbon tax plan, would cost 3.2 quadrillion dollars.... or 43 times total global GDP.**
+
+Does climate change really matter if the only realistic solution is an economic apocalypse?
+
+According the the stern report(the biggest economic study ever done on climate economics, by the Royal Society of the UK), global costs, under a worst case(nothing done) scenario are expected to be ~ 5% of GDP per year. https://en.wikipedia.org/wiki/Stern_Review
+
+That means that if the costs of a carbon tax costs the average person more then 5% per year, then it is not worth it. Given that emissions are basically synonymous with GDP, a 5% cut in emissions would have an impact on temperatures literally too small to measure, but huge economic ramifications.
+
+To use the above math on how long it would take to achieve a single C drop in temps spending 5% of global GDP on it.
+
+
+- (5.35 * ln(400 / (400+ (20 * 0.05)))) = -0.01335830906 w/m2 (co2 rises ~ 2ppm per year, figured a 5% cut over 10 years, or **400 +(20 * 0.05)**)
+
+- (0.52) * -0.01335830906 = -0.00694632071 K
+
+- 1/0.00694632071 =  143.96 * 10 = 1440 YEARS
+
+Well fuck.  1440 years to mitigate a single degree C at 5% GDP cost(3.5 trillion per year).  How many star systems can we colonize before then? 
+
+**So you are stuck in a paradox. Either you drastically lower the average living standard to a level far worse then climate change would ever cause, or cut emissions to a level that would have no discernible impact on global temperatures.** In either case, it makes no sense.
+
+You can argue about the plants and animals... But I can guarantee that any cut that is forced on people strong enough to have a measurable impact... would cause an economic apocalypse large enough to cause widespread environmental destruction. Starving people will burn the forests for energy and hunt everything to extinction, in order to survive.
+
+To end this... Nuclear power is the only realistically viable path to disconnecting the carbon emission = GDP connection, But It's not ""deniers"" stopping the nuclear revolution... it's environmentalists.
+","2018-05-03 01:08:57","1","FireFoxG","1747792392.906637","climate data","scientific"
+"dyd4yq9","t3_8gkfbx","8gkfbx","climatechange","action-oriented","Research the representative concentration pathways (RCPs) used by the IPCC. They give you four scenarios and the assumptions behind each. Right now, RCP 8.5 is all but impossible because we lack enough fossil fuels to realize that projection.","2018-05-03 03:54:02","2","Will_Power","1747792392.908383","climate data","scientific"

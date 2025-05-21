@@ -1,0 +1,19 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"cy9gh7k","t3_3y08n7","3y08n7","sustainability","action-oriented","The two reports very because they likely use country-specific production data. Are you in the US? I studied the environmental impact (GHGs and water consumption) of foods for my masters... it gets complicated quickly and there isn't a super clean, easy answer (especially when comparing between products of the same grouping, i.e. a carrot vs. a zucchini). Production data is aggregated by food type (cattle ranching, fresh fruit farming, beans/grains/nuts, etc.) and by nation. These categories are the easiest to look at when deciding the most environmentally conscious way of eating. 
+
+Check out Carnegie Mellon's [input-output LCA calculator](http://www.eiolca.net/cgi-bin/dft/use.pl).
+
+I know you mentioned emissions, but please keep in mind that there are a number of other environmental impacts that you could and should consider, such as water use, impact on biodiversity, land use, toxicity, etc. So even if fish has a low emissions profile in general, it's not necessarily ""better for the environment"" than eating chicken - it inevitably involves a value judgment.
+
+You probably already know, but in general it's the following, worst to best:
+- beef/lamb/pork
+- dairy
+- grains/nuts/seeds
+- eggs/chicken
+- veggies
+- fruits
+
+The units also matter - measuring by kcal is going to be tough to find, since most of the data is economic data. You're more likely to find impact per dollar.
+
+PM me if you want more info.","2015-12-23 23:00:59","2","scrumtrulescence","1747695422.587445","CO2 emissions","scientific"
+"cy9r4xp","t3_3y08n7","3y08n7","sustainability","action-oriented","[I enjoyed this post very much](http://www.reddit.com/r/sustainability/comments/1ut3a1/how_much_co2_does_your_protein_cost/), although I can't speak to its veracity.","2015-12-24 04:56:39","2","Pop-X-","1747695422.590375","CO2 emissions","scientific"

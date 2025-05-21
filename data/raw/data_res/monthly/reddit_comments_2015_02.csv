@@ -1,0 +1,43 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"coqq35q","t3_2wg768","2wg768","climatechange","action-oriented","/u/Will_Power's summary of climate measurement is excellent, so I won't go into that here. Instead I'm going to talk about the 'hard data' that science requires.
+
+Studies of human-caused climate change don't just depend on observations of the climate state. They're an important part, but not the only one. Here are two of the 'basic physics' points on which climate change theory rests:
+
+* Earth warms and cools through changes in its energy balance. This is just the first law of thermodynamics - established well before we had comprehensive measurements of the Earth's climate.
+
+* CO2 absorbs infrared radiation, reducing Earth's rate of emission of energy to space. This was measured in a laboratory by John Tyndall in 1861.
+
+Now, these two things are scientific facts, and only nutjobs dispute this kind of stuff. The real question is how sensitive Earth's temperature is to an energy imbalance, whether caused by CO2 or some other factor. Our estimates of this depend on the size of climate feedbacks, and our uncertainty range on these estimates are still about as broad as they have always been. 1.5 - 4.5 degrees C per doubling of CO2 is the current best estimate.
+
+So parts of climate change theory don't directly rest on comprehensive data on past climates. However, such data greatly improve our understanding of climate processes and help us get a handle on those feedbacks I mentioned.
+
+Finally, and crucially, the temperatures don't have to be 'unprecedented' to prove anything. We know most of the warming since pre-industrial times has been due to human-emitted greenhouse gases because:
+
+1. We have observed an increase in greenhouse gas concentrations (uncontroversial).
+
+2. We know greenhouse gases reduce Earth's emission of energy and can calculate the effect on the energy imbalance they have had (uncontroversial).
+
+3. We have no other plausible driver of an energy imbalance to account for the observed warming (pretty uncontroversial, but uncertainty in the estimates of the relative sizes of different drivers do have an effect - especially aerosols).
+
+Unfortunately, nothing I've described tells us in a straightforward fashion what might happen in the future. For that we have to delve deeper into the physical phenomena of the climate system and characterise climate processes and climate feedbacks. For that we absolutely need good observational data. Things are getting pretty exciting in terms of observations now, I think. We have some very long-term records, but we are also getting new satellite instruments capable of observations of astounding quality.
+
+Hope that's useful!
+
+","2015-02-19 20:50:01","10","nimbuscile","1747732715.67945","climate data","scientific"
+"coqjfn5","t3_2wg768","2wg768","climatechange","action-oriented","I'm not a climate scientist either.  I'm the mod here, but not speaking as a mod right now.  I will give you a little of what I know.
+
+Reconstructing past temperature is a real challenge, and scientists have used some clever methods to do it.  Some have taken to using journal entries, ships' log, etc. to identify growing seasons, occurrences of frost, etc. to identify trends.  What's nice about this approach is that it can verify specific anomalies like 1816, the year without a summer, that was likely caused by the eruption of Mount Tambora the previous year.
+
+The most common approach, though, is to use proxy data.  There are many sorts of proxy data that can be used.  Tree rings spring to mind, but there are all sorts.  Sediments at the bottom of lakes.  Elements present in ice cores.  Elements present in land soil samples even.  Sea levels from previous interglacials.  (This one, obviously, only shows interglacials warmer than the present one.)  Locations of fossils by species.  All sorts of things.
+
+Scientists are pretty good at pointing out the error margins when using proxy data.  They look for multiple lines of evidence.  Unfortunately, the media isn't too good at understanding statistics, so they'll report a given proxy as though it were a thermometer reading.
+
+Even in the modern day, establishing temperatures is more difficult than one might think.  We have surface records going back a couple hundred years in a very few locations, but the number of surface stations really only became substantial during the last century.  Even then, urbanization has encroached on existing stations.  There were stations that were far from towns when they were first set up that are now literally surrounded by asphalt.  So those stations' data must be corrected using various homogenization algorithms and the like.  
+
+Atmospheric temperature data was really spotty before the late 1970s.  Prior to that, we relied on radiosonde data from weather balloons.  After that time we have satellite data which gives us measurements of IR for the various atmospheric layers.
+
+Ocean temperature data was very poor until the 1950s, and quite poor until the ARGO project was created in the last decade or two.  There are buoys spread around the ocean that dive to several hundred, maybe a couple of thousand, meters; they then return and report.
+
+So I don't know that I've answered your question in full.  I hope I've given you, in broad strokes, some of the approaches scientists have taken to reconstruct past temperatures.
+
+**Edit:** If reddit works the way I think it does, I'll see if I can summon /u/nimbuscile by mentioning his name.  He's a climate scientist out of the UK who is very good at explaining such things.","2015-02-19 18:07:34","4","Will_Power","1747732715.6860569","climate data","scientific"

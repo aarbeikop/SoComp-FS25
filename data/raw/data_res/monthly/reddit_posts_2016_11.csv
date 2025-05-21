@@ -1,0 +1,13 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"5apf20","science","scientific","PLOS Science Wednesday: Hi Reddit, we're Colin Carlson and Eric Dougherty, and we developed an ecological model using historical data to map Zika transmission patterns -- Ask Us Anything!","Hi Reddit,
+
+My name is Colin Carlson and I'm a PhD student at UC Berkeley in Environmental Science, Policy and Management. My research is focused on testing the relationship between climate change, biodiversity loss and the emergence of new diseases, usually in the context of spatial patterns on a global scale.
+
+My name is [Eric Dougherty](
+https://ourenvironment.berkeley.edu/people/eric-dougherty) and I am a PhD Candidate at the University of California Berkeley. My research focuses primarily on modeling the transmission of infectious diseases through wildlife populations.
+
+We recently published a study titled [""An Ecological Assessment of the Pandemic Threat of Zika Virus""](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004968) in [PLOS NTDs](http://journals.plos.org/plosntds/). The study aimed to use historical records of Zika presence from around the world to map the potential geographical extent of the current outbreak. We determined that the threat of vector-borne Zika is much greater in the tropics than in temperate regions like the United States or Europe, though a shift towards increased sexual transmission or evolution in the virus could alter these dynamics.
+
+You can also see some of our other work, focused on parasite extinction in a changing climate, at [pearl.berkeley.edu](http://pearl.berkeley.edu/)!
+
+**We will be answering your questions at 1pm ET -- Ask Us Anything!**","2016-11-02 11:50:20","2015","113","0.82","https://www.reddit.com/r/science/comments/5apf20/plos_science_wednesday_hi_reddit_were_colin/","True","PLOSScienceWednesday","1747765850.8678348","climate data","scientific"

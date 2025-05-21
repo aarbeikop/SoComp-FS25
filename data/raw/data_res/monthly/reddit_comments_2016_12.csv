@@ -1,0 +1,565 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"dbl7a2w","t3_5k3upu","5k3upu","climatechange","action-oriented","The Mauna Loa Observatory (MLO), Hawaii, has been continuously monitoring and collecting data related to atmospheric change since the 1950's.
+
+The station has arguably the longest running direct measurement of carbon dioxide levels on the globe.
+
+https://www.esrl.noaa.gov/gmd/ccgg/trends/","2016-12-24 19:09:23","2","Gusepi_mrk-II","1747766695.461333","climate data","scientific"
+"dblaenw","t3_5k3upu","5k3upu","climatechange","action-oriented","Do you mean the data as collected originally? or the data after it's been processed and adjusted?  Because the data that is used today is highly massaged.  Temperature data from before 1979 is pretty heavily lowered, for various reasons, and temperature data for after 1979 is homogenized and adjusted so that rural temperatures are raised up to match nearby cities.  This is all fairly well documented and defended by the keepers of the data.
+
+I've stopped bothering to care what their charts say a while ago.  They say we've warmed by 1.2º over pre-industrial temps?  Okay, whatever.  Several years ago, it was 0.8º, but that got adjusted up by about 50% when they decided to adjust how we treated water temperature readings.
+
+It could take a lot of years for one man alone to recreate the temperature adjustments used by the climate change industry and arrive at their current estimate of how hot we are.  If you used the raw temperatures, taken at stable sites, some parts of the world (the Southeast of the US, for example) show no warming AT ALL.  That can't be allowed to stand, so they adjust.","2016-12-24 20:24:09","3","deck_hand","1747766695.4658382","climate data","scientific"
+"dblzetb","t3_5k3upu","5k3upu","climatechange","action-oriented","In addition to the original post, direct measurements such as temperature only date as far back as the last 140 years or so (i.e. the modern instrument era).  
+
+
+Instead, climate proxies are used, that are, indirect measurements to better understand and reconstruct climatic conditions [such as temperature, atmospheric composition, etc.].  Arguably, ice cores sampling is the most common method; whereby isotopic analysis is conducted.
+
+The reason I state this is that I wanted to make you aware that the raw data from direct measurements only cover a (relatively) brief period of Earth's history.","2016-12-25 10:37:37","2","Gusepi_mrk-II","1747766695.468752","climate data","scientific"
+"dbmrnvn","t3_5k3upu","5k3upu","climatechange","action-oriented","Good luck, at least with the temperature sets.
+
+http://www.judicialwatch.org/press-room/press-releases/judicial-watch-sues-for-documents-withheld-from-congress-in-new-climate-data-scandal/
+
+>Judicial Watch announced today that it filed a lawsuit on December 2, 2015, in the U.S. District Court for the District of Columbia seeking records of communications from National Oceanographic and Atmospheric Administration (NOAA) officials regarding methodology for collecting and interpreting data used in climate models (Judicial Watch v. U.S. Department of Commerce (No 1:15-cv-02088)). 
+
+The people who fund these climate organizations had to sue for the data(and methods).  To my knowledge, there is no public data set showing the raw unadjusted numbers or what methods they used on the released info. I too would love to see what the public would find with the raw data. I've been looking for a very long time, but to date, I've only read about lawsuits and bullshit regarding this shit.
+
+This actually one of the prime reasons I am skeptical of climate claims. Its not science if we cant replicate the findings. If you do find anything, please post it.","2016-12-26 02:48:02","2","FireFoxG","1747766695.471906","climate data","scientific"
+"dbr5ap7","t3_5k3upu","5k3upu","climatechange","action-oriented","What level of data do you require? There is a firehose of it available! 
+
+ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/
+and a useful tool for it:
+http://realclimatescience.com/ghcn-code/
+
+This one is excellent, and includes model output: 
+http://climexp.knmi.nl/selectdailyseries.cgi?id=someone@somewhere
+
+If you want hourly data:
+http://www.ogimet.com/synops.phtml.en
+
+A list of ""team approved"" data sources at Mike Mann and Gavin's site:
+http://www.realclimate.org/index.php/data-sources/
+
+Satellite:
+Lower Troposphere: http://vortex.nsstc.uah.edu/data/msu/v6.0beta/tlt
+Mid-Troposphere: http://vortex.nsstc.uah.edu/data/msu/v6.0beta/tmt
+Tropopause: http://vortex.nsstc.uah.edu/data/msu/v6.0beta/ttp
+Lower Stratosphere: http://vortex.nsstc.uah.edu/data/msu/v6.0beta/tls
+http://data.remss.com/
+
+Radiosonde:
+http://hadobs.metoffice.com/hadat/hadat2/hadat2_monthly_global_mean.txt
+
+Radiative transfer code:
+http://rtweb.aer.com/lblrtm_frame.html
+
+General (processed) data can be found here, click on Data tab at bottom:
+
+http://www.woodfortrees.org/plot/gistemp/mean:30/plot/gistemp-dts/mean:30/plot/hadcrut3vgl/mean:30/plot/hadcrut3gl/mean:30/plot/hadcrut4gl/mean:30/plot/rss/mean:30","2016-12-29 13:10:03","1","AuLaVache2","1747766695.475455","climate data","scientific"
+"db84u33","t3_5iha6f","5iha6f","science","scientific","Can humans realistically plant enough trees to reverse the effects of mass deforestation since the Industrial Revolution? Is there reasonable room for thinking people to be optimistic about the future of Earth's forests?","2016-12-15 13:09:28","246","[deleted]","1747767176.376843","climate data","scientific"
+"db84kur","t3_5iha6f","5iha6f","science","scientific","Do you and your colleagues anticipate changes in how your research is conducted/funded with an incoming administration that has openly questioned climate change?","2016-12-15 13:00:08","117","TheWorriedWart","1747767176.378209","climate data","scientific"
+"db84bc3","t3_5iha6f","5iha6f","science","scientific","What's the most interesting anomaly you've found whilst doing this job?","2016-12-15 12:50:19","80","CamPlaysOverWatch","1747767176.379274","climate data","scientific"
+"db8513l","t3_5iha6f","5iha6f","science","scientific","[One study has shown](http://www.abc.net.au/news/2016-11-09/plants-key-to-recent-pause-in-growth-rate-of-atmospheric-co2/8006072) that the rate of growth in atmospheric carbon dioxide has slowed, despite an increase in CO2 emissions from human activity, due to an increased uptake of the greenhouse gas by the planet's plants.
+
+[Another has shown](http://theconversation.com/plants-absorb-more-co2-than-we-thought-but-32945) that over the past 110 years some climate models over-predicted the amount of CO2 that remains in the atmosphere, by about 16%.
+
+[Another study](https://www.theguardian.com/environment/2016/dec/12/rapid-rise-methane-emissions-10-years-surprises-scientists) has shown that melting permafrost has released large amounts of methane. 
+
+Taking these studies into consideration, is it possible that we may still be able to halt, slow, or reverse, the currently inexorable increase in global temperatures? And if it IS possible, what steps would that entail?","2016-12-15 13:16:21","62","drewiepoodle","1747767176.381205","climate data","scientific"
+"db84c7j","t3_5iha6f","5iha6f","science","scientific","This AMA is being permanently archived by *The Winnower*, a publishing platform that offers traditional scholarly publishing tools to traditional *and* non-traditional scholarly outputs—because scholarly communication doesn’t just happen in journals.
+
+To cite this AMA please use: [https://doi.org/10.15200/winn.148180.06262](https://www.thewinnower.com/papers/5862-science-ama-series-i-m-brian-buma-assistant-professor-at-the-university-of-alaska-i-study-forest-disturbances-around-the-world-focusing-on-emerging-mortality-associated-with-climate-change-and-carbon-water-forests-as-an-integrated-system-ama)
+
+You can learn more and start contributing at [*authorea.com*](https://authorea.com)
+","2016-12-15 12:51:16","57","redditWinnower","1747767176.382493","climate data","scientific"
+"db88829","t3_5iha6f","5iha6f","science","scientific","Hey thanks for doing this AMA! This strikes really close to home for me, I live in north west Labrador above the 53rd parallel, very remote area, literally 700 miles in either direction to the next town.
+
+We have a couple of unique features in my area and I'm hoping you can offer some advice.
+
+We have a huge problem with dust. We're located in between two iron ore mines, two very large  ore productions within 2 miles of town.
+Their tailings line's have piled up over the last 50 years so basically the entire outline of town is a giant sand pit 
+
+Included a photo for reference. [You can clearly see tailings lines and their proximity to town.](http://imgur.com/FbWRwr4)
+
+One of the mines closed a couple years ago leaving absoutely no upkeep for dust reduction.
+
+And here comes problem number two, 
+[the Forrest fire of 2013](http://imgur.com/kvyRyQb)
+
+It's a bit hard to see but on that map but you can see the outline of the tailings sand pits from the previous photo and, in red,the amount of tree cover we lost to that one fire.
+
+So, after spending the last 3 years choked to death with [dust](http://imgur.com/PcoQixp) in the summer time.
+
+And being ""Conveniently"" located in between the two biggest CO2 producers east of Montreal, and with the upcoming changes in the carbon tax pricing
+
+I've been looking at the viability of a Silviculture project to help with 
+ 
+1) dust suppression
+2) reforestation 
+3) species diversification 
+4) local area ascetics 
+5) the creation of offset credits
+
+So my questions are
+
+What cold hardy species can be successfully introduced to a boreal forest area, dominated by coniferous trees to improve diversification? 
+
+in regards to dust suppression, I'm assuming a root heavy shrub or bush, perhaps an alder bed might be more effective in retaining top soil material.
+In the past they would just hydroseed grass on top, but that requires annual upkeep. Any species in mind that might have a good, fast growing(hopefully not super invasive), tight holding root system to use in between tress?
+
+And honestly, I don't know very much about the creation of offset credits, any experience with this? 
+
+And in regard to asethic, you can see the entire project area from my town, do you know of any diversification projects that had visual appeal for an area in mind during the creation process?  I'd love to look into them
+
+Thanks agian for doing this AMA, look forward to your reply
+
+
+
+
+
+
+
+","2016-12-15 14:48:06","55","robtheAMBULANCE","1747767176.385556","climate data","scientific"
+"db85g2g","t3_5iha6f","5iha6f","science","scientific","Ahoy fellow Professor. My dad spent all of last summer (2015) in Alaska fighting fires and has spent the last 40 years in the middle of fires. He just returned from the Great Smokey Mountain fires. 
+
+What is your opinion on just letting the natural-caused fires from lightening strikes just run their course as long as they are in wild lands? ","2016-12-15 13:30:20","41","[deleted]","1747767176.387157","climate data","scientific"
+"db881k3","t3_5iha6f","5iha6f","science","scientific","Have you ever worked with someone or do you have knowledge of anyone studying the effects of climate change on the microbiology of such systems? 
+
+
+I ask because of the possibility that bacteria might not be as adaptable to climate change as first thought - https://www.sciencedaily.com/releases/2016/03/160315085942.htm 
+
+How could this affect/be affecting the ecosystems you study? 
+","2016-12-15 14:43:38","37","thatsconelover","1747767176.3882","climate data","scientific"
+"db84lay","t3_5iha6f","5iha6f","science","scientific","Wat would be the effect of the States not investing in climate change for 4 years, do you think? ","2016-12-15 13:00:33","37","MissingFucks","1747767176.389201","climate data","scientific"
+"db85irs","t3_5iha6f","5iha6f","science","scientific","The focus is always seems to be on temperature. How has humidity been changing?","2016-12-15 13:32:46","21","johnmudd","1747767176.390481","climate data","scientific"
+"db85rcg","t3_5iha6f","5iha6f","science","scientific","Thanks for answering questions! I'd like to know : if you could only get one point across to the general public, what fact do you feel everyone should know regarding water resources? ","2016-12-15 13:40:21","18","SixVISix","1747767176.391933","climate data","scientific"
+"db869th","t3_5iha6f","5iha6f","science","scientific","How do you keep from getting despondent about the way we treat our environment?","2016-12-15 13:55:56","18","llammaddramma","1747767176.394014","climate data","scientific"
+"db8403y","t3_5iha6f","5iha6f","science","scientific","Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts.
+ 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+","2016-12-15 12:38:00","1","Doomhammer458","1747767176.395543","climate data","scientific"
+"db869ss","t3_5iha6f","5iha6f","science","scientific","How many years of schooling did it take to get where you are?  What degrees do you have?  Can you make a decent living in environmental science?","2016-12-15 13:55:55","13","ZeroXephon","1747767176.396907","climate data","scientific"
+"db88526","t3_5iha6f","5iha6f","science","scientific","If the worse case scenario for climate change happens. What type of ecosystems do you predict would be created in the types of areas you are studying. What flora and fauna would evolve/adapt to fit into this area? What do you predict the animals of the future (if they survive at all) to look like? aka smaller animals, hairless moose, skinny seals. What modern day country or area would Alaska be similar to if it warms up significantly. Would Alaska eventually have the same ecosystems as that country. ","2016-12-15 14:46:04","12","[deleted]","1747767176.398347","climate data","scientific"
+"db85lwc","t3_5iha6f","5iha6f","science","scientific","Thank you for answering questions. I have a degree in ecology and studied both high alpine and forested environments and have seen the effect of tree mortality in the Rocky Mountain West. From what i have studied the increased density of trees along, in conjunction with our burn/ wildfire policy in the past and climatic changes in temperature has allowed the beetle infestation to ramp up to current levels. Do you see a way forward, given resistance to most procedures that would allow these forests to be thinned to their previous states, to get back to a state where natural disturbances provide the necessary ecological niches that make for a more healthy environment, for both the animals and plants? Also what do think of the study of island biogeography and other sciences that seeks to understand the effect of edge conditions? ","2016-12-15 13:35:33","11","virtual_cancer","1747767176.3998652","climate data","scientific"
+"db87bh1","t3_5iha6f","5iha6f","science","scientific","Dr. Buma, thank you for doing this AMA.
+
+I and my colleagues have been working with GIS data of Alaska wildfires to study effects of human interaction and fire suppression methods, and how it's been changing.  We would like to incorporate indicators about the health of the local trees.  For a simple example, if there is a lot of dead trees, I would expect the fire to spread faster. 
+
+What would you recommend that we focus on? Do you know of any GIS data of such indicators for Alaska?","2016-12-15 14:25:04","7","weaselword","1747767176.400938","climate data","scientific"
+"db8ax8q","t3_5iha6f","5iha6f","science","scientific","How much does your research rely on data from NASA? Do you have any insight on what the trump administration means for this kind of data collection? ","2016-12-15 15:49:40","8","Looopy565","1747767176.40174","climate data","scientific"
+"db84t96","t3_5iha6f","5iha6f","science","scientific","I'm wondering if you've studied birds and how this is affecting their migratory patterns?  
+What advice would you give to someone starting school for your job field or similar areas?  
+What can WE do to help your studies in terms of collecting data?","2016-12-15 13:08:37","7","[deleted]","1747767176.402715","climate data","scientific"
+"db85uoy","t3_5iha6f","5iha6f","science","scientific","Is planting a gingko or other ancient species in your yard a good hedge against the erratic/extreme weather and migrating bugs that come with climate change? If so, what are some other species that have a better chance of survival from extreme or abnormal conditions? (I live in the Great Lakes region.)","2016-12-15 13:43:13","6","LudovicoSpecs","1747767176.403785","climate data","scientific"
+"db89k3o","t3_5iha6f","5iha6f","science","scientific","Trump and his stance on climate change being a hoax. How will this affect your work and what measures are being taken to allow its continuance?","2016-12-15 15:19:49","8","LG-Transformed","1747767176.404673","climate data","scientific"
+"db8hqst","t3_5iha6f","5iha6f","science","scientific","How many times have you done the joke where you clutch your chest and sit down with an alarmed look on your face so a colleague will ask you ""what's wrong?"" and you can reply ""I felt a great disturbance in the forest""","2016-12-15 18:05:23","6","[deleted]","1747767176.405555","climate data","scientific"
+"db85mrz","t3_5iha6f","5iha6f","science","scientific","The soil observation is interesting. How much of that is ""normal,"" in that it happens from time to time, like a forest fire? Also, at NOAA they talk a lot about the beatle problem. Does that affect your area of study, too?","2016-12-15 13:36:20","5","YoursTroolee","1747767176.406334","climate data","scientific"
+"db86l4c","t3_5iha6f","5iha6f","science","scientific","Hi! That's good work that you're doing.
+
+I wonder, with Trump's statements regarding NASA's Earth Sciences division, do you fear that your work too might be somewhat in jeopardy or at least hampered if those plans come to fruition? I can imagine it really screwing with data collection.","2016-12-15 14:05:03","6","C0wabungaaa","1747767176.4074209","climate data","scientific"
+"db8ar34","t3_5iha6f","5iha6f","science","scientific","How bad is it? Has global warming gotten to irreversible levels? Can planting enough trees help reverse it? ","2016-12-15 15:45:57","4","Basi_cally","1747767176.4099069","climate data","scientific"
+"db86j03","t3_5iha6f","5iha6f","science","scientific","I too think the die-offs from lack of insulating snow is an interesting interaction. Do you think that there are any communities or ecological interactions that are known and studied, but are crucially underrepresented in the ""mainstream"" media in its possible effects on climate change? I'm always wondering if changing climatic conditions affecting something like mycorrhizal communities more quickly and drastically than the trees themselves. Do you think there are cases of devastating ecological changes that have already occurred (or are occurring) and are known, but are almost entirely glossed over?","2016-12-15 14:03:22","5","flapjackncoke","1747767176.411057","climate data","scientific"
+"db8bgsb","t3_5iha6f","5iha6f","science","scientific","Fellow Alaskan here, out of Anchorage, and your area of study instantly reminded me of the massive wind storm we had a few years back that caught us in the fall, uprooted tons of trees, did a lot of damage and so on. Many outlets at the time contributed it to an unusually warm fall and the ground not being frozen enough to withstand the seasonal winds. If this is indeed the case, do you suspect these kind of events will become more common as we keep getting hit with warmer winters? 
+
+We had so little snow fall here in Anchorage last year that it's been pretty prominent in my mind. Not in a doom and gloom sense, just in a eye opening way once I thought back to how I remember winters being when I was a kid versus now. ","2016-12-15 16:01:09","3","RendiaX","1747767176.412363","climate data","scientific"
+"db8538e","t3_5iha6f","5iha6f","science","scientific","I know nothing about your trees, but I studied a lot about the amazon and their trees and how it's a carbon sink and as there is less flooding (because of dams) those adapted trees are dying. So like I said I know nothing:
+
+The trees that die off in Alaska due to lack of snow how much carbon do they hold, and what do you suspect is being release?
+
+ what is the percent of illegal logging(is there?) that's contributing to deforestation compared to environmental effects?
+
+Remind me to share with my professor she will love this! Thank you!
+
+Edit: spelling. ","2016-12-15 13:18:26","2","generalswanson","1747767176.413413","climate data","scientific"
+"db855ub","t3_5iha6f","5iha6f","science","scientific","How has your methodology been affected by emerging research regarding early warning signals (EWS) of decline in tree ring records?  It seems freezing induced mortality would be sudden but have you looked for clues to suggest susceptibility may be determined in earlier years?","2016-12-15 13:20:57","3","-RachelRoo","1747767176.414291","climate data","scientific"
+"db85e6f","t3_5iha6f","5iha6f","science","scientific","I've heard about the stresses the Amazon will face due to the increase in temperature in the region. How much less carbon will the Amazon uptake due to climate change?","2016-12-15 13:28:36","3","mistaknomore","1747767176.4151602","climate data","scientific"
+"db862ra","t3_5iha6f","5iha6f","science","scientific","How much does it hurt to watch TV shows/movies that are supposed to be set in one place but their foliage obviously places them elsewhere?","2016-12-15 13:50:06","2","JaxTheHobo","1747767176.415839","climate data","scientific"
+"db86fxp","t3_5iha6f","5iha6f","science","scientific","Thank You for doing this AMA. 
+
+My question silly at best. As water levels rise what will happen to the forests when there is bow a foot or so of sea water claiming the land. Take Florida for example, North Florida is about 25ft or so above sea level. Will trees just be sticking out of the flooded areas for X years until they die? If they survive (Assuming they are tall enough) will there just be weird tree top ecosystems, all refugees from the ground, sticking out above the waves.  So with that in mind, Should I plant redwood trees all around here?
+
+The ocean claiming forests will at least be good for new reefs and such right?","2016-12-15 14:00:49","3","[deleted]","1747767176.416925","climate data","scientific"
+"db86jwr","t3_5iha6f","5iha6f","science","scientific","I recall a few years ago there was a cold snap that killed a substantial amount of cattle in the Dakotas, the weather went from warmish to very cold so quickly that the cows had not grown out sufficient winter coats to protect themselves, and they died from the cold.  
+
+Has this been seen in wildlife as well?  Is this climate-change-driven weather variability killing beyond habitat loss? ","2016-12-15 14:04:05","5","nate","1747767176.417862","climate data","scientific"
+"db878dr","t3_5iha6f","5iha6f","science","scientific","If you had a meeting, regarding climate change, with Donald Trump tomorrow... what would you tell him?
+","2016-12-15 14:22:49","4","Popatot","1747767176.4186418","climate data","scientific"
+"db87hsr","t3_5iha6f","5iha6f","science","scientific","I was recently in Chilean Patagonia where the locals said that they were getting less rain in the temperate rain forest than they normally do and this was affecting the ecosystem.  It also looks like the Atacama desert is moving southwards.  Do you think that if the climate is moving south that trees will be able to keep up with the pace of the climate or will they be stuck in isolation and go extinct (eg. Monkey Puzzle or Alerce)","2016-12-15 14:29:40","4","gymbal","1747767176.419507","climate data","scientific"
+"db88bpn","t3_5iha6f","5iha6f","science","scientific","I have heard that the forrest grows faster due to the abundance of CO2 in the atmosphere, is this true? 
+
+Does it then replenish the wood faster than it is depleated?","2016-12-15 14:50:34","3","rand0m0mg","1747767176.420068","climate data","scientific"
+"db88gsm","t3_5iha6f","5iha6f","science","scientific","I saw a Facebook comment the other day claiming that forest fires release more CO2 than all of cars and/or fossil fuel output (don't recall the exact claim, but figure might as well see). I wasn't able to google-fu my way to verify or dispute that claim, and was wondering if you could help give some approximate numbers. (And insert obvious caveat of the difference between trapped carbon and renewable carbon, but still curious about the numbers).","2016-12-15 14:54:05","4","N8CCRG","1747767176.421088","climate data","scientific"
+"db88yco","t3_5iha6f","5iha6f","science","scientific","Redditor from Fairbanks, AK here. Seeing as our seasons bring some of the most dramatic changes not only in temperature, but also hours of daylight, shouldn't ecosystems in our area be adapted for unpredictability and variability in climate? ","2016-12-15 15:05:44","3","jcmoney18","1747767176.421972","climate data","scientific"
+"db8actw","t3_5iha6f","5iha6f","science","scientific","Hello and thank you for doing this AMA.
+* How would you swiftly address current ""denialismism"" around science, with examples from your work? (And by these denialisms I englobe everything, from flat-earthers to climate change deniers and overpopulation skeptics);
+* And... can I work for you? I'm a brazilian biologist, with background on ecology and botany, and would like to move to Alaska.  ","2016-12-15 15:37:26","3","CaptainRaz","1747767176.423083","climate data","scientific"
+"db8avde","t3_5iha6f","5iha6f","science","scientific","Hello there! Small world in this field. I did my graduate work performing NASA and USGS-funded research on methane release from permafrost collapses (one of my locations was near Fairbanks, AK). *Aside: I now work in corporate sustainability - a field I highly recommend to anyone looking to make an impact on climate change.*
+
+My question is on permafrost collapse (thermokarsts). Is this still a major source of flora die-off in the regions you examine? If not, what is the biggest driver of die-off? ","2016-12-15 15:48:35","3","Vixenide","1747767176.424352","climate data","scientific"
+"db8d73k","t3_5iha6f","5iha6f","science","scientific","What is your favorite fact about trees?
+
+What is your favorite species of tree and why is it cool?","2016-12-15 16:36:16","3","milkyjoe241","1747767176.425081","climate data","scientific"
+"db8dulo","t3_5iha6f","5iha6f","science","scientific","Alaska field scientist here and occasional UA adjunct. 
+What large mega fauna changes are you witnessing? I've heard of big changes in the biogeography of moose mainly moving north. What forest species do you see having issues?","2016-12-15 16:49:14","3","Fossilhog","1747767176.4262998","climate data","scientific"
+"db86c6n","t3_5iha6f","5iha6f","science","scientific","1) Who do you work with for getting satellites for remote sensing up and running?
+2) What sort of sensing do you use, details for the curious mind, please?
+3) How does one get into your field?
+4) What could you use more of, from a technology point of view, to help you with your work? (Read as: what can an engineer do to help further your work?)","2016-12-15 13:57:49","2","YT__","1747767176.427268","climate data","scientific"
+"db86x0e","t3_5iha6f","5iha6f","science","scientific","Hey Brian! Is there any reasonable attempt that can be made to save the hemlocks of Appalachia from succumbing to the wooly adelgid infestation, or as the climate warms can we see a future where the Appalachian mountains are devoid of trees? And, say we rise 2° C or so by the end of the century, what effect can we expect to see from rampant deforestation like that (assuming its a foregone conclusion) in N. America on your side of the continent as well as mine? Are these forests something of a carbon sink on the same or similare level as the Amazon?
+
+Also your job is cool and I am glad your working on these issues, it gives me a little hope for my children's future. Thankyou for the AMA.","2016-12-15 14:14:22","2","[deleted]","1747767176.428243","climate data","scientific"
+"db8757f","t3_5iha6f","5iha6f","science","scientific","I have a high school kid that might be interested in work like this.  What was your field of study in college?  
+
+Also, are insects like the pine bark beetle part of your research?","2016-12-15 14:20:31","2","pantsmeplz","1747767176.4289129","climate data","scientific"
+"db87pvn","t3_5iha6f","5iha6f","science","scientific","Howdy Dr. Buma!      
+I have been studying the hydrologocal and biogeochemical impacts of bark beetles on pine forests, remnant plantations, in the south of the US. 
+
+How much does disturbance impact soil microbial communities?       
+Do our models account for this?
+
+How have you utilized remote sensing?","2016-12-15 14:35:26","2","crowcawer","1747767176.42977","climate data","scientific"
+"dap2ew1","t3_5g34kf","5g34kf","science","scientific","What are the viable applications of martian ice? Would it primarily be used for food production and consumption or would it also be used for production of energy?","2016-12-02 13:23:24","48","IPlayAtThis","1747767221.818356","climate data","scientific"
+"dap2fpp","t3_5g34kf","5g34kf","science","scientific","Is there a scientific consensus on how the outflow channels on Mars were formed? I have read that the [Kasei Valles](https://en.wikipedia.org/wiki/Kasei_Valles) was formed when volcanic/tectonic activity melted subsurface ice above pressurized groundwater. It's just so hard to imagine a ""spring"" creating such a massive land form feature. I did a video about this flood on my YouTube channel, but I would love to hear from some actual scientists about what an event like that may have been like.","2016-12-02 13:24:08","26","gradyh","1747767221.819504","climate data","scientific"
+"dap2ksy","t3_5g34kf","5g34kf","science","scientific","Is your expertise useful in any way in understanding CO2(dry ice) formations on mars? Does it complicate your research studying environments where types of ice other than water ice can form?","2016-12-02 13:28:35","16","salton","1747767221.8205","climate data","scientific"
+"dap3bq1","t3_5g34kf","5g34kf","science","scientific","What are books or web pages that you would recommend to someone who is not in the field, but would like to learn about geophysics in general, or geophysics of Mars?","2016-12-02 13:50:39","15","Xezzy","1747767221.821364","climate data","scientific"
+"dap3j8i","t3_5g34kf","5g34kf","science","scientific","What do you think would be a realistic timeframe on forming an atmosphere suitible for humans to live in, based off of what you have learned so far?","2016-12-02 13:56:29","14","RealOxygen","1747767221.8222861","climate data","scientific"
+"dap76nk","t3_5g34kf","5g34kf","science","scientific","Hey there, I work right across the street in the CRC! Great to see some UTIG people on here. 
+
+Hmm, my question...is it possible to use remote capabilities to extract ice core on Mars the way people do in Antarctica? And if so, how long away are we from that technology? Is there anything particular in Martian ice core you'd really hope to find?","2016-12-02 15:23:42","12","NotTheHartfordWhale","1747767221.823333","climate data","scientific"
+"dap3ln6","t3_5g34kf","5g34kf","science","scientific","What type of geophysical data would you like to see from Mars that (to your knowledge) has yet to be collected?","2016-12-02 13:58:18","12","florpis","1747767221.824141","climate data","scientific"
+"dap3i3q","t3_5g34kf","5g34kf","science","scientific","Does this ice have any other impact for our civilization other then providing resources for future colonization? Do you hope to find remnants of life in this ice? Is this ice large enough for a hockey game? 2022 Blackhawks vs kings. Calling it","2016-12-02 13:55:37","9","kilot1k","1747767221.825141","climate data","scientific"
+"dap2xdl","t3_5g34kf","5g34kf","science","scientific","Would we use Mars ice in much the same way early humans used ice here or would there be far more advanced applications ","2016-12-02 13:39:06","10","SubNoize","1747767221.82579","climate data","scientific"
+"dap3rto","t3_5g34kf","5g34kf","science","scientific","Thanks for taking time to visit /r/science!
+&nbsp;
+
+How much do we know about the subsurface geology of Mars? Further, how much more data can we expect to gather in the near future, and through what means? I'm familiar with methods used to probe the subsurface of our own planet (i.e. seismic, GPR, electric resistivity), but not a whole lot about how we approach Mars from a remote prospective. Is SHARAD the best data we have at the moment?
+
+","2016-12-02 14:03:03","7","flown_hardware","1747767221.8267899","climate data","scientific"
+"dap3iza","t3_5g34kf","5g34kf","science","scientific","When you propose volcanic/impact-melted ice as potentially harboring microbial life, do you mean that these conditions might last long enough for life to develop, or only that it could allow preexisting life from before the Amazonian to emerge from dormancy?
+
+Also, do subsurface ice conditions vary significantly between the northern and southern hemispheres?","2016-12-02 13:56:18","8","loki130","1747767221.8278358","climate data","scientific"
+"dap7tcn","t3_5g34kf","5g34kf","science","scientific","Hi there. 
+
+I would imagine doing this research has quite a few difficulties given that the ice is on another planet. What, overall, was the biggest difficulty with doing such detailed research on an area that is hard to access?  Also, since the Martian atmosphere is so different than earth's does that cause any difficulty in the chemical analysis of the ice? I'm a chemistry undergraduate so this was my biggest question while reading your papers.
+
+And on a totally unrelated note do you guys know the now retired Dr. Roberts from the same department as you? ","2016-12-02 15:36:50","6","KaiChymist","1747767221.828928","climate data","scientific"
+"dap1rkv","t3_5g34kf","5g34kf","science","scientific","Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts.
+ 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+","2016-12-02 13:01:20","1","Doomhammer458","1747767221.8301902","climate data","scientific"
+"dap3bwp","t3_5g34kf","5g34kf","science","scientific","This AMA is being permanently archived by *The Winnower*, a publishing platform that offers traditional scholarly publishing tools to traditional *and* non-traditional scholarly outputs—because scholarly communication doesn’t just happen in journals.
+
+To cite this AMA please use: [https://doi.org/10.15200/winn.148068.86636](https://www.thewinnower.com/papers/5757-science-ama-series-we-re-researchers-at-the-university-of-texas-institute-for-geophysics-who-just-published-a-pair-of-papers-on-buried-ice-deposits-and-potential-volcano-ice-and-impact-ice-interactions-on-mars-ask-us-anything)
+
+You can learn more and start contributing at [*authorea.com*](https://authorea.com)
+","2016-12-02 13:50:48","5","redditWinnower","1747767221.8310552","climate data","scientific"
+"dap67v7","t3_5g34kf","5g34kf","science","scientific","Hello and thanks for doing an AMA! 
+
+What process do you go through to get data from the Mars Reconnaissance Orbiter? Are you analyzing bulk data published by NASA that maps the entire planet or do you request specific imaging sites and have to wait for the satellite to be available? Are they very big datasets?
+
+What should be the next step(s) to further your research on these particular topics? ","2016-12-02 15:02:46","6","shiruken","1747767221.831979","climate data","scientific"
+"dap4ea7","t3_5g34kf","5g34kf","science","scientific","How possible is to extract and process it by an eventual manned mission to the zone?
+
+How likely would be to found a liquid lake under the ice, like vostok lake on antartica?
+
+Could the ice shield anything bellow it from solar radiation?","2016-12-02 14:19:35","4","leojg","1747767221.832932","climate data","scientific"
+"dap4ldk","t3_5g34kf","5g34kf","science","scientific","Has any of the research done regarding Martian ice been applied to Earth's glaciers or ice shelves?  If so what lessons have been learned and how can we mitigate further glacier retreat or ice melt on our home planet? ","2016-12-02 14:24:38","4","3MATX","1747767221.833824","climate data","scientific"
+"dap72m1","t3_5g34kf","5g34kf","science","scientific","Hi, and thanks for taking time to do this AMA !
+
+I have a few questions:
+
+- If tomorrow (well, in a few decades), SpaceX or others offer you to be part of the first manned mission to Mars, will you go ?
+
+- Is there a current estimate of the prevalence of water ice (or water in any form) on exoplanets ?
+
+- Based on your knowledge, what probability would you give to the discovery of life (past or present) on Mars in more complex forms than microbial life ?
+
+- Would there be reservations (other than cost) to perform an EPICA-like coring operation on Mars ? Based on current knowledge of ice depths on Mars, how far could we ""go back in time"" with such coring ?
+
+Thanks :)","2016-12-02 15:21:17","4","Keuwa","1747767221.834859","climate data","scientific"
+"dapal2d","t3_5g34kf","5g34kf","science","scientific","I read somewhere that Mars is loosing its atmosphere rapidly,  few tons an hour.   So why are we going there. ","2016-12-02 16:32:03","3","satyajit8282","1747767221.835639","climate data","scientific"
+"dap4k6g","t3_5g34kf","5g34kf","science","scientific","Student of engineering for mines here! 
+Any info regarding the potential of space mining?","2016-12-02 14:23:48","3","AndForWar","1747767221.836782","climate data","scientific"
+"dap6jfk","t3_5g34kf","5g34kf","science","scientific","Fellow geologist here, can help but ask : how similar is permafrost on mars to that on earth? Do they also have the same oxygen isotopes (O18 and O16) that are here on earth? What about deuterium on mars?","2016-12-02 15:09:54","3","bonanzax","1747767221.837655","climate data","scientific"
+"dap7blm","t3_5g34kf","5g34kf","science","scientific","How energy intensive would it be to be able to actually mine and purify that ice for a human habitat, say six Mark Watneys? Are we talking about a few tens of square meters of solar panels, or a small fission reactor?","2016-12-02 15:26:33","3","the-player-of-games","1747767221.838484","climate data","scientific"
+"dapast3","t3_5g34kf","5g34kf","science","scientific","Hi - what do we know of the composition of the ice? What kind of processing would be required to separate the blend into useful constituents; and how could these be used by future colonists?  ","2016-12-02 16:36:14","3","BillSixty9","1747767221.839036","climate data","scientific"
+"dapbdky","t3_5g34kf","5g34kf","science","scientific","I just wrote a paper referencing the large ice sheet found at 'Utopia Planitia' for my AST class at UT! That being said, I was curious how significant these discoveries are when discussing human settlement or exploration of Mars? Thanks! ","2016-12-02 16:47:19","3","[deleted]","1747767221.8399382","climate data","scientific"
+"dapbsff","t3_5g34kf","5g34kf","science","scientific","Does tectonic plate loading change from melting polar icecaps, glaciers, etc change earthquake activity? (Sorry about asking an earth geophysics question on a Mars AMA.)","2016-12-02 16:55:17","3","Minnmedstudent","1747767221.84093","climate data","scientific"
+"dapcdiu","t3_5g34kf","5g34kf","science","scientific","I'm a PhD student in Geomorphology (special emphasis on gravitational mass movement processes, e.g. landslides) and really interested to work on Mars as well for my post doc. How did you happen to work on Mars related topics or was it just a coincidence? Any suggestions how I could get my foot in the door in this community? EU citizen though and not residing in the US.","2016-12-02 17:06:37","3","[deleted]","1747767221.8419788","climate data","scientific"
+"dapcsu6","t3_5g34kf","5g34kf","science","scientific","This may not be a question on your research but as a current undergrad student in a geophysics program who's interested in planetary geophysics specifically, what can I do to help prepare myself for grad school and the field I want to work in later? Or I suppose any advice you may have for someone like me. Thanks for your time!","2016-12-02 17:14:55","3","Pyroyoma","1747767221.842772","climate data","scientific"
+"dap6tap","t3_5g34kf","5g34kf","science","scientific","Great work guys - this is really interesting.
+
+Just a quick question I'm confused about (from Joe's paper) - what material are these ice depressions in?  It's not ice (I assume??) so is this rock or sediment which is thought to have fractured below the former glacier or ice sheet? ","2016-12-02 15:15:50","2","Glaciologytim","1747767221.843518","climate data","scientific"
+"dap7t5l","t3_5g34kf","5g34kf","science","scientific","is it conceivable to accelerate the eventual collision of Phobos into Mars and terraform the planet that way? it's similar in size to the estimated size of the meteor that created the Chicxulub crater. ","2016-12-02 15:36:43","2","zverkalt","1747767221.844203","climate data","scientific"
+"dapalx8","t3_5g34kf","5g34kf","science","scientific","How far down is it? Could we slam something into the spot to have a look at it and collect samples?
+","2016-12-02 16:32:30","2","fishinbuttersauce","1747767221.844866","climate data","scientific"
+"dapb18i","t3_5g34kf","5g34kf","science","scientific","What are your thoughts on their being ice in other galaxies or solar systems? Is it unique to ours or will it exist in large amounts elsewhere?","2016-12-02 16:40:41","2","[deleted]","1747767221.84573","climate data","scientific"
+"dapb83l","t3_5g34kf","5g34kf","science","scientific","How did the volcano form? Subduction? Hotspot? Is there any way Mars can still have active volcanoes? ","2016-12-02 16:44:22","2","tkdfoster","1747767221.846456","climate data","scientific"
+"dapbh9d","t3_5g34kf","5g34kf","science","scientific","Could humans potentially live off the land on Mars at some point in the future?","2016-12-02 16:49:16","2","EthiopianKing1620","1747767221.84725","climate data","scientific"
+"dapbnf4","t3_5g34kf","5g34kf","science","scientific","I'm a current geology undergrad working on transfer prerequisites. Is geophysics an employable option compared to the rest of the industry/research community? Will only a select few researchers ever get the chance to work on planetary science, or is this something that I as a lowly undergrad could possibly one day get to work on?","2016-12-02 16:52:35","2","makorunner","1747767221.8480651","climate data","scientific"
+"dapd5ey","t3_5g34kf","5g34kf","science","scientific","Hey! I go to the University of Houston. I'm really interested in planetary science and astronomy, and I'd like to end up doing research in those fields. UH doesn't do much research in the space sciences, though. How can I find research opportunities? Thanks! ","2016-12-02 17:21:34","2","[deleted]","1747767221.848775","climate data","scientific"
+"dapd86u","t3_5g34kf","5g34kf","science","scientific","Greetings profs Levy & Stuurman! Congratulations on the mindblowing results and the following papers!
+
+I was wondering if you have any indications of some of the other properties of the water trapped in that ice, in particular pH. I'm really curious as to whether the generally acidic pH of Martian waters, as witnessed by studies such as [Fairén *et al.*, 2009](http://www.lpi.usra.edu/meetings/earlymars2012/reprintLibrary/Fairen_et_al_2008.pdf) which posit extensive water-jarosite interaction, also holds true for the ice you found.","2016-12-02 17:23:04","2","Gargatua13013","1747767221.849558","climate data","scientific"
+"dapdlho","t3_5g34kf","5g34kf","science","scientific","I always wonder what people in your positions think the future will be like. Where do you guys think we will be when your kids are your age? Will we be colonizing Mars and figuring out immortality or being sunk by rising oceans and tides of zombies? Maybe you guys think things wont change all that much? ","2016-12-02 17:30:06","2","snorkleboy","1747767221.850448","climate data","scientific"
+"dapgve6","t3_5g34kf","5g34kf","science","scientific","How many corgis can fit onto the subsurface water ice deposit?","2016-12-02 18:32:16","2","turretttard","1747767221.8513","climate data","scientific"
+"dapk6hg","t3_5g34kf","5g34kf","science","scientific","Wow, there's so many good questions! Thanks for all your curiosity. We're going to try to get to a few more, but I'm afraid we're out of time. ","2016-12-02 19:36:49","2","Levy_Lab","1747767221.852087","climate data","scientific"
+"dap6930","t3_5g34kf","5g34kf","science","scientific","I'm probably asking about the wrong planet, but lately there have been a lot of news concerning the melting of permafrost in Siberia and other very cold parts of the world. What implications will that have to mankind on the long term? What implications does that have for wildlife as well?","2016-12-02 15:03:29","1","mannyrmz123","1747767221.8526871","climate data","scientific"
+"dap7x9w","t3_5g34kf","5g34kf","science","scientific","There is a long-term push to terraform Mars - particularly suggesting melting the ice and I wonder if bioethicists weigh in on this?","2016-12-02 15:39:05","1","radii314","1747767221.853336","climate data","scientific"
+"dap8089","t3_5g34kf","5g34kf","science","scientific","With such a large ice deposit, this will be a tempting target for future missions,  both manned and unmanned. What is the discussion about the potential for microbes from earth contaminating this water source? ","2016-12-02 15:40:49","1","dyyys1","1747767221.854055","climate data","scientific"
+"dap84r0","t3_5g34kf","5g34kf","science","scientific","Are there any active volcanos on Mars currently?","2016-12-02 15:43:25","1","MrTigeriffic","1747767221.8548748","climate data","scientific"
+"dap84sf","t3_5g34kf","5g34kf","science","scientific","Hoe much ice does Mars have, and how much is that compared to earths ice? Also do we know how old ice on Mars is? ","2016-12-02 15:43:27","1","ELMOPINO","1747767221.855625","climate data","scientific"
+"dap891p","t3_5g34kf","5g34kf","science","scientific","Are there any terrestrial extremophiles that could thrive on exposed Martian ice?","2016-12-02 15:45:52","1","TheWangernumbCode","1747767221.856256","climate data","scientific"
+"dap8bh7","t3_5g34kf","5g34kf","science","scientific","Do you think that there could be some sort of life deep down in caves,  heated by either volcanos or the core?","2016-12-02 15:47:17","1","pangshoo","1747767221.85679","climate data","scientific"
+"dap8cdy","t3_5g34kf","5g34kf","science","scientific","Will the discovery of water ice on Mars lead to new methods for detecting deposits of water ice on other bodies in the Solar System?
+
+Also, would those methods also be applicable to more distant world's such as the exoplanets being discovered by the Keppler Space Telescope and the future James Webb Telescope?","2016-12-02 15:47:48","1","mightierjake","1747767221.857669","climate data","scientific"
+"dap8ocb","t3_5g34kf","5g34kf","science","scientific","Is there any remote possibility for a >VEI 5 eruption on Mars? Also I had heard mars had tectonics but not plate tectonics which confused me. Am I mistaken in what I heard? Thank you! You guys are awesome!","2016-12-02 15:54:31","1","Rockers444","1747767221.858418","climate data","scientific"
+"db9o2u8","t3_5io7sh","5io7sh","science","scientific","Hey! I have two questions:  
+  
+- What do you think has been the biggest breakthrough in the past 100 years?  
+  
+- What do you think will be the next biggest breakthrough in the next 100 years?  
+  
+Thanks guys! Merry (soon to be) Xmas.","2016-12-16 13:40:24","116","[deleted]","1747767227.780067","climate data","scientific"
+"db9plw0","t3_5io7sh","5io7sh","science","scientific","The incoming President and his cabinet have been accused by many of having beliefs and viewpoints which are ""anti-science"". What areas of scientific study and progress, if any, do you believe will suffer the most during the next 4 years? Do any of you see any silver linings to this situation?   ","2016-12-16 14:24:14","81","jcargile242","1747767227.781908","climate data","scientific"
+"db9oj45","t3_5io7sh","5io7sh","science","scientific","A lot of science based news outlets always refer the current year to be ""an amazing year for science"" and I can't get over how gimmicky and BuzzFeedy it sounds. Could you name a few years that actually weren't all that great for science?","2016-12-16 13:54:05","74","EasyAndy1","1747767227.783515","climate data","scientific"
+"db9qbz1","t3_5io7sh","5io7sh","science","scientific","Thanks!! 
+What do you think about doing a follow-up issue on where the 'Breakthroughs of the Years'  past have ended up. Learning about why some technology moved faster or burned out or shifted uses may help our judgment ability for picking winners going forward.","2016-12-16 14:42:34","44","steelhammerhands","1747767227.784967","climate data","scientific"
+"db9rp08","t3_5io7sh","5io7sh","science","scientific","How has the rise of fake news and sensationalized reporting affected the way your publication has handled this report?
+
+Also, I'm curious about your opinions on Reddit as a means of communicating science!","2016-12-16 15:14:56","40","Izawwlgood","1747767227.78624","climate data","scientific"
+"db9oo1t","t3_5io7sh","5io7sh","science","scientific","Hello and thank you so much for being here today to answer our questions. It's appreciated.
+
+Given the results of the presidential election, where do you see science headed in the next 4 years? Have you seen trends like this in the past?
+
+What breakthroughs were surprising to your team? Did you have any ""this can't be real"" moments?
+
+Thank you again and Happy Holidays.","2016-12-16 13:58:10","19","FillsYourNiche","1747767227.787681","climate data","scientific"
+"db9ozx9","t3_5io7sh","5io7sh","science","scientific","Thank you for taking the time to do this AMA. 
+
+ *With the proposed dismantling of climate research undertaken by NASA, many researchers are terrified that their ongoing research in places like the Greenland ice sheet will be shut down. (My wife included) What will the alternative be to launch these large expeditions without the massive logistical and financial weight of NASA behind us? ","2016-12-16 14:07:32","14","BootsieHamilton","1747767227.789408","climate data","scientific"
+"db9t2g9","t3_5io7sh","5io7sh","science","scientific","I took a research misconduct course this quarter and obviously one of the focuses was on data falsification and fabrication. High-impact journals like Science tend to have a higher number of retractions than other journals. When you consider Breakthrough of the Year, do you give any consideration to whether or not the claim is valid? Or do you fully trust the peer review system and assume that everything written is truthful?","2016-12-16 15:45:46","15","penguinberg","1747767227.791032","climate data","scientific"
+"db9q8kf","t3_5io7sh","5io7sh","science","scientific","What are your opinions on SpaceX's plan to colonize Mars? Do you think it's feasible and a reasonable plan?","2016-12-16 14:40:17","15","cmanccm","1747767227.792484","climate data","scientific"
+"db9pvut","t3_5io7sh","5io7sh","science","scientific","Hello and thank you for taking the time to do this. 
+
+On the other side of the coin from 'it was a great year' there are negative feats worth highlighting too I'm sure. Many users of social media and the internet in general lament 2016 was a bad year for a number of reasons revolving around the deaths of musicians, actors, and all celebrity types - as well as some controversial moves in political theatre. 
+
+I imagine in every craft there are blunders and setbacks so extreme they are marked in the respective calendars of that community. The kind of sobering events like a nuclear reactor meltdown adding to the stigma of nuclear power - that sort of thing.
+
+So what then are the remarkable lows for the science community this year?","2016-12-16 14:31:24","11","labortooth","1747767227.793924","climate data","scientific"
+"db9qf61","t3_5io7sh","5io7sh","science","scientific","Would each of you mind just telling a little bit about your personal favorite breakthroughs? ","2016-12-16 14:44:49","10","TheHungryScientist","1747767227.795721","climate data","scientific"
+"db9oqui","t3_5io7sh","5io7sh","science","scientific","What are your thoughts on newer awards such as the Breakthrough Prize offering large cash incentives? Are they competition for something like a Nobel or an Einstein World Award?","2016-12-16 14:00:23","8","PHealthy","1747767227.796832","climate data","scientific"
+"db9o0c2","t3_5io7sh","5io7sh","science","scientific","Could you ellaborate on some of the amazing breakthroughs of 2016? eli5 please.","2016-12-16 13:38:13","8","newsboywhotookmyign","1747767227.797892","climate data","scientific"
+"db9ofnh","t3_5io7sh","5io7sh","science","scientific","Does a PhD interested in science writing/editing *have* to do a postdoc first?","2016-12-16 13:51:10","8","SEXPILUS","1747767227.799149","climate data","scientific"
+"db9q3wq","t3_5io7sh","5io7sh","science","scientific","Thanks for doing the AMA!
+
+How do you sort through the many ""this could be big if confirmed"" papers to find the one which is actually likely to be confirmed?
+
+I feel like this is a similar question that grant reviewers face (although grants are sometimes ""high risk"")--how likely is this to actually work.  Do you feel like a focus on that sort of question improves science?","2016-12-16 14:37:03","8","formative_informer","1747767227.800228","climate data","scientific"
+"db9rg35","t3_5io7sh","5io7sh","science","scientific","Thanks for joining us!
+
+What's the craziest/wackiest research you've come across this year? What has been the most viewed article on Science this year? What about the most shared on social media? ","2016-12-16 15:09:05","8","shiruken","1747767227.801147","climate data","scientific"
+"db9njup","t3_5io7sh","5io7sh","science","scientific","Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts.
+ 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+","2016-12-16 13:23:09","1","Doomhammer458","1747767227.8029099","climate data","scientific"
+"db9o6xu","t3_5io7sh","5io7sh","science","scientific","What are your thoughts about the zika virus? Do you see any resolution soon?","2016-12-16 13:43:53","5","[deleted]","1747767227.804102","climate data","scientific"
+"db9s7pd","t3_5io7sh","5io7sh","science","scientific","Hi there! PhD student in evolutionary psychology. Scientific literacy has become a huge issue now that so much scientific information is available for public consumption. What do you at Science think your role is in the process of improving the ability of laypeople to consume scientific information, not just in making it available? How do you feel about the ""natural selection of bad science"" discussed and modeled by Smaldino and McElreath (2016)?","2016-12-16 15:26:41","6","MasterAqua","1747767227.8057978","climate data","scientific"
+"db9pnn1","t3_5io7sh","5io7sh","science","scientific","What metrics do you use to choose which one is the breakthrough of the year?
+
+For instance you have Male birth control being tested and outside of males being widely whiny when we can't take hormones lol it sounds like its being successful.
+
+Then you have something like HIV cure entering phase 2 which is , in itself, a huge step forward for everyone.  
+
+I'd have a hard time deciding about just those two and i'm sure theres a million other ones ( like aliens ;) ) that are probably hard to choose from as well. ","2016-12-16 14:25:31","7","[deleted]","1747767227.807085","climate data","scientific"
+"db9orbl","t3_5io7sh","5io7sh","science","scientific","As a PhD student in a newly established lab, what factors lead to getting published in Science? My thought is that a good record should be established in other journals before applying for top tier like Science or Nature.
+I am preparing my first publication in order to submit early 2017. Any general advice? 
+Thank you for your time! Maybe one day you will be reviewing my submissions.
+
+Edit: words","2016-12-16 14:00:47","4","bozzy253","1747767227.808335","climate data","scientific"
+"db9ofks","t3_5io7sh","5io7sh","science","scientific","This AMA is being permanently archived by *The Winnower*, a publishing platform that offers traditional scholarly publishing tools to traditional *and* non-traditional scholarly outputs—because scholarly communication doesn’t just happen in journals.
+
+To cite this AMA please use: [https://doi.org/10.15200/winn.148189.96257](https://www.thewinnower.com/papers/5864-science-ama-series-hi-we-re-editors-and-writers-at-science-magazine-currently-working-on-the-breakthrough-of-the-year-issue-ask-us-anything)
+
+You can learn more and start contributing at [*authorea.com*](https://authorea.com)
+","2016-12-16 13:51:08","3","redditWinnower","1747767227.8095639","climate data","scientific"
+"db9robx","t3_5io7sh","5io7sh","science","scientific","Can I get your thoughts on the current political atmosphere here in America, and wether or not you find it hostile to scientific endeavors?","2016-12-16 15:14:31","4","WintertimeFriends","1747767227.810753","climate data","scientific"
+"db9vvj0","t3_5io7sh","5io7sh","science","scientific","In the time you've having Breakthrough of the Year, what is the biggest scientific discovery that you have overlooked, or has been overshadowed by another discovery, and hasn't been named Breakthrough of the Year?","2016-12-16 16:44:25","4","MarsNirgal","1747767227.811754","climate data","scientific"
+"db9w4cw","t3_5io7sh","5io7sh","science","scientific","Hi everyone! 
+
+I follow the Science feed so skim through when I can to see what new and noteworthy research has come out over the last week, even outside my field. A question I have for the news team is how you find research in other publications that's worth sharing in the pages of Science? How do you keep on top of the relevant literature (or do you?) and how do you navigate the tension between publishers, as a lot of the research you highlight might be in your competitor's journals?","2016-12-16 16:49:24","4","superhelical","1747767227.813063","climate data","scientific"
+"db9wx7p","t3_5io7sh","5io7sh","science","scientific","Hi Science Magazine!
+
+I'm a sophomore in college, and though I'm on the pre-vet track right now I'm really considering going into pop-science writing. I write for the newspaper and run a [science/history blog](https://weirdwednesdays.wordpress.com/), and I plan on taking a course in pop-science writing next semester. 
+
+Is science writing a viable career option? What other steps can I take?
+
+Thanks for educating the public!","2016-12-16 17:05:50","3","DragonLadyoftheWest","1747767227.8142312","climate data","scientific"
+"db9pwa0","t3_5io7sh","5io7sh","science","scientific","How bad is Donald trump and his cabinet picks for the science community?","2016-12-16 14:31:40","5","quintessential17","1747767227.815017","climate data","scientific"
+"db9sjkj","t3_5io7sh","5io7sh","science","scientific","Hi!
+I have a question concerning the impact of your decision: do your highlight of specific breakthrough impacts future fundings in the corresponding fields?
+And, in the past, how the fields associated with the breakthrough issues have evolved?","2016-12-16 15:34:05","2","Akrasik","1747767227.815839","climate data","scientific"
+"db9sjm6","t3_5io7sh","5io7sh","science","scientific","Have you found one field (technology, biology, material sciences, etc.) of science has had more of an impact on humanity than other fields in the past decade?  Do you see this changing in the coming decade?","2016-12-16 15:34:07","3","Big_ol_Bro","1747767227.816813","climate data","scientific"
+"db9qc2m","t3_5io7sh","5io7sh","science","scientific","How do you all feel about privatization of the space industry? Do you think it will lead to more innovation and eventually to the colonization of mars?","2016-12-16 14:42:38","2","[deleted]","1747767227.8175519","climate data","scientific"
+"db9qpoe","t3_5io7sh","5io7sh","science","scientific","I was wondering what your thoughts are on the potential usage of molecular machines in the future. This years' Nobel prize in chemistry was for the synthesis of the nano-machines. It's at such an early stage of development and I'm thrilled to see how this field pans out. Thank you for the AMA! ","2016-12-16 14:51:49","2","senpai_dj","1747767227.81846","climate data","scientific"
+"db9qyim","t3_5io7sh","5io7sh","science","scientific","What can the consumers/readers interested in these breakthrough's do to help promote this information on more 'mainstream' mediums?  ","2016-12-16 14:57:37","2","barker5227","1747767227.819488","climate data","scientific"
+"db9rhhg","t3_5io7sh","5io7sh","science","scientific","Hi! What measures do you take to avoid writing about researches that are either totally false/have hand selected their sample to get the wanted results/ have manipulated the experiment to get p-values that'll sound ""good for publishing"" ?","2016-12-16 15:10:01","2","1chriis1","1747767227.820501","climate data","scientific"
+"db9rzht","t3_5io7sh","5io7sh","science","scientific","Hi, thanks a lot for doing this!
+How do you think high impact factor journals like Science or Nature contribute to the falsification of data because people are desperate to get into such journals? What do you think about how this affects the academic community as a whole?","2016-12-16 15:21:34","2","Zeratav","1747767227.821459","climate data","scientific"
+"db9sgvu","t3_5io7sh","5io7sh","science","scientific","Article 27 of the Universal Declaration of Human Rights states that EVERYONE has the right to access the benefits of science. After a few decades of controversy regarding patent policy on things like BRC1and2 from Myriad and the WARF patents of UW Madison, how do you see Intellectual Property policy changing in the coming years to best benefit the well being of public???? especially in developing countries and places where finding basic treatment for disease is being crippled by licensing fees and patent policy","2016-12-16 15:32:26","2","Chidoba","1747767227.822695","climate data","scientific"
+"db9sj8z","t3_5io7sh","5io7sh","science","scientific","How often do you accept an article from less well funded sources?
+I mean, it seems to me like the greatest science advancements and discoveries are made only in huge projects, especially in the physical sciences (places like CERN, fermilab, LIGO, Joint institute, etc.) ","2016-12-16 15:33:54","2","flankling","1747767227.8240168","climate data","scientific"
+"db9usjv","t3_5io7sh","5io7sh","science","scientific","Thanks for working on a  Breakthrough of the Year issue!
+
+So what was the Flop of the Year? 
+What was so close to working but failed? (Hopefully to work in the future) 
+Biggest assumption proved wrong?","2016-12-16 16:22:12","2","cooterholland","1747767227.82462","climate data","scientific"
+"db9v3n4","t3_5io7sh","5io7sh","science","scientific","How do you choose when to post a retraction or correction to a previous work?","2016-12-16 16:28:30","2","ChipsWithTastySalsa","1747767227.825578","climate data","scientific"
+"db9w5d9","t3_5io7sh","5io7sh","science","scientific","This Reddit Ask us is AWESOME. 
+
+What Breakthrough of the Year in the future would you like to see? I know something that changes the weather to alleviate massive droughts is it for me.","2016-12-16 16:49:58","2","Ellexoxoxo33","1747767227.8263118","climate data","scientific"
+"db9xk3e","t3_5io7sh","5io7sh","science","scientific","Should we be concerned about issues with the peer review process , and published research that cannot be replicated, or are these problems only isolated cases. ","2016-12-16 17:18:54","2","madmaxges","1747767227.826923","climate data","scientific"
+"db9xnmk","t3_5io7sh","5io7sh","science","scientific","What are your thoughts on the increasing competition for scientists to publish in as many high-impact journals (including Science) as possible in order to remain relevant in their respective fields? How concerned are you about the pressure for scientists to produce both quality and novel work leading to fudged data/results?","2016-12-16 17:20:56","2","laylaland","1747767227.827775","climate data","scientific"
+"db9z03v","t3_5io7sh","5io7sh","science","scientific","By day I do infectious disease research, and in my free time I am a fledgling science writer.
+
+As a freelancer, how does one find and pitch interesting and compelling stories that aren't necessarily the big ""breakthrough"" stories that are already being covered by staff writers?
+
+And what tips do you have for constructing a good pitch that will grab an editors attention?
+
+Thanks for doing this AMA!","2016-12-16 17:48:35","2","marzeepan","1747767227.828736","climate data","scientific"
+"dba0sok","t3_5io7sh","5io7sh","science","scientific","Hi! This'll probably get shuffled to the bottom of the deck but I wanted to say that your podcast is one of my favourite parts of the week. Especially this past year with the election you gave me a great way to escape from politics. 
+Love you guys and thanks for all you do <3","2016-12-16 18:25:08","2","FezezAreCool","1747767227.8294451","climate data","scientific"
+"db9pymc","t3_5io7sh","5io7sh","science","scientific","Would you be in favour of setting the year 0 in the calender additional 10.000 years back, which is roughly the time of the begin of human civilisation? So today would be the year 12 016.","2016-12-16 14:33:19","0","senjadon","1747767227.830126","climate data","scientific"
+"db9r06t","t3_5io7sh","5io7sh","science","scientific","To what degree are the breakthroughs you are studying enabled by improvements in computer technology (mainframes and increasing processing power, all things data analytics, internet of things, mobile, etc...)?","2016-12-16 14:58:42","1","SmallSneej","1747767227.83091","climate data","scientific"
+"db9r8ac","t3_5io7sh","5io7sh","science","scientific","Will you guys be covering the progress of the EM drive and what it will mean for future physics? ","2016-12-16 15:03:58","1","TheHandsomePo-ta-to","1747767227.8314502","climate data","scientific"
+"db9rb3t","t3_5io7sh","5io7sh","science","scientific","What criteria are you applying to count a breakthrough as this year? Is it first publication, confirmation of it etc? How do you account for breakthroughs that have been the result of incremental progress over the course of decades from multiple teams?","2016-12-16 15:05:50","1","mrcchapman","1747767227.832201","climate data","scientific"
+"db9rpcw","t3_5io7sh","5io7sh","science","scientific","Hey guys!
+
+To avoid spoilers, excluding the ones that got the title of ""Breakthrough of the Year"" and runner ups, is there any breakthrough that you want to share with the world for a personal or just any other reason?
+
+Thanks in advance, happy holidays.","2016-12-16 15:15:09","1","Azukzix","1747767227.83306","climate data","scientific"
+"db3i1o4","t3_5hwik7","5hwik7","science","scientific","Hi, thanks for showing up and answering questions.
+
+1. How much is the release of CH4 from melting polar ice contributing to the overall spike, if any? I find it strange that the area we're focused on is tropical.
+
+2. What strategy among the ones you listed (wellpad gas leak removal, coal mine flaring, bio-digester adoption, covering landfills) do you think is the most viable and attainable to start with? I'm positive this will be like aerosols and asbestos, but we need to know where to start, perhaps even what to support as of right now.
+
+3. You guys deal with things that bring out the worst hysterics and fears in others on a daily basis. Are you doing ok? Because if you're not ok, then I just want to tell you we care about you and believe in you. We believe in a brighter future. Please don't give up.
+","2016-12-12 13:37:02","69","[deleted]","1747767238.469759","climate data","scientific"
+"db3ihse","t3_5hwik7","5hwik7","science","scientific","This AMA is being permanently archived by *The Winnower*, a publishing platform that offers traditional scholarly publishing tools to traditional *and* non-traditional scholarly outputs—because scholarly communication doesn’t just happen in journals.
+
+To cite this AMA please use: [https://doi.org/10.15200/winn.148155.50670](https://www.thewinnower.com/papers/5856-aaas-ama-we-re-a-team-of-researchers-who-have-just-published-an-assessment-quantifying-the-global-sources-and-losses-of-methane-a-powerful-greenhouse-gas-and-their-role-in-contributing-to-a-recent-and-surprisingly-rapid-increase-in-the-atmosphere-ask-us-anything)
+
+You can learn more and start contributing at [*authorea.com*](https://authorea.com)
+","2016-12-12 13:51:20","26","redditWinnower","1747767238.4715672","climate data","scientific"
+"db3mdqx","t3_5hwik7","5hwik7","science","scientific","What organizations that are fighting climate change would you recommend for donations?  ","2016-12-12 15:32:57","14","Smartchoy","1747767238.473223","climate data","scientific"
+"db3oacl","t3_5hwik7","5hwik7","science","scientific","There's a couple studies going around the internet at the moment, saying that the NOx emissions from HFO/MDO-burning cargo ships have a global cooling effect by 1-5% because of reactions with methane. 
+
+Is this true, and if so, is this something we could actively take advantage of to help counteract some effects of global warming and emissions? Or are these kind of effects only really applicable on the small scale, and if actively used would do more harm than good?","2016-12-12 16:13:48","14","[deleted]","1747767238.474724","climate data","scientific"
+"db3klz6","t3_5hwik7","5hwik7","science","scientific","Mostly a question for Mr. Poulter. Are you concerned about the incoming Trump administrations attitude towards climate change and what it means for your research? Trump has said he wants to cut down NASA climate research efforts. What does this mean for your work?","2016-12-12 14:50:18","14","[deleted]","1747767238.476363","climate data","scientific"
+"db3ijrs","t3_5hwik7","5hwik7","science","scientific","Are we doomed as a human race or is there a solution?","2016-12-12 13:53:03","11","Jamoz330","1747767238.477584","climate data","scientific"
+"db3igdi","t3_5hwik7","5hwik7","science","scientific","The recent release of Before the Flood has placed a lot of attention on the agriculture industry for it's contributions to GHG emissions. I often see agriculture being blamed for about 1/3 of global emissions, with blame largely placed on cattle who release methane during digestion and require land to grow feed crops. How accurate is that statistic, and how do livestock compare to other agricultural sources of methane like paddy rice? 
+
+Edit: If you have time to look at [this Redditor's quick analysis](https://www.reddit.com/r/farming/comments/5bme39/my_beef_with_before_the_floods_numbers/) of Before the Flood's stats, could you please comment on his criticisms? ","2016-12-12 13:50:06","12","stubby_hoof","1747767238.479274","climate data","scientific"
+"db3je3x","t3_5hwik7","5hwik7","science","scientific","Are termites still a major contributor? Has their impact/effect changed in scope? Has climate change increased their number/range? ","2016-12-12 14:17:58","9","sutree1","1747767238.480567","climate data","scientific"
+"db3ptep","t3_5hwik7","5hwik7","science","scientific","[Referring to this plot of methane concentration over time:](https://www.washingtonpost.com/news/energy-environment/wp/2016/12/11/atmospheric-levels-of-methane-a-powerful-greenhouse-gas-are-spiking-scientists-report/?tid=sm_tw&utm_term=.5aa43dbb85d7)
+
+If you attribute the current rise in methane to tropical agriculture, what has changed in recent years vs. 2000-2010?
+
+Why was methane rising so fast in the 1980s?
+
+Thanks for taking these questions, and thank you for your work on this very important problem!","2016-12-12 16:45:30","9","descabezado","1747767238.481719","climate data","scientific"
+"db3z27w","t3_5hwik7","5hwik7","science","scientific","Rob Jackson: Loss of methane and carbon dioxide from melting permafrost is a big concern in the future. Right now we don't see strong global evidence for increased methane emissions in the arctic (despite some evidence at particular sites). Northern latitudes are a pretty small player in the global budget, compared to warmer temperate and, especially, tropical systems.
+     For people who want to dig into the papers, the ERL commentary (http://dx.doi.org/10.1088/1748-9326/11/12/120207) is freely available and has a nice graph of regional emissions attributed to different methane sources.","2016-12-12 19:45:02","9","Greenhouse-Gas","1747767238.483407","climate data","scientific"
+"db3hbcr","t3_5hwik7","5hwik7","science","scientific","Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts.
+ 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+","2016-12-12 13:11:15","1","Doomhammer458","1747767238.485211","climate data","scientific"
+"db3nsru","t3_5hwik7","5hwik7","science","scientific","Do you think there is scope for optimism? Will the Paris Agreement be able to atleast help limit emissions or is it too late?
+
+How much increase in temperature will cause the permafrost to melt? Are there any ways to control its melting once it starts?","2016-12-12 16:03:41","6","Are_kya_nam_rakhoo","1747767238.4864159","climate data","scientific"
+"db3j3ej","t3_5hwik7","5hwik7","science","scientific","Why do a lot of people (won't get too political here) feel that this type of science is some sort of conspiracy, and deny it? And what do you feel you can do to help change that mind set?","2016-12-12 14:09:24","5","Treyness","1747767238.487494","climate data","scientific"
+"db3o9od","t3_5hwik7","5hwik7","science","scientific","In the editorial, you mention several options for mitigating methane emissions:
+
+> These opportunities include (i) venting and flaring of methane in coal-mines, while also improving worker safety, (ii) detecting and removing natural gas leaks, from wellpads upstream through the distribution chain downstream (e.g., McKain et al 2015), (iii) covering landfills, which reduces methane emissions while producing biogas for energy and transport usage, and (iv) developing farm bio-digesters, which has been extensively applied in Germany and is spreading to other European countries (e.g., Lebuhn et al 2014).
+
+Of these, which would have the most significant impact on CH4 emissions? Which is the most likely to be implemented in the United States? Are these solutions also viable in developing countries?","2016-12-12 16:13:24","7","shiruken","1747767238.489558","climate data","scientific"
+"db42uio","t3_5hwik7","5hwik7","science","scientific","Recently some of my friends (physicists) pointed out that absorption in CO2 band in atmosphere is already pretty much saturated. E.g. whatever CO2 can absorb it already absorbs and re-radiates. It means that more CO2 doesn't cause more global warming. Quoting them:
+
+> Absorption of IR light is already saturated at given CO2 concentration and can't increase much more to create more greenhouse effect.
+> We are looking on a graphs like one on the page 5 and 7 here, showing that CO2 is already absorbing max in it's bands
+> http://irina.eas.gatech.edu/EAS8803_Fall2009/Lec6.pdf
+
+Is this correct understanding, or something is missing in this logic?","2016-12-12 20:55:47","5","michwill","1747767238.490989","climate data","scientific"
+"db3l7rk","t3_5hwik7","5hwik7","science","scientific","To my understanding your observations and recent observations of significant increases in arctic methane emissions due to softening and melting permafrost seem very likely to correlate closely, to say the least.
+
+Can you elaborate on why your research is focusing on other possible major contributing factors to the observable CH4 emission spikes of recent years, like certain dynamics in the tropics and in agriculture for example?","2016-12-12 15:05:25","4","orbitalelements","1747767238.492481","climate data","scientific"
+"db3rhao","t3_5hwik7","5hwik7","science","scientific","US President-elect Trump has put some focus on integrated assessment modeling which scientists use to forecast future changes to the climate and energy system. The Department of Energy uses DICE, FUND, and PAGE models to help inform policy decisions. 
+
+Do you feel that these models are accurately accounting for methane given recent science?
+
+Do you feel that the impacts of methane are underrepresented or over-represented by current climate models? 
+
+Do you or your colleagues have any concerns about questions the Trump transition team have been asking about scientists working on climate change issues? Source: 
+https://www.washingtonpost.com/news/energy-environment/wp/2016/12/09/trump-transition-team-for-energy-department-seeks-names-of-employees-involved-in-climate-meetings/?utm_term=.82e8ae09c3b7","2016-12-12 17:19:06","3","amphibiousParakeet","1747767238.4942222","climate data","scientific"
+"db3kxkj","t3_5hwik7","5hwik7","science","scientific","There have been reports of seaweed added to bovine feed reducing methane emissions dramatically. 
+ Is this something you can comment on?","2016-12-12 14:58:25","1","PhrankLee","1747767238.4951308","climate data","scientific"
+"db3n5rv","t3_5hwik7","5hwik7","science","scientific","The rise in atmospheric methane seems to have accelerated in 2014 and 2015. What are the major causes?
+
+How much methane monitoring is based on American institutions and policy?","2016-12-12 15:50:07","3","Imhotep_Is_Invisible","1747767238.496228","climate data","scientific"
+"db3otgq","t3_5hwik7","5hwik7","science","scientific","What is a question you would ask yourselves, that Reddit disappointed you by not asking? ","2016-12-12 16:24:51","3","gitacritic","1747767238.4980102","climate data","scientific"
+"db3rpk4","t3_5hwik7","5hwik7","science","scientific","Do you guys think that the type of seaweed that drastically reduces the methane emitted by cows could be the next big step to fighting the surge in methane? 
+
+Here's an article talking about it: http://www.abc.net.au/news/2016-10-19/environmental-concerns-cows-eating-seaweed/7946630?pfmredir=sm","2016-12-12 17:23:39","3","[deleted]","1747767238.4986932","climate data","scientific"
+"db3wpab","t3_5hwik7","5hwik7","science","scientific","Don't you think the 20 year time horizon of CH4 is more important since the world is trying to keep warming to 1.5? It seems to me if we respond to methane based on it being 28X more powerful then we're going to overshoot. Because we could easily reach 1.5  in 20 years and over a 20 year time horizon methane is 86X more potent than CO2.","2016-12-12 19:00:07","3","WowChillTheFuckOut","1747767238.499854","climate data","scientific"
+"db3z3cm","t3_5hwik7","5hwik7","science","scientific","Hello, I am a atmospheric researcher at Indiana University looking at soil fluxes of NOy. My question is less about your findings and more about the future of our research. I was planning on applying for post doctoral work at a national laboratory in hopes of continuing research in my area. We are already starved for funding as it is and are worried that we may be entering a hostile landscape for continued research in this area. Without getting into politics, I was wondering how you plan on transitioning (assuming there will be cuts in climate related research) and what this means for upcoming environmentally focused graduate students like myself?","2016-12-12 19:45:36","3","randomways","1747767238.501179","climate data","scientific"
+"db3p0vm","t3_5hwik7","5hwik7","science","scientific","Could genetically modifying flood crops such as rice reduce methane production?","2016-12-12 16:29:07","2","Dragoarms","1747767238.502186","climate data","scientific"
+"db3spra","t3_5hwik7","5hwik7","science","scientific","How can you overcome the anti-rationality that chooses to blur the lines of fact vs conspiracy? What steps are the scientific community taking to accelerate the tipping point of crushing deniers.
+
+Do you feel the scientific community is doing enough to defend their work and expunging pseudo science that has dominated the debate about climate change?
+
+What steps are being taken to accelerate the tipping point? ","2016-12-12 17:43:26","2","Xiaopeng8877788","1747767238.5035222","climate data","scientific"
+"db3yuqg","t3_5hwik7","5hwik7","science","scientific","Is there any chance of future tech reversing the damage done completely and quickly?","2016-12-12 19:41:10","2","[deleted]","1747767238.504437","climate data","scientific"
+"db462n0","t3_5hwik7","5hwik7","science","scientific","**Hi!  We’re excited to get started.  Ask us anything!**","2016-12-12 21:57:33","2","Greenhouse-Gas","1747767238.505989","climate data","scientific"
+"db484x9","t3_5hwik7","5hwik7","science","scientific","I recently read that a study found that introducing a small amount of dried seaweed into cattle feed reduces their enteric methane gas production by up to 99%. Given that livestock is such a significant source of atmospheric methane, why is this not more in the news? I would expect this to be universally adopted within months of the discovery.","2016-12-12 22:39:30","2","doctorcurly","1747767238.5068579","climate data","scientific"
+"db49tuw","t3_5hwik7","5hwik7","science","scientific","**We'll be closing the AMA in ten minutes! Any last questions? We've had a great time and thanks for your interest!**","2016-12-12 23:15:46","2","Greenhouse-Gas","1747767238.5080981","climate data","scientific"
+"db3iq06","t3_5hwik7","5hwik7","science","scientific","What is the most concise way to respond to people who deny human contribution? I'm talking, one sentence, drop the mic.......","2016-12-12 13:58:20","1","Allaboardthejayboat","1747767238.5090282","climate data","scientific"
+"db3opl1","t3_5hwik7","5hwik7","science","scientific","Do any of you as professionals feel the [Clathrate gun hypothesis](https://en.wikipedia.org/wiki/Clathrate_gun_hypothesis) is a legitimate concern? If so any plans to mitigate or adapt to such an event?","2016-12-12 16:22:37","1","gnetisis","1747767238.510207","climate data","scientific"
+"db3sx90","t3_5hwik7","5hwik7","science","scientific","ELI5: How do scientists prove something is a greenhouse gas?","2016-12-12 17:47:27","1","publicdefecation","1747767238.511917","climate data","scientific"
+"db3tqqb","t3_5hwik7","5hwik7","science","scientific","How much do you strongly dislike Lamar Smith and what is your ""Go To"" climate change denier informational point. ","2016-12-12 18:03:25","1","WEEBERMAN","1747767238.5132449","climate data","scientific"
+"db3udqg","t3_5hwik7","5hwik7","science","scientific","First, thank you all for your work and dedication to trying to protect our earth as I feel we all need to keep this in mind in all activities that could harm it as I would like my family to be able to enjoy it for centuries to come.
+I am currently in my sophomore year studying oil and gas engineering and I was wondering what are the impacts from drilling, products created by it such as gas emissions, and such?
+Also I know it was asked many times but is the heating of oceans gun theory going to be a concern if something isn't done about these rising levels?
+Thank you again.","2016-12-12 18:15:52","1","guitarpicker55","1747767238.514303","climate data","scientific"
+"db3uzxq","t3_5hwik7","5hwik7","science","scientific","How can I convince people that climate change is a real phenomenon?","2016-12-12 18:27:44","1","penguin8r","1747767238.515476","climate data","scientific"
+"db3vsna","t3_5hwik7","5hwik7","science","scientific","Most climate studies give us a date of 2100 as to when things will be very bad if we don't change our current course. With all the evidence regarding the permafrost melting and it essentially being a methane time bomb for our atmosphere, how quick is this going to have adverse effects on our daily lives? It seems like we went from linear to exponential growth in such a short time that its almost non combatable. I feel like people believe that it's going to be a problem for future generations, but it is definitely going to have an impact during our lifetime. ","2016-12-12 18:42:52","1","Mac6842","1747767238.516716","climate data","scientific"
+"db40hw3","t3_5hwik7","5hwik7","science","scientific","Hi! Yes, I also am wondering if there are organizations I can donate to that support efforts to diminish climate change. Are there education resources that you would recommend for those that wish to educate non-science majors about climate change?","2016-12-12 20:11:31","1","astro_grad","1747767238.517718","climate data","scientific"
+"db41j7f","t3_5hwik7","5hwik7","science","scientific","Where does the increase comes from? 
+Life stock seem to gets blamed a lot.
+
+However, CH4 have a relative short life cycle in the atmosphere, so shouldn't the total free CH4 from life stock be constant (at least assuming constant number of beasts).","2016-12-12 20:30:51","1","ArandomDane","1747767238.518732","climate data","scientific"
+"db42fxi","t3_5hwik7","5hwik7","science","scientific","1. Aside from being a greenhouse gas, does methane have secondary effects? For example, CO2 contributes to ocean acidification, and fossil fuel particulates lower air quality, especially in developing nations like China.
+
+2. What's your take on how we balance the long term effects of methane output with the potential benefits? It's easy for us to say we need to reduce agricultural output, but that may mean removing a food source from people who need it in the developing world. We have to balance both an obligation to protect the planet (And it's people) in the long term with an obligation to protect people in the short term (starvation, weather, health, etc). I'm with you guys - the long term effects of climate change seem likely to be devastating on a scale different from the effects of reducing them, but where do you see that line?","2016-12-12 20:48:08","1","ocean_sadification","1747767238.519968","climate data","scientific"
+"db4brbo","t3_5hwik7","5hwik7","science","scientific","Is it possible to move earth a little away from the sun to balance out the temperature rise?","2016-12-12 23:57:48","1","randompermutation","1747767238.520739","climate data","scientific"
+"db4ccja","t3_5hwik7","5hwik7","science","scientific","This'll probably get lost down below, but if we have any chance of surviving Climate Change, it'll be because of the work of climate scientists like you guys. I don't think it's any exaggeration to say that you guys are the greatest heroes of our lifetime. Keep fighting the good fight, and if there's anything that I, a non-scientist can do to help, I will do it. ","2016-12-13 00:10:50","1","herrcoffey","1747767238.521714","climate data","scientific"
+"db4e9cu","t3_5hwik7","5hwik7","science","scientific","What does your team have to say about Antarctica (South Pole) gaining ice?","2016-12-13 00:53:38","1","r3dditor192872","1747767238.522579","climate data","scientific"
+"db4ff5w","t3_5hwik7","5hwik7","science","scientific","What do you mean when you say: ""28 times more powerful""?","2016-12-13 01:19:19","1","Karadra","1747767238.523535","climate data","scientific"
+"db4giqd","t3_5hwik7","5hwik7","science","scientific","I need an ELI5 for every question and answer in this AMA","2016-12-13 01:43:12","1","FlintWaterInspector","1747767238.524304","climate data","scientific"
+"db4ifhc","t3_5hwik7","5hwik7","science","scientific","Is eating more beef actually going to help fight this?","2016-12-13 02:23:24","1","likeaham","1747767238.524965","climate data","scientific"

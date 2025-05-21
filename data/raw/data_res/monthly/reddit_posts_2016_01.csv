@@ -1,0 +1,39 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"3zjy4e","science","scientific","Science AMA Series: We're NOAA and NASA scientists on the Jason-3 satellite mission set to launch January 17, used to observe global sea surface height, AUA!","Hi everybody! 
+
+We’re a group from NOAA and NASA working on the Jason-3 satellite, which will provide altimetry observations of global sea surface height. These data provide critical information forecasters need to predict devastating hurricanes, severe weather, and surface wave heights that can affect shipping and offshore operations. For over 20 years, the Jason series of satellites (and their predecessor TOPEX/Poseidon), have helped to track global sea level rise, one of the main symptoms of climate change, and other climate phenomena such as El Niño. Data from Jason-3 will be added to this record and will be vital in helping to improve climate prediction models. Eventually we will also repurpose Jason-2 into its new role of mapping the ocean floor. Before we launch our new spacecraft, we're ready to answer your questions.
+
+
+**Update 4:08 p.m. EST: Thanks so much for your great questions! We've got to get back to our regularly-scheduled science now, but we hope that you'll be watching with us when Jason-3 launches. Coverage will be carried live on NASA TV and http://nasa.gov/ntv on Jan. 17, 2016, starting at 11 a.m. EST, with liftoff targeted for 1:42 p.m. EST **
+
+We are:
+
+Laury Miller, Jason-3 Program Scientist, NOAA Satellite and Information Service
+
+John Lillibridge, Jason-3 Project Scientist, NOAA Satellite and Information Service
+
+Eric Leuliette, Jason-3 Deputy Project Scientist, NOAA Satellite and Information Service
+
+Josh Willis, Jason-3 Project Scientist, NASA Jet Propulsion Laboratory (/u/ClimateElvis)
+
+Walter Smith, Geophysicist, NOAA Satellite and Information Service
+
+Renata Lana, Communications, NOAA Satellite and Information Service
+
+Stephanie L. Smith, Social Media Specialist, NASA Jet Propulsion Laboratory
+
+Joe Sienkiewicz, Meteorologist, NOAA NWS Ocean Prediction Center
+","2016-01-05 12:30:19","3182","325","0.86","https://www.reddit.com/r/science/comments/3zjy4e/science_ama_series_were_noaa_and_nasa_scientists/","True","NASAEarthRightNow","1747753910.5117052","climate data","scientific"
+"41zr2t","science","scientific","Science AMA Series: We are Gavin Schmidt and Reto Ruedy, of NASA’s Goddard Institute for Space Studies, and on Wed., Jan. 20 we released our analysis that found 2015 was the warmest year — by a lot — in the modern record. Ask Us Anything!","Hi Reddit!
+
+My name is [Gavin Schmidt](http://www.giss.nasa.gov/staff/gschmidt/). I am a climate scientist and Director of the NASA Goddard Institute for Space Studies. I work on understanding past, present and future climate change and on the  development and evaluations of coupled climate models. I have over 100 peer-reviewed publications and am the co-author with Josh Wolfe of “Climate Change: Picturing the Science,"" a collaboration between climate scientists and photographers. In 2011, I was fortunate to be awarded the inaugural AGU Climate Communications Prize and was also the EarthSky Science communicator of the year. I tweet at [@ClimateOfGavin](https://twitter.com/ClimateOfGavin).
+
+My name is Reto Ruedy and I am a mathematician working as a Scientific Programmer/Analyst at the Goddard Institute for Space Studies. I joined the team that developed the GISS climate model in 1976, and have been in charge of the technical aspects of the GISS temperature analysis for the past 25 years.
+
+You can read more about the NASA 2015 temperature analysis [here](http://www.nasa.gov/press-release/nasa-noaa-analyses-reveal-record-shattering-global-warm-temperatures-in-2015) (or [here](http://www.bbc.com/news/science-environment-35354579), [here](http://www.nytimes.com/2016/01/21/science/earth/2015-hottest-year-global-warming.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0), or [here](https://www.washingtonpost.com/news/energy-environment/wp/2016/01/20/its-official-2015-smashed-2014s-global-temperature-record-it-wasnt-even-close/)). You can also check out the [NOAA analysis](http://www.ncdc.noaa.gov/sotc/summary-info/global/201512) — which also found 2015 was the warmest year on record.
+
+We’ll be online at 1 pm EST (10 am PST, 6 pm UTC) to answer your questions — Ask Us Anything!
+
+UPDATE: Gavin and Reto are on live now (1:00 pm EST) Looking forward to the conversation.
+
+UPDATE: 2:02 pm EST - Gavin and Reto have signed off. Thank you all so much for taking part!","2016-01-21 12:30:19","2193","512","0.84","https://www.reddit.com/r/science/comments/41zr2t/science_ama_series_we_are_gavin_schmidt_and_reto/","True","NASAEarthRightNow","1747753914.666788","climate data","scientific"
