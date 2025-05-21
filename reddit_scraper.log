@@ -1613,3 +1613,13 @@
 2025-05-21 19:40:30,596 - __main__ - INFO - Scraping r/environment for query: zero waste
 2025-05-21 19:42:40,576 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
 2025-05-21 19:42:52,122 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 19:44:33,990 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 19:44:39,370 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 19:44:44,299 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 19:44:47,346 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 19:44:47,709 - __main__ - INFO - Scraping r/climate for query: carbon capture
+2025-05-21 19:44:48,327 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 19:45:04,177 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 19:45:07,035 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 19:45:11,947 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 19:45:51,480 - __main__ - INFO - Scraping r/ClimateActionPlan for query: carbon capture
