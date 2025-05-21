@@ -1,0 +1,186 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"cowmjs5","t3_2x3sja","2x3sja","science","scientific","How much CO2 is released in preparing the sodium carbonate and polymer shells?  Does the amount of CO2 captured more than compensate for this?","2015-02-25 13:02:40","55","Cry2Laugh","1747839703.134617","carbon capture","manual"
+"cowmg58","t3_2x3sja","2x3sja","science","scientific","Hi, where would those materials be stored after they've captured CO2? Should it necessarily be a leak-tight area, or are we confident that once stored, gases will not make their way back to the atmosphere in the far future?
+
+I work in the offshore Oil & Gas field. Do you see CO2 storage in reservoirs becoming a major - let's not say lucrative - industrial activity in the future?","2015-02-25 12:56:54","27","[deleted]","1747839703.1364841","carbon capture","manual"
+"cowm11g","t3_2x3sja","2x3sja","science","scientific","Science AMAs are posted early to give readers a chance to ask questions vote on the questions of others before the AMA starts. 
+
+Roger Aines and John Vericella are guests of /r/science and have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)","2015-02-25 12:32:36","15","nallen","1747839703.138728","carbon capture","manual"
+"cowmquk","t3_2x3sja","2x3sja","science","scientific","Thanks for coming and talking about the great work you guys do! 
+
+Do you think that your research could lead to less expensive methods of carbon capture for developing countries like India and China? I know that a big problem in rapidly industrializing countries is the inability to afford carbon capture technology, and that could have very serious consequences.","2015-02-25 13:13:26","11","[deleted]","1747839703.14007","carbon capture","manual"
+"cowmt5h","t3_2x3sja","2x3sja","science","scientific","Power plants, from a financial standpoint, are very risk adverse, they are funded by bonds and have regulated rates which makes their return on investment a long-term balancing act.  This has resulted in power plants being unwilling to implement technologies that do not have a long (10 years+) track record of performance.
+
+Do you see a way around this business model hurdle?  Is regulation the only way to speed the process up?","2015-02-25 13:16:42","10","nallen","1747839703.141548","carbon capture","manual"
+"cowme2k","t3_2x3sja","2x3sja","science","scientific","Hi.
+
+Even if CO2 capture is adopted by everyone, to the extent that recycling is currently, what effect would is have on global CO2 emissions?
+
+Using UK data (http://en.m.wikipedia.org/wiki/Recycling_in_the_United_Kingdom), 44% of households recycle their waste (http://www.theguardian.com/environment/2014/nov/18/recycling-rates-in-england-have-stalled). 
+
+Using those rates, and the fact that only 30% of energy use goes to households (http://www.goodenergy.co.uk/customer-care/help-and-advice/save-energy/what-s-my-impact/household-level), we can expect a reduction of 13% in CO2 emissions.
+
+This figure would be lower in countries like the US or China.
+
+In my opinion, targeting the industrial sector would be much more beneficial. They put out most of the CO2, and have the resources to spend on carbon capture.
+
+How would your technique be useful in this sector, compared to curent methods of carbon emissions reduction?","2015-02-25 12:53:36","11","krakonfour","1747839703.143331","carbon capture","manual"
+"cowmvuy","t3_2x3sja","2x3sja","science","scientific","The chilled methanol process held a lot of promise for quite sometime, but it appears that the projects did not go forward.  Is there an intrinsic problem with this process or was the time just not right?
+
+Also, MEA is pretty much the worst amine out there for carbon capture, what do you see as the downsides of AMP/PIP or MDEA/PIP systems?
+
+Edit: A little background info for those less familiar with the field.
+
+MEA = monoethanolamine, MDEA = methyldiethanolamine, AMP = 2-amino-2-methylpropanol, PIP = piperazine
+
+MEA is the incumbent technology that has historically been used, it's not really good, but cheap.  It degrades with heat, and corrodes steel vessels.
+
+MDEA/PIP is the technology that is replacing it, it's a tertiary amine that uses less energy to regenerate, piperazine is a catalytic activator to make the kinetics faster.
+
+AMP is a hindered primary amine and is a nice choice because it is a non-VOC and is much more robust to chemical degradation due to the amine being bonded to a tertiary carbon center (none of those pesky alpha-carbon protons to remove by free radical abstraction.)
+
+PIP is a small cyclic amine that has fast reactivity rates with CO2, but the ability to hold it isn't good.  The combination with a stoichiometric amine to hold the CO2 before regeneration is nice.  It also has a pretty reasonable tox profile, it's dewormer that we give to pets (and historically, children.)","2015-02-25 13:20:29","9","nallen","1747839703.145729","carbon capture","manual"
+"cown9bh","t3_2x3sja","2x3sja","science","scientific","This sounds like a very beneficial technical advancement toward storage in carbonate minerals, which are by far the largest reservoir for carbon in our crust so they hold a lot of promise.
+
+But, in order to get the carbonate to start with, you need to invest a large amount of energy, either in mining carbonate minerals directly, or by mining alkaline minerals to convert CO2, or some other analogous process.
+
+What are your thoughts on the source of this energy for carbon capture? Will it take retrofitting on FF power plants, raising their operation costs? Will it take renewable power built specifically to drive CCS? Something else?
+
+Also, I assume your process works by neutralizing the carbonic acid formed by CO2, thus producing bicarbonate instead. What are the challenges of storing bicarbonate as opposed to carbonate minerals which we know to be stable in the crust? If my assumption is wrong, could you talk about the chemistry of your storage process a little more?
+
+Thanks for your time!","2015-02-25 13:38:51","9","Imhotep_Is_Invisible","1747839703.1478999","carbon capture","manual"
+"cowoybj","t3_2x3sja","2x3sja","science","scientific","Would it be feasible with your method to absorb CO2 from ambient air?
+
+Various other researchers have talked about doing that. George Olah is one, and there's the Green Freedom proposal from Los Alamos. I've put a lot of thought into ways of financing it, if it can be done cost-effectively.","2015-02-25 14:46:40","5","ItsAConspiracy","1747839703.149159","carbon capture","manual"
+"cowqhiw","t3_2x3sja","2x3sja","science","scientific","Hello Roger & John! Thanks for coming to /r/science for this AMA.
+
+I'm struggling to visualize what carbon capture could look like in the future...what could this look like if we ideally develop this concept? Would I mount a carbon capture device on the exhaust of my car? And where would we ultimately put this accumulated CO2?","2015-02-25 15:36:48","6","bornNraisedNfrisco","1747839703.150778","carbon capture","manual"
+"cowng3i","t3_2x3sja","2x3sja","science","scientific","Some interesting background on Aines and Vericella's work [here](http://qz.com/339136/these-caviar-like-capsules-could-be-the-answer-to-curbing-carbon-emissions/). And you can see the microcapsules...they look like *technicolor caviar*. Might help with questions.","2015-02-25 13:47:23","5","twinxamot","1747839703.152226","carbon capture","manual"
+"cowpdcq","t3_2x3sja","2x3sja","science","scientific","How does your method of capturing carbon compare to the cost of planting trees, then storing the captured carbon in the form of wood products (lumber, furniture, etc.)?","2015-02-25 15:01:00","4","danielravennest","1747839703.153208","carbon capture","manual"
+"cowproq","t3_2x3sja","2x3sja","science","scientific","Wouldn't it be easier / cheaper / better for the planet to simply plant trees?
+
+Alternatively, wouldn't [iron fertilization](https://en.wikipedia.org/wiki/Iron_fertilization) of the oceans be preferable to an industrialized approach?","2015-02-25 15:14:18","4","shaim2","1747839703.154239","carbon capture","manual"
+"cowur64","t3_2x3sja","2x3sja","science","scientific","What ever happened to using algae?","2015-02-25 17:36:54","4","badsingularity","1747839703.1562848","carbon capture","manual"
+"cowmgcu","t3_2x3sja","2x3sja","science","scientific","As someone who knows nothing about this procedure or process, I was wondering if carbon capture, which as you say prevents the release of large quanities of CO2 that makes the planet warmer, has the potential to reverse harm that has already been done, or if it can only slow down the effects of the damage we're currently causing?  It all sounds like very interesting work. ","2015-02-25 12:57:14","3","Dalski","1747839703.157454","carbon capture","manual"
+"cowms81","t3_2x3sja","2x3sja","science","scientific","Thank you for doing this AMA!
+
+What are the limitations of this technology? ","2015-02-25 13:15:23","3","rfhickey","1747839703.158126","carbon capture","manual"
+"cown0du","t3_2x3sja","2x3sja","science","scientific","Is there one thing the average, non-scientist person can do to reduce carbon emissions? We hear about electric cars, buying local, etc... But is there one simple thing we could all be doing?","2015-02-25 13:26:40","3","mumfywest","1747839703.1591349","carbon capture","manual"
+"cownndw","t3_2x3sja","2x3sja","science","scientific","If a method(s) of CO2 scrubbing were to be adopted on a global scale (artificial trees or a genetic engineered algae) wouldn't there be a high probability of follow on ecological effect of the ""fix""? Is that predictable? ","2015-02-25 13:56:09","3","sammyo","1747839703.160079","carbon capture","manual"
+"cowppzc","t3_2x3sja","2x3sja","science","scientific","How about..... trees ? is that a too simple solution?","2015-02-25 15:12:50","3","[deleted]","1747839703.160882","carbon capture","manual"
+"cowpt4d","t3_2x3sja","2x3sja","science","scientific","Why not just use trees or other quick-growing plant material, harvest and bury it to capture carbon? Seems photosynthesis is the cheapest and most efficient method...","2015-02-25 15:15:35","3","[deleted]","1747839703.162038","carbon capture","manual"
+"cowqaqn","t3_2x3sja","2x3sja","science","scientific","Has carbon capture from highly concentrated CO2 streams from non-fossil sources such as fermentation at breweries, wineries and distilleries been considered as a means to extract net carbon from the atmosphere? As I understand it the off-gassing from fermentation creates a CO2 stream that is more concentrated than the exhaust of a coal or natural gas plant, for example. ","2015-02-25 15:30:57","3","xwing_n_it","1747839703.163192","carbon capture","manual"
+"cows8e2","t3_2x3sja","2x3sja","science","scientific","I fear that the advancement of carbon capture technologies will be used by companies to ''legitimize'' their use of fuels which emit carbon dioxide, and thus not embrace energy sources that do not emit GHGs. Is this a thing that you guys consider? Obviously I 100% agree that we need to be advancing these carbon capture technologies, however I was just thinking about its possible implications. ","2015-02-25 16:27:58","3","tallmotherfucker","1747839703.164213","carbon capture","manual"
+"cowt709","t3_2x3sja","2x3sja","science","scientific","How much of the CO2 from a large power plant could be recaptured directly in the best-case scenario?
+
+If that number is anything below 100% does it not mean the entire precess is flawed and we would be better-off building nuclear plants and solar plants in the first place?
+","2015-02-25 16:54:41","3","Azathoth2","1747839703.164991","carbon capture","manual"
+"cowu3pl","t3_2x3sja","2x3sja","science","scientific","Thank you for doing this AMA Roger, your work looks very exciting, I wish you all the best in your endeavour.  
+
+
+
+
+Take this with a grain of salt as I have little scientific knowledge, but my final project at Community College went as follows: 
+
+
+
+
+
+Burn bio mass ([Short Rotation Woody Crops](http://en.wikipedia.org/wiki/Short_rotation_coppice) was what I used in my project), capture the carbon from that combustion, then use that CO2 as a aid in a greenhouse that is powered and heated (Canadian) by the burning of the biomass. 
+
+
+
+
+In my mind you are capturing carbon with the growth of bio mass, then releasing it with the combustion to produce power, capturing it again (this is where your expertise comes in) and using it to grow vegetables. So you are in-taking CO2 and exhausting locally grown vegetables and carbon *negative* energy. Not to mention the benefits of the  strategically grown Short Rotation Woody Crops (that was the base of my project, I could go on all day about how they could benefit society)
+
+
+
+
+
+My question to you is regarding capturing the carbon after combustion. Once the carbon is captured in the media is it able to be removed and stored in a gaseous form that could be introduced into the greenhouse? ","2015-02-25 17:19:46","3","oilrocket","1747839703.166692","carbon capture","manual"
+"cowulsw","t3_2x3sja","2x3sja","science","scientific","Isn't there a finite amount of carbon on earth?
+Can you capture the CO2 and combine it with some other element to make it reusable as a source for generating heat to drive a power plant?","2015-02-25 17:33:02","3","DeuceyDeuce","1747839703.167531","carbon capture","manual"
+"cox5r2h","t3_2x3sja","2x3sja","science","scientific","Given that for every kg of coal burned you produce 2.3 kg of CO2 and that liquid CO2 has a density of 0.770 kg/l.  The US consumes 904Mt of coal which if 90% were captured using CCS you would end up with 2.4 trillion liters of CO2 to store per year or nearly 41.9 million barrels per day.   This is merely 4.6 times more that the current US daily oil production.  So for CCS to be a viable carbon mitigation strategy  (for coal only) we would require infrastructure 4.6 times greater than the current oil extraction industry to transport liquified CO2 for geologic sequestration.  Not to mention it would make existing coal facilities 20% less efficient.  
+
+How is this a viable approach to reducing greenhouse gas emissions?
+
+Edit: my understanding is that supercritical CO2 would be less dense than liquified CO2.
+
+","2015-02-25 22:13:25","3","vegiimite","1747839703.1689558","carbon capture","manual"
+"cowmvth","t3_2x3sja","2x3sja","science","scientific","This is a little off topic but having the chance to talk to an SME such as yourself is rare so I'll take a shot.
+
+Why do we not create a Billboard type reclamation system that can stand besides highways and freeways, have slits allowing air too pass through, and a filtration system that would capture the CO2? It can have advertisements on it while cleaning the air at the same time.
+
+I have been toying with how to make this a mainstream idea off and on for years and want to know what prevents this from being a feasible project?","2015-02-25 13:20:25","2","[deleted]","1747839703.170152","carbon capture","manual"
+"cowofhb","t3_2x3sja","2x3sja","science","scientific","I would like to know your opinion on the recent events in Siberia e.g. the discovery of the ""eruptions"" and/or sink holes. Is there any scientific opinion or pertinent researdh on the cause?  Will global warming lead to more events like these eruptions? ","2015-02-25 14:27:23","2","mod_ular","1747839703.1710458","carbon capture","manual"
+"cowom7t","t3_2x3sja","2x3sja","science","scientific","How do you imagine this type of tech practically used in the future?","2015-02-25 14:34:27","2","[deleted]","1747839703.1715379","carbon capture","manual"
+"cowowia","t3_2x3sja","2x3sja","science","scientific","Do you think these technologies would be implemented in cars, and other forms of transport? Would you be able to 3D print these? Could an everyday consumer just buy these at the store or something?","2015-02-25 14:44:54","2","durusveritas","1747839703.172271","carbon capture","manual"
+"cowowx4","t3_2x3sja","2x3sja","science","scientific","Thanks for the AMA. Being interested in life-cycle assessment myself, I was wondering if LCA plays any role inside your research or projects at all?","2015-02-25 14:45:18","2","DrDueSs","1747839703.1730251","carbon capture","manual"
+"cows2ei","t3_2x3sja","2x3sja","science","scientific","How do you feel about biochar as a soil amendment, specifically that created by biomass gasifiers?  Is this a legitimate long-term storage mechanism (without getting into a discussion about feedstocks...)?  ","2015-02-25 16:23:18","2","Colibri_Screamer","1747839703.174032","carbon capture","manual"
+"cowtejk","t3_2x3sja","2x3sja","science","scientific","Do you do any work with researchers at The University of Texas at Austin? I know a few of my professors in the petroleum and geosystems department do quite a bit of research in the storage aspect of carbon sequestration. ","2015-02-25 17:00:29","2","jaytees","1747839703.174866","carbon capture","manual"
+"cowun9b","t3_2x3sja","2x3sja","science","scientific","Mr. Aines,
+
+Thank you for your work as active recapturing of atmospheric carbon is likely the only hope earth has.
+
+My question is something I've had an interest in for a while now. Can we make artificial trees? Can we make artificial building material from the captured carbon grown with the aid of solar power like bamboo but without the need of a reproduction/burn cycle and the ability to actively move air over the collections like a heat sink. The continuous automatic production of strong building in ready to use shapes might make carbon collection profitable sooner.","2015-02-25 17:34:04","2","curiosgreg","1747839703.175927","carbon capture","manual"
+"cowydbn","t3_2x3sja","2x3sja","science","scientific","Hi Roger,
+
+Somewhat of tangentially related question; What are your thoughts on biochar, and its plausibility for long-term carbon sequestration, particularly with regards to implementation across a large scale?  ","2015-02-25 19:10:47","2","[deleted]","1747839703.176929","carbon capture","manual"
+"cowyz57","t3_2x3sja","2x3sja","science","scientific","Considering the main source globally of sodium carbonate is the solvay process, which requires a huge amount of energy, and any process recycling sodium carbonate would similarly require a large amount of energy, how would this route be economically feasible? It seems to me  (by rough estimation) that it would take more energy to ""capture"" each molecule of carbon dioxide than is originally released in the burning of raw coal. 
+
+This suggests two things to me- 
+
+1: this will only reduce the amount of carbon dioxide in the atmosphere if a majority of energy production is non-fossil fuel based, and
+
+2: this will be an extremely expensive process, due to the energy intensity involved. 
+
+How could you possibly commercialize this, or get it funded? ","2015-02-25 19:26:15","2","slapdashbr","1747839703.1781619","carbon capture","manual"
+"cox0eo3","t3_2x3sja","2x3sja","science","scientific","Once captured in the capsules, where do you plan on storing them, and what is the risk of a CO2 leak. From what I understand, you are storing them in a gas phase correct? 
+
+(Thanks for doing this AMA guys! As a geochemistry student, I get really excited seeing AMA's from people in the field!)","2015-02-25 20:02:12","2","eilrymist","1747839703.178983","carbon capture","manual"
+"cox1j2l","t3_2x3sja","2x3sja","science","scientific","No mustache questions. I'm crushed.","2015-02-25 20:30:16","2","Roger_Aines","1747839703.181034","carbon capture","manual"
+"cox7c7t","t3_2x3sja","2x3sja","science","scientific","Whatever happened to the laser you guys were working on? ","2015-02-25 22:55:08","2","[deleted]","1747839703.182127","carbon capture","manual"
+"cowo68a","t3_2x3sja","2x3sja","science","scientific","Hi Roger,
+
+Could this technology be used to trap CO instead of CO2 ? It could be used as a filter in gas boiler, to avoid CO poisoning, what do you think ?","2015-02-25 14:17:26","1","bridel08","1747839703.183143","carbon capture","manual"
+"cowq5pr","t3_2x3sja","2x3sja","science","scientific","Can this technology and technologies like this scale up in time to save us from disaster?","2015-02-25 15:26:35","1","jacksparrow1","1747839703.184213","carbon capture","manual"
+"cowqz23","t3_2x3sja","2x3sja","science","scientific","How do you like working at LLNL? Have you had an opportunity to travel and work at Sandia or Oak Ridge? Which campus do you like the most? Was working in a secure environment strange for you at first?","2015-02-25 15:51:27","1","qwerqwert","1747839703.18539","carbon capture","manual"
+"cowr31v","t3_2x3sja","2x3sja","science","scientific","Hi Roger, thanks for doing this AMA! I know that South Africa has invested a great deal of research into Syn-gas production. If syn-gas came from carbon sequestration, would this be an environmentally neutral energy production method? Or, in your opinion, are there other by-products (ammonia, etc.) that still make syn-gas unfeasible as a carbon-neutral energy source? Then begs the question, how is your research trying to change syn-gas production?","2015-02-25 15:54:47","1","[deleted]","1747839703.1864169","carbon capture","manual"
+"cowrhys","t3_2x3sja","2x3sja","science","scientific","How did you find your scientific direction? I'm working on a B.S. in environmental science and, while I have many interests, I have no clue what to pursue. ","2015-02-25 16:07:05","1","karlymoon999","1747839703.187509","carbon capture","manual"
+"cowrp3m","t3_2x3sja","2x3sja","science","scientific","Hi John and Roger!
+
+As a layman to this field, and every other field of science, what affect might this research have on my life down the road?
+
+What is to be done with the filled capsules, and would using them as a source of power be environmentally friendly, let alone possible, in any way. 
+
+Would it be safe to set these capsules up in a residence?
+
+Could these capsules be used to supply plants with CO2 in greenhouses?
+
+But most importantly, do you like working on this?","2015-02-25 16:12:51","1","SuddenXxdeathxx","1747839703.1887941","carbon capture","manual"
+"cowsfot","t3_2x3sja","2x3sja","science","scientific","Nature already has a great form of carbon sequestration, compost. Researchers at University of California, Berkeley have been studying compost's sequestration properties for the last ten years. The San Francisco Chronicle published the below article on their research last fall. 
+http://www.sfgate.com/science/article/A-sprinkle-of-compost-helps-rangeland-lock-up-5832244.php 
+
+Highlights from the article below.
+
+""The research showed that if compost from green waste — everything from household food scraps to dairy manure — were applied over just 5 percent of the state’s grazing lands, the soil could capture a year’s worth of greenhouse gas emissions from California’s farm and forestry industries
+
+-The effect is cumulative, meaning the soil keeps absorbing carbon dioxide even after just one application of compost, the researchers found. In theory, Silver calculates, if compost made from the state’s green waste were applied to a quarter of the state’s rangeland, the soil could absorb three-quarters of California’s greenhouse gas emissions for one year, due in large part to the one-time offset from waste diversion
+
+-Unlike high-tech geo-engineering schemes to pull excess carbon dioxide from the air and stick it in old coal mines or under the ocean, applying compost is a simple way of creating what scientists call a positive feedback loop.
+
+-The good news is that by returning carbon to the soil in a stable form such as compost, soils can be restored, said Rattan Lal, director of the Carbon Management and Sequestration Center at Ohio State University.
+
+Efforts are under way to incorporate soil carbon offsets in California’s cap-and-trade system, so ranchers could earn credits for spreading compost. The American Carbon Registry, an organization that certifies offsets, on Thursday approved one for compost additions to rangeland.""
+
+My final say
+
+-Instead of investing in high tech carbon storage techniques we should be investing in municipal waste diversion programs that keep compostables out of the landfill and create compost for our farms and rangelands, increasing the quality of the soil and sequestering carbon. Additionally when compostables (food scraps, yard waste, food soiled paper) go to the land fill instead of being sent to a composting facility they break down anaerobically, producing methane which according to the EPA is 28x more potent than C02. ","2015-02-25 16:33:38","1","spiceybites2015","1747839703.191284","carbon capture","manual"
+"cowtxhz","t3_2x3sja","2x3sja","science","scientific","Thanks for doing doing an AMA! 
+
+Regarding the current (or future) CCS methods. Are there ways of using the captured CO2 in a productive way or will it be stored similar to a garbage dump where it will just pile up over time? 
+
+
+Also how do you ensure that the stored CO2 is not re-released into the atmosphere in a ""burp"" that could endanger the surrounding environment? ","2015-02-25 17:15:08","1","esims42","1747839703.192238","carbon capture","manual"
