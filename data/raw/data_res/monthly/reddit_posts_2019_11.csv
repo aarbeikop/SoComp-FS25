@@ -1,16 +1,4 @@
 ﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
-"drx5rw","climate","scientific","What is a good source to find the CO2 emissions of the lpg energy chain per step?","I'd like to know how much CO2 is emitted in the  energy chain (from drilling to distribution) of LPG. Where can I find this data?","2019-11-05 10:05:50","2","5","0.67","https://www.reddit.com/r/climate/comments/drx5rw/what_is_a_good_source_to_find_the_co2_emissions/","True","AlienNinjaTRexBoob","1747730616.894679","CO2 emissions","scientific"
-"dy56ih","collapse","skeptical","YouTube's 20 Million Trees Campaign At $1 Dollar Per Tree Will Offset US Emissions For 12 Hours","You're the best Google!
-
-They probably gave the vice president of that effort 20 million to boot.
-
-**By Da Lard Jeaysus Tunder'n B'y**
-
-[Tunderf00t slams grand green scam with basic wizard math](https://www.youtube.com/watch?v=gqht2bIQXIY)\- YT 21 min
-
-[Sabine Hossenfelder: Sexy Math Chick Talks Climate Model Veracity](https://youtu.be/-fkCo_trbT8?list=WL) \- YT 35 min
-
-I can tell YT is fucking with my comments because sometimes after I refresh them they make sense.","2019-11-18 16:08:30","1196","132","0.98","https://www.reddit.com/r/collapse/comments/dy56ih/youtubes_20_million_trees_campaign_at_1_dollar/","True","CommonEmployment","1747730803.628542","CO2 emissions","scientific"
 "dteann","sustainability","action-oriented","Hey r/sustainability! This is Oatly and we are trying to make it a law for food companies to label their products with their carbon emissions footprint.","Hello! This is Oatly and we are trying to make it a law for food companies to label their products with their carbon emissions footprint.
 
 **TLDR: We have submitted a petition to the German Federal Parliament (Bundestag) and we need 50,000 signatures by Monday, November 11th in order to force a debate.** You can sign here: ([https://epetitionen.bundestag.de/petitionen/\_2019/\_10/\_01/Petition\_99915.nc.html](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fepetitionen.bundestag.de%2Fpetitionen%2F_2019%2F_10%2F_01%2FPetition_99915.nc.html&data=02%7C01%7Cmaria.timander%40oatly.com%7C2c192c71b2c54efb1d3508d762be1f78%7C726d92b3a06f467d86e981b5d6b34600%7C0%7C0%7C637086441031930219&sdata=VjE4h8k3qXBGGxliulAqateZY9Es3OO1ZcNFDAAFfdw%3D&reserved=0))
@@ -23,24 +11,4 @@ Trouble is, the Bundestag site ([https://epetitionen.bundestag.de/petitionen/\_2
 
 Cool?
 
-Our Campaign page in German [https://www.oatly.com/de/petition](https://www.oatly.com/de/petition)","2019-11-08 11:44:46","573","60","0.98","https://www.reddit.com/r/sustainability/comments/dteann/hey_rsustainability_this_is_oatly_and_we_are/","True","OAT-LY","1747730929.473143","CO2 emissions","scientific"
-"drr96c","sustainability","action-oriented","Is paper worse than plastic in this situation? Why isn’t paper considered worse in general?","Ok so I’ve been thinking about this a lot after I saw a meme a few months ago:
-
-People Have begun to replace single use plastics with paper (or metal but let’s talk about paper right now). I know plastic is bad for the environment. But we’re facing problems with climate change right now.
-
-Deforestation is a real problem that plays a role in climate change and should be considered more important especially with the rise in CO2 emissions right? 
-
-Yet we still buy paper things all the time, and I feel like people are only focusing on getting rid of plastic but in reality shouldn’t we stop the amount of paper produced and used?
-
-Or is there something I don’t know?
-
-What makes plastic worse than paper? Cause their cutting down trees to make it... 
-
-Yes plastic hurts other organisms but shouldn’t earth be more important right now?","2019-11-05 00:41:20","6","13","0.75","https://www.reddit.com/r/sustainability/comments/drr96c/is_paper_worse_than_plastic_in_this_situation_why/","True","accvvf","1747731007.1681762","CO2 emissions","scientific"
-"dypnj7","sustainability","action-oriented","Numbers on Carbon capture tech","Hey guys,
-
-I recently read an [article](http://news.mit.edu/2019/mit-engineers-develop-new-way-remove-carbon-dioxide-air-1025) where MIT researchers are able to develop low energy intensive carbon capture tech at lab scale. They were able to bring down the energy cost to  1 GJ for 1 tonne of CO2 ( Most existing tech is in the range of 4-10 GJ).
-
-Although commercial scale up feasibility of the tech not tested yet, I took that energy cost as reference and calculated energy needed for CCS to absorb entire current emissions of US as a percentage of their current total energy consumption. For the calcs, I assumed 300 GJ per capita consumption, 330 million population and 5 billion tonnes of emissions. It turns out that to capture entire US emissions, CCS energy cost is only 5 percent of their current total energy consumption! ( 5 billion GJ out of 99 billion GJ) This number sounds too good to be true, am I missing anything?
-
-If this number is true, US can easily allocate  5 percent of their annual energy cost to carbon capture. Maybe another 2-3 percent needed for pipelining and storage. I have been very skeptical of CCS, but now it looks very feasible with these numbers.","2019-11-19 19:50:44","2","0","1.0","https://www.reddit.com/r/sustainability/comments/dypnj7/numbers_on_carbon_capture_tech/","True","zenneutral","1747731025.204202","CO2 emissions","scientific"
+Our Campaign page in German [https://www.oatly.com/de/petition](https://www.oatly.com/de/petition)","2019-11-08 11:44:46","575","60","0.98","https://www.reddit.com/r/sustainability/comments/dteann/hey_rsustainability_this_is_oatly_and_we_are/","True","OAT-LY","1747826647.7888598","climate data","scientific"

@@ -1,110 +1,25 @@
 ﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
-"d6dzoi","collapse","skeptical","The Ultimate Doom Post | Just kidding, it's worse than that.","The Facts
----
-► 50% of animals gone since 1970
+"d5jnvu","climatechange","action-oriented","Is there a completely UNBAISED resource for climate change data and facts?","Can anyone here guide me to an information database on climate change based data and fact that is **completely objective** and does not propagate any stance in particular, as most resources I come across try to dump on you one kind of viewpoint or other by selectively choosing their facts that would support their inclinations. Thanks!","2019-09-17 16:48:09","9","9","1.0","https://www.reddit.com/r/climatechange/comments/d5jnvu/is_there_a_completely_unbaised_resource_for/","True","bananas_on_malana","1747822847.2266428","climate data","scientific"
+"cz8z9w","climate","scientific","Can Anyone Recommend Good Climate Model Data Viewers Online?","Question is pretty much in the title. Just curious - so far I haven't found much. Some pre-made animations and such which are cool but I'm talking about like how we can view the GFS and North American Model for weather online, frame by frame - but for climate models. Thank you.","2019-09-03 18:44:42","0","0","0.5","https://www.reddit.com/r/climate/comments/cz8z9w/can_anyone_recommend_good_climate_model_data/","True","FraterThelemaSucks","1747823205.6536179","climate data","scientific"
+"d6uez5","science","scientific","Science Discussion Series: Climate Change is in the news so let’s talk about it! We’re experts in climate science and science communication, let’s discuss!","[Hi reddit!](https://i.imgur.com/sqOjWz6.png) This month the UN is holding its [Climate Action Summit](https://www.un.org/en/climatechange/un-climate-summit-2019.shtml), it is [New York City's Climate Week](https://www.climateweeknyc.org/) next week, today is the [Global Climate Strike](https://globalclimatestrike.net/), earlier this month was the [Asia Pacific Climate Week](https://docs.wixstatic.com/ugd/f0e05f_744d71823692423c89830a8a843eb617.pdf), and there are many more local events happening. Since climate change is in the news a lot let’s talk about it!
 
-- https://www.theguardian.com/environment/2019/sep/18/losing-species-shocking-rates-why-conservation-failing
+We're a panel of experts who study and communicate about climate change's causes, impacts, and solutions, and we're here to answer your questions about it! Is there something about the science of climate change you never felt you fully understood? Questions about a claim you saw online or on the news? Want to better understand why you should care and how it will impact you? Or do you just need tips for talking to your family about climate change at Thanksgiving this year? We can help!
 
-► 99% of Rhinos gone since 1914.
+**Here are some general resources for you to explore and learn about the climate:**
 
-► 97% of Tigers gone since 1914.
+* AAAS just released a report with case studies and videos of how communities and companies (and individuals) in the US are working with scientists to respond to climate change called ""[How We Respond](https://howwerespond.aaas.org).""
+* NASA: [Vital Signs of the Planet](https://climate.nasa.gov/)
+* National Academies of Sciences: [Climate Change Evidence and Causes](https://www.nap.edu/catalog/18730/climate-change-evidence-and-causes)
+* National Geographic: [Seven things to know about Climate Change](https://www.nationalgeographic.com/environment/climate-change/)
 
-► 90% of Lions gone since 1993.
+**Today's guests are:**
 
-► 90% of Sea Turtles gone since 1980.
+**Emily Cloyd** (u/BotanyAndDragons): I'm the director for the American Association for the Advancement of Science [Center for Public Engagement with Science and Technology](https://www.aaas.org/programs/center-public-engagement-science-and-technology), where I oversee programs including [How We Respond: Community Responses to Climate Change](https://howwerespond.aaas.org/) (just released!), the [Leshner Leadership Institute](https://leshnerfellows.aaas.org/), and the [AAAS IF/THEN Ambassadors](https://www.aaas.org/news/125-women-stem-selected-aaas-ifthen-ambassadors), and study best practices for [science communication](http://dx.doi.org/10.3998/2027.42/150489) and [policy](https://www.nature.com/articles/s41599-019-0318-6) [engagement](https://www.american.edu/spa/scicomm/). Prior to joining AAAS, I led [engagement and outreach](https://link.springer.com/article/10.1007/s10584-015-1568-y) for the [Third National Climate Assessment](https://nca2014.globalchange.gov/), served as a [Knauss Marine Policy Fellow](https://seagrant.noaa.gov/Knauss-Fellowship-Program) at the [National Oceanic and Atmospheric Administration](https://coastalscience.noaa.gov/data_reports/establishing-national-ocean-service-priorities-for-estuarine-coastal-and-ocean-modeling-capabilities-gaps-and-preliminary-prioritization-factors/), and studied [the use of ecological models in Great Lakes management](https://www.esf.edu/es/documents/GreatLakesRpt.pdf). I hold a Master's in Conservation Biology (SUNY College of Environmental Science and Forestry) and a Bachelor's in Plant Biology (University of Michigan), am always up for a paddle (especially if it is in a dragon boat), and last year hiked the Tour du Mont Blanc.
 
-► 90% of Monarch Butterflies gone since 1995.
+**Jeff Dukes** (u/Jeff_Dukes): My research generally examines how plants and ecosystems respond to a changing environment, focusing on topics from invasive species to climate change. Much of my experimental work seeks to inform and improve climate models. The center I direct has been leading the Indiana Climate Change Impacts Assessment (INCCIA); that's available at [IndianaClimate.org](http://indianaclimate.org/). You can find more information about me at [https://web.ics.purdue.edu/\~jsdukes/lab/index.html](https://web.ics.purdue.edu/~jsdukes/lab/index.html), and more information about the Purdue Climate Change Research Center at [http://purdue.edu/climate](http://purdue.edu/climate).
 
-► 90% of Big Ocean Fish gone since 1950.
+**Hussein R. Sayani** (u/Hussein_Sayani): I'm a climate scientist at the School of Earth and Atmospheric Science at Georgia Institute of Technology. I develop records of past ocean temperature, salinity, and wind variability in the tropical Pacific by measuring changes in the chemistry of fossil corals. These past climate records allow us to understand past climate changes in the tropical Pacific, a region that profoundly influences temperature and rainfall patterns around the planet, so that we can improve future predictions of global and regional climate change. 
 
-► 80% of Antarctic Krill gone since 1975.
+**Jessica Moerman** (u/Jessica_Moerman): Hi reddit! My name is Jessica Moerman and I study how climate changed in the past - before we had weather stations. How you might ask? I study the chemical fingerprints of geologic archives like cave stalagmites, lake sediments, and ancient soil deposits to discover how temperature and rainfall varied over the last several ice age cycles. I have a Ph.D. in Earth and Atmospheric Sciences from the Georgia Institute of Technology and have conducted research at Johns Hopkins University, University of Michigan, and the Smithsonian National Museum of Natural History. I am now a AAAS Science and Technology Policy Fellow working on climate and environmental issues. 
 
-► 80% of Western Gorillas gone since 1955.
-
-► 60% of Forest Elephants gone since 1970.
-
-► 50% of Great Barrier Reef gone since 1985.
-
-► 50% of Human Sperm Counts gone since 1950.
-
-► 80% of Western Gorillas gone since 1955.
-
-► 50% of Forest Bird Species will be gone in 50 years.
-
-► 40% of Giraffes gone since 2000.
-
-► 40% of ocean phytoplankton gone since 1950.
-
-... http://www.scientificamerican.com/article/phytoplankton-population/
-
-► Ocean plankton declines of 1% per year means 50% gone in 70 years, declines of more than 1%/yr are likely.
-
-► Ocean plastic is killing bacteria that make 10% of our oxygen.
-
-- https://futurism.com/the-byte/plastic-killing-bacteria-oxygen
-
-- https://www.onegreenplanet.org/environment/plankton-under-threat-tiny-life-in-major-need-of-your-help/
-
-- https://www.irishtimes.com/news/environment/plastic-eaten-by-plankton-may-impair-oceans-ability-to-trap-co2-1.3875434
-
-- https://www.theguardian.com/environment/2016/jun/02/microplastics-killing-fish-before-they-reach-reproductive-age-study-finds
-
-► Ocean acidification doubles by 2050, explodes by 2100.
-
-- https://scitechdaily.com/new-study-shows-breaching-carbon-threshold-could-lead-to-mass-extinction/
-
-► 30% of Marine Birds gone since 1995.
-
-► 70% of Marine Birds gone since 1950.
-
-► 28% of Land Animals gone since 1970.
-
-► 28% of All Marine Animals gone since 1970.
-
-► If you are 15 years old, emissions went up 30% in your lifetime. 
-
-► If you are 30 years old, emissions went up 60% in your lifetime. 
-
-► After 30 years trying, solar and wind are < 3% of total world energy use. 
-
-- https://lokisrevengeblog.files.wordpress.com/2019/07/energy-sources.jpg?w=696
-
-► Solar panels produce 90% of power rating 15% of time
-
-► Wind turbines produce 90% of power rating 25% of time.
-
-- https://www.youtube.com/watch?v=og2H7ZxkiMA | DW 12 min
-
-► Claire Fyson said emissions must go down 50% in 10 yrs to avoid 1.5° C. 
-
-► The Insurance Journal said they must go down 50% in 10 yrs to avoid 3.0° C.
-
-► Stefan Rahmstorf said emissions must go down 100% in 20 yrs to avoid 2.0° C. 
-
-► Hans Schellnhuber said 5 of 13 major hothouse tipping points start below 2.0° C. 
-
-► When these 5 points are triggered, they trigger the other 8.  
-
-► This results in runaway hothouse, which can't be stopped or reversed once started.  
-
-► But we are also headed for runaway mass extinction, which can't be stopped or reversed once started. 
-
-► 10,000 years ago humans and livestock were 0.03% of land vertebrate biomass. 
-
-► Today humans and livestock are 98% of land vertebrate biomass. 
-
-► Human/livestock food production caused 80% of land vertebrate species extinctions. 
-
-► Petrochemical use grows 7X faster than human population.","2019-09-19 13:23:33","912","300","0.98","https://www.reddit.com/r/collapse/comments/d6dzoi/the_ultimate_doom_post_just_kidding_its_worse/","True","CommonEmployment","1747729184.758181","CO2 emissions","scientific"
-"d9f3m5","sustainability","action-oriented","Tokyo's climate strike happened at 5pm, but at least it happened.","My friend and I happened to be in Tokyo during the climate strike and so we joined in theirs while we were there.  
-It was pretty absurd at first because it happened at 5pm... Yes, a work/school strike that begins after work/school.
-
-Once we got past the weirdness and joined in, it became immediately apparent that Japan didn't have a very large base of people that were particularly concerned about this. Of course, part of that might be the language/cultural barrier, which means they are more likely to organise their own protests than jump on the back of world protests, but I probably shouldn't have been too surprised. We were, after all, in a country where many things sold are triple-wrapped in plastic and then handed over in a plastic bag. Not to mention all the coffee shops we saw where all the customers were sitting indoors, drinking from disposable coffee cups.
-
-Mind-you, as far as I'm aware, they do a good job with their CO2 emissions, so I'm probably focussing on the small issues. Also, I'm relatively new to understanding these issues, so I'm not the best person to pass judgement. Nevertheless, once it kicked off, a huge number of people joined in. It was by no means anywhere near the numbers seen in other countries around the world, but it certainly wasn't fruitless.
-
-It was odd how we had to wait for traffic and it took a while for the politeness of the Japanese culture to wear off enough for the chants to get going, but once it did, the march was great! It gained quite a bit of attention and it turned out that we were marching through rush hour, going through one of the busiest crosswalks in Japan, in the city of Shibuya.
-
-We made a video of our experience in the march here if you're interested to check it out:  
-[https://www.youtube.com/watch?v=pTmwevYebyEI](https://www.youtube.com/watch?v=pTmwevYebyE)  
-It's super interesting to see the change in atmosphere when the march properly kicks into gear.","2019-09-26 05:09:28","118","7","0.99","https://www.reddit.com/r/sustainability/comments/d9f3m5/tokyos_climate_strike_happened_at_5pm_but_at/","True","GeekBite","1747729414.887001","CO2 emissions","scientific"
+Our guests will be joining us throughout the day (primarily in the afternoon Eastern Time) to answer your questions and discuss!","2019-09-20 12:47:56","28507","2576","0.84","https://www.reddit.com/r/science/comments/d6uez5/science_discussion_series_climate_change_is_in/","True","ScienceModerator","1747823236.462431","climate data","scientific"
