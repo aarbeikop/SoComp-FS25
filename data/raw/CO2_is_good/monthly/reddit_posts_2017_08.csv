@@ -1,0 +1,28 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"6s56co","science","scientific","Science AMA: I’m Seema Jayachandran, economist at Northwestern University. Let me tell you why paying poor farmers to not cut down forests is a cheap way to combat climate change. AMA about why small amounts of money for Ugandan farmers helped preserve endangered chimp habitat, and the atmosphere.","Hi Reddit!
+
+My name is Seema Jayachandran, and I’m an economics professor at Northwestern University, specializing in low-income countries.
+
+I am affiliated with the Poverty Action Lab at MIT (J-PAL), which has championed the use of randomized controlled trials to study the effectiveness of social/economic policies. I am also affiliated with Innovations for Poverty Action, who was our partner for data collection in Uganda for the research I am here to talk about.
+
+My collaborators and I just [published a paper in Science](http://science.sciencemag.org/content/357/6348/267),
+ [short summary here](http://www.poverty-action.org/study/testing-effectiveness-payments-ecosystem-services-enhance-conservation-uganda), that evaluates a program in Uganda that paid individuals to keep their forest intact. Most of the forest is owned by poor farmers who have been cutting trees to sell to timber or charcoal dealers as an extra source of income, or to use the cleared land for growing crops. As a result, the forest is disappearing at one of the fastest rates seen anywhere in the world. The Ugandan government wanted to protect the forest to save chimpanzees and other endangered species, whose habitat is dwindling.
+
+Preserving forests has another big benefit for all of us: It keeps CO2 out of the atmosphere. Trees naturally absorb and sequester CO2 from the atmosphere as part of photosynthesis.  The carbon they are storing is emitted into the atmosphere when they are burned or decompose. Paying forest owners to keep their forests intact is thus one way we can reduce global CO2 emissions.  Furthermore, offering a payment and making the program voluntary means that, unlike under a ban, we are not making poor people worse off. This approach (called “Payments for Ecosystem Services” or PES) has been used in Costa Rica and elsewhere, but there has been a lot of skepticism about whether it actually works (for reasons I’m happy to discuss).
+
+We decided to rigorously test how well PES works using a randomized trial; some villages got the program, and some didn’t. A Ugandan conservation non-profit called [CSWCT](http://www.ngambaisland.org/pes-project) ran the program, and we evaluated the program’s impacts. We compared the amount of deforestation in villages with the program (treatment group) to the ones without it (control group) using satellite imagery.  This is the first time PES has been tested with the randomized controlled trial method.
+
+Bottom-line finding: The program saved a lot of forest. We converted that gain in forest into a quantitative dollar benefit to the world from the delayed CO2 emissions (I’m happy to explain more about how we did that). The climate-change benefits were more than twice the program costs. Our findings don’t mean PES will work always and everywhere, but they should make us more bullish on it. IMO, rich countries should be upping their funding for programs that pay people in poor countries to preserve forests. We need to reduce CO2 emissions, and this seems like a bargain way to do it.
+
+The study was widely covered, [including by the NYT](https://www.nytimes.com/2017/07/20/climate/a-cheap-fix-for-climate-change-pay-people-not-to-chop-down-trees-uganda.html), [the Atlantic](https://www.theatlantic.com/science/archive/2017/07/paying-people-to-preserve-their-trees/534351/), [InsideClimateNews](https://insideclimatenews.org/news/20072017/stopping-deforestation-payment-ecosystem-services-trees-uganda-climate-change), and [Popular Science](http://www.popsci.com/uganda-deforestation-pay).  Northwestern was kind (or mean) enough to post a [short video interview](https://news.northwestern.edu/stories/2017/july/cash-for-carbon-a-cost-effective-way-to-reduce-deforestation/) with me as well.
+
+TL;DR In a first-of-its-kind controlled experiment, paying poor Ugandans not to cut down their forests created twice the value in avoided climate costs as was spent on the program.  We should do it more.
+
+I’ll be back at ~12:00 ET to answer questions!
+
+Edit #1:  Thanks for the insightful questions. This was fun. The allotted time is up, and I am signing off, but will check back later to answer a few more questions. Thanks again for your interest! sj
+
+Edit #2 (4 pm ET): I posted a few more replies. I'll check back in again this evening, so upvote any particular posts that I overlooked but you'd like to see answered!
+
+Edit #3 (6:30 pm ET): There were some great new questions posted, and I posted some answers. Thanks again for your interest in the topic. This was fun! Read the [full study](http://www.seemajayachandran.com/cashforcarbon.pdf) if you want more details, and if you want to help support conservation projects like this one, [our partner in Uganda](http://ngambaisland.org/experimental-methodology-testing-effectiveness-pes/) is hoping to raise money to continue and scale up the program. There is a bunch of other good conservation work being done in Uganda and elsewhere, too. It's a wrap!
+","2017-08-07 12:24:48","15541","460","0.84","https://www.reddit.com/r/science/comments/6s56co/science_ama_im_seema_jayachandran_economist_at/","True","Seema-Jayachandran","1747888708.4878552","CO2 is good","manual"
