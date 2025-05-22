@@ -1,0 +1,16 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"dtl0x0d","t3_7n88ka","7n88ka","collapse","skeptical","Sea ice predictions for Feb 28!
+
+Last month, we predicted annual volume & extent for Jan 31:
+Volume: 13✅ (ST) and 12.8❌ (LT)
+Extent: 9.9✅ (ST) and 9.9–10✅ (LT)
+
+The test of a prediction is of course whether or not it turns out correct, which means we will have to wait till the data are in. We’ll then keep tabs on which is best for predictions; volume or extent, and ST (short–term) or LT (long–term) trends. Expectations are ST will be best at next–month predictions, and LT at next year, volume over all better than extent.
+
+Prediction for February 28th:
+Volume: 13.1 (ST) and 12.9 (LT)
+Extent: 9.9 (ST) and 9.9–10 (LT)
+
+And LT for Dec 31 2018: 11.9–12.6 (volume) and 9.8–10.2 (extent)
+
+(All numbers are of course in annual averages, as those are the only ones you can perform this sort of math on. Volume is in thousands and extent in millions, of km³ and km², respectively.)","2018-02-01 18:28:45","1","IceGoingSouth","1747869556.1312532","sea level projections","manual"

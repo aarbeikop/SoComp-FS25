@@ -1,0 +1,138 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"cninqyj","t3_2rrsoi","2rrsoi","climate","scientific","This looks like a cut-and-paste from a news source.  How about linking the full article?","2015-01-08 19:33:28","1","silence7","1747836074.4861372","sea level projections","manual"
+"cnqveua","t3_2smkn8","2smkn8","science","scientific","How do you feel about prone positioning?","2015-01-16 14:04:06","41","[deleted]","1747836257.051722","sea level projections","manual"
+"cnqv0dr","t3_2smkn8","2smkn8","science","scientific","Science AMAs are posted early to give readers a chance to ask questions vote on the questions of others before the AMA starts. 
+
+Dr. Cobert is a guest of /r/science and has volunteered to answer questions, please treat him with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)","2015-01-16 13:46:36","37","nallen","1747836257.054722","sea level projections","manual"
+"cnqvxih","t3_2smkn8","2smkn8","science","scientific","Could ARDS be an infection?  Or, could it be an autoimmune response, in the same chaotic sense that Rheumatoid Arthritis and Crohn's Disease are autoimmune diseases?  
+
+You mentioned a flood of immune cells and edema, and it just got me thinking that it's the same effects as RA...only it presents in the lungs and not the joints.","2015-01-16 14:24:41","21","ORD_to_SFO","1747836257.0576515","sea level projections","manual"
+"cnqveqw","t3_2smkn8","2smkn8","science","scientific","Hey from a fellow Philadelphian. 
+ARDS was mainly responsible for my grandfathers death,as he had gone into the hospital for an unrelated illness and ended up succumbing to complications from ARDS. As it is common in the ICU,and tough to treat,are there any steps hospital can do/are actively doing to prevent it?","2015-01-16 14:03:59","15","[deleted]","1747836257.0596755","sea level projections","manual"
+"cnqwfbo","t3_2smkn8","2smkn8","science","scientific","I worked in an ICU where two consultants disagreed over the use of prone ventilation in ARDS cases.
+
+Given the [PROSEVA](http://www.nejm.org/doi/pdf/10.1056/NEJMoa1214103) study outcomes, one would be inclined to go with prone ventilation in severe cases of ARDS; but, in light of the many variables, non-modifiable and modifiable (for example [these papers](http://www.uptodate.com/contents/prone-ventilation/abstract/36,39,40) suggested that the improved survival rates was only seen in patients who received low tidal volume ventilation in prone ventilation), there is obviously room for a lot of debate on the matter. As well as this, the PROSEVA had quite a lot of limitations, namely: poorly matched patient groups and extremely sensitive exclusion criteria. 
+
+I think it's quite an interesting area, so I'd like to know what your position is on the matter, and why that's the case?
+
+Edit: whoooops I see this question has already been asked; sorry. I'll leave it up for the sake of the sources, though.","2015-01-16 14:42:51","14","the_silent_redditor","1747836257.0626752","sea level projections","manual"
+"cnqw6g1","t3_2smkn8","2smkn8","science","scientific","So what are your thoughts on crowdfunding as a way to fund medical research? Do you see it as something that could replace traditional funding mechanisms, or rather do you see it as a complementary?","2015-01-16 14:33:57","12","an_account321","1747836257.0651965","sea level projections","manual"
+"cnqvdnr","t3_2smkn8","2smkn8","science","scientific","Since it is a respiratory condition are there any links between ARDS and asthma sufferers?","2015-01-16 14:02:48","6","TheLemoncloak","1747836257.0672066","sea level projections","manual"
+"cnr0bm1","t3_2smkn8","2smkn8","science","scientific","I am slightly confused by the aims of your research. I have been studying ARDS for awhile now, and saying ARDS is a mystery of any sort by itself or potentially directly caused by macrophages is misleading. ARDS is caused by a lack of surfactant, which lines the alveoli of the lungs, reducing surface tension and allows a very large range during normal breathing. How do we know this? Infants are the largest subgroup which suffer RDS, as the air-water interface of the alveoli are formed right when they are born. Surfactant replacement therapies (SRTs) work in infants. It is not entirely practical to use this strategy in adults though, as the surface area and therefor the total amount of surfactant needed is way more for a grown human. 
+
+So you state the following on your site, ""responders of our immune system, are always found in lungs of patients with ARDS. However, it is unclear if there is a subset of cells that act as the main propagators of the disease."" I'm not certain where you're going with this. If someone is suffering ARDS, it should probably have something to do with the Pneumocyte-II cells simply stopping production of surfactant replacement material, or slowing down. 
+
+I just feel like there's something you're not saying here. I want nothing more than in vivo, clinical data on ARDS, but studying lung macrophages seems like a poor choice. If there exists some sort of bacterial infection or the patient is septic, then of course macrophages will always be present. The liquid space around the epithelial lining is full of SP-D, a likely opsonin for aggressors to the human system. Sorry for the rant, I just feel like there's something missing in your reasoning. Perhaps I missed something. 
+
+Basic questions: 
+
+1)Why macrophages? 
+2)How do you feel about next generation SRTs, such as KL4? 
+3) Have you seen any progress in dealing with local inflammation during ARDS recently in the clinical setting?
+4) I've heard the pre-rinsing of the patients mouth with an antibiotic wash has greatly reduced infection during intubation, is this true from your perspective? 
+
+Thank you for doing this AMA. ","2015-01-16 16:39:02","9","PhysicallyEthical","1747836257.071056","sea level projections","manual"
+"cnqwi2i","t3_2smkn8","2smkn8","science","scientific","Thanks for your research.  My mom, who also has COPD, suffered from this a couple of years ago.  She was in the hospital for 2 weeks, and at one point was quarantined with suspected tuberculosis, which I knew was almost impossible for her to have contracted.  A ""real"" diagnosis was hard to obtain, and the first few doctors wanted to just brush it off and blame it on her former (she quit 5 years before) smoking habit.
+
+This led me to start researching ARDS.  Does this have any association with mycobacteria?  And why, in your opinion, does it seem so hard to diagnose and treat?","2015-01-16 14:45:37","6","Alysiat28","1747836257.0741007","sea level projections","manual"
+"cnqxrmz","t3_2smkn8","2smkn8","science","scientific","might want to cross post this in r/medicine.   I'm sure there is a much, much bigger audience for you folks on Reddit.","2015-01-16 15:26:58","7","KING_0F_REDDIT","1747836257.0771008","sea level projections","manual"
+"cnqxyps","t3_2smkn8","2smkn8","science","scientific","Everyone in my old unit had lung protective tidal volumes. Do you think we should use lung protective strategies on every patient? What about short term intubations like heart transplants?
+
+Thoughts on proning and paralyzing? I've seen incredible anecdotal results when the above are done within 24-48 hours, but pretty mediocre ones after that. Also, prone in the bed vs Rotoprone?
+
+","2015-01-16 15:33:04","6","slayhern","1747836257.0791006","sea level projections","manual"
+"cnqwd2j","t3_2smkn8","2smkn8","science","scientific","What are your thoughts on Aerosurf or Surfaxin?  Which I believe are artificial surfactants.  Could they be used in the future for this disease?","2015-01-16 14:40:35","4","lafakads","1747836257.0805223","sea level projections","manual"
+"cnr24db","t3_2smkn8","2smkn8","science","scientific","Dr. Cobert, thank you for the AMA
+
+I am curious about how you came to look into crowd-funding for this research as it is not something I had heard of in the past.  Hope you reach your goals","2015-01-16 17:26:11","5","DocVelo","1747836257.0820673","sea level projections","manual"
+"cnqwro2","t3_2smkn8","2smkn8","science","scientific","What do you think of the studies examining mesenchymal stem cell treatment? 
+
+How did you get involved in ARDS?","2015-01-16 14:54:45","5","bayareanative","1747836257.0850365","sea level projections","manual"
+"cnqxnle","t3_2smkn8","2smkn8","science","scientific","Have you heard a good explanation for why ARDSnet used a volume based limit, rather than a pressure based limit? It seems to me that volume was used as an easy to measure, but surrogate for pressure in a poorly compliant lung. ","2015-01-16 15:23:26","4","ToxDoc","1747836257.0860596","sea level projections","manual"
+"cnqy9lh","t3_2smkn8","2smkn8","science","scientific","RT here. What is the best ""open lung"" strategy to prevent/treat ARDS? ","2015-01-16 15:42:04","4","Kindness4Weakness","1747836257.0880463","sea level projections","manual"
+"cnqzhjl","t3_2smkn8","2smkn8","science","scientific","So how effective is ECMO?","2015-01-16 16:16:29","5","3AlarmLampscooter","1747836257.089709","sea level projections","manual"
+"cnr0di5","t3_2smkn8","2smkn8","science","scientific","My mother developed ARDS in 2000. Ended up causing a stroke and while she is alive she is permanently paralyzed on line side. One of the underlying factors was a misdiagnosis of the type of pneumonia she had and how it developed into ARDS.  I would like to know if there is a known cause of how pneumoniae can turn into Ards,as at the time it wasn't made clear how she got so critically I'll so fast. Thanks for any info. PS she ended up in ICU in foothills hospital in Calgary. Shout out to them for saving her life :-) ","2015-01-16 16:40:25","3","Satinsbestfriend","1747836257.091733","sea level projections","manual"
+"cnqwewc","t3_2smkn8","2smkn8","science","scientific","What kind of ICU is it most predominantly seen?  Trauma, Neuro?  Across the board?  Is it more confined to adult ICU where they are more prone to long term COPD/CHF issues and they are already O2 dependent at home?
+
+Take me for example, I am 34 years old I work out and do well for myself in my diet, but one day I get into an MVC and become altered enough to be intubated for a few days in my local trauma or neuro ICU.  Are my chances as great as a COPD/CHF type patient in the bed next door?","2015-01-16 14:42:25","3","[deleted]","1747836257.0937328","sea level projections","manual"
+"cnqxz60","t3_2smkn8","2smkn8","science","scientific","Hello Professor Cobert, I am an undergraduate studying biochemistry at UPenn and would very much like to be involved in this type of research, particularly in the areas of immunology and autoimmune disease. Do you have any suggestions as to where I should look for research experience. I do not require pay. Thanks! This really is fascinating research.","2015-01-16 15:33:26","3","Dostoswervsky","1747836257.0957184","sea level projections","manual"
+"cnqz2va","t3_2smkn8","2smkn8","science","scientific","Anesthesiologist here. Any thoughts on the effects of unnecessarily high FiO2 settings for ambulatory surgery in healthy (ASA 1 or 2) patients? I'm thinking short exposure, 1-2 hour cases. My suspicion is that this may be a common occurrence.
+
+","2015-01-16 16:05:10","3","[deleted]","1747836257.0986748","sea level projections","manual"
+"cnr2shg","t3_2smkn8","2smkn8","science","scientific","Are you at an increased risk of ARDS if you have an autoimmune condition?","2015-01-16 17:43:37","3","bakingabug","1747836257.101063","sea level projections","manual"
+"cnr7j6d","t3_2smkn8","2smkn8","science","scientific","Do you think you could ask Stephen if he got my letters? ","2015-01-16 19:49:57","3","1-Ceth","1747836257.1036043","sea level projections","manual"
+"cnr9k6i","t3_2smkn8","2smkn8","science","scientific","Hi Dr. Cobert, I'm a RN with about 5 years of mixed medical ICU and level 1 trauma experience.
+
+I have a question regarding gold standard reactive care for patients that are progressively worsening with an ARDS diagnosis. Typically where I work we titrate fio2 and peep until we reach our in house maximums 100 and 20 respectively, and then explore proning and paralyzing patients. From what I've seen there seems to be a bit of ambiguity as to what order we need to progressively ramp up our care in the worsening ARDS patient. 
+
+Is there a ""best practice"" order of operations for peep max titration, proning and paralytics? For example, should we paralyze before we prone, or prone before we paralyze? Does the origin of ARDS(sepsis or trauma) affect this equation? 
+
+Thank you for your time and consideration.","2015-01-16 20:44:30","3","starciv14","1747836257.1066043","sea level projections","manual"
+"cnqx7vw","t3_2smkn8","2smkn8","science","scientific","Dr. Dobert:
+
+Is there evidence of a Th1 vs Th2 disbalance in the population with ARDS? Or a a disruption in the development of healthy Treg cells? 
+
+Finally, I'm a second year leaning towards pursuing an IM residency. I'm interested in clinical research/practice down the road. Based on your experience so far do you think this a good area to pursue?
+
+Thanks. 
+
+rephrased: Do all patients with equivalent lung injury progress to ARDS? In other words, could there be a genetic/immune predisposition?
+","2015-01-16 15:09:36","2","SYMPATHETC_GANG_LION","1747836257.1116042","sea level projections","manual"
+"cnqx8x6","t3_2smkn8","2smkn8","science","scientific","My mother works in the NICU, this this common among at-risk neonates?","2015-01-16 15:10:33","2","beelzeflub","1747836257.1126041","sea level projections","manual"
+"cnqxcgl","t3_2smkn8","2smkn8","science","scientific","How do you get involved in research like this? I'm a recent nursing graduate, so I'm obviously underqualified, but clinical research is somewhere I could see myself in the future.
+
+(PS - I am in the greater philadelphia area if u need some help!!)","2015-01-16 15:13:43","2","giraffe_hands","1747836257.1156042","sea level projections","manual"
+"cnqzh1w","t3_2smkn8","2smkn8","science","scientific","Hi Dr Cobert,
+
+This is one of the most personally interesting AMAs that I have ran across. My sister passed the day after Thanksgiving this year, and we just received the autopsy two days ago -- ARDS. She was ~120 days post transplant from AML and had just gotten home a few weeks prior. Doing great one day, and not the next. She was intubated within hours of reaching the hospital. Interestingly ARDS was never mentioned in her stay at the hospital. Lots of mention of changes to lungs, capacity, fluids, and other supporting organs, but everyone seemed pretty much stumped. 
+
+Best of luck with the research! Your above link will be shared with our family and friends and hopefully we can help get you what you need.","2015-01-16 16:16:05","2","redbull4200","1747836257.117604","sea level projections","manual"
+"cnr1af1","t3_2smkn8","2smkn8","science","scientific","If you are supported by Howard Hughes, is it necessary to crowdfund your work?  What lead you to make that choice?","2015-01-16 17:04:19","2","TheWinnower","1747836257.118604","sea level projections","manual"
+"cnr1tya","t3_2smkn8","2smkn8","science","scientific","What are your thoughts on emerging ECCO2R (extracorporeal CO2 removal) technologies to be used in combination with ultra-protective ventilation (tidal volumes <6ml/kg) for patients with ARDS? I'm involved in artificial lung research and early clinical reports are promising and collaborators are excited about the idea, but I rarely have the opportunity to interact with intensivists from outside the (artificial lung) research community.","2015-01-16 17:18:41","2","iijiiijijijj","1747836257.1216462","sea level projections","manual"
+"cnr5lj1","t3_2smkn8","2smkn8","science","scientific","Do you think it's strange that anesthesiologists don't wear Sterile gloves when intubating patients for surgery, and that when they don't get a clean insertion they place the tube that just passed through an unsterile area (the mouth), on another unsterile area (the chest of the pt) then back into the lungs which is supposed to be sterile, whereas when nurses misplace a Foley they use an entirely new catheter?  
+
+I mean I know the genitals are way dirtier than the mouth but still,  I feel like the penalty for unclean technique is way higher with a respiratory infection than a UTI.
+
+Just wondering if there have been any studies with anesthesiologists gowning and gloving, or at least gloving, focusing on post op pneumonia rates?","2015-01-16 18:58:09","2","CalvinsStuffedTiger","1747836257.1236463","sea level projections","manual"
+"cnr6yaf","t3_2smkn8","2smkn8","science","scientific","No real question.. just wanted to say thank you for researching ARDS. My older sister (age 30 at the time) developed ARDS from influenza induced pneumonia back in 2009 from H1N1. She spent over 30 days in the ICU, had several severe complications (collapsed lung, pulmonary embolism, HAI infections), but some how managed to make it through. I'm sure her young age had something to do with it. Again, thanks for bringing light to something not many people know about! ","2015-01-16 19:34:30","2","kamw83","1747836257.1256685","sea level projections","manual"
+"cnr9snm","t3_2smkn8","2smkn8","science","scientific","My father was almost killed by ARDS many years ago.  At the time they have him a 10% chance of making it.  He's still alive and kicking, though now he has lung cancer.  
+
+Does ARDS do lung tissue damage?  If yes, could that be aggravating the cancer, etc?","2015-01-16 20:50:59","2","SNBniko","1747836257.1276684","sea level projections","manual"
+"cnracsc","t3_2smkn8","2smkn8","science","scientific","What causes it and why? Is there an effective treatment? My dad contracted ARDS and passed away in February of 2014. As I was leaving on New Years Day for the drive back home, out of state, my dad was leaving for his daily walk. A week later, my brother called to inform me that he was in hospital with pneumonia. Shortly after, we were told that he had ARDS, which we'd never heard of prior. He was moved into the ICU, and from there things just went quickly downhill. It was about a month from when he went into hospital to when he died. A few days before the end, he made it explicitly clear that he wanted to die because he was in such misery. What most likely happened?
+
+Edit - Re-read the opening explanation and deleted some text. I'm still very sensitive about this, so I'm sorry that I posted before I really understood the opening text.
+
+Edit - We were told that there was inflammation of his lungs and that this had resulted in damage to them such that he would never recover. Early on, there had been some attempts at therapy, which obviously had no beneficial results.","2015-01-16 21:06:10","2","argyle47","1747836257.1306689","sea level projections","manual"
+"cnqx4mk","t3_2smkn8","2smkn8","science","scientific","Do you feel proud that the PET scan was pioneered at UPenn? Although it falls out of the realm of Ashbaugh diagnostic criteria, do you see any utility for the future of testing for ARDS? ","2015-01-16 15:06:32","1","jyakscoe","1747836257.1326687","sea level projections","manual"
+"cnqx5s2","t3_2smkn8","2smkn8","science","scientific","Hi Dr. Julien. Is ARDS always accompanied by fever and how does it differ from pneumonia? Thank you.","2015-01-16 15:07:40","1","ROSERSTEP","1747836257.1346686","sea level projections","manual"
+"cnqxngv","t3_2smkn8","2smkn8","science","scientific","Can you say a little bit more about your research plans, as outlined in your abstract on experiment.com?
+
+Somewhere you said that you were trying to identify the specific subset of white blood cells responsible for ARDS. So exactly what are you going to do with the flow cytometry?
+
+Also, it sounds like you are going to do RNA-Seq, but then it sounds like in Step 5 that you actually know already what protein you are targeting. Are you going to try to inhibit some precursors/regulators of Stat3? If so, how are you going to know from your RNA-Seq data what to target?","2015-01-16 15:23:19","1","kjwc","1747836257.1366687","sea level projections","manual"
+"cnqxslm","t3_2smkn8","2smkn8","science","scientific","No question, but I lost someone very close to CLL. Ultimately the drugs were what killed them, not the Cancer itself.  ","2015-01-16 15:27:48","1","ribald_jester","1747836257.1386685","sea level projections","manual"
+"cnqy7u7","t3_2smkn8","2smkn8","science","scientific","A bit confused about the mortality rate. If the range is 25-40%, shouldn't the max number of deaths resulting from ARDS be 80,000?","2015-01-16 15:40:39","1","TympanicMembrane","1747836257.1406686","sea level projections","manual"
+"cnqzcko","t3_2smkn8","2smkn8","science","scientific","Thanks for taking the time to answer questions today Dr. Cobert. What are the most common steps you take in treating patients who aquire ARDS while under your care? ","2015-01-16 16:12:40","1","Joshed08","1747836257.1422167","sea level projections","manual"
+"cnqzgns","t3_2smkn8","2smkn8","science","scientific","What changes are seen in circulating IL-1b, IL-6, and TNF-a? Has anyone isolated peripheral blood mononuclear cells and screened mRNA expression or performed an LPS or TNF-a challenge to assess their reactivity?
+
+Obviously there is some tissue specific chemoattractant being produced or sudden change in reactivity of PBMCs WBCs NKs etc. to an antigen being produced by, my guess, lung epithelial tissue. Has anyone screened for any such changes on a molecular level? 
+
+Finally, have any biomarkers been identified which may be associated with ARDS?
+
+ARDS sounds very similar to the bodies reaction to superantigens, such as those produced by *staphylococcus*, so has the possibility of nonspecific class II MHC receptor mediated T cell activation been considered?
+
+Thanks for the AMA! Good luck with your research.","2015-01-16 16:15:47","1","Mister_Bloodvessel","1747836257.1450536","sea level projections","manual"
+"cnqznol","t3_2smkn8","2smkn8","science","scientific","What are your thoughts on the possible role that high FiO2 plays in alveolar damage in ARDS patients? 
+
+Are there patients in whom the risk:benefit ratio favors using high FiO2 (e.g. trying to reduce PVR), and how do you select these patients? 
+
+I was trying to do some research on hyperoxic pulmonary toxicity during my ICU month (MS4 going into EM and possibly eventually CCM) and found a bunch of conflicting studies, many of which cited very old naval research on the effects of prolonged administration of 100% oxygen in human divers and animal models. It seems that a lot of the current practice guidelines are modeled in some part on these data and I was wondering what you've seen/read in your own practice. 
+
+Thanks for doing the AMA! ","2015-01-16 16:21:11","1","goodoldNe","1747836257.1480775","sea level projections","manual"
+"cnr0vuz","t3_2smkn8","2smkn8","science","scientific","Nothing to say but thank you for your work!  My father died eight years ago from ARDS after having a blastomycosis infection that completely destroyed his lung function.  
+
+I am constantly amazed at the work you and the other researchers have accomplished over that time and look forward to great outcomes in future treatments.
+
+Keep up the good fight!","2015-01-16 16:53:44","1","MyL1ttlePwnys","1747836257.1500776","sea level projections","manual"
