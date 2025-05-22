@@ -1,0 +1,179 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"e1vz301","t3_8wfti0","8wfti0","climatechange","action-oriented","You have concluded something very close to what Roger Pielke, Sr. concluded twenty years ago. He said ocean heat content was the best way to measure warming.","2018-07-06 12:49:32","2","Will_Power","1747889640.0236516","global temperature rise","manual"
+"e1wmcxs","t3_8wfti0","8wfti0","climatechange","action-oriented","I agree, and I've thought this for years.  There is a good argument to say that the oceans are the perfect ""thermometer"" to use for a variety of reasons.  Expansion and landed ice melt (not floating ice) combine to cause the ""thermometer"" to rise.  It's been rising for over 250 years.  Any acceleration in sea level rise is an indication that we're warmer, a deceleration indicates that we're cooling back again.  If SLR stops, we've stabilized our temperature, but it would take years to be able to make that determination.
+
+The ocean is a lagging indicator, of course, and doesn't tell us what the temperature is today. It tells us what the long term average of temperature (sometimes called climate) is doing.","2018-07-06 18:30:26","2","deck_hand","1747889640.0266514","global temperature rise","manual"
+"e1z5rvc","t3_8wfti0","8wfti0","climatechange","action-oriented","A counter-point is lag. It takes a while to melt ice. We could be committed to some unknown SLR at some point in the future. SLR might not be informative in terms of evaluating any measures we take in a timely way.","2018-07-07 23:43:14","1","j-solorzano","1747889640.0286512","global temperature rise","manual"
+"e1u4zob","t3_8wbb7u","8wbb7u","climatechange","action-oriented","I don't know that we have a clear date for ""the beginning of the Industrial Revolution."" The oldest record we have is the HadCRUT data: http://woodfortrees.org/plot/hadcrut4gl
+
+To go back before 1840 or so, you'll need proxy reconstructions, and then you are into the weeds. By my eye, the HadCRUT data are closer to 0.8°C, though I've seen some people say 0.9°C recently. I have never heard a claim of 1.5°C. Now 0.8°C is actually pretty close to 1.5°**F**, so maybe someone just had their units wrong. ","2018-07-05 15:43:56","4","Will_Power","1747889640.8322785","global temperature rise","manual"
+"e1u4y04","t3_8wbb7u","8wbb7u","climatechange","action-oriented","""The average global land and ocean surface temperature for January–May 2018 was 0.77°C (1.39°F) above the 20th century average of 13.1°C (55.5°F)—tying with 2010 as the fourth highest global land and ocean temperature for January–May in the 1880–2018 record.""
+
+https://www.ncdc.noaa.gov/sotc/global/2018/05/supplemental/page-1
+
+Still waiting to add June to that.  Another resource for related information.
+
+https://www.co2.earth/global-warming-update
+
+Also there will be a new ipcc report this October, the first one since November 2014.","2018-07-05 15:43:14","3","ShawnManX","1747889640.8342783","global temperature rise","manual"
+"e1u5ea8","t3_8wbb7u","8wbb7u","climatechange","action-oriented","According to the [latest IPCC report](https://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf), the global decadal average temperature change for land and ocean between the 1850s and 2000s is about 0.8C (Figure SPM.1 (a)).  
+
+This of course varies when you start to look at different regions, or specific years. The [NOAA-NCDC data](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature) for the most recent years shows an increase in the most recent years as well, of about 0.16C from the average of 2000-2009 when compared to 2010-2017.","2018-07-05 15:49:51","3","maibd","1747889640.8367212","global temperature rise","manual"
+"e24uje2","t3_8wbb7u","8wbb7u","climatechange","action-oriented","There are several datasets in common usage for representing historical change in global average surface temperature since the 19th Century. The most common are: HadCRUT4, NOAA MLOST, GISTEMP, Berkeley Earth, Cowtan & Way. There are two basic methods of obtaining a figure representing the total change since the beginning of the record: 1) finding the linear trend slope through the data and multiplying by the number of years 2) Taking the difference between an average of the most recent few years (say, a decade 2008-2017) and an average (say, 20 or 30 years) around the beginning of the record.
+
+Here's a comparison between records for each method. Note that some records start in 1880, some 1850. The difference method uses either 1850-1879 or 1880-1909. All have 2017 as the last year.
+
+|Record name (start date)|Warming - linear trend|Warming - difference|
+|:-|:-|:-|
+|HadCRUT4 (1850) |0.85ºC|0.87ºC|
+|NOAA MLOST (1880)|0.95ºC|0.94ºC|
+|GISTEMP (1880)|1.0ºC|0.98ºC|
+|Berkeley Earth (1850)|1.07ºC|1.06ºC|
+|Cowtan & Way (1850)|0.92ºC|0.95ºC|
+
+Both methods are probably slightly underestimating the true current amount of warming. The linear method because the rate of warming has increased over time so a linear trend over the whole period does not properly represent recent warming. The difference method because warming is proceeding at a rate of about 0.2ºC/Decade so a 10-year average tends to include years which were quite a bit colder than current.","2018-07-10 16:11:20","1","skeeezoid","1747889640.8402483","global temperature rise","manual"
+"e30t3bl","t3_91k5r9","91k5r9","climatechange","action-oriented","I'd say that it's all but locked in already. Consider the shifting baseline, methane, Co2 lag, feedback loops and the political situation. This is proving to be non linear which is a bit regrettable. There are some glaciers already falling apart with very problematic grounding lines that are currently holding back large ice sheets that will follow them into the sea a alot faster than we thought. Our political systems, assuming they were still running our countries instead of corporate entities, can not keep pace","2018-07-25 18:34:21","8","Ffewkes2","1747889721.8326938","global temperature rise","manual"
+"e2ym1hb","t3_91k5r9","91k5r9","climatechange","action-oriented","You probably need to set a time period here. The likelihood of a 4C temp rise at *some* point in the future is pretty much 100%. ","2018-07-24 18:58:09","6","DocHarford","1747889721.8326938","global temperature rise","manual"
+"e2ymz3x","t3_91k5r9","91k5r9","climatechange","action-oriented","As a result of humans burning fossil fuels? Probably never. Of the two major approaches to determining equilibrium climate sensitivity (ECS), one approach suggests a value close to 2°C per doubling (that's the energy balance method), and the other suggests about 3°C per doubling (the general circulation model (GCM) approach). 
+
+So some might say that to get to 4°C is no problem because we will just keep burning fossil fuels. In fact, we burned the easily utilized fossil fuels first (the ""lowest hanging fruit,"" as it were), and we don't have enough economically recoverable fossil fuels to go much beyond one doubling of atmospheric CO2. ","2018-07-24 19:10:47","6","Will_Power","1747889721.8480544","global temperature rise","manual"
+"e2ywxfi","t3_91k5r9","91k5r9","climatechange","action-oriented","There are other greenhouse gases that are even more effective than CO2, such as methane. Methane is readily available and released from permafrost and arctic ice, which is melting.
+
+IMO following current mitigation trends (or lack thereof), we will reach 4C by the end of the century due to increasing methane emissions; a Clathrate Gun scenario (sudden release of mass amounts of methane into the atmosphere from warming ice\\permafrost) could warm the Earth even more than 6C before the end of the century.  
+
+I hate to put in such terse terms, but because of how vehement and dangerous climate change denial is, I think it's best. I know it's easy to let predictions about the future of climate change scare you, but we are already living in the nightmare scenario; in a world where we don't fight climate change and let deniers run our governments and unilaterally decide personal interests are more important than the future of our planet, that will ensure climate change will doom our futures. 
+
+We can't stop climate change now, that battle is over. However, we can work on trying to make it more likely to at least survive or find a way to feasibly reverse the effects of climate change.  ","2018-07-24 21:28:55","4","[deleted]","1747889721.8480544","global temperature rise","manual"
+"e30osoh","t3_91k5r9","91k5r9","climatechange","action-oriented","The last IPCC report has us at 4C by the end of the century on our current trajectory.","2018-07-25 17:38:32","4","DrTreeMan","1747889721.8480544","global temperature rise","manual"
+"e1qnc6e","t3_8vumdg","8vumdg","climatechange","action-oriented","cow beneficial whole gold fragile zesty wakeful like pot rain
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*","2018-07-03 20:37:56","7","supjefe","1747889776.4210725","global temperature rise","manual"
+"e1qzvx8","t3_8vumdg","8vumdg","climatechange","action-oriented",">I was wondering what the most up to date science has to say about how much the average global temperature will rise by 2100 and beyond?
+
+The IPCC said in AR5 that transient climate response (TCR) is 1.8°C. That means the temperature increase at the time CO2 doubles from an arbitrary staring point. So from 280 ppm to 560 ppm would be one doubling. That might occur towards the end of this century. 
+
+If we use 400 ppm as a starting point (the concentration a couple of years ago), we need to get to 800 ppm to get an additional 1.8°C from now, at the time of doubling. The problem with that, though, is that we don't have enough economically extractable fossil fuel reserves to get to 800 ppm.
+
+>I have seen some redditors claim that it could rise by as much as 5 - 6C particularly on /r/ Collpase.
+
+I've seen people say that Jesus was coming back eighteen years ago and other people say that the Mayan calendar predicted that the world would end six years ago. Here's a little piece of advice: don't believe what cultists say. 
+
+>I peronsally believe that it could rise by 2 - 3.5C and with all the appcolyptic effects (Extreme SLR, Collpase of Agriculture etc.).
+
+Thankfully, your beliefs aren't in line with current climate science. ","2018-07-03 23:47:55","6","Will_Power","1747889776.4345918","global temperature rise","manual"
+"e1qqi1s","t3_8vumdg","8vumdg","climatechange","action-oriented","I dont have an answer but I know in texas the last 8 summers in a row have all been record heat summers and its actually terrifying. It gets so hot I cant even walk barefoot on concrete for the last couple of years.","2018-07-03 21:20:19","4","dstoner79","1747889776.4345918","global temperature rise","manual"
+"e1quuia","t3_8vumdg","8vumdg","climatechange","action-oriented","Yeah around 2-3C would be most likely (these are the mid range IPCC scenarios). It won't be like an apocalypse though lol, but it will be a challenge. 
+
+Also, stop visiting r/collapse. That place is insane.","2018-07-03 22:25:07","4","unmistakableregret","1747889776.4345918","global temperature rise","manual"
+"e1rfj1l","t3_8vumdg","8vumdg","climatechange","action-oriented","https://climateactiontracker.org/global/temperatures/
+
+As of November last year.  The ipcc is releasing an updated report later this year so that'll likely be the next update to these figures. ","2018-07-04 04:33:57","3","ShawnManX","1747889776.4345918","global temperature rise","manual"
+"e1qwgo2","t3_8vumdg","8vumdg","climatechange","action-oriented","Hot enough to melt ice","2018-07-03 22:51:02","2","AmNotTheSun","1747889776.4345918","global temperature rise","manual"
+"e1r4676","t3_8vumdg","8vumdg","climatechange","action-oriented","No idea; let's see!","2018-07-04 01:03:46","1","TheFerretman","1747889776.4502356","global temperature rise","manual"
+"e1rhuhc","t3_8vumdg","8vumdg","climatechange","action-oriented","My off the cuff comments.
+
+I think the biggest wild card for temperature increase is feedback effects associated with Arctic methane deposits. Research suggests that events associated with the PETM (Paleocene Eocene Thermal Maximum) of 52-53M years ago involved substantial release of these deposits into the atmosphere and resulted in a much hotter (+6C), relatively ice free world. 
+
+Paleo-climate records indicate that current anthropogenic forcing is proceeding much faster than the forcing preceding the PETM, but to this point over a much shorter interval. 
+
+The most important question relating to potential Arctic methane release is how much Arctic temperatures increase. They are well above the global average thus far. 
+
+The 2014 study led by Karen Pistone indicates the loss of albedo in the Arctic alone is thus far providing additional warming of 50% of that associated with cumulative global anthropogenic emissions. 
+
+In a scenario in which there is no significant methane release from the Arctic, then I don't see global average temperature increasing much more than 1.0-1.5C from today's levels this century. My hunch is that annual emissions would peak in 20 years and CO2 would ultimately peak in the 500-550 ppm range before declining. 
+
+It may not sound like a lot, but another 1C from today is a profound jump. That 1C isn't going to be distributed evenly over time and space and the new extremes associated with that should be highly consequential for the quality and diversity for life on earth. 
+
+
+
+
+
+","2018-07-04 05:21:48","1","buddhist62","1747889776.4502356","global temperature rise","manual"
+"e1runx7","t3_8vumdg","8vumdg","climatechange","action-oriented","Firstly, you need to define your baseline. In the industrial era we've seen about 1ºC warming already. Some warming projections concern change from now (or from about 2000), some concern change ""since pre-industrial"" (meaning since about 1850), which effectively means change from now + 1ºC.
+
+Based on the CMIP5 models used in the IPCC assessment, warming ""since pre-industrial"" under a high-end minimal-mitigation scenario (RCP8.5) - meaning continued strong growth in energy demand with little change in percentage of that demand satisfied by fossil fuel burning - reaches about 3.5-6ºC by 2100, with the range largely due to uncertainty in climate sensitivity.
+
+Under a strong mitigation scenario - meaning drastic reduction in emissions starting now - warming ""since pre-industrial"" reaches about 1-2.5ºC by 2100.
+
+Beyond 2100, under a high-end scenario in which emissions only begin to reduce at a gradual pace around the mid-22nd Century (due to resource shortages rather than mitigation), warming ""since pre-industrial"" reaches about 6-15ºC by 2300. Under the strong mitigation scenario 2300 temperatures are about 1-2ºC warmer than pre-industrial.
+
+As another comparison, under a minimal-mitigation low-end scenario (RCP6.0) - in which emissions start slowing from 2070 and GHG concentration stop increasing at 2150, there is only one model that I can find which was run to 2300. Luckily that model is right in the middle of the range for climate sensitivity. By 2100, warming ""since pre-industrial"" reaches 3.5ºC. By 2300 it's at 4.5ºC. Using the other results we can make an educated guess at equivalent uncertainty ranges of 2-5ºC and 2.5-7ºC respectively.
+
+Should note that none of these model projections include so-called Earth System Sensitivity (ESS) feedbacks, such as ice sheet albedo loss and carbon cycle shifts, which paleoclimate observations suggest should enhance warming in the long run. Probably not important for 2100, but likely to be for 2300 and beyond.","2018-07-04 11:47:38","1","skeeezoid","1747889776.4502356","global temperature rise","manual"
+"e1yi5cg","t3_8vumdg","8vumdg","climatechange","action-oriented","It is worth noting that the global average temperature rises are not actual temperature rises at most places on the actual globe.  As a rule, land warms more than water and the poles warm more than the equator, so land at high latitudes will have much larger changes than the global average.","2018-07-07 17:06:53","1","[deleted]","1747889776.4502356","global temperature rise","manual"
+"e2kowvb","t3_8vumdg","8vumdg","climatechange","action-oriented","we don't really know, (part of that unknown is how quickly and aggressively humanity acts to stop CO2).  I've seen estimates as high as 5.5 degrees Celsius, by the end of the decade.  But such estimates tend to assume we do virtually nothing to stop global warming.","2018-07-18 00:18:05","1","redd4972","1747889776.4658608","global temperature rise","manual"
+"e1pa51v","t3_8vp3nm","8vp3nm","climatechange","action-oriented","A few others:
+
+The Bray Cycle (2,400 years)
+
+The de Vries Cycle (210 years) [This is claimed be be modulated by the Bray Cycle.]
+
+Dansgaard-Oeschger Cycle (1,470 years hypothesized) [During glacial periods.]
+
+Speculative 1,500 year Holocene cycle that keeps pace with the D-O cycle. (“The enigmatic 1,500-year cycle."" -- Raimund Muscheler)
+
+Solar Cycle (11 years)
+
+Quasi-biennial oscillation (28-29 months)
+
+Bond Cycle (~1,500 years, probably debunked)","2018-07-03 04:55:18","3","Will_Power","1747889794.6046913","global temperature rise","manual"
+"e1pqk1q","t3_8vp3nm","8vp3nm","climatechange","action-oriented","Sub-annually there's the [Madden-Julian Oscillation (MJO)](https://en.wikipedia.org/wiki/Madden%E2%80%93Julian_oscillation).
+And the day-night cycle obviously.
+
+On Decadal to Multi-decadal timescales there are the Arctic Oscillation (AO), North Atlantic Oscillation (NAO), Antarctic Oscillation (AAO)/Southern Annular Mode (SAM).
+
+Annually, the obvious one is the orbit of the Earth round the Sun, affecting both distance from the Sun and inter-hemispheric angle of incidence.
+There's also Monsoon.","2018-07-03 12:52:45","2","skeeezoid","1747889794.6072013","global temperature rise","manual"
+"e1p7gzs","t3_8vp3nm","8vp3nm","climatechange","action-oriented","Milankovtch cycles have governed the earths transition through glacial and interglacial phases and are associated with relatively consistent fluctuations in atmosphere CO2 and temperature ranges. 
+
+https://www.google.com/search?q=milankovitch+cycles+and+co2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjHwdr3hILcAhWHFHwKHbmYBUoQ_AUICigB&biw=1396&bih=690#imgrc=OeFYHz0vSs0XHM:
+
+","2018-07-03 03:59:17","1","buddhist62","1747889794.6087139","global temperature rise","manual"
+"e1p8467","t3_8vp3nm","8vp3nm","climatechange","action-oriented","As an observer who focuses on sea level rise (SLR), the predicted increase in SLR in the coming years will have its impacts somewhat muted over the next 7 years as peak tides decline. If the exponential increase in marine ice sheet melt rate materializes, the shit will really hit the fan in the early 2030's when SLR is augmented by rising king tides. ","2018-07-03 04:12:18","1","buddhist62","1747889794.6107135","global temperature rise","manual"
+"e2w2m26","t3_9147zw","9147zw","climatechange","action-oriented","Well, this is an absurdly didactic way of making a point. Here's my attempt to reframe a similar observation in a less-didactic way.
+
+Through most of industrial history, the combustion of fossil fuels has had a very tight relationship with economic growth. You could say that because of the exceptional energy density of fossil fuels, one of the byproducts of burning one unit of fuel (along with emitting one unit of CO2) is a one-unit reduction in global poverty.
+
+One of the tasks included in climate remediation is uncoupling this fairly tight relationship between fossil-fuels/CO2-emissions and economic growth. 
+
+And it's happening now. I'm not aware of any rigorous studies on this question, but if they don't exist now then eventually they will. Currently I believe it's possible to sustain small sections of an average economy on a minimum-CO2-emissions basis. Consider a small upcountry agricultural town in a middle-income country like Malaysia, where there's basically no demand for heavy machines or air travel: You might be able to meet everyone's energy needs with renewable energy and electric vehicles. 
+
+As technology improves, these low-emissions regions of the world economy will get larger. And presumably richer as well, since the demand for economic growth probably won't lessen in our lifetimes. 
+
+But it's going to take several decades to break this link substantially. It's a gigantic task, and technology has many milestones to pass before the energy density of fossil fuels — which is so crucial for heavy machines and industrial applications — can be replicated with low-emissions methods. 
+
+In the meantime, global poverty reduction and economic growth are still going to be largely driven by CO2-emitting processes. It's definitely a cost worth accepting, if you consider poverty reduction and wealth production to be indispensable parts of a morally acceptable future. But the costs of CO2 reduction will have to be paid sometime — most of them probably when technology enables CO2 reduction without undermining efforts at poverty reduction and economic growth. 
+
+It will happen. It's just going to take a long time, and possibly even today's students won't see the arc completed in their lifetimes. This is basically another Industrial Revolution, and it's reasonable to think it will require at least a full human lifetime to complete.","2018-07-23 15:56:58","2","DocHarford","1747889814.8755057","global temperature rise","manual"
+"e2xek4e","t3_9147zw","9147zw","climatechange","action-oriented","> the effort you are willing to put forth to protect the future of humanity and other life on earth.
+
+The future of humanity is not at stake. As to the rest it is survival of the fittest, exactly how nature intended. I refuse to believe in the 6th mass extinction until someone can produce a list.
+
+> The life-threatening outcomes include increasing temperatures, sea level rise flooding coastal cities
+
+How fast do you think the sea is rising? Someone would need to be very patient to be killed by sea level rise. ","2018-07-24 04:25:22","1","rogerramjet1975","1747889814.8755057","global temperature rise","manual"
+"e2vldlb","t3_9147zw","9147zw","climatechange","action-oriented","People are bad at long term thinking. We're fucked anyway. ","2018-07-23 10:01:33","0","PeterJohnKattz","1747889814.8755057","global temperature rise","manual"
+"e1sr9xa","t3_8w4tvr","8w4tvr","sustainability","action-oriented","Hey Dave!!
+
+  I’m a new sub, so this is the first one of your posts I’m reading. I read through about half of the articles before I had to take a break, so this post isn’t as much about the content, but rather the context of the post. I wanted to first say what an amazing job you’ve done collecting these sources. It is imperative that we know the information presented here, and because it’s not sexy enough to sell papers, I don’t think it gets presented often. This leads me to a couple questions.   
+  
+  1. How can I assist you in doing what you’re doing? I truly believe presenting facts in the face of folly is important, and if I can help, I want to. 
+  
+  2. How best can we share this information? Have you found a way that works best?  
+   
+  I hope these questions find you well, and I look forward to hearing from you. Thanks again. 
+
+-a Kinderist. ","2018-07-04 21:25:03","15","a_kinderist","1747890477.4934795","global temperature rise","manual"
+"e1srhxl","t3_8w4tvr","8w4tvr","sustainability","action-oriented","Thanks for compiling this! As I understand it, research in the field of sustainability is still in it's infancy, so I appreciate the effort behind this list. May I ask how you got into your current line of work, if you don't mind answering?","2018-07-04 21:28:50","7","SkankingDevil","1747890477.4954793","global temperature rise","manual"
+"e1t1emb","t3_8w4tvr","8w4tvr","sustainability","action-oriented","I fully believe that we are headed full-tilt towards complete collapse, both environmentally and economically. However, I was wondering how long you believe this process will take? I know that this is highly speculative, but I would be interested in your opinion. ","2018-07-05 00:33:14","7","sapractic","1747890477.4974794","global temperature rise","manual"
+"e1xmi46","t3_8w4tvr","8w4tvr","sustainability","action-oriented","Dave!
+
+I'm a big fan of your content in /r/collapse. I'm the head mod of /r/ZeroWaste and would be welcome to having your posts over there as well.
+
+Pm me if the community or I could help you in some way.","2018-07-07 04:02:06","2","ImLivingAmongYou","1747890477.4994838","global temperature rise","manual"
+"e1sr08q","t3_8w4tvr","8w4tvr","sustainability","action-oriented","what's your baseline/benchmark?","2018-07-04 21:20:22","1","zebulo","1747890477.5014896","global temperature rise","manual"
+"e1t3b5y","t3_8w4tvr","8w4tvr","sustainability","action-oriented","THanks for posting this.  You're underscoring my own observations for decades.
+I'd also be interested, however, in your posting success stories which I certainly do come across.  Not as much as the negative, but they are there and I think it's extremely important to see what heroic work people are doing to reverse these terrible trends.","2018-07-05 01:11:18","1","Kunphen","1747890477.502988","global temperature rise","manual"
+"e1te58a","t3_8w4tvr","8w4tvr","sustainability","action-oriented","Sustainability major here! I’d like to add this video to the thread!
+
+https://youtu.be/EB-6VjvGdvw","2018-07-05 04:46:06","1","[deleted]","1747890477.503993","global temperature rise","manual"

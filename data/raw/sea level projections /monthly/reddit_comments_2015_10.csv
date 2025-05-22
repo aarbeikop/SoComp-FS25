@@ -1,0 +1,188 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"cvsdmkv","t3_3nyn5i","3nyn5i","science","scientific","I'm rather late to the question-asking party, but I'll ask anyway and hope.  Have you thought about the possibility of [technological unemployment](https://en.wikipedia.org/wiki/Technological_unemployment), where we develop automated processes that ultimately cause large unemployment by performing jobs faster and/or cheaper than people can perform them? Some compare this thought to the thoughts of the Luddites, whose revolt was caused in part by perceived technological unemployment over 100 years ago.  In particular, do you foresee a world where people work less because so much work is automated? Do you think people will always either find work or manufacture more work to be done?  Thank you for your time and your contributions. I’ve found research to be a largely social endeavor, and you've been an inspiration to so many.  
+
+  
+Answer:
+
+**If machines produce everything we need, the outcome will depend on how things are distributed. Everyone can enjoy a life of luxurious leisure if the machine-produced wealth is shared, or most people can end up miserably poor if the machine-owners successfully lobby against wealth redistribution.**
+**So far, the trend seems to be toward the second option, with technology driving ever-increasing inequality.**
+","2015-10-08 12:05:26","4533","Prof-Stephen-Hawking","1747843923.476497","sea level projections","manual"
+"cvsdlnr","t3_3nyn5i","3nyn5i","science","scientific","Professor Hawking-  Whenever I teach AI, Machine Learning, or Intelligent Robotics, my class and I end up having what I call ""The Terminator Conversation.""  My point in this conversation is that the dangers from AI are overblown by media and non-understanding news, and the real danger is the same danger in any complex, less-than-fully-understood code: edge case unpredictability.  In my opinion, this is different from ""dangerous AI"" as most people perceive it, in that the software has no motives, no sentience, and no evil morality, and is merely (ruthlessly) trying to optimize a function that we ourselves wrote and designed.  Your viewpoints (and Elon Musk's) are often presented by the media as a belief in ""evil AI,"" though of course that's not what your signed letter says.  Students that are aware of these reports challenge my view, and we always end up having a pretty enjoyable conversation.  How would you represent your own beliefs to my class?  Are our viewpoints reconcilable?  Do you think my habit of discounting the layperson Terminator-style ""evil AI"" is naive?  And finally, what morals do you think I should be reinforcing to my students interested in AI?
+
+
+Answer:
+
+**You’re right: media often misrepresent what is actually said. The real risk with AI isn’t malice but competence. A superintelligent AI will be extremely good at accomplishing its goals, and if those goals aren’t aligned with ours, we’re in trouble. You’re probably not an evil ant-hater who steps on ants out of malice, but if you’re in charge of a hydroelectric green energy project and there’s an anthill in the region to be flooded, too bad for the ants.  Let’s not place humanity in the position of those ants.
+Please encourage your students to think not only about how to create AI, but also about how to ensure its beneficial use.**
+","2015-10-08 12:04:12","3889","Prof-Stephen-Hawking","1747843923.4811556","sea level projections","manual"
+"cvsdkql","t3_3nyn5i","3nyn5i","science","scientific","Dr Hawking, What is the one mystery that you find most intriguing, and why?  Thank you.
+
+**Answer:  Women.  My PA reminds me that although I have a PhD in physics women should remain a mystery.**
+","2015-10-08 12:02:55","3683","Prof-Stephen-Hawking","1747843923.4831605","sea level projections","manual"
+"cvsdkyt","t3_3nyn5i","3nyn5i","science","scientific","Professor Hawking, in 1995 I was at a video rental store in Cambridge. My parents left myself and my brother sitting on a bench watching a TV playing Wayne's World 2. (We were on vacation from Canada.) Your nurse wheeled you up and we all watched about 5 minutes of that movie together. My father, seeing this, insisted on renting the movie since if it was good enough for you it must be good enough for us.  Any chance you remember seeing Wayne's World 2?
+
+
+**Answer:  NO**
+","2015-10-08 12:03:15","1985","Prof-Stephen-Hawking","1747843923.4851604","sea level projections","manual"
+"cvsdkdt","t3_3nyn5i","3nyn5i","science","scientific","Hello Doctor Hawking, thank you for doing this AMA.  I am a student who has recently graduated with a degree in Artificial Intelligence and Cognitive Science. Having studied A.I., I have seen first hand the ethical issues we are having to deal with today concerning how quickly machines can learn the personal features and behaviours of people, as well as being able to identify them at frightening speeds.   However, the idea of a “conscious” or actual intelligent system which could pose an existential threat to humans still seems very foreign to me, and does not seem to be something we are even close to cracking from a neurological and computational standpoint.   What I wanted to ask was, in your message aimed at warning us about the threat of intelligent machines, are you talking about current developments and breakthroughs (in areas such as machine learning), or are you trying to say we should be preparing early for what will inevitably come in the distant future?
+
+
+Answer:
+
+**The latter. There’s no consensus among AI researchers about how long it will take to build human-level AI and beyond, so please don’t trust anyone who claims to know for sure that it will happen in your lifetime or that it won’t happen in your lifetime. When it eventually does occur, it’s likely to be either the best or worst thing ever to happen to humanity, so there’s huge value in getting it right. We should shift the goal of AI from creating pure undirected artificial intelligence to creating beneficial intelligence. It might take decades to figure out how to do this, so let’s start researching this today rather than the night before the first strong AI is switched on.**
+","2015-10-08 12:02:28","1699","Prof-Stephen-Hawking","1747843923.4894855","sea level projections","manual"
+"cvsdm3o","t3_3nyn5i","3nyn5i","science","scientific","Hello, Prof. Hawking. Thanks for doing this AMA!  Earlier this year you, Elon Musk, and many other prominent science figures signed an [open letter](http://futureoflife.org/AI/open_letter) warning the society about the potential pitfalls of Artificial Intelligence. The letter stated: “We recommend expanded research aimed at ensuring that increasingly capable AI systems are robust and beneficial: our AI systems must do what we want them to do.” While being a seemingly reasonable expectation, this statement serves as a start point for the debate around the possibility of Artificial Intelligence ever surpassing the human race in intelligence.  
+My questions:  1. One might think it impossible for a creature to ever acquire a higher intelligence than its creator. Do you agree?
+ If yes, then how do you think artificial intelligence can ever pose a threat to the human race (their creators)?  2. If it was possible for artificial intelligence to surpass humans in intelligence, where would you define the line of “It’s enough”? In other words, how smart do you think the human race can make AI, while ensuring that it doesn’t surpass them in intelligence?
+
+Answer: 
+
+**It’s clearly possible for a something to acquire higher intelligence than its ancestors: we evolved to be smarter than our ape-like ancestors, and Einstein was smarter than his parents. The line you ask about is where an AI becomes better than humans at AI design, so that it can recursively improve itself without human help. If this happens, we may face an intelligence explosion that ultimately results in machines whose intelligence exceeds ours by more than ours exceeds that of snails.**
+","2015-10-08 12:04:47","1631","Prof-Stephen-Hawking","1747843923.493485","sea level projections","manual"
+"cvsdldh","t3_3nyn5i","3nyn5i","science","scientific","I would love to ask Professor Hawking something a bit different if that is OK? There are more than enough science related questions that are being asked so much more eloquently than I could ever ask so, just for the fun of it:
+ 
+  * What is your favourite song ever written and why? 
+
+**“Have I Told You Lately” by Rod Stewart.** 
+
+
+  * What is your favourite movie of all time and why? 
+
+**Jules et Jim, 1962**
+
+
+  * What was the last thing you saw on-line that you found hilarious?  
+
+**The Big Bang Theory**
+","2015-10-08 12:03:48","1519","Prof-Stephen-Hawking","1747843923.495485","sea level projections","manual"
+"cvsdj4t","t3_3nyn5i","3nyn5i","science","scientific","Hello Professor Hawking, thank you for doing this AMA!   I've thought lately about biological organisms' will to survive and reproduce, and how that drive evolved over millions of generations. Would an AI have these basic drives, and if not, would it be a threat to humankind?   Also, what are two books you think every person should read?
+
+
+Answer:
+
+**An AI that has been designed rather than evolved can in principle have any drives or goals. However, as emphasized by Steve Omohundro, an extremely intelligent future AI will probably develop a drive to survive and acquire more resources as a step toward accomplishing whatever goal it has, because surviving and having more resources will increase its chances of accomplishing that other goal. This can cause problems for humans whose resources get taken away.**
+","2015-10-08 12:00:47","946","Prof-Stephen-Hawking","1747843923.4974923","sea level projections","manual"
+"cvsdmav","t3_3nyn5i","3nyn5i","science","scientific","Thanks for doing this AMA. I am a biologist. Your fear of AI appears to stem from the assumption that AI will act like a new biological species competing for the same resources or otherwise transforming the planet in ways incompatible with human (or other) life. But the reason that biological species compete like this is because they have undergone billions of years of selection for high reproduction. Essentially, biological organisms are optimized to 'take over' as much as they can. It's basically their 'purpose'. But I don't think this is necessarily true of an AI. There is no reason to surmise that AI creatures would be 'interested' in reproducing at all. I don't know what they'd be 'interested' in doing.  I am interested in what you think an AI would be 'interested' in doing, and why that is necessarily a threat to humankind that outweighs the benefits of creating a sort of benevolent God.
+
+Answer:
+
+**You’re right that we need to avoid the temptation to anthropomorphize and assume that AI’s will have the sort of goals that evolved creatures to. An AI that has been designed rather than evolved can in principle have any drives or goals. However, as emphasized by Steve Omohundro, an extremely intelligent future AI will probably develop a drive to survive and acquire more resources as a step toward accomplishing whatever goal it has, because surviving and having more resources will increase its chances of accomplishing that other goal. This can cause problems for humans whose resources get taken away.**
+","2015-10-08 12:05:03","666","Prof-Stephen-Hawking","1747843923.5004966","sea level projections","manual"
+"cvv7ect","t3_3nyn5i","3nyn5i","science","scientific","why are all the comments getting removed? ","2015-10-10 22:27:46","36","EVOSexyBeast","1747843923.5024967","sea level projections","manual"
+"cvsdny7","t3_3nyn5i","3nyn5i","science","scientific","This AMA is being permanently archived by *The Winnower*, a publishing platform that offers traditional scholarly publishing tools to traditional *and* non-traditional scholarly outputs—because scholarly communication doesn’t just happen in journals.
+
+To cite this AMA please use: [https://doi.org/10.15200/winn.144430.06022](https://www.thewinnower.com/papers/2787-science-ama-series-stephen-hawking-ama-answers)
+
+You can learn more and start contributing at [*thewinnower.com*](https://thewinnower.com)
+","2015-10-08 12:07:17","7","redditWinnower","1747843923.5044966","sea level projections","manual"
+"cwjdw8c","t3_3qyhtd","3qyhtd","science","scientific","What are the biggest ""known unknowns"" that you think shipwreck excavations will help uncover? Have any ""unknown unknowns"" have been discovered recently? Do you think you can find any ships from the ""Sea Peoples?""","2015-10-31 12:41:42","58","iorgfeflkd","1747843981.1726685","sea level projections","manual"
+"cwje4jt","t3_3qyhtd","3qyhtd","science","scientific","What can you tell us about the technical details of how you found the wrecks? 
+
+What is the depth of the shipwrecks, and how were they found - random / systematic diving (by Scuba? piloted ROV? AUV sweeps?), or some method of seafloor mapping (what was the method)?","2015-10-31 12:54:14","46","khaddy","1747843981.1726685","sea level projections","manual"
+"cwjehat","t3_3qyhtd","3qyhtd","science","scientific","What item -in your opinion- is the best item you have ever found in a shipwreck and why? And what's the most unusual/weirdest item that you have found in an ancient shipwreck?
+
+p.s I think this is an amazing find and I am completely fascinated by all things ancient world. I'm currently studying the ancient world at university and finds like yours/people like you just interest me so very much. So thank you for being so interesting and bringing information to the world!","2015-10-31 13:12:13","33","excellent_916","1747843981.1726685","sea level projections","manual"
+"cwje36n","t3_3qyhtd","3qyhtd","science","scientific","What is your favorite shipwreck? As in, which shipwreck has the most fascinating story for your team? The coolest history? ","2015-10-31 12:52:20","28","idontknowwhattosay-","1747843981.1726685","sea level projections","manual"
+"cwjimbe","t3_3qyhtd","3qyhtd","science","scientific","Hey everyone! Happy Halloween! Right off the top I want to say how excited we are to tell you about our research and thank the mods, who have been outstanding. We had hoped to do this AMA live from the field in September, but had to cancel due to bad weather ending our season early. Then each  following week has been a wait for the Ministry of Culture to announce the project. Thank you to the mods for putting up with our schedule changes without even knowing what we had discovered!","2015-10-31 15:48:55","27","Peter-Campbell","1747843981.1726685","sea level projections","manual"
+"cwjeskg","t3_3qyhtd","3qyhtd","science","scientific","Have you found any evidence of structures under the water, that would prove existence of a civilization that lost their lands due to rising water levels?","2015-10-31 13:27:46","22","CorruptDuck","1747843981.1726685","sea level projections","manual"
+"cwjeqej","t3_3qyhtd","3qyhtd","science","scientific","What happens to the artifacts you discover?","2015-10-31 13:24:53","18","CorruptDuck","1747843981.1726685","sea level projections","manual"
+"cwjeqkq","t3_3qyhtd","3qyhtd","science","scientific","Do you find any evidence for bronze-age transport of seeds? I'm interested in the spread of brassica crop ancestors from the eastern med to atlantic coasts.","2015-10-31 13:25:07","17","jay_moo","1747843981.1726685","sea level projections","manual"
+"cwjdpz4","t3_3qyhtd","3qyhtd","science","scientific","So will you investigate the items on the ship at all or is this solely focused on environmental aspects?","2015-10-31 12:31:02","11","flipponater","1747843981.1726685","sea level projections","manual"
+"cwjdq0t","t3_3qyhtd","3qyhtd","science","scientific","Good morning,
+
+Typical SSS/Mag/MBE for your initial exploration, or are you using some other kind of equipment to hunt for the wrecks?
+
+(I am a hydrographer by trade)","2015-10-31 12:31:07","12","[deleted]","1747843981.1726685","sea level projections","manual"
+"cwjeldc","t3_3qyhtd","3qyhtd","science","scientific","Have you ever come across any food items still in tact? ","2015-10-31 13:17:49","9","Sirnando138","1747843981.188302","sea level projections","manual"
+"cwjdgr8","t3_3qyhtd","3qyhtd","science","scientific","Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts.
+ 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+","2015-10-31 12:14:34","8","Doomhammer458","1747843981.188302","sea level projections","manual"
+"cwje9i4","t3_3qyhtd","3qyhtd","science","scientific","My question does not strictly regard your science field, but I hope you will kindly answer it.
+
+How do you feel about the global popular opinion and interest regarding the large field of studying our remote past? Do you think that discoveries like yours (which are truly remarkable) will properly arouse people's attention?
+
+Sometimes I just feel like there exists, among common people, a lack of fair consideration apropos ancient literature and the very study of ancient peoples' life. This also reflects the neglicence (and sometimes incompetence) perpetrated by the ""powerful"" individuals (e.g. governments which don't supply the right amount of funding for these research fields): I live in Italy, and the intentional attempts at killing classical historical, literary and artistic studies are definitely not a conspiracy theory, not anymore, at least.
+
+I'd like to hear your thoughts concerning this instance; i do very much value the successes and achievements of people like you, who every day gift mankind with your answers to long-lasting question such as all those about the sixth/fifth/fourth century BC (these are the ones I personally look forward to the most).
+
+Thank you.","2015-10-31 13:01:17","9","Stefano-","1747843981.188302","sea level projections","manual"
+"cwjefg4","t3_3qyhtd","3qyhtd","science","scientific","What is the oldest dated wreck you have found so far and have you found anything else resembling the Antikythera mechanism or similar technological devices?","2015-10-31 13:09:39","8","hamish001","1747843981.188302","sea level projections","manual"
+"cwjev0a","t3_3qyhtd","3qyhtd","science","scientific","How do you date items and ships that were underwater?  Are the ships' names visible enough to check against rolls, or do items on the ship help to identify when it went down?  Also, this probably isn't applicable to these particular ships, but is it possible to do any sort of carbon or radioactive dating for items that were underwater?  It doesn't seem like you could, but if not, is the accuracy of carbon dating compromised if something was under water for a long stint before it began to fossilize?","2015-10-31 13:31:06","7","CharMeckSchools","1747843981.188302","sea level projections","manual"
+"cwjf8am","t3_3qyhtd","3qyhtd","science","scientific","There seems to be a lot of ancient texts referring to the lost city of Atlantis, due to the fact that it was never found, people seem to dismiss its existence as a myth.
+
+As a professional in the field and as a general community, is the possible existence of said city accepted or is the large majority dismissing it as non-sense?
+
+Is there some kind of active debate regarding it within the community as well?","2015-10-31 13:47:26","9","kinpsychosis","1747843981.188302","sea level projections","manual"
+"cwjeog2","t3_3qyhtd","3qyhtd","science","scientific","How long will it take to survey, record and catalogue these wrecks.  Will your team have the opportunity and time to do this? 
+
+Also what difficulties do your experience in getting the funding and resources to search for these amazing finds.","2015-10-31 13:22:10","7","Reality-Dysfunction","1747843981.188302","sea level projections","manual"
+"cwjf3bp","t3_3qyhtd","3qyhtd","science","scientific",">Besides searching for evidence of ancient trade and piracy, we were looking for indicators of sea level change to reconstruct the region's ancient environment and understand future changes.
+
+While the former seems more interesting, the latter seems more important. What's the ratio of work you're doing regarding the two, and is the methodology more of a map an area, work with what comes up, or do you prioritize finding wrecks for instance over looking for indicators of sea level changes? ","2015-10-31 13:41:15","6","flukz","1747843981.188302","sea level projections","manual"
+"cwjflc3","t3_3qyhtd","3qyhtd","science","scientific","Cyprus was a major trading hub in the Eastern Mediterranean for a long time. The articles that I have seen about the shipwrecks mention goods from Cyprus. My question is, what were those trade items mentioned and where were they headed to before the ship carrying them sank?
+
+And I'm not sure how visible the ship itself was during the underwater survey, but do any of them appear to be built similar to the Kyrenia ship that was excavated off the coast of Cyprus? One of my favorite things about that ship were the lead sheets attached to the outer hull in order to stay off deterioration from the salt water. Apparently the ship was rather old (~50 years) and on its last legs when it sank. ","2015-10-31 14:03:03","7","Mictlantecuhtli","1747843981.2039268","sea level projections","manual"
+"cwjnzyg","t3_3qyhtd","3qyhtd","science","scientific","What made you want to leave advertising and go into underwater surveying?","2015-10-31 18:29:11","9","chooglemaster3000","1747843981.2039268","sea level projections","manual"
+"cwjo83s","t3_3qyhtd","3qyhtd","science","scientific","Have you heard from Don Draper since he left for California? How are things with you and Trudy? 
+Also, Peggy never told you, but you fathered her child.","2015-10-31 18:36:16","7","horsefuckery","1747843981.2039268","sea level projections","manual"
+"cwjfqt3","t3_3qyhtd","3qyhtd","science","scientific","Good afternoon! Thanks for doing this AMA, I recently went Scuba diving for the first time in Santorini and it was a stunning experience. My question to you is in your opinion what is underwater tourism doing for these ancient sites? I know there are a lot of ancient artifacts quite literally just sitting around on the ocean floor and one of the options we had was to go and visit a local shipwreck - would you say more harm or good comes from tourists discoveries of these objects and locations? Also, what is your favourite underwater site in Greece?
+
+Thank you for your time!","2015-10-31 14:09:07","5","aethernyx","1747843981.2039268","sea level projections","manual"
+"cwjh9wy","t3_3qyhtd","3qyhtd","science","scientific","Hey, Peter, you’ve been very busy in the news this week! Congrats on the find and thanks for making time for this AMA! Short answers are fine, if you’d be so gracious as to respond to a couple of your choosing:  
+
+1) What criteria will ultimately determine which site(s) gets excavated first, if and when the funding ever shows up for one?  
+
+2)  The general location of this recent discovery has been pretty well publicized.   What is being done to protect the sites from looters?  
+
+3)  In a CNN skype video, you mentiond frequent piracy in these waters in ancient times.  Have you found anything that appears to *not* be a standard amphorae-carrying cargo ship?  
+
+4) Recently, while speaking at the Getty Center, George Koutsouflakis stated that bronzes often doubled as ballast — therefore, wreck-site bronzes, if present at all, should be *under* the amphorae mounds.  From your surveys, did you see any evidence of bronzes this time?
+
+5) Any interest in working on well-documented historical sites elsewhere, such as Hakata Bay (massive sunken Mongol fleets in Japan, 1274 and 1281)?  
+
+6) If you find a bronze of any kind, could you PM me a picture before you have a press conference?  I promise I can keep a secret!  :-D  
+
+(Edited for spelling)  Thanks again for stopping by!  Looking forward to following your future exploits!","2015-10-31 15:04:13","7","MattBaster","1747843981.2039268","sea level projections","manual"
+"cwjlrxm","t3_3qyhtd","3qyhtd","science","scientific","Didn't you work for Sterling Cooper?","2015-10-31 17:22:13","7","hitch_united","1747843981.219551","sea level projections","manual"
+"cwjo9tq","t3_3qyhtd","3qyhtd","science","scientific","Are you aware that you have the same name and surname of a character in Mad Man?","2015-10-31 18:37:44","6","Bigspartandaddy","1747843981.219551","sea level projections","manual"
+"cwjigwd","t3_3qyhtd","3qyhtd","science","scientific","How would you recommend someone interested in your line of work to get involved? How does one become an underwater researcher?","2015-10-31 15:44:09","4","[deleted]","1747843981.219551","sea level projections","manual"
+"cwjexf4","t3_3qyhtd","3qyhtd","science","scientific","Sunken cities. Of the ones you're aware of, around what period were they built? And how do you hope to prevent us from losing more of our cities to the sea?","2015-10-31 13:34:08","6","unlisted_user","1747843981.219551","sea level projections","manual"
+"cwjf2u8","t3_3qyhtd","3qyhtd","science","scientific","What is the strangest thing you have found in a shipwreck?","2015-10-31 13:40:41","3","22LoganoFan","1747843981.219551","sea level projections","manual"
+"cwjf91a","t3_3qyhtd","3qyhtd","science","scientific","How/Why did you get involved with searching for ancient sunken ships?","2015-10-31 13:48:21","4","Senpai-Sama-Kun","1747843981.219551","sea level projections","manual"
+"cwjfccy","t3_3qyhtd","3qyhtd","science","scientific","Howdy Peter. Your life sounds REALLY COOL. Like, travel, adventure, all that.
+
+Right now, I'm a twenty something phone jockey (work in a call center) with a business degree that I feel like I'll never use.
+
+What are the barriers of entry to, maybe not your exact field, but something similar in nature?","2015-10-31 13:52:28","4","JohnDavid42","1747843981.219551","sea level projections","manual"
+"cwjfify","t3_3qyhtd","3qyhtd","science","scientific","Awesome! Hey, thanks for the AMA.
+
+What would be the one thing above all else you'd like to (re-)discover?","2015-10-31 13:59:41","4","Aetherys","1747843981.219551","sea level projections","manual"
+"cwjepr5","t3_3qyhtd","3qyhtd","science","scientific","Have you ever found a bottle of very old alcohol intact within a shipwreck, and if so would you drink it. Say if it was 100 year old rum for instance. 
+","2015-10-31 13:23:58","4","[deleted]","1747843981.219551","sea level projections","manual"
+"cwjetbp","t3_3qyhtd","3qyhtd","science","scientific","In your current discoveries, were steel tools recovered, and if so, is there a clear evolution of the metallurgy and the craftsmanship/techniques through the years?
+
+Also, how has composition changed?
+
+Thanks!","2015-10-31 13:28:50","4","Berzelus","1747843981.2345576","sea level projections","manual"
+"cwjfhw6","t3_3qyhtd","3qyhtd","science","scientific","Have you ever seen anything down there you couldn't explain? ","2015-10-31 13:59:01","3","bagero","1747843981.2355638","sea level projections","manual"
+"cwjg04l","t3_3qyhtd","3qyhtd","science","scientific","Thank you for the AMA. Are you also finding human occupation sites that have become submerged due to changing sea levels?","2015-10-31 14:19:11","3","adam_demamps_wingman","1747843981.2355638","sea level projections","manual"
+"cwjgccs","t3_3qyhtd","3qyhtd","science","scientific","What happens if you find a cache of valuable items (treasure)? Is it a big problem legally or does it simply go to greece or is it split up somehow?","2015-10-31 14:31:33","3","Halsfield","1747843981.2355638","sea level projections","manual"
+"cwjgh2a","t3_3qyhtd","3qyhtd","science","scientific","If you came across an artifact which screamed ""Alien"" to your spidey-senses, what would your response be?
+
+(the last archaeologist I asked this of said he would pound it with a rock and chew on it until it revealed it's secrets.)","2015-10-31 14:36:34","3","Hecateus","1747843981.2355638","sea level projections","manual"
+"cwjgiv6","t3_3qyhtd","3qyhtd","science","scientific","Has the examination of the marine growth buildup on the ships provided any insight into the ecology of the Mediterranean at that time? Has it changed significantly since the Bronze age? ","2015-10-31 14:38:31","3","Fizzle1982","1747843981.2355638","sea level projections","manual"
+"cwjgocx","t3_3qyhtd","3qyhtd","science","scientific","Do you believe in Atlantis?
+Even if it's not a full blown city made out of pure gold, do you think such a massive place could have been lost?","2015-10-31 14:43:48","3","zxcv437","1747843981.2355638","sea level projections","manual"
+"cwjgth7","t3_3qyhtd","3qyhtd","science","scientific","I am involved in a project looking for the shipwreck of the Leusden. She was a Dutch slave ship and sank off the coast of Suriname in 1738.
+
+The search area is a very shallow (as little as 3m), estuarine (amazon run off) environment. Do you have any knowledge on how these sorts of conditions may affect the taphonomy of the site? 
+
+Also, in extremely shallow water, what systems do you use?","2015-10-31 14:48:53","3","LordMuck1805","1747843981.2355638","sea level projections","manual"
+"cwjha1o","t3_3qyhtd","3qyhtd","science","scientific","Will Atlantis ever be found? Could it exist?","2015-10-31 15:04:21","3","[deleted]","1747843981.2355638","sea level projections","manual"
+"cwjhea6","t3_3qyhtd","3qyhtd","science","scientific","Do you guys take volunteers to help yout guys out? Man that would be the coolest job ever.","2015-10-31 15:08:26","3","[deleted]","1747843981.251196","sea level projections","manual"
+"cwjhq7c","t3_3qyhtd","3qyhtd","science","scientific","Do you find any texts that survive?","2015-10-31 15:19:41","3","jeffwingersballs","1747843981.2531908","sea level projections","manual"

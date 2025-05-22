@@ -1,0 +1,80 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"dcv9y3u","t3_5gb9wg","5gb9wg","environment","emotional","I'm there.. made sure to have off from work that day!!!","2017-01-25 01:50:50","1","KittyCatKrista","1747882233.673056","CO2 is good","manual"
+"dcw7gsd","t3_5gb9wg","5gb9wg","environment","emotional","How can get this to the level where the people are marching all around world like they did for the women's march?? The women's march raised a lot of awareness because it was such a global event. We need to honestly keep doing these marches.","2017-01-25 17:30:39","1","RoseMylk","1747882233.673056","CO2 is good","manual"
+"dbvfwx9","t3_5fyv44","5fyv44","collapse","skeptical"," Thank you. This is truly a fantastic post. ","2017-01-01 18:37:14","1","Archimid","1747882676.7528179","CO2 is good","manual"
+"dc8sc01","t3_5n4gqb","5n4gqb","collapse","skeptical","Carbon sinks have been taking up about half our emissions historically, masking the atmospheric increase. That was obviously not sustainable and will decline over time. But this is too quick of a change to be explained by that.
+
+Forests, on the other hand, are known for reverting from a carbon sink to a carbon source when stressed by something, for example by a drought. So they would be my first guess when it comes to quick and unexpected CO2 increases like this.","2017-01-10 15:22:56","7","goocy","1747882729.527335","CO2 is good","manual"
+"dc8lc5e","t3_5n4gqb","5n4gqb","collapse","skeptical","Maybe it's soil respiration and deforestiation.","2017-01-10 11:50:07","9","oskosan","1747882729.527335","CO2 is good","manual"
+"dc8lh4n","t3_5n4gqb","5n4gqb","collapse","skeptical","Obviously an interesting topic - and I'm on your side. However, the source you give provides number well below 4ppm/year. +2.91ppm for 2014-2015 and +2.63ppm for 2015-2016. So it would take 35 years to reach 500ppm, not 25. Now I'm curious: this post is the only one you posted on Reddit - it looks like you used a throwaway? Do you know stuff that we don't? ;)","2017-01-10 11:56:33","5","BeranPanasper","1747882729.527335","CO2 is good","manual"
+"dc91p7e","t3_5n4gqb","5n4gqb","collapse","skeptical","I think that CO2 comes from the melting permafrost. That's not the Methane Hydrate bomb which is melting clathrates (frozen methane) under or captured by subsea and surface permafrost, releasing Methane (volume *120). The CO2 is from the permafrost itself, the soil. All kinds of little critters start to digest previously frozen organic matter and shit out CO2. It used to be too cold for that but now it starts to add up. There was a post about that same subject here recently ..
+
+Something like this:
+http://www.ocnus.net/artman2/publish/Research_11/We-Have-Released-a-Monster-Previously-Frozen-Soil-Is-Breathing-Out-Greenhouse-Gases.shtml
+
+In any case, Methane and CO2 from thawing permafrost are two related but different feedback loops. ","2017-01-10 18:25:24","3","__Gwynn__","1747882729.527335","CO2 is good","manual"
+"dc8lnhc","t3_5n4gqb","5n4gqb","collapse","skeptical","[One scientific report I read showed that trees can only use so much CO2 and after a certain point they start taking up less CO2](https://www.theguardian.com/environment/2008/jan/03/climatechange.carbonemissions).   
+
+>The Intergovernmental Panel on Climate Change, which shared the Nobel peace prize with Al Gore, has concluded that humanity has eight years left to prevent the worst effects of global warming.
+
+The article is from 2008
+
+","2017-01-10 12:04:25","3","Kracked_My_Toe_Ahh","1747882729.5403569","CO2 is good","manual"
+"dc906dj","t3_5n4gqb","5n4gqb","collapse","skeptical","Glen Peters attributes the continued rise in co2 as being a result of effects of El Nino. I am not entirely convinced but I certainly respect him as a climate scientist. Time will tell over the next year or two. Another possible reason for the discrepancy is poor reporting. I doubt China are all that accurate in their reporting of pollution, but let's face it, all of our car companies are getting found out, I don't expect we are any better.","2017-01-10 17:56:56","2","sed6645","1747882729.543374","CO2 is good","manual"
+"dc9agiu","t3_5n4gqb","5n4gqb","collapse","skeptical","4ppm is misleading:
+
+Dec 2015 = 401.85
+
+Dec 2016 = 404.48
+
+This represents an increase of 2.63ppm yoy.
+
+To convert this ppm CO2 into GtCO2 you [multiply by 7.81](https://www.skepticalscience.com/print.php?r=45)
+
+There is 20.54 GtCO2 more CO2 in the air than last year. The earth absorbs half so [41 GtCO2](http://www.dailymail.co.uk/sciencetech/article-2764323/China-US-India-push-world-carbon-emissions-up.html) was emitted by man and natural forces.
+
+In terms of PgC or GtC 41/3.67 = 11.17 GtC was emitted in the year and half was absorbed by the earth.
+
+The remaining [carbon budget](http://www.wri.org/sites/default/files/WRI13-IPCCinfographic-FINAL_web.png) is 485PgC^2014 in 2017 it is 485-11-11 = 463PgC^2017
+
+If we are to stay within their 2C limit we have 463/11= 42years at BAU levels.
+
+Read the fine print at the [bottom](http://www.wri.org/sites/default/files/WRI13-IPCCinfographic-FINAL_web.png) If we factor non-CO2 gases the available budget drops to 275PgC^2014. Adjust that for now 275-11-11=253PgC^2017 or 23 years remaining. In ppm terms this would be 60ppm CO2 more or 22 years at current growth rate. 464ppm is the 2C budget target assuming all non-CO2 gases remain constant.
+
+* Piece it all together. They are saying we have 20 years to reduce CO2 emissions to zero, otherwise we overshoot 2C.
+* Albedo loss is not factored in as well, According to Wadhams a .6C rise can be attributed to arctic albedo loss alone.
+* Global Dimming is only used as parameter to offset forcings. They have not included the implication SO2 reduction in emissions, you will get an immediate rise temps upto about 1C or [more](http://empslocal.ex.ac.uk/people/staff/pmc205/papers/2005/Andreae_et_al_05_Nature.pdf).
+
+>When we include the uncertainty caused by the choice of emission
+scenarios, we find that the range considered most plausible in
+IPCC-TAR (2.3–4.9 C from 1850–2100) can be obtained only for
+aerosol forcings considerably weaker than predicted by current
+forward models (Fig. 3), which tend to estimate the sum of aerosol
+forcings to be in the range 21 to 22Wm22 (refs 11, 12, 16, 17).
+Ominously, Fig. 3a shows temperature increases in excess of 6C for
+the climate sensitivity implied by the central estimate of aerosol
+forcing (21.5 Wm22
+), and for all but the most optimistic emission
+scenario. Such an enormous increase would be comparable to the
+temperature change from the previous ice age to the present.
+Furthermore, the overall uncertainty is dominated by climate sensitivity
+and hence historical aerosol forcing: Fig. 3a shows that the
+warming range for a given scenario (for example, 2.5–7.9 K for
+scenario A2) is greater than the range across scenarios for a given
+climate sensitivity (6.8–9.6 K at its widest).","2017-01-10 21:08:22","2","mulgs","1747882729.5466113","CO2 is good","manual"
+"dc8ugwf","t3_5n4gqb","5n4gqb","collapse","skeptical","Something that's been bothering me.
+
+The people who are telling us that we shouldn't worry about methane releases from clathrate deposits under the oceans are sure that the methane-eating bacteria will absorb any releases that happen.
+
+Which is nice.
+
+But those bacteria emit carbon dioxide.","2017-01-10 16:07:25","1","MrVisible","1747882729.5466113","CO2 is good","manual"
+"dc8ww6l","t3_5n4gqb","5n4gqb","collapse","skeptical","CO2 doesn't have positive feedbacks. 
+
+The temperature increases/radiative forcing is defined as so and so many W/m^2 or C° per doubling of CO2. This means going from 200 to 400 is the same as going to 400 to 800 and 800 to 1600. This is a function of diminishing returns.
+
+The actual values suggested to happen per doubling is subject to much debate(so much for consensus in climate science), ranging from less than 1°C or up to 10°C. Based on historical observations it leans towards less than 3(and 3-4) is what IPCC uses.
+
+Anyway what this means is that even if you assume we can get to 6400ppm CO2, which is an increase of 6000 ppm from 400 today, it would only be a warming of 4 times the previously mentioned number. Also, to actually get to 6400ppm is unlikely given the half-life of CO2 and the timespans of emission involved, so there's no limitless warming potential to the climate models despite what doomspeaker and alarmists and headline merchants suggest all the fucking time, because they can skip the technical details and say that we're turning into Venus due to CO2 any day now(and if you plug the number of duplications needed to match some venusian parameters into a formula for CO2 doubling, you end up with a value where there amount of CO2 in earths atmosphere have more mass than the entire galaxy, so such a suggestion only collapses the credibility of whoever makes it) 
+
+Even if you assume the worst case of warming from the IPCC(official predictions) you're still not going to cost much more in adaptation and material losses than an economical downturn does, if you want collapse porn then AGW and CO2 is a red herring, go look for geopolitical or economical reasons instead. ","2017-01-10 16:55:21","1","[deleted]","1747882729.5466113","CO2 is good","manual"
