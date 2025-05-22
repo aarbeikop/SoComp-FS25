@@ -1,0 +1,16 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"4tr2on","collapse","skeptical","How Fast The Temp's Rising - based on NOAA Global Average Temperatures","I was farting around with numbers from NOAA trying to figure out how fast the temperature is rising. Based on the 20th Century global average temperature, I wanted to know, how long will it take for a 1 degree C rise?
+
+Averaging the anomalies, I came up with these numbers.
+
+If you average the anomalies from 2001 to 2016, it would take 45 years for us to increase the global temp one degree C. But if the latest years are indicative of an actual a trend, we are now on course to increase global temperatures by one degree every 2 to 5 years.
+
+* 2001-2016 - 1 degree C every 45 years
+* 2007-2016 - 1 degree C every 20 years
+* 2012-2016 - 1 degree C every 5 years
+* 2015-2016 - 1 degree C every 1.7 years
+
+Here's the data: https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/6/2000-2016
+
+Am I reading this wrong?
+","2016-07-20 13:16:11","28","25","0.8","https://www.reddit.com/r/collapse/comments/4tr2on/how_fast_the_temps_rising_based_on_noaa_global/","True","sapien89","1747867137.6394753","global temperature rise","manual"

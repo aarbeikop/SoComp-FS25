@@ -1,0 +1,8 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"67n6uk","climate","scientific","""Climate models cannot model the past"" Can someone please explain to me if this is true and if so, why?","I work at a university (PhD student in molecular electronics), and a colleague (~40 years old, with PhD in physics, intelligent, works as technician) told me that we shouldn't worry about global warming. To back up his claim, he said that climate models cannot accurately predict the past, even though they should. He said that as models get better, the predicted temperature rise becomes smaller and smaller.
+
+I'm wondering if what he said is correct, if not, why he would think such a thing. Are there modelled datasets out there that do not correspond to historical measurements? If so, why are they wrong?
+ 
+ 
+ 
+I had a quick look around the internet and found [this](http://old.grida.no//climate/Ipcc_tar/wg1/pdf/TAR-12.pdf) article, and looked at the graphs on p710, basically disproving his claim. I'd like to see more models however, and also get to know a bit what the experts and scientific community think about the data/models.","2017-04-26 10:10:50","1","9","0.56","https://www.reddit.com/r/climate/comments/67n6uk/climate_models_cannot_model_the_past_can_someone/","True","Blokshibe","1747875598.834135","global temperature rise","manual"
