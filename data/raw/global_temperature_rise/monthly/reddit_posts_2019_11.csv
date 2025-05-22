@@ -1,0 +1,147 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"e20jsh","climatechange","action-oriented","The world is NOT on pace for 4 degree Celsius warming by 2100.","A [recent submission](https://www.reddit.com/r/climatechange/comments/e1v8f6/world_on_pace_for_4_degree_celsius_warming_by_2100/) made the claim that the world is on pace for 4 degree Celsius warming by 2100. That's false. Let's look at the basics of climate science, as per the IPCC's AR5.
+
+- CO2 is a greenhouse gas, meaning that increasing the amount in the atmosphere will increase global temperatures, all else being equal.
+
+- It is one of several greenhouse gases. The one that accounts for most of the greenhouse effect is water vapor. That's important to know, for a reason that we'll come back to later.
+
+- The direct effect of doubling atmospheric CO2 is an increase in temperature of about 1.1°C, but that doesn't include feedbacks.
+
+- There are positive and negative feedbacks. A positive feedback is one that amplifies a given change in temperature and a negative feedback is one that dampens the change. There are thousands of feedbacks in the climate system.
+
+- When feedbacks are factored in, the resulting temperature change is referred to as ""climate sensitivity."" There are two kinds of climate sensitivity discussed in AR5, the IPCC's fifth and most recent assessment report: ECS and TCR.
+
+- ECS stands for equilibrium climate sensitivity. This is the amount of warming per doubling of CO2 that you get once all the feedbacks have had time to settle in. It's important to note that it takes decades or even centuries to reach equilibrium once a doubling is reached.
+
+- TCR stands for transient climate response. This is the amount of warming expected while CO2 is rising and at the time that a doubling is reached.
+
+- Preindustrial CO2 was about 280 parts per million (ppm), so a doubling would be 560 ppm.
+
+- Present CO2 levels are about 400 ppm.
+
+- Future CO2 concentrations will depend on lots of things like population growth, CO2 emissions per capita, natural carbon sinks, etc. (My own best guess is that we won't reach 560 ppm until near the end of the century, maybe 2080-2090.)
+
+- Producing a value for either type of climate sensitivity is really, really hard. AR5 listed the likely range as 1.5-4.5°C per doubling. That's the same range as was first proposed in the 70s or 80s. It's been really difficult to narrow it down because the climate system is chaotic and extremely complex. 
+
+- One significant paper that didn't meet the cutoff for AR5 was Otto, et al 2013. It suggested that ECS is on the low end of AR5's range.
+
+- As far as most of us are concerned, TCR is the most relevant measure of climate sensitivity because we don't have to wait for feedbacks to shake out like with ECS. 
+
+- AR5's estimate for TCR was 1.8°C per doubling.
+
+- The uncertainty around TCR is much smaller, meaning narrower error bars.
+
+- One paper after AR5 had TCR as low as 1.33°C per doubling.
+
+- The Earth has warmed about 0.8-0.9°C since ~1910. A portion of that warming was natural, the rest attributable to mankind. 
+
+Putting all of this together, there's just no way we get to 4°C by 2100 using mainstream science.","2019-11-26 16:44:11","22","39","0.7","https://www.reddit.com/r/climatechange/comments/e20jsh/the_world_is_not_on_pace_for_4_degree_celsius/","True","Will_Power","1747908623.3321786","global temperature rise","manual"
+"e2q7kg","climate","scientific","Help me understand the disconnect between climate change accepters and deniers","Hi all. I am genuinely asking this question, not trolling or trying to annoy anyone. A recent article by Conrad Black (blah) in the National Post made some striking statements that I cannot reconcile with all the climate change reports I have been reading about. Article is here:
+
+[https://nationalpost.com/opinion/conrad-black-the-ipcc-isnt-quite-as-apocalyptic-as-greta-thunberg](https://nationalpost.com/opinion/conrad-black-the-ipcc-isnt-quite-as-apocalyptic-as-greta-thunberg)
+
+Ignoring Black's pomposity, can someone please help me understand where he goes wrong in this article? I imagine he is obfuscating the facts when he says this:
+
+""... (t)he current IPCC report... graph purporting to show a rapid rise in the world’s temperature), incites horrible fears but does not predict their occurrence. It “estimates” that human activities have caused a one centigrade degree rise in world temperatures, that is to say that if there were no humans the temperature would be one degree cooler; this isn’t a one-degree increase traceable exclusively to people in a measured time. And while it is “estimated” that the one degree is “likely” to reach 1.5 degrees by 2052, that is only “if it continues to increase,” not a startling forecast. But anthropogenic emissions (caused by humans) “alone are unlikely to cause global warming of 1.5 degrees.” I emphasize that I am not trying to twist the IPCC’s meaning. It clearly acknowledges that an acceleration (and a slight acceleration at that) in global warming is not certain and if it occurs at all, it will not be solely due to human activities. ""
+
+He then goes on with 
+
+""The IPCC devotes a good deal of its attention to “attribution studies,” which it states are not conclusive and after the serious predictive errors of the past, it is commendably cautious in signalling a possible source of concern. It is clear that if these risks exist, they depend on a great variety of factors, including “rate of warming, geographic location, levels of development, and vulnerability.”
+
+It is clear from this report that we don’t know whether any warming that may be occurring is the result of anthropogenic factors or is just a function of long-term meteorological cycles. And it is clear that there is no reason to believe, if warming is anthropogenic, it will increase if anthropogenic emissions do not increase. Nor is it necessary that any such warming is or would be harmful.""
+
+&#x200B;
+
+Another article, by Forbes is here:
+
+[https://www.forbes.com/sites/michaelshellenberger/2019/11/25/why-everything-they-say-about-climate-change-is-wrong/#4b06229412d6](https://www.forbes.com/sites/michaelshellenberger/2019/11/25/why-everything-they-say-about-climate-change-is-wrong/#4b06229412d6)
+
+And it presumes to address all climate change concerns one by one. 
+
+Can someone help me unpackage this in light of the other headlines I read like this one: 
+
+A Scary Year for Climate Change
+
+[https://blogs.scientificamerican.com/observations/a-scary-year-for-climate-change/](https://blogs.scientificamerican.com/observations/a-scary-year-for-climate-change/)
+
+(and many other articles on this thread)
+
+I really do not understand how both of these broad general sets of 'facts' can coexist. Maybe a climate scientist can speak up. 
+
+Thanks!","2019-11-28 01:09:43","2","7","0.67","https://www.reddit.com/r/climate/comments/e2q7kg/help_me_understand_the_disconnect_between_climate/","True","martysmithers","1747908817.103949","global temperature rise","manual"
+"e0pco1","climate","scientific","If you were a 'climate career' counselor, what would you advise young people to watch, read, and do?","Or, what would your flow chart for advising young people look like?
+
+----
+
+Videos they could watch:
+
+* 15 minutes [climate change is simple](https://www.youtube.com/watch?v=A7ktYbVwr90&feature=youtu.be&t=104)
+* 10 minute big-picture [how we can rise to the challenge](https://www.ustream.tv/recorded/124350383?t=3050); *(for me, a clearer 'carbon budget/emissions ramp-down' visualization than the one he puts up on the screen, is [here](https://twitter.com/CarbonBrief/status/1197629256332763136)).*
+* ['grand challenges' video](https://vimeo.com/234520591#t=18m08s)
+
+To consider: [solar and wind tech jobs, among others](https://www.edf.org/energy/clean-energy-jobs)
+
+To read:
+
+* advice for [high school students](http://www.paulgraham.com/hs.html) and on [finding your path](http://paulgraham.com/genius.html) (from [@paulg](https://www.twitter.com/paulg))
+* [This fellow's story, for inspiration](https://www.kcet.org/history-society/tom-mueller-from-idaho-logger-to-space-explorer) (brief)
+* [What can a technologist do about climate change?](http://worrydream.com/ClimateChange/) (extensive)
+* [4 recs. from kristof](https://www.nytimes.com/2019/12/07/opinion/sunday/student-success-advice.html) (""Education isn’t about filling a bucket but about gaining a tool belt"")
+
+Graphs:
+
+* [Global temperature since the last ice age, and projected to 2100](https://twitter.com/EArnoldNPR/status/1183238914284359680)
+* and the 'carbon emissions budget/emissions trajectories' [animation](https://twitter.com/CarbonBrief/status/1197629256332763136) mentioned above","2019-11-23 22:34:54","0","1","0.5","https://www.reddit.com/r/climate/comments/e0pco1/if_you_were_a_climate_career_counselor_what_would/","True","CalClimate","1747908830.1277618","global temperature rise","manual"
+"e0xahf","collapse","skeptical","It´s 2019, thirty years after the first international climate conference and we´re still on track for four degree celsius","Thirty years ago the first climate conference was held in the Netherlands, in Noordwijk. Governments came within a hair of making binding commitments to reduce their emissions. The Americans however sent Sununu to keep track of their own representative at the conference. It became clear eventually that no binding commitments would be made.
+
+The fossil fuel industry was spooked however and began a massive lobbying and disinformation campaign, intended to convince the American public and its representatives that you can simply use the atmosphere as a waste dump and expect no consequences to follow. This led to two presidents who walked away from Kyoto and the Paris accords and no genuinely binding commitments have been made since.
+
+Progressives were kept sedated with promises of a bright green future where electricity would be renewable and cars would run on electricity, but in the absence of binding commitments, these new technologies merely serve to supplement our energy budget, rather than displacing fossil fuels. When people switched to new SUV´s, the rise in oil consumption entirely offset all the entire rise in electric vehicles. Yet, we´re supposed to believe that these new technologies will solve our problem for us.
+
+The consequence is that even today, according to experts we are still on track for [more than four degree Celsius of global warming:](https://www.nationalgeographic.com/science/2019/11/world-fossil-fuel-production-rise-guarantees-missing-paris-climate-goals/)
+
+>Carbon emissions from fossil fuel use totaled 37.1 billion tonnes in 2018, a new record. Substantially reducing those emissions will never happen without reducing fossil fuel production, says Michael Lazarus, a lead author of “The Production Gap Report” and the director of Stockholm Environment Institute’s U.S. Center.
+
+&#x200B;
+
+>Using publicly-available government documents, the report found that countries’ plans to increase production of coal, oil, and gas amounts to 120 percent more in 2030 than would be consistent with limiting global warming to 2.7 degrees F. Those plans include producing 280 percent more coal. That puts the world on a path to more than 7.2 degrees F (4 degrees C) of warming, says Lazarus.
+
+Keep in mind that four degree Celsius globally tends to mean [around six degree](https://archive.ipcc.ch/report/graphics/images/Assessment%20Reports/AR5%20-%20WG1/SPM/FigSPM-08.jpg) on land, because the land warms more than the ocean.
+
+There is nowhere to flee to. If you flee to Siberia, Alaska or Northern Canada, you´re probably worse off, because the warming there is much more intense than elsewhere. The permafrost will face [abrupt thaw](https://www.nature.com/articles/s41558-019-0614-6), from one year to the next. This leads to infrastructural collapse, drought and a sudden temperature jump in these places, resulting in massive unprecedented forest fires.
+
+At 410 parts per million, the planet should have already warmed far more than it actually has, but some of this warming is hidden from us by toxic air pollution. Please keep in mind that the IPCC projections don´t properly take all of the feedback loops into consideration that come into play. Freshwater lake bacteria will start producing methane, bacteria in oceanic dead zones start releasing nitrous oxide, the decaying permafrost releases carbon dioxide, methane and nitrous oxide.
+
+We have in fact already reached dangerous levels of warming. It´s not a mystery that we´re facing unprecedented forest fires around the world, this is exactly what we should have expected. Before the IPCC, we had the Advisory Group on Greenhouse Gases. The Advisory Group on Greenhouse Gases wrote:
+
+“…[B]eyond 1 degree C may elicit rapid, unpredictable and non-linear responses that could lead to extensive ecosystem damage.”
+
+The reason the world settled on a two degree target is because of an economist, Nordhaus, who assumed through simplistic economic simulations that the world could handle some global warming without harm to the global economy. These economic simulations are vast simplifications that don´t take ecosystem damage into proper consideration. Nordhaus for example arrives at 8.5% GDP reduction for six degree of global warming. And to illustrate how truly ridiculous their projections really are, consider what [Skeptical Science](https://skepticalscience.com/climate-costs-often-underestimated.html) notes about these economic reports:
+
+>A 2010 paper led by the late economist Frank Ackerman found that not until global warming reached 19 degrees C (34 degrees F – a global temperature that is virtually incompatible with life) did the model yield a 50% reduction in economic output.
+
+With projections like this, that policymakers are indirectly exposed to, it´s easy to pretend that no real action needs to be taken. So what the world governments have settled on as a consequence is a trajectory that will mean the end of civilization as we know it and a global mass extinction.
+
+Keep in mind that there are people who knew what was coming. The existence of the problem has been known since the late 19th century and the American Petroleum Institute was explicitly warned as early as 1959. The big fossil fuel companies knew this would be a problem long before the 1989 conference in Naaldwijk. They had plenty of time to react, that´s how we ended up with a massive disinformation campaign.
+
+The big oil companies knew what would happen and even to this day, companies like Shell are still making projections about how the future will look according to them. All their scenarios overshoot two degree of global warming, the IPCC, the Paris accords, all of these attempts at reigning in global warming are just a big joke to these people. 
+
+You can see their scenarios for yourself [here](https://www.shell.com/energy-and-innovation/the-energy-future/scenarios/new-lenses-on-the-future/_jcr_content/par/relatedtopics.stream/1519787235340/77705819dcc8c77394d9540947e811b8c35bda83/scenarios-newdoc-english.pdf). My younger brother once applied for a job with Shell, they had him do some standard personality tests and told him it´s not going to work because he has a moral compass. That´s what these organizations do, they screen applicants to make sure they only hire self-absorbed greedy people without a soul.
+
+In a sane world there would be a Nuremberg tribunal, where people like the Shell directors would be thrown in jail. They have advertisements everywhere marketing green energy, but keep in mind what the real purpose is. It´s lipstick on a pig. They show you their green bullshit, while they openly plan on overshooting two degree Celsius behind the scenes.
+
+Nobody is brave enough to hold these people truly accountable. They annihilated the only planet we know of with life, but they are met with signs and slogans. Try to imagine this is Independence Day and the aliens have made it clear that they will extract our planet´s natural resources and kill us all, but people react by holding up signs and slogans. Try to imagine you are living in the Warsaw ghetto in april 1943 and the people there declare that they are going to engage in civil disobedience against the Nazi´s. The trains are riding and the people are responding by laying down on the tracks until the police escort them. That´s the situation we´re dealing with.
+
+Please understand and acknowledge the following: We are completely delusional and out of touch with reality. William Wilberforce did not understand slavery and Henry David Thoreau did not understand slavery. For them it is an intellectual abstraction in their heads. [Celia](https://en.wikipedia.org/wiki/State_of_Missouri_v._Celia,_a_Slave) understood slavery, because she lived it. We don´t understand climate change, because we live in concrete cities where we are kept alive by industrial agriculture. The people who understand climate change are the indigenous people who live in the Amazon rainforest, or the farmers in India who commit suicide. To us it is an intellectual abstraction, so we act as if it is an intellectual abstraction.
+
+Do with that knowledge what you want.","2019-11-24 11:16:42","926","183","0.99","https://www.reddit.com/r/collapse/comments/e0xahf/its_2019_thirty_years_after_the_first/","True","mushroomsarebuddies","1747909088.972517","global temperature rise","manual"
+"e1v9ot","collapse","skeptical","Will grand solar minimum counterbalance the global warming temperature rise?","Just a simple question.  GSM is said to cool down things. So will it counterbalance the temperature rise for some time. It it is true then shouldn't  grand solar MAXIMUM will rebound whatever temperature raise will be suppressed by the MINIMUM.","2019-11-26 08:47:21","0","11","0.38","https://www.reddit.com/r/collapse/comments/e1v9ot/will_grand_solar_minimum_counterbalance_the/","True","LittleUrbanPrepper","1747909105.8298614","global temperature rise","manual"
+"dt45cx","collapse","skeptical","""...the most astonishing document in the entire history of the human species"" - Chomsky (from the intercept interview)","Here's what Chomsky says about it:
+
+""the National Transportation Administration came out with what I think is the most astonishing document in the entire history of the human species. It got almost no attention. It was a long 500-page environmental assessment in which they tried to determine what the environment would be like at the end of the century. And they concluded, by the end of the century, temperatures will have risen seven degrees Fahrenheit, that’s about twice the level that scientists regard as feasible for organized human life. The World Bank describes it as cataclysmic. So what’s their conclusion? Conclusion is we should have no more constraints on automotive emissions. The reasoning is very solid. We’re going off the cliff anyway. So why not have fun? Has anything like that ever appeared in human history? There’s nothing like it.""
+
+[Document in question](https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/ld_cafe_my2021-26_deis_0.pdf)
+
+[Washington Post article about the document](https://www.washingtonpost.com/national/health-science/trump-administration-sees-a-7-degree-rise-in-global-temperatures-by-2100/2018/09/27/b9c6fada-bb45-11e8-bdc0-90f81cc58c5d_story.html?wpisrc=nl_most&wpmm=1)
+
+[Link to the Noam Chomsky interview](https://theintercept.com/2019/10/31/deconstructed-special-the-noam-chomsky-interview/)","2019-11-07 20:56:16","352","135","0.99","https://www.reddit.com/r/collapse/comments/dt45cx/the_most_astonishing_document_in_the_entire/","True","eat_de","1747909285.1958725","global temperature rise","manual"

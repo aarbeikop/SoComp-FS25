@@ -1,0 +1,135 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"clkt85","climatechange","action-oriented","The empress tree and atmospheric carbon removal","There was an article in Bloomberg today about the empress tree, a fast growing tree with high capacity for carbon trapping.
+
+https://www.bloomberg.com/news/features/2019-08-02/we-already-have-the-world-s-most-efficient-carbon-capture-technology
+
+Specifically, the article claims this is the most efficient way to scrub atmospheric carbon... and I think that makes sense.
+
+The article claims that an acre of empress trees can trap ~103 tons of carbon in a single year.  Spectacular!  But I wonder how much it would take to balance our global energy usage?
+
+Let’s run the numbers.
+
+Out of laziness, I am approximating our energy consumption as though it came half from gasoline and half from electricity, but I’ll look at both gasoline and electricity independently as well.
+
+A half/half split is generally (if I recall correctly) true for the average American household, but I can post those calculations if someone is interested.  
+
+The numbers for energy carbon footprint come from here: https://carbonfund.org/how-we-calculate/
+
+I used the energy density of gasoline from here:
+https://www.ocean.washington.edu/courses/envir215/energynumbers.pdf
+
+Now, I’m using the 2016 global energy load I used in an article I wrote yesterday which was 6.04 x10^17 kJ.
+
+If I use the electrical carbon rate from the above website for the entire load, I get that the total carbon footprint of the world is 42 billion tons... meaning that I need 818 million total acres of Empress trees to balance the load.  That’s 1.278 million square miles, or a geographic square about 1130 miles on each side.
+
+That is rapidly approaching the size of a continent.
+
+Now, if I run the numbers for gasoline, I get that we’re producing 77% more carbon per energy unit... which is much dirtier.
+
+When I put half the loading on gasoline and half on electricity, I come up with a need for a geographic square 1565 miles on each side. 
+
+I do not think we can carbon balance this.
+
+
+Takeaway:  Converting to electricity from gasoline is good, but we still aren’t sustainable.
+
+Planting some trees can help, but we are eventually going to have to stop burning stuff for energy if we want this level to stop climbing.
+
+I’m not convinced that the carbon loading is the cause of global climate change, especially when the energy numbers alone explain adequately everything that’s been observed.
+
+But I believe pollution is bad and that balancing carbon loading is desirable.
+
+This looks like a pretty big job... I don’t think that a continent sized orchard is going to work.
+
+Initial gut feeling: planting trees is good but we’ve got to convert to lower emission sources before the discussion of balance will even be plausible at current CO2 levels.
+...
+But this assumes I’m trying to keep CO2 levels where they are (I’d like to, but this isn’t really likely).
+
+
+Ok, so what’s really going to happen
+
+Well, CO2 concentration in the atmosphere will continue to rise.
+
+Luckily, despite nitrogen absorption limitations causing actual crops to benefit little, CO2 increases in the atmosphere cause plants to absorb more CO2 faster because photosynthesis speeds up.
+
+There is a chart (7.3) In chapter 7 of the document at this link that shows photosynthetic  rate relative to CO2 concentration in soybeans... and shows how fast it increases as CO2 concentration increases.
+https://www.nap.edu/read/1911/chapter/8
+
+So let’s assume we are at 400ppm now and will continue to increase because we can’t plant a continent sized copse of empress trees.
+
+Let’s also assume all plants behave the way those soybeans behave.
+
+Now, we have to be able to ballpark actual carbon consumption by plants now to see what % over that quantity we are... this will give us an idea whether plants will be able to compensate for our energy consumption... and at what level our CO2 level will stabilize and if it will.
+
+https://www.sciencedaily.com/releases/2011/09/110928222003.htm
+
+According to this, total carbon capturing of global photosynthesis is about 150 petagrams... or 150 trillion kilograms( 165.3 billion tons).
+
+Ok, so if the total carbon loading of the planetary energy consumption is 42 billion tons, and we assume (very conservatively) none of it is currently represented in the current carbon photosynthetic capturing, I need to increase photosynthetic rate by 25.4% in order to capture all the carbon and stabilize the CO2 concentration.
+
+If you look at fig 7.3 in this document you’ll see a relative comparison of photosynthetic rates at different levels of atmospheric CO2.
+https://www.sciencedaily.com/releases/2011/09/110928222003.htm
+
+I put us currently at 400 ppm, which means our current reference number is 2.2 (1.2 over the baseline of 1).
+
+In order to find the stabilization level, I increase that number by 25.4% to 2.76... which yields a stabilization point at about 1000 ppm if this chart is right (and that’s assumed for no global energy load is currently compensated for by plants... which is wildly conservative).
+
+Now, is this little exercise fraught with uncertainty?  
+
+Yup.
+
+Is the CO2 going to grow without bound... no.  
+
+Is 1000 ppm going to be devastating even if the greenhouse effect is our primary temperature driver?  Probably not.
+
+Assuming stability comes at that point... which is consistent with current observations, that’s not even nearly the highest Earth has seen... while supporting conditions that we believe would be livable.
+
+https://skepticalscience.com/print.php?r=77
+Here is a chart showing pre-historic CO2 levels.
+
+If we stabilize at 1000... I’m thinking the planet remains habitable.  Stuff lived here when levels were much higher.","2019-08-03 16:41:35","7","1","1.0","https://www.reddit.com/r/climatechange/comments/clkt85/the_empress_tree_and_atmospheric_carbon_removal/","True","envelopemathguy","1747906017.0410154","global temperature rise","manual"
+"cs1kay","collapse","skeptical","Let's do the math: Currently guaranteed temperature rise and possibility ranges","There's a whole bunch of talk around about how much temperature rise is 'locked in', and how much is variable.  So it would be great to do a quick check-in of these numbers.
+
+Below, we have two sets of temperature increases.  The first are locked in.  There's no avoiding these temperature increases, even if we switched off every coal-fired power plan tomorrow:
+
+* 1.1 °C: Temperature rise since pre-industrial (1880)
+* ??? °C: Temperature rise (lag) to catch up to 415ppm CO2 (if we stopped emitting immediately)
+* 0.2 - 0.8 °C: Global dimming from aerosol emissions (there are varying estimates of the impact of aerosol dimming)
+* ??? °C: Ice-free Arctic albedo change (I'm assuming that there's no avoiding a BOE given the locked in temp increase)
+
+And here are the temperature increases that have possibility ranges based on how quickly we reach net zero emissions:
+
+* ??? °C: Emissions from today until net zero CO2 emissions (net zero by 2030, 2050, etc)
+* ??? °C: Methane and permafrost emissions
+
+Can you fill in any of these numbers?
+
+What factors or feedbacks are missing?
+
+EDIT:
+
+""...researchers now suspect that for every one degree Celsius rise in Earth’s average temperature, [permafrost may release the equivalent of four to six years’ worth](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2014.0423) of coal, oil, and natural gas emissions—[double](https://www.nature.com/articles/d41586-019-01313-4) to [triple](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2014.0423) what scientists thought a few years ago.""  
+
+So, if we're heading for 3 - 5 °C of warming, then this may add the equivalent of 30 - 50 ppm of CO2 to the atmosphere.  I'm estimating that this extra CO2 is the equivalent of 0.3 - 0.5  °C (based on climate sensitivity of 3 °C/280 ppm of CO2).
+
+Here's a new tally:
+
+* 1.1 °C: Temperature rise since pre-industrial (1880 - 2019, 280ppm to 415ppm)
+* 0.4 - 0.6 °C: Temperature rise (lag) to catch up to 415ppm CO2 (if we stopped emitting immediately)
+* 0.2 - 0.8 °C: Global dimming from aerosol emissions (there are varying estimates of the impact of aerosol dimming)
+* 0.6 - 0.9 °C: Ice-free Arctic albedo change ([equivalent to 40% of total historical CO2 emissions](https://scripps.ucsd.edu/news/research-highlight-loss-arctics-reflective-sea-ice-will-advance-global-warming-25-years))
+* 1.0 - 2.0 °C: Emissions from today until net zero CO2 emissions (net zero by 2030, 2050, etc)
+* 0.3 - 0.5 °C: Methane and permafrost emissions
+
+This gives is a total of:
+
+* 3.7 - 5.9 °C","2019-08-18 14:03:40","24","4","0.94","https://www.reddit.com/r/collapse/comments/cs1kay/lets_do_the_math_currently_guaranteed_temperature/","True","fortyfivesouth","1747906403.0353847","global temperature rise","manual"
+"cwt153","sustainability","action-oriented","Pittsburgh, PA: A Case Study Pt 2","[Part 1](https://www.reddit.com/r/sustainability/comments/cwrx8t/pittsburgh_pa_a_case_study_pt_1/?utm_source=share&utm_medium=ios_app) 
+
+When a city and its neighborhoods are able to provide leisure for the residents, it displays some affluence. The arts, notable nightlife, museums, and sports entertainment are just some traits of Pittsburgh. The cultural district, which is located downtown, has flourished in the revitalization. Venues such as Heinz Hall and the Benedum are home to performing art shows, and Pittsburgh’s Symphony Orchestra. Surrounding neighborhoods such as: The Strip District, Southside, Oakland, and the North Shore provide the city with other forms of education and varying forms of entertainment. These neighborhoods can vary drastically, as you can see from the comparison from The Strip District and Oakland. The Strip district is a current hot-spot for developers, maintaining the areas old-brick warehouse theme,  “For many city-dwellers the Strip is rapidly becoming a touchstone of hip urban living - where the ceilings are high, the windows are tall, and luxurious spaces can still be rented or purchased for a reasonable price. (URA) The Strip is an area where on a Saturday morning, hundred of vendors can be found selling unique merchandise. Where as, Oakland is home to many of the city’s museums, libraries and colleges. The student-residential theme makes for a very diverse and enlightened community. However, not all parts of Pittsburgh are as bright, diverse and promising as these areas.
+ 
+​Problems such as social inequalities due to race still exist in Pittsburgh.  The Hill district, described by “Pittsburgh’s City Living”, is Pittsburgh’s African-American cultural center. The segregation of this area cannot be ignored, and is noted as a low-income area for the black community. There has been a whole entire book on the topic of social inequalities in Pittsburgh, entitled, “Race and Renaissance: African American’s In Pittsburgh Since World War II.”  However, the article I read upon the topic disputes the credibility of the book due to it’s outdated sources. The article even argued that the city’s planning included diverse demographics by stating “The Pittsburgh Renaissance, intended to breathe new life into a polluted city exhausted by industry, became the crucible for upheaval in the city’s African American population. Although frequently interpreted as “urban renewal for Whitey,” both whites and blacks participated in the planning process.”(Levis) Programs such as “Pittsburgh Promise” works to integrate and diversify Pittsburgh’s community in a positive fashion. Ridding a city of social issues plays a large role in the urban development. The earlier negative effects of pollution and smog resulted in lower-class citizens receiving the hardship of the repercussions due to the local governments neglect for the cities citizens.
+ 
+​The future of Pittsburgh is bright, and the envy of many city’s that are trying to move from their industrial past. This would be acknowledged as the transitioning period out of the industrial era. Macionis, and Parrillo state that the reasons behind post-industrial development are due to the growth of white-collared jobs, and the way companies do business. Pittsburgh has “an unemployment rate nearly 2 percentage points lower than the national average, 1,600 technology companies and a growing population.”(Bobkoff) The city was deemed “The Most Livable City” in 2013. This is due to characteristics in our booming technology field, historical value, affordable housing, top-class hospitals, prestigious college’s, cultured media-outlets, and newfound progressive movements into green space. (Schoker) When a city is established and structured, they have room to make innovative strides. There has been a recent rise of educated families moving into the city; oppose to sprawling into the suburbs. Noticeable areas include some pre-automobile areas surrounding the city. North-Side is a main example, and this can be accredited due to the hospital in the area. The integration and diverse blend of wealth promotes a better sociological urban environment. Some other benefits of being established include environmental factors, such as transforming Schenley Park into a “green oasis” and becoming an award-winning sustainable project. Events such as G20, a conference that connects many governments, have been held in Pittsburgh recently. When a city is able to self-improve due to the businesses and public sectors within, the potential for growth and globalization is outstanding.
+ 
+​The question proposed is: what constitutes an urban area as sustainable? By definition, a sustainable city is deemed as, ““A sustainable city, or eco-city (also ""ecocity"") is a city designed with consideration of environmental impact, inhabited by people dedicated to minimization of required inputs of energy, water and food, and waste output of heat, air pollution - CO2, methane, and water pollution.” (Register). In layman’s terms, it’s a city that would work with citizens, government, and private sectors to make less of a negative environmental impact on the world. There are many proactive suggestions that can lead to enabling a better sustainable realm in Pittsburgh. Sustainable development, or (SD), has a rather comprehensive theoretical framework. Yosef Jabareen explains, “It encompasses different concepts such as environmental, social and economic justice, social equity, quality of life, freedom, democracy, participation and empowerment. Broadly, sustainability is seen as a matter of distributional equity, about sharing the capacity for well being between current and future generations of people” (Jabareen). The main idea is to form an eco-city, which are energy efficient and designed for a long life.","2019-08-28 23:57:50","3","1","1.0","https://www.reddit.com/r/sustainability/comments/cwt153/pittsburgh_pa_a_case_study_pt_2/","True","toolatetobeoriginal","1747906646.4579163","global temperature rise","manual"
