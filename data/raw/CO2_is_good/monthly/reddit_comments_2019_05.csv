@@ -1,0 +1,295 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"eoq20gh","t3_bsn2lt","bsn2lt","climatechange","action-oriented",">However, again since CO2 makes up such a small fraction of air, I can't see this making huge change in earth's temperature.
+
+Firstly, are we talking about a huge change? What would be ""huge""?  We're talking about warming of about 3K for a doubling from 300ppm to 600ppm compared to a base temperature of 288K. That's a 1% increase. And the direct CO2 influence before feedbacks is actually 1K, so a 0.3% effect.
+
+But that's actually not terribly relevant as it turns out. Greenhouse gases like CFC-12 have a current atmospheric concentration several orders of magnitude smaller than CO2 (500 parts per trillion vs. 400 parts per million) yet if the Montreal Protocol had not been implemented warming due to increasing CFC-12 and similar gases with even tinier concentrations might have been nearly as great as CO2. The CO2 effect is much weaker per molecule because a large fraction of the CO2 part of the absorption spectrum is already highly saturated, both due to existing CO2 and an overlap with water vapour. Whereas CFC-12 and similar absorb in a largely untouched part of the spectrum.
+
+A lot of people seem to misunderstand the greenhouse effect as being about direct heating via atmospheric absorption, but that's not how it works. The way it works is by modifying the altitude of average IR emission to space in an atmosphere in which temperature declines with altitude. As you fill up the atmosphere with more CO2 the chance of a single photon making its way from the surface directly out to space unimpeded gets smaller. And indeed the chance of any photon making its way from any layer of the atmosphere out to space without being captured declines. Necessarily that means the average height of IR emission to space is elevated. Since temperature declines with altitude in the troposphere and the average height of IR emission (sometimes called the emission layer) is currently well within the troposphere this means the average temperature of total IR emission declines as CO2 increases. And since total energy emitted is proportional to the fourth power of temperature the amount of outgoing energy declines. This means there is less energy going out than coming in and the system warms.
+
+In specifics a doubling of CO2 raises the average height of IR emission to space by about 100 metres. Given the standard atmospheric temperature ""lapse rate"" of 10K per km altitude, that means the emission layer is colder by 1K. The equilibrium emission layer temperature is 255K, governed by the solar input - albedo and the Stefan-Boltzmann law (255\^4 \* 0.0000000567 = 240W/m2; solar input 1360W/m2 \* 0.25 (sphere) \* 0.7 albedo = \~240W/m2). Reducing the emission layer temperature by 1K to 254K reduces outgoing energy to 236W/m2, a reduction of 4W/m2. This is the CO2 forcing.","2019-05-25 11:15:20","3","skeeezoid","1747910241.2839887","CO2 is good","manual"
+"eortq7l","t3_bsn2lt","bsn2lt","climatechange","action-oriented","> CO2 can absorb infrared radiation whereas oxygen and nitrogen do not. However, again **since CO2 makes up such a small fraction of air,** I can't see this making huge change in earth's temperature. 
+
+You are trying to apply you intuitions developed to deal with objects you can touch and see to entities small enough to be influenced by de Broglie wavelengths and Heisenberg's Uncertainty Principle. At sea level particles will experience 10 billion collisions a second. I have not worked out the density of 15 micrometer photons in the flux from a blackbody at 287K but it is plausible molecules may be absorbing and emitting photons millions of times a second. 
+
+At 15 micrometers (roughly the peak blackbody wavelength of the Earths average surface temperature, 14C) , every time a molecule absorbs this photon it gains 0.0827 eV. It gains a significant amount of kinetic energy and has 10 billion collisions a second to pass that energy on. 
+
+If you want to get gnarly with the process at first year type physics level, these are the numbers you have to start thinking about.","2019-05-25 19:32:29","1","[deleted]","1747910241.2879956","CO2 is good","manual"
+"eozgfnf","t3_bsn2lt","bsn2lt","climatechange","action-oriented","At least one of the web pages you've read claims that CO2 ""traps"" heat. That is a misconception that emerged early on in the current ""crisis"" and which has stuck with us. Gases do not warm by exposure to IR radiation. Gases heat up only by mechanical transfer, meaning heat transfer by contact. CO2 could be doubled or tripled and it could not have any heat trapping effect, just as we could vary any other gas without effect. 
+
+The IR spectrum of frequencies is 100um wide. CO2 is opaque to IR at only 3 peak frequencies, [2.7, 4.3, and 15um] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.com%2Fslide%2F4178834%2F14%2Fimages%2F42%2FIR%2BAbsorption%2BSpectrum%2Bof%2BCO2.jpg&imgrefurl=https%3A%2F%2Fslideplayer.com%2Fslide%2F4178834%2F&docid=YKpcdLD7GmOXRM&tbnid=iDkbtJGKX4lcjM%3A&vet=10ahUKEwiU3aulzdTgAhUIslQKHVF1BkEQMwhQKAUwBQ..i&w=960&h=720&client=firefox-b&bih=622&biw=1024&q=co2%20ir%20absorption%20spectrum&ved=0ahUKEwiU3aulzdTgAhUIslQKHVF1BkEQMwhQKAUwBQ&iact=mrc&uact=8). All other IR passes through the molecule. Solid matter, like the ground of Earth is opaque to all IR frequencies, and like every molecule the ground radiates IR at frequencies limited by it's temperature. The concern of AGW proponents is that the extra CO2 will intercept the outgoing IR and re-radiate that back down thereby causing further heating. CO2 does not prevent heat from escaping, but according to the AGW model it slows down the eventual re-emission of IR to space. 
+
+From the above we can score one point for AGW since we can't deny that effect. However, there is the matter of how much that extra warming means to the actual temperature change that has been observed. According to AGW theory, the tiny increase in radiated IR induced by CO2 acts as a forcing on water vapour (WV). WV is opaque to huge range of IR and is by far the only GHG that has ever made a difference in temperature. You may have read that without WV Earth would be a snowball. 
+As I said, CO2 opacity peaks at 15um, but the curve of the absorption band includes weak opacity at 12 um. (weak means that most of the 12um IR passes through and only a few photons are absorbed) WV overlaps CO2 at that 12um frequency and that is what all the fuss is about - one weak frequency out of a band 100um wide. 
+
+WV has the ability to ""trap"" heat only due to the high heat capacity of the H2O molecule in it’s liquid form. Water does not heat up or cool down quickly and it makes up 2/3 of the surface of the planet. That makes water in all it's forms the modulator of climate, not CO2. It's been estimated that global humidity should rise ~4% for each 1C rise in temperature, which is exactly what we're seeing now.","2019-05-27 12:37:28","1","there_ARE_watches","1747910241.2924984","CO2 is good","manual"
+"eop21xb","t3_bsn2lt","bsn2lt","climatechange","action-oriented"," Most people incorrectly think that Co2 is absorbing more heat, when in reality it is actually the high altitude cooling effect that causes the lower atmospheric heating.
+
+Co2 causes the upper atmosphere to cool slightly(because it absorbs and re-emits IR), which slightly contracts the atmosphere, which reduces the surface area of the surface of last scattering. When you reduce the surface area, but keep the heating constant, it warms.
+
+The surface of last scattering is the point where the air becomes thin enough that IR can actually travel straight to space. This happens at 6-8km(depends on local conditions), below about 6km, IR(~5nm and ~15nm) is 100% opaque within a short distance.","2019-05-25 02:56:53","0","FireFoxG","1747910241.2946103","CO2 is good","manual"
+"eopd0r8","t3_bsn2lt","bsn2lt","climatechange","action-oriented","CO2 doesn't cause warming.  That is the best answer.  The Vostok ice core samples indicate that global warming actually increases CO2 levels as a greater and more diverse quantity of living carbon is brought out of the dead carbon (coal, oil, gas) environment.  (Approximately 800 year lag)","2019-05-25 05:05:31","-4","dhaunatello","1747910241.2962246","CO2 is good","manual"
+"emavw41","t3_bjr7yb","bjr7yb","climatechange","action-oriented","I would show him Peter Hadfield's videos. There's a [whole series of them](https://www.youtube.com/playlist?list=PL82yk73N8eoX-Xobr_TfHsWPfAIyI7VAP) but I think [this  one](https://youtu.be/OJ6Z04VJDco) is pretty comprehensive and explains things clearly in just over 15 minutes.","2019-05-02 09:29:09","3","caracter_2","1747910261.6520076","CO2 is good","manual"
+"embr6qz","t3_bjr7yb","bjr7yb","climatechange","action-oriented","There is experimental data. The HITRAN database is a good example of that.","2019-05-02 15:52:16","1","j-solorzano","1747910261.6536613","CO2 is good","manual"
+"embvzud","t3_bjr7yb","bjr7yb","climatechange","action-oriented","It’s not real. Simple.","2019-05-02 16:39:59","-3","ZhanZhuang33","1747910261.6536613","CO2 is good","manual"
+"ent8q3k","t3_bpaimb","bpaimb","climatechange","action-oriented","Practicality vs. idealism is more or less what I understand you're pointing out. 
+
+I agree - many things are pushed from an ideological POV (e.g. veganism), when it would be more effective to put the ideas forward from a practical point of view. Not many people are convinced by ideological arguments (e.g. think of the poor suffering animals, or ""save the earth, it's our mother!"") vs practical points (e.g. we need to reduce land-under agriculture as part of addressing climate change and that means producing more calories per hectare of farmed land, and as animal production is vastly less efficient than plant production as far as calories/hectare go, it makes sense to greatly decrease the amount of meat we produce/eat.). Coming at these issues from an emotional/ideological standpoint is a good way to push people away or have them react negatively.","2019-05-16 20:34:06","3","TheNewN0rmal","1747910291.1846159","CO2 is good","manual"
+"ent8h9g","t3_bpaimb","bpaimb","climatechange","action-oriented","I agree!
+
+There is, however, some value in the emotional idea of climate change. People who don't believe in climate change were convinced by emotions, so convincing them otherwise will require the same thing.","2019-05-16 20:32:40","1","[deleted]","1747910291.187128","CO2 is good","manual"
+"enrrhve","t3_bpcpel","bpcpel","climate","scientific","I'll be kind and assume you're not trolling.
+
+>The current CO2 ppm are at around 400. Below 250, plants start to suffer significantly. CO2 is crucial to life.
+
+So what? Plants (and people) suffer due to [heat stress](https://www.sciencedirect.com/science/article/pii/S0160412018328654), as well. Any potential gains from CO2 fertilisation are neutralised by higher temperatures in [rice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5690611/), the world's most important grain.
+
+>400 million years ago, CO2 ppm were over 6000. Back then, the Earth was full of life already.
+
+So what? Humans - and all other life on Earth at the present time - didn't exist 400 million years ago.
+
+>It is hard to find good data on CO2 volatility in ppm, but it appears to fluctuate over time a fair amount.
+
+Are you suggesting that the release of \~500,000,000,000 tonnes of CO2 into the atmosphere since 1900 ***isn't*** the cause of increasing CO2 concentrations in the atmosphere?
+
+>Water vapor is more impactful as a greenhouse gas than CO2. And most people would prefer the stable temperatures of a sea climate (much water vapor) to inland desert climate (little water vapor). The desert climate simply fluctuates too much for people. So it seems that CO2 also has this stabilizing effect.
+
+*Citation needed*.
+
+>Ice ages are manifested when the sun is relatively inactive. When the sun gets more active, the Earth, as well as other planets in vicinity, heat up. This component has a lot more impact than on the temperature than any greenhouse gas. Which is kind of obvious actually, since virtually all warmth on the surface of Earth comes from the sun.
+
+*Citation needed.* When did the sun become ""more active?"". It's been [relatively stable since at least 1750](https://www.sws.bom.gov.au/Educational/2/3/1).","2019-05-16 15:06:56","2","TheMercian","1747910342.2300274","CO2 is good","manual"
+"ensuh09","t3_bpcpel","bpcpel","climate","scientific","3 programs that spell out our situation that should be watched in order.
+
+&#x200B;
+
+FEEM Lecture by Peter Wadhams, Professor of Ocean Physics, University of  Cambridge: ""Arctic Amplification, Climate Change, Global Warming. New  Challenges from the Top of the World""
+
+[https://www.youtube.com/watch?v=p-qdbICw2f8](https://www.youtube.com/watch?v=p-qdbICw2f8)
+
+&#x200B;
+
+&#x200B;
+
+ ""It is hard to find good data on CO2 volatility in ppm, but it appears to fluctuate over time a fair amount. ""
+
+NAS member Richard Alley presents on 4.6 Billion Years of Earth’s  Climate History: The Role of CO2, during the Symposium—Earths, Moons,  Mars & Stars at the National Academy of Sciences 152nd Annual  Meeting.
+
+[https://www.youtube.com/watch?v=ujkcTZZlikg](https://www.youtube.com/watch?v=ujkcTZZlikg)
+
+&#x200B;
+
+On January 24th 2019, Professor Kevin Anderson addressed the Oxford  Climate Society on ""climate’s holy trinity: how cogency, tenacity &  courage could yet deliver on our Paris 2°C commitment"".
+
+[https://www.youtube.com/watch?v=7BZFvc-ZOa8](https://www.youtube.com/watch?v=7BZFvc-ZOa8)
+
+&#x200B;
+
+If you don't believe information from the University of Cambridge, The Oxford Climate Society and the US National Academies of Science then.......................?","2019-05-16 19:07:08","2","extinction6","1747910342.2325332","CO2 is good","manual"
+"em6onbc","t3_bjajgc","bjajgc","climate","scientific","[Maybe this will be of interest to you.](https://journals.sagepub.com/doi/full/10.1177/0170840617707999)
+
+&#x200B;
+
+>  IPCC reports have maintained one very important claim: a scientific consensus (95% confidence) exists that more than half of the observed temperature increase from 1951 to 2012 was caused by anthropogenic (human) activity (*Fifth Assessment Report*, [IPCC, 2014](https://journals.sagepub.com/doi/full/10.1177/0170840617707999#)).3 
+
+&#x200B;
+
+Just go point to the IPCC reports, they're ridiculously comprehensive and damning towards humanity.","2019-05-01 00:27:16","3","[deleted]","1747910350.495711","CO2 is good","manual"
+"em6mbmi","t3_bjajgc","bjajgc","climate","scientific","omg there is literally a town in New Orleans (Isle de Jean Charles) that is being evacuated due to climate change. THIS COUNTRY. Not some batch of islands in the South Pacific, HERE.  
+
+I'm too much of a misanthrope to even throw any more links at this issue, it's been pointless to do so for thirty years. People still don't ""get this"" and, welp, I guess those people will be along for the ride the whole time, whining, presumably","2019-05-01 00:02:12","2","[deleted]","1747910350.4982207","CO2 is good","manual"
+"em6ot4j","t3_bjajgc","bjajgc","climate","scientific","Explaining climate change science & rebutting global warming misinformation: https://skepticalscience.com/","2019-05-01 00:29:00","2","[deleted]","1747910350.501726","CO2 is good","manual"
+"eoe720r","t3_brisxe","brisxe","environment","emotional","You dont mention the single most important task: vote republicans out of office.","2019-05-22 01:46:21","9","goodtower","1747910417.4195092","CO2 is good","manual"
+"eoev5af","t3_brisxe","brisxe","environment","emotional","Haven't had a car for decades. And I won't buy one, no matter what.","2019-05-22 07:17:56","7","ebikefolder","1747910417.4226038","CO2 is good","manual"
+"eof2njx","t3_brisxe","brisxe","environment","emotional","Yeah, I got sucked into doomsday cultish subreddits, realizing how stupid they are. (I'm weak-minded, I know!). We still have some time, but not a lot. This summer, I'm going to try and convince my family to go vegan alongside with me...or at least convince them to cut down on meat. I found some great resources to help us go waste-free, I'm going to start gardening (never done that before), I'm going to join protests, and I'm going to quit my job at McDonald's considering how non-eco friendly this restaurant is...it sickens me! I've had enough of this.","2019-05-22 09:59:57","4","[deleted]","1747910417.4261394","CO2 is good","manual"
+"eorg54a","t3_bsx2q1","bsx2q1","environment","emotional","Just imagine the cost of carbon offsets you would have to purchase just to support the cattles lifespan","2019-05-25 17:48:08","3","specialedge","1747910442.8806322","CO2 is good","manual"
+"eorh09q","t3_bsx2q1","bsx2q1","environment","emotional","I would worry more about wastewater fucking up your local environment than about CO2 or oceans. You can naturally tan leather, but if the idea is that you would be purchasing leather from one of the nearby tanneries, I'm afraid leather production exists on a scale of ""more disastrous"" to ""less disastrous"" when it comes to environmental and human impact. That said, the tanneries exist regardless and the marginal impact of your business (or the absence thereof) probably wouldn't make a difference.","2019-05-25 17:54:48","3","[deleted]","1747910442.8832128","CO2 is good","manual"
+"eornrmt","t3_bsx2q1","bsx2q1","environment","emotional","Could you do something with scrap leather or perhaps up cycling older leather items?","2019-05-25 18:45:29","2","[deleted]","1747910442.8847296","CO2 is good","manual"
+"eo63vhe","t3_bqn7w3","bqn7w3","collapse","skeptical","I've been thinking about this article so much and how dead on the person is with it. Friday night I looked at Weather.gov and the warning there for Severe Weather was on it and how it basically looked like it took the info from the article. 
+
+All of this winter/fall like weather, then immediate warmer temps and then cold again that may be (is?) occurring can't be good for crops in the midwest/south. We are already facing lack of Soy and Corn being planted and I'm sure that this is not going to help. I've been telling my friends about this at school and I probably will be this week and they seem to all agree with me about the aspect of collapse in the future.","2019-05-20 00:06:43","29","DobryyeLyudi","1747910805.2036536","CO2 is good","manual"
+"eo641ti","t3_bqn7w3","bqn7w3","collapse","skeptical","This is the sort of indication you get a week out: https://twitter.com/MJVentrice/status/1127882580488015873
+
+not to take anything away from FooW who has compiled a great synopsis here of what is actually happening
+
+Instead of a peaceful end to the winter polar vortex in the stratosphere, an out of season sudden stratospheric warming style event has coupled the atmosphere from stratosphere to ice surface over the Arctic Ocean.  It's high pressure, anti-cyclonic, clear skies and barotropic air.  The resulting heat in the coming weeks will be utterly devastating.
+
+Meanwhile, what's left of the obliterated ""polar cell"" is crushed out of the Arctic and across the land where we are busy trying to plant crops and watch Game of Thrones.","2019-05-20 00:08:45","24","systemrename","1747910805.2056584","CO2 is good","manual"
+"eo7ooym","t3_bqn7w3","bqn7w3","collapse","skeptical","Not really some Nostradamus-like prediction; Weather stems from the Arctic, so when shit gets messy there, it can be easy to follow and see areas affected.","2019-05-20 09:25:15","5","christophalese","1747910805.2076585","CO2 is good","manual"
+"eo6j8rf","t3_bqn7w3","bqn7w3","collapse","skeptical","elsewhere, we are having record crop produce because of more CO2.","2019-05-20 02:55:00","2","Warp15","1747910805.2096586","CO2 is good","manual"
+"eo8evdf","t3_bqn7w3","bqn7w3","collapse","skeptical","I mean it's also tornado season, isn't it? That's like me predicting a snowstorm in Buffalo in January","2019-05-20 15:07:54","3","__Orion___","1747910805.2106586","CO2 is good","manual"
+"eo89iey","t3_bqn7w3","bqn7w3","collapse","skeptical","I mean I will give him some credit but at the same time he predicted tornadoes in tornado alley in the middle of peak of tornado season for the midwest. Which is like predicting snowstorms in the northeast(US) in February. Not exactly the rarest of events for that location at this time of year..
+
+Also 10C above average isn't nothing but it's not unprecedented by any means and is only slightly uncommon. Remember that average is a 30 year average for that day. It's not crazy to see temperatures vary 5-10C above/below that on a given day in the arctic and 10-20 in the mid latitudes. couple years ago we had the artic 40+ C above average for a few days I believe. That's unprecedented..","2019-05-20 14:04:08","1","holmesksp1","1747910805.2136774","CO2 is good","manual"
+"emgcvmf","t3_bkfqga","bkfqga","collapse","skeptical","The worst time to make decisions is when you’re emotionally drained. Take a week to step back and process all that shit.","2019-05-04 01:05:11","51","SirDigbySelfie-Stick","1747910824.145711","CO2 is good","manual"
+"emgkuf6","t3_bkfqga","bkfqga","collapse","skeptical","Volunteer. Plenty of islands in the South Pacific could use a hand. Nice scenery, nice climate, nice people and you'll learn a lot about boats.","2019-05-04 03:00:36","15","GamesOva","1747910824.147711","CO2 is good","manual"
+"emggje0","t3_bkfqga","bkfqga","collapse","skeptical","I want to address your anxiety. None of us know what is going to happen when society/civilization collapses. Nobody knows the future including you.  Saying you know what is going to happen with future relationships is quite a bit of hubris.
+
+Despair is a choice.
+
+You can either choose despair or not. It is your choice alone. Don't respond to despair when it calls you. Don't allow others or this sub to project despair onto you.
+
+You sound like me years back wanting to sail off into the big blue ocean.   TLDR version:  I went sailing on a friend's boat and lived on it for almost 4 weeks.  Living in a marina and anchoring overnight is tough and frightening in that order.   I am now building a stealth van to ""sail"" around in alot like this one: https://portland.craigslist.org/clc/cto/d/marylhurst-camper-van-awd-stealth/6867872282.html  so much safer and I imagine it will be more fun when I finish.","2019-05-04 01:57:41","13","ClimateControlElites","1747910824.151711","CO2 is good","manual"
+"emgl02r","t3_bkfqga","bkfqga","collapse","skeptical","Move to beautiful place. Colorado resort towns are what I chose.  Plenty of work during season and plenty of like minded people.  I personally work for a raft company in the summer and a shuttle company in the winter.  We are always hiring","2019-05-04 03:03:03","6","NearlyFar","1747910824.154107","CO2 is good","manual"
+"emgt5l2","t3_bkfqga","bkfqga","collapse","skeptical","digital nomad.  boat, bike, travel, whatever.  farms.  hippies.  forests.  what's not to love
+
+*edit try Canada or Oregon","2019-05-04 05:26:33","5","systemrename","1747910824.159114","CO2 is good","manual"
+"emgskox","t3_bkfqga","bkfqga","collapse","skeptical","A lot of people have the sailboat dream but you have to know how to sail, and that  takes quite awhile to learn. Equipping it for long term survival won't be cheap plus there needs to be a plan to start eating a lot more seafood. Watch ""All Is Lost"", and get an idea of what does happen if the only escape is the survival life raft, while not being an experienced sailor. It will develop major anxiety watching it.","2019-05-04 05:15:12","4","moon-worshiper","1747910824.1611145","CO2 is good","manual"
+"emgt1dz","t3_bkfqga","bkfqga","collapse","skeptical","OP, in regards to wanting a migratory lifestyle, consider the much lower barrier and cost of entry to getting a van and converting it into a mini-RV. r/vandwellers
+
+For work, either do IT remotely or consider seasonal work. You can do interesting jobs all around the nation and then travel in your off time. Check out coolworks.com","2019-05-04 05:24:13","4","Cimbri","1747910824.1637673","CO2 is good","manual"
+"emgw1hj","t3_bkfqga","bkfqga","collapse","skeptical","Do nothing and get over the depression and then decide what do you want for your next years: a prepper life or travel or... what do you want. Take your time, a week, a month, a year, no one that really care about you are gonna judge you for doing ""nothing"" (""something useful"" like working)","2019-05-04 06:24:29","3","MoteConHuesillo","1747910824.1667783","CO2 is good","manual"
+"emh54fc","t3_bkfqga","bkfqga","collapse","skeptical","Your bf breaking up with you after 8 years sucks, but so be it.
+
+&#x200B;
+
+Quitting your IT job was stupid. You need to have money coming in. Try to get the job back or find a new one asap.
+
+&#x200B;
+
+Friends can be good or bad, but you need to set boundaries so you do not get used by users posing as friends. You do not need to socialize so much if you do not want to. 
+
+&#x200B;
+
+Nobody knows when or how collapse may happen. Don't assume that it will happen in your lifetime. 
+
+&#x200B;
+
+The migratory lifestyle, the sailboat, leaving the world, it is all a dream, and an expensive dream at that. If you have a trust fund income, then maybe, otherwise, it will never work. 
+
+&#x200B;
+
+Your head is in a bad place right now and it is not a good time to be making lifestyle decisions on top of breaking up with your bf.","2019-05-04 10:43:56","2","BerryVivid","1747910824.1710274","CO2 is good","manual"
+"emh84on","t3_bkfqga","bkfqga","collapse","skeptical","I'm glad to know or read of anyone who stands firm about not bringing another one into the almost 8 billion. That's all I can offer you.","2019-05-04 11:47:06","3","[deleted]","1747910824.1725373","CO2 is good","manual"
+"emha2yd","t3_bkfqga","bkfqga","collapse","skeptical","My guess is that are more men who don't want kids than women. To most women its sort of an emotional crime against nature. 
+
+I'm male, and I was perpetually rejected by women because I didn't want them. A master deal breaker if there ever was one.
+
+I think your odds, as a woman, are better. Start out every new potential relationship by making no bones about your intentions. Accept the verdicts. Good luck.","2019-05-04 12:16:32","3","EmbarrassedPlate8","1747910824.1765673","CO2 is good","manual"
+"emglgb8","t3_bkfqga","bkfqga","collapse","skeptical","Take a step back and think on it for a bit. A time of flux in your life can be a fantastic opportunity, or an easy way to make mistakes, so relax and consider your options. I know nothing about boats, sorry. Regarding your anxiety, eat well, sleep well, take a walk in the forest and examine what it is you really want out of life. The trouble is that nobody knows what you should do, that needs to come from within, so look after yourself and give yourself time, space and the mental energy to make some decisions......in the meantime research boats?","2019-05-04 03:09:57","2","happygloaming","1747910824.1799748","CO2 is good","manual"
+"emgslt9","t3_bkfqga","bkfqga","collapse","skeptical","Have you met u/helios1234? Maybe hit it off.
+
+https://old.reddit.com/r/collapse/comments/bk7k8g/why_i_am_a_misanthrope/","2019-05-04 05:15:49","2","[deleted]","1747910824.1849418","CO2 is good","manual"
+"emh2rq5","t3_bkfqga","bkfqga","collapse","skeptical","Transitions like a change in jobs or the end of a relationship are most always difficult. Eating fresh and spending time outdoors can be positive for mental health. Please remember there is a caring community at r/CollapseSupport. Standing by your decision about offspring is the right thing to do.","2019-05-04 09:33:03","2","bosnian_spartan","1747910824.1879418","CO2 is good","manual"
+"emgzzav","t3_bkfqga","bkfqga","collapse","skeptical","Check r/vagabond and the posts by CallMeTall. It may be useful to you.","2019-05-04 08:08:34","1","[deleted]","1747910824.1899421","CO2 is good","manual"
+"emhqz3c","t3_bkfqga","bkfqga","collapse","skeptical","Are you me? I'm the same except the money part of which I have plenty but does not make me happy","2019-05-04 15:46:56","1","Jerryeleceng","1747910824.192454","CO2 is good","manual"
+"emhrtmt","t3_bkfqga","bkfqga","collapse","skeptical","Relatives?","2019-05-04 15:56:01","1","[deleted]","1747910824.1979635","CO2 is good","manual"
+"emijpe7","t3_bkfqga","bkfqga","collapse","skeptical","Go for a section hike and get your head together. If you want to be alone you can be alone and if you want company you will most likely be able to find company on the trail.","2019-05-04 20:56:09","1","alwaysZenryoku","1747910824.200429","CO2 is good","manual"
+"emj5tai","t3_bkfqga","bkfqga","collapse","skeptical","I am going to work on a guide to how to survive all of this, if you choose to.
+
+I'm a lot older than you, probably, but I can tell you right now that the FIRST thing you need is the mental fortitude/attitude that you're going to survive, NO MATTER WHAT, and that the ONLY person responsible for your own happiness while you're getting ready is:  you.
+
+Regarding finding others of like minds:  I recommend [meetup.com](https://meetup.com).  Hiker groups, survivalists, homesteaders... anyone you can learn with and from.  Might meet a like mind.
+
+Regarding reading materiel:  Have you ever heard of ""The Law of One?""  This is a psychological read, and is - in my opinion - something a Being needs to know before this all comes down.  
+
+
+EDIT: I completely understand your desire to not have children, and respect that decision.","2019-05-05 01:32:52","1","SG_StrayKat","1747910824.204135","CO2 is good","manual"
+"emmnmdo","t3_bkfqga","bkfqga","collapse","skeptical","Hey girl (woman), fuck it, take a break and chill for a moment. It's not end of the world (yet).","2019-05-06 08:10:31","1","Bubis20","1747910824.2071478","CO2 is good","manual"
+"emnrp43","t3_bkfqga","bkfqga","collapse","skeptical","I say, do the sailboat thing.","2019-05-06 17:00:40","1","climate_throwaway234","1747910824.210413","CO2 is good","manual"
+"emh2hke","t3_bkfqga","bkfqga","collapse","skeptical","For what it's worth, I never wanted a child but ended up getting one anyway, and I love her more than anything and I'm very happy to have her.
+
+As for your various ideas of what you want to do with your life, I think the important thing is not whether you succeed, but that you try. Years from now you want to be able to look back and say that you did your best. Success is great, but even failure can feel liberating and be very educational, not even trying just builds anxiety. Start with small steps if you have to.","2019-05-04 09:24:25","-1","Volcanic-Penguin","1747910824.2157414","CO2 is good","manual"
+"enyx488","t3_bpxvtp","bpxvtp","collapse","skeptical","I study environmental science, the lecturers all seem pretty down in the dumps about ecological collapse, and so do many of the students.
+
+but they keep reiterating for us students to not give up and have hope that we can still do some goods and try to minimise the impacts of the world falling apart. This is true but to achieve this we need rapid, radical long term changes to the way humans live. And what makes it worse is that all of us know it’s not really possible deep down. The elite have successfully been able to distract and preoccupy the hearts and minds of the masses, with technology, drama and consumerism. Not to mention that the elite keep the masses on a very short leash via capitalism, not many people have the time or focus to take time off to protest, let alone think about climate change.  You could ask the average person on the street and they’re either clueless entirely aside from “the ice is melting” and “it’s getting hotter” . It genuinely wouldn’t surprise me if most people would just assume by 2050 that days will be hotter and the sea level will rise a bit. They won’t don’t know about the mass extinctions, or crop failures, drought, mass climate change migrations and refugees, lack of jobs and economy, most likely a long term global financial crisis, mass suicides and death and so on. Anyway rant over, the masses need to be educated, although I doubt many will care to listen or comprehend the significance of the next 30 or so years","2019-05-17 23:51:24","57","Godly_Shrek","1747910830.8044462","CO2 is good","manual"
+"enyx9qe","t3_bpxvtp","bpxvtp","collapse","skeptical","I'm an engineer for a B2B company that works with pretty much every industry out there, we work with some customers that are doing some potentulially great stuff for a future society, but out biggest customers are still in the military, aero, and semiconductor industr (oil and gas not far behind), so despite any good our job does, it is still enabling all of that shit.
+
+While it doesnt make me happy and it can be discouraging, I'm past caring as we are past the point of doing something, and that is extremely clear to me when I talk with engineers in all of those areas and it becomes very clear non of those balls are gonna stop rolling anytime soon.
+
+On a small bright side a surprising number of my immediate colleagues are pretty accepting, if somewhat ignorant, of the upcoming collapse, so even though it is something I try to avoid mentioning at work, it has come up ocasionally to surprising results.","2019-05-17 23:53:15","23","bard91R","1747910830.807453","CO2 is good","manual"
+"enyw38v","t3_bpxvtp","bpxvtp","collapse","skeptical","I have worked in tech jobs for many years, and I've also been collapse aware for about 15 years now starting with the ""peak oil"" meme when it was booming back in the day. I have also volunteered for various STEM education activities over the years, things like ""maker"" fairs and robotics competitions, and that's in addition to hanging out at maker spaces and computer labs just for fun.
+
+Here is a recent example:
+
+[Port Orford Chess Club Debuts Plywood Dinosaur](https://www.youtube.com/watch?v=lTGkN7J3o_s)
+
+Anyway, I rarely talk about collapse or the climate crisis. I avoid politics and religion like the plague. When I do feel compelled to join a conversation I try to keep it simple. Don't get hung up in the weeds, in other words.
+
+For example, whenever someone starts getting too excited about the potential of technology to solve all our problems at no apparent cost, I just smile and nod.
+
+""Yes,"" I say ""there is a lot to be said for human ingenuity!""
+
+This usually gets a smile or an enthusiastic nod.
+
+""But,"" I intone in my best David Attenborough voice ""then there are the laws of thermodynamics...""
+
+This almost always gets a glass-eyed stare or a shrug.
+
+""And,"" I smile ""if I had to bet between the two...""
+
+Pause for effect.
+
+""I will take thermodynamics for the win. Every time!""
+
+That usually shuts them up.","2019-05-17 23:39:29","19","[deleted]","1747910830.8104498","CO2 is good","manual"
+"enyrmbr","t3_bpxvtp","bpxvtp","collapse","skeptical","I feel. Almost done with my bachelor's. Studying chem. Everyone says that sort of stuff to me as it is. It will only get worse as I move to my masters. 
+
+I do find joy in confusing them by talking about what I am doing/learning though. So, I guess that helps.","2019-05-17 22:54:25","16","guywhoismttoowitty","1747910830.8139212","CO2 is good","manual"
+"enyy853","t3_bpxvtp","bpxvtp","collapse","skeptical","Remember when fullerenes were going to save the world...lol...","2019-05-18 00:04:37","8","[deleted]","1747910830.8159206","CO2 is good","manual"
+"enz3yg3","t3_bpxvtp","bpxvtp","collapse","skeptical","A little over a decade ago, I was doing research with the University of Pittsburgh, interning at the McGowan Institute of Regenerative Medicine, all while concurrently going to school to finish my degree.
+
+&#x200B;
+
+Things I witnessed but have never spoken about until now;  99% regeneration of limbs/organs in mammals using stem cells and other tricks, 99% regrowth of skin on burn victims (also using a stem-cell ""gun"" that looked like a paint sprayer), and a 1-shot cure for type 2 diabetes.  
+
+
+All of that was 13ish years ago.  
+
+
+And then(!), DARPA started flushing McGowan with monies... and I stopped interning around the same time due to a personality conflict with a Muslim researcher.  Nothing to do with his or my faith personally, but apparently catching one researching how to get a divorce is frowned upon, and of course he had seniority...  
+
+
+[https://www.eurekalert.org/pub\_releases/2006-05/uopm-dgs050206.php](https://www.eurekalert.org/pub_releases/2006-05/uopm-dgs050206.php)","2019-05-18 01:03:54","6","SG_StrayKat","1747910830.8189206","CO2 is good","manual"
+"eo0vxt0","t3_bpxvtp","bpxvtp","collapse","skeptical","I work in wildlife research and I’m starting to really hate it. So much of it is a waste of time and money. I’m currently working on a project study a game species (meaning an animal people like to hunt). This species is declining slightly so the state is spending millions of dollars, hired 40 people, 20 trucks, tons of electronics and we drive around for 12 hours every day. Why do we need to do this? We can easily guess what is causing the decline and just spend the resources solving problems like habitat degradation and whatnot. It’s so fucking stupid.","2019-05-18 13:19:23","8","ogretronz","1747910830.821925","CO2 is good","manual"
+"eo0nt8e","t3_bpxvtp","bpxvtp","collapse","skeptical","I got out of research a while ago, mostly because it was boring and consisted of wasting too much time writing grants and papers that didn't really need to be written. The other big reason is how utterly dependent most research is on long and complicated supply lines. Without a constant stream of high quality consumables everything would grind to a halt, and it would only take one critical ingredient to be missing to derail everything. Throw in a climate of economic contraction (worse than is currently causing higher education and R&D to be starved back to bare bones) and it looks even worse. Academic research is a pernicious pyramid scheme anyway so most people are forced to realise it leads nowhere and get out before their investment is rewarded. 
+
+The upside is that your ability to research the literature (viva sci-hub!) and do your own experiments is valuable in other aspects of life. I love plants so I am now running my own experimental farm. It is great not having to beg for funding 2/3 of my time or being forced to only do things that are either flavour of the month or possible to sell to a corporation. It also means I am setting my own small business up that should be able to actually take advantage of any upcoming collapse as people normally get more interested in growing their own food during economic downturns.","2019-05-18 11:31:52","8","[deleted]","1747910830.8259206","CO2 is good","manual"
+"eo1c4a1","t3_bpxvtp","bpxvtp","collapse","skeptical"," Sucks to hear.  Maybe look for a real passion and shoot for it?  Painting maybe? You may or may not have the skills but you know with discipline, patience, good info, and imagination you could surprise yourself.  You will have the money to mine good teaching or sources of info, good supplies which can matter in this case, good paint, time, and I like classical music to listen to.  Expression can be a form of therapy, learning and achieving levels of understanding will build confidence as you understand Primary colors, Complimentary colors, Secondary, Tertiary, The Golden scale and it's reflection of the spiral within nature grand and small.  Confidence will allow you to express more and more of your imagination and emotion with clarity and some understanding from those you show it to.  It's relaxing and frustrating but that's life, you probably understand that.  Or not, just a suggestion. 
+
+&#x200B;
+
+P.S. If you paint naked listening to classical music too loud.  Lock the door so you don't creep out any potential visitors.   Trust me on this.","2019-05-18 16:14:36","6","CurryWIndaloo","1747910830.8299205","CO2 is good","manual"
+"eo0yuje","t3_bpxvtp","bpxvtp","collapse","skeptical","I hear big developer guys talk about NYC development constantly and its honestly hilarious. Your $25 mill investment will be useless within your lifetime, now what?","2019-05-18 13:55:21","3","invenereveritas","1747910830.8329206","CO2 is good","manual"
+"eo19pe2","t3_bpxvtp","bpxvtp","collapse","skeptical","I used to be in Computer Science, specializing in 3d simulations afterwards, worked in games, and burned out.  My colleagues saw tech as the answer to everything, but we were pretty divorced from the natural world as a whole.  I don't think there was much hopium of collapse, as collapse itself was pretty unknown, as we pretty much regarded the modern world as the norm.
+
+Anyway, in my specific fields, we were pretty much so overworked to give any of that much thought.
+
+>I work in drug R&D, finishing my doctorate soon.
+
+I wonder, how much of that is to treat diseases other than chronic, aka diseases of western civilization spurred on by overconsumption (of calories and fat) which is what western doctors see most?  Those tend to be the biggest markets too.","2019-05-18 15:50:29","3","[deleted]","1747910830.8359241","CO2 is good","manual"
+"eo1a95s","t3_bpxvtp","bpxvtp","collapse","skeptical","I am reminded of this video. The ability to grow at 3% should not be taken for granted.
+
+>You take out a calculator and calculate. Growing at 3% per year-- a modest growth in energy-- how long before we become type three? In 100 years, we'll be type one. In a few thousand years, we'll be type two. In about 100,000 years, we'll be type three. And 100,000 years is nothing, nothing on a cosmic scale...  
+>  
+>[Michio Kaku: ""The Future of Humanity"" | Talks at Google](https://www.youtube.com/watch?v=eMxmDPDyQ7o&t=35m39s)","2019-05-18 15:55:59","3","DieSystem","1747910830.8389232","CO2 is good","manual"
+"enzi4lu","t3_bpxvtp","bpxvtp","collapse","skeptical","People don’t seem to realize how little the energy that humans have as usable compared to the energy that is trapped on the earth by the effects of CO2 and the total of positive feedbacks from that. The change in energy in a year on earth due to the CO2 problem is greater than all energy used plus all the waste energy ever derived in the entire human experience, that includes food. You see we have this  star feeding the energy in and we have change the ability to discharge it by a very small fraction but that is still more energy than humans have ever had use of by a incredible magnitude.","2019-05-18 02:38:13","1","iamamiserablebastard","1747910830.8419218","CO2 is good","manual"
+"eo04777","t3_bpxvtp","bpxvtp","collapse","skeptical","Soil ecologist here. People in my field know full well we can’t keep feeding everyone, with a lot of data to show this fact. It’s the shadow on us all the time. There’s also a lot of talk of sequestering carbon in soil to mitigate climate change, but anyone with a calculator and a map can find that it’d only slow things down maybe by a few years.","2019-05-18 04:25:48","1","[deleted]","1747910830.8539212","CO2 is good","manual"
+"eo0973g","t3_bpxvtp","bpxvtp","collapse","skeptical","I work in software. I think that it's easy for people in this field to believe in fantasy because they live in man-made abstractions at all times. There is no familiarity with the texture of nature. Neither it's life-affirming flows nor it's transformation into toxic desert under our ministrations.
+
+Babble is the correct term. There is very little ""mind"" behind such talk. They are running a subprocess installed by the surrounding culture. It continually prints to the screen ""from the caves to the stars."" They mean no harm. Something happened to them earlier in life that caused them to retreat from the world. The identity of ""technologist"" is a salve to that defeat, and the mindset requires little in the way of introspection.
+
+Undisturbed, rarely awake, they live out their lives.","2019-05-18 05:31:46","1","[deleted]","1747910830.8589213","CO2 is good","manual"
+"eo0zqct","t3_bpxvtp","bpxvtp","collapse","skeptical"," I'm sorry you're miserable, mate. I've been there too, but I've moved on to full-blown lunacy. I know it seems like a Gordian knot, I know the human condition is MADDENING, but that's just because the smartest ppl on the planet are pulling on the wrong thread. 
+
+We need to look at the planet as a whole. Earth doesn't have too many antelope, or too many grizzly bears, or too many elephants - it has too many people - each of whom needs water, food and air - the same resources I myself require. Earth contains plenty of food, water and air - there's just too many ppl  here at the same time. It really is as simple as that. Scarcity is the real problem. It's the Reason we build all our machines in the first place.
+
+You seem to be looking at the problem through your own livelihood - which is itself the problem. Your're concerned both with your own survival/success and that of the whole, and they are diametrically opposed. There's nothing we can do for ourselves, but if we weren't so concerned with ourselves we could potentially spare future generations by taking the appropriate action during our lifetimes. Will we? Doubtful since our attention has been so abused and misdirected our intelligence and potential are turned against each other when we could be creatively working together against a non-terrestrial threat. How cool would that be? Sadly, I'm not talking about aliens.  
+
+We need to modify the global environment in a way that would allow all human organs to work they way they're supposed to - the way they were 'designed' to. One of them is currently malfunctioning - tweaked into a state of hyperactivity by a force we can barely comprehend, so we've taught ourselves to ignore it. We don't even have the words to effectively describe 'infection' or 'contamination' by an inorganic agent of particulate size - how could we be expected to understand one that's 2,000 miles wide?  
+
+So what if we can't understand it? That doesn't mean we can't break it. Considering what's at stake here - we owe it to our descendants to at least try, but that's unlikely to happen because of the social structure - the segmented STEM structure which has made a mystery out of the obvious is largely responsible for that. The malleability of our self-reflection, giving rise to the ego, is responsible for the rest. The emotional response you're feeling is a manufactured one, and although it only works upon the ego, it's strong enough to support the moon.","2019-05-18 14:05:56","1","ReasonBear","1747910830.8819308","CO2 is good","manual"
+"eo8e3jx","t3_bpxvtp","bpxvtp","collapse","skeptical","> how I am entering this field at 'the right time' because they think it will be booming for the next 50 years.
+
+I thought everybody knew that drug pipelines were empty, and the industry as a whole was in crisis.
+
+There's one counterexample, though: AstraZeneca had the problem, and threw a lot of resources at it for a few years, and are now doing quite well.
+
+So there is still *some* future in drug R&D, though as a whole I expect the industry to shrink, as we're running out of wealth to pay for the R&D via enough markets.","2019-05-20 14:59:11","1","eleitl","1747910830.8859313","CO2 is good","manual"
+"eo8f9ag","t3_bpxvtp","bpxvtp","collapse","skeptical","I work for a small cheminformatics shop that was until recently owned by a major scientific publisher (no, not the #1 evil one). Most of the staff are chemistry PhDs, or equivalent degrees.
+
+These are older people, so they're not the bright-eyed bushy-tailed ones, though I'm probably the single realist in the whole 20-odd people shop. We just don't talk about such topics, so I have to infer their position from cues.
+
+My experience is that it takes a particular kind (rare, weird) of person to be able to understand the whole problem set, and the process still typically takes years. Such types of people are very rare in practice, and it's pretty much impossible to transfer the whole set of knowledge within the course of a few conversations, even including excessive citation of sources.
+
+So, I would just grit your teeth and try to ignore it. At some point you can explain the source of the cracks on the apparently pristine porcelain, if they bother to ask you. Or, not. Try to maintain your sanity, whatever it takes.","2019-05-20 15:12:14","1","eleitl","1747910830.89046","CO2 is good","manual"
