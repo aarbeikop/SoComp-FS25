@@ -1,0 +1,320 @@
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 15
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 16
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 17
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 18
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 19
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 20
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 21
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 22
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 23
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 24
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 25
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 26
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 27
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 28
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 29
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 30
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 31
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 32
+2025-05-21 15:43:09,001 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 33
+2025-05-21 15:43:09,002 - __main__ - INFO - === Reddit scraping session started ===
+2025-05-21 15:43:09,002 - __main__ - INFO - Scraping 'our planet is dying' for 2015_01
+2025-05-21 15:43:09,069 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:43:09,070 - __main__ - INFO - Scraping r/climatechange for query: our planet is dying
+2025-05-21 15:43:39,518 - __main__ - INFO - Scraping r/climate for query: our planet is dying
+2025-05-21 15:44:12,917 - __main__ - INFO - Scraping r/ClimateActionPlan for query: our planet is dying
+2025-05-21 15:44:19,051 - __main__ - INFO - Scraping r/environment for query: our planet is dying
+2025-05-21 15:45:24,539 - __main__ - INFO - Scraping r/science for query: our planet is dying
+2025-05-21 15:45:33,957 - __main__ - INFO - Scraping r/worldnews for query: our planet is dying
+2025-05-21 15:45:37,645 - __main__ - INFO - Scraping r/news for query: our planet is dying
+2025-05-21 15:45:41,615 - __main__ - INFO - Scraping r/collapse for query: our planet is dying
+2025-05-21 15:52:57,648 - __main__ - INFO - Scraping r/sustainability for query: our planet is dying
+2025-05-21 15:53:16,031 - __main__ - INFO - Scraping r/renewable for query: our planet is dying
+2025-05-21 15:53:20,620 - __main__ - INFO - Scraping r/green for query: our planet is dying
+2025-05-21 15:53:32,824 - __main__ - INFO - Scraping r/conservation for query: our planet is dying
+2025-05-21 15:53:43,493 - __main__ - INFO - Scraping r/AskReddit for query: our planet is dying
+2025-05-21 15:56:13,535 - __main__ - INFO - Scraping r/NoStupidQuestions for query: our planet is dying
+2025-05-21 15:57:13,580 - __main__ - INFO - Scraping r/TrueOffMyChest for query: our planet is dying
+2025-05-21 16:01:13,691 - __main__ - INFO - Scraping r/PoliticalDiscussion for query: our planet is dying
+2025-05-21 16:01:32,989 - __main__ - INFO - Scraping r/sci for query: our planet is dying
+2025-05-21 16:01:37,805 - __main__ - INFO - Scraping r/environmental_science for query: our planet is dying
+2025-05-21 16:01:46,856 - __main__ - INFO - Scraping r/CarbonRemoval for query: our planet is dying
+2025-05-21 16:01:51,002 - __main__ - INFO - Scraping r/Conservative for query: our planet is dying
+2025-05-21 16:02:03,232 - __main__ - INFO - Scraping r/Liberal for query: our planet is dying
+2025-05-21 16:02:07,156 - __main__ - INFO - Scraping r/simpleliving for query: our planet is dying
+2025-05-21 16:02:13,898 - __main__ - INFO - Scraping r/zerowaste for query: our planet is dying
+2025-05-21 16:02:19,486 - __main__ - INFO - Scraping r/vegan for query: our planet is dying
+2025-05-21 16:04:35,546 - __main__ - INFO - Scraping r/urbanplanning for query: our planet is dying
+2025-05-21 16:04:40,533 - __main__ - INFO - Scraping r/futurology for query: our planet is dying
+2025-05-21 16:05:57,356 - __main__ - INFO - Scraping r/conspiracy for query: our planet is dying
+2025-05-21 16:12:57,849 - __main__ - INFO - Saved 2 posts and 18 comments for 2015_01
+2025-05-21 16:12:57,849 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 16:12:57,849 - __main__ - INFO - Total time taken: 0:29:48.847715
+2025-05-21 16:12:57,849 - __main__ - INFO - Scraping 'our planet is dying' for 2015_02
+2025-05-21 16:12:57,850 - __main__ - INFO - Connected to Reddit API
+2025-05-21 16:12:57,850 - __main__ - INFO - Scraping r/climatechange for query: our planet is dying
+2025-05-21 16:13:26,459 - __main__ - INFO - Scraping r/climate for query: our planet is dying
+2025-05-21 16:13:57,421 - __main__ - INFO - Scraping r/ClimateActionPlan for query: our planet is dying
+2025-05-21 16:14:02,420 - __main__ - INFO - Scraping r/environment for query: our planet is dying
+2025-05-21 16:15:07,931 - __main__ - INFO - Scraping r/science for query: our planet is dying
+2025-05-21 16:15:15,658 - __main__ - INFO - Scraping r/worldnews for query: our planet is dying
+2025-05-21 16:15:19,576 - __main__ - INFO - Scraping r/news for query: our planet is dying
+2025-05-21 16:15:22,368 - __main__ - INFO - Scraping r/collapse for query: our planet is dying
+2025-05-21 16:22:43,291 - __main__ - INFO - Scraping r/sustainability for query: our planet is dying
+2025-05-21 16:23:02,718 - __main__ - INFO - Scraping r/renewable for query: our planet is dying
+2025-05-21 16:23:06,255 - __main__ - INFO - Scraping r/green for query: our planet is dying
+2025-05-21 16:23:17,720 - __main__ - INFO - Scraping r/conservation for query: our planet is dying
+2025-05-21 16:23:26,485 - __main__ - INFO - Scraping r/AskReddit for query: our planet is dying
+2025-05-21 16:25:50,689 - __main__ - INFO - Scraping r/NoStupidQuestions for query: our planet is dying
+2025-05-21 16:26:50,208 - __main__ - INFO - Scraping r/TrueOffMyChest for query: our planet is dying
+2025-05-21 16:30:42,718 - __main__ - INFO - Scraping r/PoliticalDiscussion for query: our planet is dying
+2025-05-21 16:31:00,742 - __main__ - INFO - Scraping r/sci for query: our planet is dying
+2025-05-21 16:31:03,247 - __main__ - INFO - Scraping r/environmental_science for query: our planet is dying
+2025-05-21 16:31:11,576 - __main__ - INFO - Scraping r/CarbonRemoval for query: our planet is dying
+2025-05-21 16:31:14,349 - __main__ - INFO - Scraping r/Conservative for query: our planet is dying
+2025-05-21 16:31:25,365 - __main__ - INFO - Scraping r/Liberal for query: our planet is dying
+2025-05-21 16:31:27,786 - __main__ - INFO - Scraping r/simpleliving for query: our planet is dying
+2025-05-21 16:31:33,624 - __main__ - INFO - Scraping r/zerowaste for query: our planet is dying
+2025-05-21 16:31:40,060 - __main__ - INFO - Scraping r/vegan for query: our planet is dying
+2025-05-21 16:33:57,944 - __main__ - INFO - Scraping r/urbanplanning for query: our planet is dying
+2025-05-21 16:34:02,665 - __main__ - INFO - Scraping r/futurology for query: our planet is dying
+2025-05-21 16:35:20,688 - __main__ - INFO - Scraping r/conspiracy for query: our planet is dying
+2025-05-21 16:42:00,782 - __main__ - INFO - Saved 3 posts and 21 comments for 2015_02
+2025-05-21 16:42:00,782 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 16:42:00,782 - __main__ - INFO - Total time taken: 0:58:51.780672
+2025-05-21 16:42:00,782 - __main__ - INFO - Scraping 'our planet is dying' for 2015_03
+2025-05-21 16:42:00,783 - __main__ - INFO - Connected to Reddit API
+2025-05-21 16:42:00,783 - __main__ - INFO - Scraping r/climatechange for query: our planet is dying
+2025-05-21 16:42:27,337 - __main__ - INFO - Scraping r/climate for query: our planet is dying
+2025-05-21 16:43:01,225 - __main__ - INFO - Scraping r/ClimateActionPlan for query: our planet is dying
+2025-05-21 16:43:06,022 - __main__ - INFO - Scraping r/environment for query: our planet is dying
+2025-05-21 16:44:11,578 - __main__ - INFO - Scraping r/science for query: our planet is dying
+2025-05-21 16:44:18,923 - __main__ - INFO - Scraping r/worldnews for query: our planet is dying
+2025-05-21 16:44:22,589 - __main__ - INFO - Scraping r/news for query: our planet is dying
+2025-05-21 16:44:25,351 - __main__ - INFO - Scraping r/collapse for query: our planet is dying
+2025-05-21 16:51:34,083 - __main__ - INFO - Scraping r/sustainability for query: our planet is dying
+2025-05-21 16:51:53,021 - __main__ - INFO - Scraping r/renewable for query: our planet is dying
+2025-05-21 16:51:57,557 - __main__ - INFO - Scraping r/green for query: our planet is dying
+2025-05-21 16:52:09,814 - __main__ - INFO - Scraping r/conservation for query: our planet is dying
+2025-05-21 16:52:17,645 - __main__ - INFO - Scraping r/AskReddit for query: our planet is dying
+2025-05-21 16:54:39,249 - __main__ - INFO - Scraping r/NoStupidQuestions for query: our planet is dying
+2025-05-21 16:55:38,433 - __main__ - INFO - Scraping r/TrueOffMyChest for query: our planet is dying
+2025-05-21 16:59:37,005 - __main__ - INFO - Scraping r/PoliticalDiscussion for query: our planet is dying
+2025-05-21 16:59:54,081 - __main__ - INFO - Scraping r/sci for query: our planet is dying
+2025-05-21 16:59:57,322 - __main__ - INFO - Scraping r/environmental_science for query: our planet is dying
+2025-05-21 17:00:08,513 - __main__ - INFO - Scraping r/CarbonRemoval for query: our planet is dying
+2025-05-21 17:00:11,220 - __main__ - INFO - Scraping r/Conservative for query: our planet is dying
+2025-05-21 17:00:21,764 - __main__ - INFO - Scraping r/Liberal for query: our planet is dying
+2025-05-21 17:00:25,810 - __main__ - INFO - Scraping r/simpleliving for query: our planet is dying
+2025-05-21 17:00:31,007 - __main__ - INFO - Scraping r/zerowaste for query: our planet is dying
+2025-05-21 17:00:39,099 - __main__ - INFO - Scraping r/vegan for query: our planet is dying
+2025-05-21 17:02:57,534 - __main__ - INFO - Scraping r/urbanplanning for query: our planet is dying
+2025-05-21 17:03:01,064 - __main__ - INFO - Scraping r/futurology for query: our planet is dying
+2025-05-21 17:04:17,701 - __main__ - INFO - Scraping r/conspiracy for query: our planet is dying
+2025-05-21 17:11:02,702 - __main__ - INFO - Saved 2 posts and 10 comments for 2015_03
+2025-05-21 17:11:02,702 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 17:11:02,702 - __main__ - INFO - Total time taken: 1:27:53.700264
+2025-05-21 17:11:02,702 - __main__ - INFO - Scraping 'our planet is dying' for 2015_04
+2025-05-21 17:11:02,702 - __main__ - INFO - Connected to Reddit API
+2025-05-21 17:11:02,703 - __main__ - INFO - Scraping r/climatechange for query: our planet is dying
+2025-05-21 17:11:29,934 - __main__ - INFO - Scraping r/climate for query: our planet is dying
+2025-05-21 17:12:02,203 - __main__ - INFO - Scraping r/ClimateActionPlan for query: our planet is dying
+2025-05-21 17:12:09,642 - __main__ - INFO - Scraping r/environment for query: our planet is dying
+2025-05-21 17:13:14,498 - __main__ - INFO - Scraping r/science for query: our planet is dying
+2025-05-21 17:13:23,496 - __main__ - INFO - Scraping r/worldnews for query: our planet is dying
+2025-05-21 17:13:27,474 - __main__ - INFO - Scraping r/news for query: our planet is dying
+2025-05-21 17:13:29,761 - __main__ - INFO - Scraping r/collapse for query: our planet is dying
+2025-05-21 17:20:46,165 - __main__ - INFO - Scraping r/sustainability for query: our planet is dying
+2025-05-21 17:21:02,913 - __main__ - INFO - Scraping r/renewable for query: our planet is dying
+2025-05-21 17:21:08,083 - __main__ - INFO - Scraping r/green for query: our planet is dying
+2025-05-21 17:21:19,350 - __main__ - INFO - Scraping r/conservation for query: our planet is dying
+2025-05-21 17:21:27,516 - __main__ - INFO - Scraping r/AskReddit for query: our planet is dying
+2025-05-21 17:23:55,709 - __main__ - INFO - Scraping r/NoStupidQuestions for query: our planet is dying
+2025-05-21 17:24:53,142 - __main__ - INFO - Scraping r/TrueOffMyChest for query: our planet is dying
+2025-05-21 17:28:46,893 - __main__ - INFO - Scraping r/PoliticalDiscussion for query: our planet is dying
+2025-05-21 17:29:03,175 - __main__ - INFO - Scraping r/sci for query: our planet is dying
+2025-05-21 17:29:07,755 - __main__ - INFO - Scraping r/environmental_science for query: our planet is dying
+2025-05-21 17:29:18,304 - __main__ - INFO - Scraping r/CarbonRemoval for query: our planet is dying
+2025-05-21 17:29:23,378 - __main__ - INFO - Scraping r/Conservative for query: our planet is dying
+2025-05-21 17:29:35,278 - __main__ - INFO - Scraping r/Liberal for query: our planet is dying
+2025-05-21 17:29:39,431 - __main__ - INFO - Scraping r/simpleliving for query: our planet is dying
+2025-05-21 17:29:47,046 - __main__ - INFO - Scraping r/zerowaste for query: our planet is dying
+2025-05-21 17:29:55,728 - __main__ - INFO - Scraping r/vegan for query: our planet is dying
+2025-05-21 17:32:17,876 - __main__ - INFO - Scraping r/urbanplanning for query: our planet is dying
+2025-05-21 17:32:23,566 - __main__ - INFO - Scraping r/futurology for query: our planet is dying
+2025-05-21 17:33:43,612 - __main__ - INFO - Scraping r/conspiracy for query: our planet is dying
+2025-05-21 17:40:34,511 - __main__ - INFO - Saved 2 posts and 7 comments for 2015_04
+2025-05-21 17:40:34,512 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 17:40:34,512 - __main__ - INFO - Total time taken: 1:57:25.509922
+2025-05-21 17:40:34,512 - __main__ - INFO - Scraping 'our planet is dying' for 2015_05
+2025-05-21 17:40:34,512 - __main__ - INFO - Connected to Reddit API
+2025-05-21 17:40:34,512 - __main__ - INFO - Scraping r/climatechange for query: our planet is dying
+2025-05-21 17:41:01,544 - __main__ - INFO - Scraping r/climate for query: our planet is dying
+2025-05-21 17:41:34,445 - __main__ - INFO - Scraping r/ClimateActionPlan for query: our planet is dying
+2025-05-21 17:41:41,362 - __main__ - INFO - Scraping r/environment for query: our planet is dying
+2025-05-21 17:42:45,695 - __main__ - INFO - Scraping r/science for query: our planet is dying
+2025-05-21 17:42:54,134 - __main__ - INFO - Scraping r/worldnews for query: our planet is dying
+2025-05-21 17:42:58,720 - __main__ - INFO - Scraping r/news for query: our planet is dying
+2025-05-21 17:43:03,972 - __main__ - INFO - Scraping r/collapse for query: our planet is dying
+2025-05-21 17:50:16,075 - __main__ - INFO - Scraping r/sustainability for query: our planet is dying
+2025-05-21 17:50:36,835 - __main__ - INFO - Scraping r/renewable for query: our planet is dying
+2025-05-21 17:50:40,868 - __main__ - INFO - Scraping r/green for query: our planet is dying
+2025-05-21 17:50:53,771 - __main__ - INFO - Scraping r/conservation for query: our planet is dying
+2025-05-21 17:51:03,086 - __main__ - INFO - Scraping r/AskReddit for query: our planet is dying
+2025-05-21 17:53:28,375 - __main__ - INFO - Scraping r/NoStupidQuestions for query: our planet is dying
+2025-05-21 17:54:31,374 - __main__ - INFO - Scraping r/TrueOffMyChest for query: our planet is dying
+2025-05-21 17:58:21,356 - __main__ - INFO - Scraping r/PoliticalDiscussion for query: our planet is dying
+2025-05-21 17:58:38,261 - __main__ - INFO - Scraping r/sci for query: our planet is dying
+2025-05-21 17:58:40,835 - __main__ - INFO - Scraping r/environmental_science for query: our planet is dying
+2025-05-21 17:58:50,155 - __main__ - INFO - Scraping r/CarbonRemoval for query: our planet is dying
+2025-05-21 17:58:53,118 - __main__ - INFO - Scraping r/Conservative for query: our planet is dying
+2025-05-21 17:59:05,006 - __main__ - INFO - Scraping r/Liberal for query: our planet is dying
+2025-05-21 17:59:09,147 - __main__ - INFO - Scraping r/simpleliving for query: our planet is dying
+2025-05-21 17:59:16,568 - __main__ - INFO - Scraping r/zerowaste for query: our planet is dying
+2025-05-21 17:59:23,133 - __main__ - INFO - Scraping r/vegan for query: our planet is dying
+2025-05-21 18:01:43,721 - __main__ - INFO - Scraping r/urbanplanning for query: our planet is dying
+2025-05-21 18:01:50,083 - __main__ - INFO - Scraping r/futurology for query: our planet is dying
+2025-05-21 18:03:09,650 - __main__ - INFO - Scraping r/conspiracy for query: our planet is dying
+2025-05-21 18:10:10,500 - __main__ - INFO - Saved 3 posts and 18 comments for 2015_05
+2025-05-21 18:10:10,500 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 18:10:10,501 - __main__ - INFO - Total time taken: 2:27:01.498868
+2025-05-21 18:10:10,501 - __main__ - INFO - Scraping 'our planet is dying' for 2015_06
+2025-05-21 18:10:10,501 - __main__ - INFO - Connected to Reddit API
+2025-05-21 18:10:10,502 - __main__ - INFO - Scraping r/climatechange for query: our planet is dying
+2025-05-21 18:10:36,760 - __main__ - INFO - Scraping r/climate for query: our planet is dying
+2025-05-21 18:11:07,347 - __main__ - INFO - Scraping r/ClimateActionPlan for query: our planet is dying
+2025-05-21 18:11:12,069 - __main__ - INFO - Scraping r/environment for query: our planet is dying
+2025-05-21 18:12:16,394 - __main__ - INFO - Scraping r/science for query: our planet is dying
+2025-05-21 18:12:24,203 - __main__ - INFO - Scraping r/worldnews for query: our planet is dying
+2025-05-21 18:12:28,219 - __main__ - INFO - Scraping r/news for query: our planet is dying
+2025-05-21 18:12:32,345 - __main__ - INFO - Scraping r/collapse for query: our planet is dying
+2025-05-21 18:19:44,799 - __main__ - INFO - Scraping r/sustainability for query: our planet is dying
+2025-05-21 18:20:02,204 - __main__ - INFO - Scraping r/renewable for query: our planet is dying
+2025-05-21 18:20:07,096 - __main__ - INFO - Scraping r/green for query: our planet is dying
+2025-05-21 18:20:19,171 - __main__ - INFO - Scraping r/conservation for query: our planet is dying
+2025-05-21 18:20:29,696 - __main__ - INFO - Scraping r/AskReddit for query: our planet is dying
+2025-05-21 18:22:58,391 - __main__ - INFO - Scraping r/NoStupidQuestions for query: our planet is dying
+2025-05-21 18:24:00,225 - __main__ - INFO - Scraping r/TrueOffMyChest for query: our planet is dying
+2025-05-21 18:27:55,541 - __main__ - INFO - Scraping r/PoliticalDiscussion for query: our planet is dying
+2025-05-21 18:28:11,222 - __main__ - INFO - Scraping r/sci for query: our planet is dying
+2025-05-21 18:28:14,562 - __main__ - INFO - Scraping r/environmental_science for query: our planet is dying
+2025-05-21 18:28:24,225 - __main__ - INFO - Scraping r/CarbonRemoval for query: our planet is dying
+2025-05-21 18:28:28,299 - __main__ - INFO - Scraping r/Conservative for query: our planet is dying
+2025-05-21 18:28:42,914 - __main__ - INFO - Scraping r/Liberal for query: our planet is dying
+2025-05-21 18:28:47,749 - __main__ - INFO - Scraping r/simpleliving for query: our planet is dying
+2025-05-21 18:28:54,072 - __main__ - INFO - Scraping r/zerowaste for query: our planet is dying
+2025-05-21 18:29:02,295 - __main__ - INFO - Scraping r/vegan for query: our planet is dying
+2025-05-21 18:31:28,154 - __main__ - INFO - Scraping r/urbanplanning for query: our planet is dying
+2025-05-21 18:31:32,635 - __main__ - INFO - Scraping r/futurology for query: our planet is dying
+2025-05-21 18:32:50,422 - __main__ - INFO - Scraping r/conspiracy for query: our planet is dying
+2025-05-21 18:39:41,747 - __main__ - INFO - Saved 1 posts and 16 comments for 2015_06
+2025-05-21 18:39:41,748 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 18:39:41,748 - __main__ - INFO - Total time taken: 2:56:32.746300
+2025-05-21 18:39:41,748 - __main__ - INFO - Scraping 'our planet is dying' for 2015_07
+2025-05-21 18:39:41,749 - __main__ - INFO - Connected to Reddit API
+2025-05-21 18:39:41,749 - __main__ - INFO - Scraping r/climatechange for query: our planet is dying
+2025-05-21 18:40:08,739 - __main__ - INFO - Scraping r/climate for query: our planet is dying
+2025-05-21 18:40:39,037 - __main__ - INFO - Scraping r/ClimateActionPlan for query: our planet is dying
+2025-05-21 18:40:43,309 - __main__ - INFO - Scraping r/environment for query: our planet is dying
+2025-05-21 18:41:48,905 - __main__ - INFO - Scraping r/science for query: our planet is dying
+2025-05-21 18:41:57,599 - __main__ - INFO - Scraping r/worldnews for query: our planet is dying
+2025-05-21 18:42:01,885 - __main__ - INFO - Scraping r/news for query: our planet is dying
+2025-05-21 18:42:05,710 - __main__ - INFO - Scraping r/collapse for query: our planet is dying
+2025-05-21 18:49:19,189 - __main__ - INFO - Scraping r/sustainability for query: our planet is dying
+2025-05-21 18:49:39,040 - __main__ - INFO - Scraping r/renewable for query: our planet is dying
+2025-05-21 18:49:41,926 - __main__ - INFO - Scraping r/green for query: our planet is dying
+2025-05-21 18:49:52,337 - __main__ - INFO - Scraping r/conservation for query: our planet is dying
+2025-05-21 18:50:02,005 - __main__ - INFO - Scraping r/AskReddit for query: our planet is dying
+2025-05-21 18:52:32,018 - __main__ - INFO - Scraping r/NoStupidQuestions for query: our planet is dying
+2025-05-21 18:53:37,119 - __main__ - INFO - Scraping r/TrueOffMyChest for query: our planet is dying
+2025-05-21 18:57:31,519 - __main__ - INFO - Scraping r/PoliticalDiscussion for query: our planet is dying
+2025-05-21 18:57:47,598 - __main__ - INFO - Scraping r/sci for query: our planet is dying
+2025-05-21 18:57:52,835 - __main__ - INFO - Scraping r/environmental_science for query: our planet is dying
+2025-05-21 18:58:01,367 - __main__ - INFO - Scraping r/CarbonRemoval for query: our planet is dying
+2025-05-21 18:58:05,917 - __main__ - INFO - Scraping r/Conservative for query: our planet is dying
+2025-05-21 18:58:17,669 - __main__ - INFO - Scraping r/Liberal for query: our planet is dying
+2025-05-21 18:58:22,056 - __main__ - INFO - Scraping r/simpleliving for query: our planet is dying
+2025-05-21 18:58:30,308 - __main__ - INFO - Scraping r/zerowaste for query: our planet is dying
+2025-05-21 18:58:36,929 - __main__ - INFO - Scraping r/vegan for query: our planet is dying
+2025-05-21 19:01:01,861 - __main__ - INFO - Scraping r/urbanplanning for query: our planet is dying
+2025-05-21 19:01:07,673 - __main__ - INFO - Scraping r/futurology for query: our planet is dying
+2025-05-21 19:02:21,617 - __main__ - INFO - Scraping r/conspiracy for query: our planet is dying
+2025-05-21 19:09:16,101 - __main__ - INFO - Saved 5 posts and 44 comments for 2015_07
+2025-05-21 19:09:16,102 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 19:09:16,102 - __main__ - INFO - Total time taken: 3:26:07.100256
+2025-05-21 19:09:16,102 - __main__ - INFO - Scraping 'our planet is dying' for 2015_08
+2025-05-21 19:09:16,103 - __main__ - INFO - Connected to Reddit API
+2025-05-21 19:09:16,103 - __main__ - INFO - Scraping r/climatechange for query: our planet is dying
+2025-05-21 19:09:43,512 - __main__ - INFO - Scraping r/climate for query: our planet is dying
+2025-05-21 19:10:15,282 - __main__ - INFO - Scraping r/ClimateActionPlan for query: our planet is dying
+2025-05-21 19:10:21,004 - __main__ - INFO - Scraping r/environment for query: our planet is dying
+2025-05-21 19:11:27,737 - __main__ - INFO - Scraping r/science for query: our planet is dying
+2025-05-21 19:11:35,478 - __main__ - INFO - Scraping r/worldnews for query: our planet is dying
+2025-05-21 19:11:39,287 - __main__ - INFO - Scraping r/news for query: our planet is dying
+2025-05-21 19:11:42,915 - __main__ - INFO - Scraping r/collapse for query: our planet is dying
+2025-05-21 19:19:12,128 - __main__ - INFO - Scraping r/sustainability for query: our planet is dying
+2025-05-21 19:19:31,903 - __main__ - INFO - Scraping r/renewable for query: our planet is dying
+2025-05-21 19:19:35,504 - __main__ - INFO - Scraping r/green for query: our planet is dying
+2025-05-21 19:19:45,573 - __main__ - INFO - Scraping r/conservation for query: our planet is dying
+2025-05-21 19:19:53,216 - __main__ - INFO - Scraping r/AskReddit for query: our planet is dying
+2025-05-21 19:22:11,233 - __main__ - INFO - Scraping r/NoStupidQuestions for query: our planet is dying
+2025-05-21 19:23:10,861 - __main__ - INFO - Scraping r/TrueOffMyChest for query: our planet is dying
+2025-05-21 19:27:10,563 - __main__ - INFO - Scraping r/PoliticalDiscussion for query: our planet is dying
+2025-05-21 19:27:26,597 - __main__ - INFO - Scraping r/sci for query: our planet is dying
+2025-05-21 19:27:29,314 - __main__ - INFO - Scraping r/environmental_science for query: our planet is dying
+2025-05-21 19:27:37,867 - __main__ - INFO - Scraping r/CarbonRemoval for query: our planet is dying
+2025-05-21 19:27:40,333 - __main__ - INFO - Scraping r/Conservative for query: our planet is dying
+2025-05-21 19:27:51,913 - __main__ - INFO - Scraping r/Liberal for query: our planet is dying
+2025-05-21 19:27:56,981 - __main__ - INFO - Scraping r/simpleliving for query: our planet is dying
+2025-05-21 19:28:04,039 - __main__ - INFO - Scraping r/zerowaste for query: our planet is dying
+2025-05-21 19:28:09,804 - __main__ - INFO - Scraping r/vegan for query: our planet is dying
+2025-05-21 19:30:30,833 - __main__ - INFO - Scraping r/urbanplanning for query: our planet is dying
+2025-05-21 19:30:36,470 - __main__ - INFO - Scraping r/futurology for query: our planet is dying
+2025-05-21 19:30:54,251 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 15
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 16
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 17
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 18
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 19
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 20
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 21
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 22
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 23
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 24
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 25
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 26
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 27
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 28
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 29
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 30
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 31
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 32
+2025-05-21 19:30:54,252 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 33
+2025-05-21 19:30:54,253 - __main__ - INFO - === Reddit scraping session started ===
+2025-05-21 19:30:54,253 - __main__ - INFO - Scraping 'climate justice' for 2015_01
+2025-05-21 19:30:54,314 - __main__ - INFO - Connected to Reddit API
+2025-05-21 19:30:54,315 - __main__ - INFO - Scraping r/environment for query: climate justice
+2025-05-21 19:31:04,698 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 15
+2025-05-21 19:31:04,698 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 16
+2025-05-21 19:31:04,698 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 17
+2025-05-21 19:31:04,698 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 18
+2025-05-21 19:31:04,698 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 19
+2025-05-21 19:31:04,698 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 20
+2025-05-21 19:31:04,698 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 21
+2025-05-21 19:31:04,698 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 22
+2025-05-21 19:31:04,698 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 23
+2025-05-21 19:31:04,698 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 24
+2025-05-21 19:31:04,699 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 25
+2025-05-21 19:31:04,699 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 26
+2025-05-21 19:31:04,699 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 27
+2025-05-21 19:31:04,699 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 28
+2025-05-21 19:31:04,699 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 29
+2025-05-21 19:31:04,699 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 30
+2025-05-21 19:31:04,699 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 31
+2025-05-21 19:31:04,699 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 32
+2025-05-21 19:31:04,699 - dotenv.main - WARNING - python-dotenv could not parse statement starting at line 33
+2025-05-21 19:31:04,699 - __main__ - INFO - === Reddit scraping session started ===
+2025-05-21 19:31:04,699 - __main__ - INFO - Scraping 'climate crisis' for 2015_01
+2025-05-21 19:31:04,700 - __main__ - INFO - Connected to Reddit API
+2025-05-21 19:31:04,701 - __main__ - INFO - Scraping r/climatechange for query: climate crisis
+2025-05-21 19:31:08,481 - __main__ - INFO - Scraping r/politics for query: climate justice
+2025-05-21 19:31:52,175 - __main__ - INFO - Scraping r/conspiracy for query: our planet is dying
