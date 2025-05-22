@@ -2995,3 +2995,44 @@ g/
 2025-05-22 09:14:46,548 - __main__ - INFO - Scraping r/news for query: global temperature rise
 2025-05-22 09:15:01,067 - __main__ - INFO - Scraping r/science for query: CO2 is good
 2025-05-22 09:15:15,122 - __main__ - INFO - Scraping r/collapse for query: global temperature rise
+2025-05-22 09:15:29,847 - __main__ - INFO - Scraping r/worldnews for query: CO2 is good
+2025-05-22 09:15:33,401 - __main__ - INFO - Scraping r/news for query: CO2 is good
+2025-05-22 09:15:37,185 - __main__ - INFO - Scraping r/collapse for query: CO2 is good
+2025-05-22 09:20:54,311 - __main__ - INFO - Scraping r/sustainability for query: global temperature rise
+2025-05-22 09:21:41,473 - __main__ - INFO - Scraping r/sustainability for query: CO2 is good
+2025-05-22 09:21:49,477 - __main__ - INFO - Scraping r/renewable for query: global temperature rise
+2025-05-22 09:21:56,840 - __main__ - INFO - Saved 3 posts and 6 comments for 2019_04
+2025-05-22 09:21:56,840 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-22 09:21:56,840 - __main__ - INFO - Total time taken: 13:40:21.372235
+2025-05-22 09:21:56,840 - __main__ - INFO - Scraping 'global temperature rise' for 2019_05
+2025-05-22 09:21:56,840 - __main__ - INFO - Connected to Reddit API
+2025-05-22 09:21:56,841 - __main__ - INFO - Scraping r/climatechange for query: global temperature rise
+2025-05-22 09:22:22,837 - __main__ - INFO - Scraping r/renewable for query: CO2 is good
+2025-05-22 09:22:29,585 - __main__ - INFO - Saved 4 posts and 14 comments for 2018_07
+2025-05-22 09:22:29,585 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-22 09:22:29,585 - __main__ - INFO - Total time taken: 10:46:25.207782
+2025-05-22 09:22:29,585 - __main__ - INFO - Scraping 'CO2 is good' for 2018_08
+2025-05-22 09:22:29,586 - __main__ - INFO - Connected to Reddit API
+2025-05-22 09:22:29,586 - __main__ - INFO - Scraping r/climatechange for query: CO2 is good
+2025-05-22 09:25:49,965 - __main__ - INFO - Scraping r/climate for query: CO2 is good
+2025-05-22 09:26:25,602 - __main__ - INFO - Scraping r/climate for query: global temperature rise
+2025-05-22 09:27:21,039 - __main__ - INFO - Scraping r/ClimateActionPlan for query: CO2 is good
+2025-05-22 09:27:29,510 - __main__ - INFO - Scraping r/environment for query: CO2 is good
+2025-05-22 09:28:23,569 - __main__ - INFO - Scraping r/ClimateActionPlan for query: global temperature rise
+2025-05-22 09:28:34,322 - __main__ - INFO - Scraping r/environment for query: global temperature rise
+2025-05-22 09:28:47,515 - __main__ - INFO - Scraping r/science for query: global temperature rise
+2025-05-22 09:29:05,939 - __main__ - INFO - Scraping r/science for query: CO2 is good
+2025-05-22 09:29:12,950 - __main__ - INFO - Scraping r/worldnews for query: global temperature rise
+2025-05-22 09:29:26,159 - __main__ - INFO - Scraping r/news for query: global temperature rise
+2025-05-22 09:29:33,210 - __main__ - INFO - Scraping r/worldnews for query: CO2 is good
+2025-05-22 09:29:36,935 - __main__ - INFO - Scraping r/news for query: CO2 is good
+2025-05-22 09:29:41,440 - __main__ - INFO - Scraping r/collapse for query: CO2 is good
+2025-05-22 09:29:52,579 - __main__ - INFO - Scraping r/collapse for query: global temperature rise
+2025-05-22 09:35:41,897 - __main__ - INFO - Scraping r/sustainability for query: CO2 is good
+2025-05-22 09:36:23,637 - __main__ - INFO - Scraping r/renewable for query: CO2 is good
+2025-05-22 09:36:27,756 - __main__ - INFO - Saved 4 posts and 19 comments for 2018_08
+2025-05-22 09:36:27,756 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-22 09:36:27,756 - __main__ - INFO - Total time taken: 11:00:23.378974
+2025-05-22 09:36:27,768 - __main__ - INFO - Scraping 'CO2 is good' for 2018_09
+2025-05-22 09:36:27,768 - __main__ - INFO - Connected to Reddit API
+2025-05-22 09:36:27,768 - __main__ - INFO - Scraping r/climatechange for query: CO2 is good
