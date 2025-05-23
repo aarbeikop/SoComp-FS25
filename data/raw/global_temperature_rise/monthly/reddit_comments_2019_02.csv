@@ -1,0 +1,120 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"efqp8ne","t3_an3ufp","an3ufp","climatechange","action-oriented","The way a scientist answers a question like this is to adopt the ""Null hypothesis"", and see if the observed data can be be explained by other means.
+
+In this case that means you look at the data (the observed global temperature increase so far), and assume that none of this is due to anthropogenic greenhouse gas emissions, then attempt to explain the observed data using other known processes. For example you might say ""I know volcanoes went off on these dates, let's try pretending that volcanoes actually have twice the effect we think they do and see if that would explain the observed temperature data"". 
+
+If you do this for all possible natural factors (and all combinations of them), such as volcanoes, solar cycles etc, then you still have an unexplained ""residual"" left over. (The residual is kind of the unexplained difference between your prediction and the real data.) If, by tweaking the strength of natural factors, you managed to get a predicted temperature curve from your model which matches the observed data, the next step is to look at the shape of the residual. If the residual is essentially random, it means that you haven't missed anything major out of your model, and you can't discard the null hypothesis that global temperature increases are not caused by anthropogenic CO2 emissions.
+
+However, it turns out that when you go through this process, the residual you're left with is not random, it has a clear upwards trend over time. In fact, this unexplained warming trend matches the net CO2 emissions caused by humans over the past 200 years very well. And as soon as you put this effect back in your model, the residual becomes basically random. This is how a climate scientist concludes that human-caused increases in CO2 levels have been the main cause of the increase in global temperature.","2019-02-04 18:53:48","21","mangoman51","1747895867.354406","global temperature rise","manual"
+"efql1md","t3_an3ufp","an3ufp","climatechange","action-oriented","The climate response to CO2 does have large error bars, but you can put some constraints on it ...
+
+Energy budget constraints on climate response
+
+http://eprints.whiterose.ac.uk/76064/7/ngeo1836%281%29_with_coversheet.pdf","2019-02-04 18:03:27","3","technologyisnatural","1747895867.3574061","global temperature rise","manual"
+"efqr66b","t3_an3ufp","an3ufp","climatechange","action-oriented","We can measure the change in infrared coming to the surface
+
+&#x200B;
+
+>  Here we present observationally based evidence of clear-sky CO2 surface radiative forcing that is directly attributable to the increase, between 2000 and 2010, of 22 parts per million atmospheric CO2. The time series of this forcing at the two locations—the Southern Great Plains and the North Slope of Alaska—are derived from Atmospheric Emitted Radiance Interferometer spectra[3](https://www.nature.com/articles/nature14240#ref3)together with ancillary measurements and thoroughly corroborated radiative transfer calculations[4](https://www.nature.com/articles/nature14240#ref4). The time series both show statistically significant trends of 0.2 W m−2 per decade (with respective uncertainties of ±0.06 W m−2 per decade and ±0.07 W m−2 per decade) and have seasonal ranges of 0.1–0.2 W m−2. This is approximately ten per cent of the trend in downwelling longwave radiation[5](https://www.nature.com/articles/nature14240#ref5),[6](https://www.nature.com/articles/nature14240#ref6),[7](https://www.nature.com/articles/nature14240#ref7). These results confirm theoretical predictions of the atmospheric greenhouse effect due to anthropogenic emissions, and provide empirical evidence of how rising CO2 levels, mediated by temporal variations due to photosynthesis and respiration, are affecting the surface energy balance. 
+
+[https://www.nature.com/articles/nature14240](https://www.nature.com/articles/nature14240)
+
+&#x200B;
+
+We can measure the change in energy leaving the Earth as more in captured by atmospheric CO2
+
+[https://www.atmos.washington.edu/\~dennis/321/Harries\_Spectrum\_2001.pdf](https://www.atmos.washington.edu/~dennis/321/Harries_Spectrum_2001.pdf)
+
+&#x200B;
+
+The only mechanism we know of that will cool the stratosphere and warm the troposphere is an enhanced greenhouse effect
+
+[https://www.pnas.org/content/early/2013/09/10/1305332110](https://www.pnas.org/content/early/2013/09/10/1305332110)
+
+This was predicted in 1967 by Manabe and Weatherald. 
+
+&#x200B;
+
+We have a strong theoretical basis for expecting the CO2 to warm the surface, we have a strong correlation between CO2 and warming and we have physical evidence of the changes in the infrared radiation caused by the CO2. 
+
+&#x200B;","2019-02-04 19:17:01","3","[deleted]","1747895867.3632083","global temperature rise","manual"
+"efs4p9c","t3_an3ufp","an3ufp","climatechange","action-oriented","> How can we be so sure about such a complex climate system when there are some factors that we don't fully understand yet. 
+
+Well, you should ask yourself what kind of certainty are you looking for? 25%, 50%, 90%, 99%?
+
+Climate is not an experimental science and will never be we don't have 10 planets and 1000 years to run experiments. So we have to accept SOME uncertainty. And,  given the dire consequences of runaway global warming, we may need to act even if certainty is 50%. And remember, any _alternative_ explanation will have uncertainties of its own.
+
+> What if increase in CO2 is only responsible for something like 0.01 or 0.05°C of the 1°C rise since 1900
+
+Ah, but we do have 100% certain ""simple""  models (simple in a sense that a 2nd year Physics student can verify models validity and one can actually measure the effect in lab conditions). Just assume static atmosphere, ignore climatic feedback loops  and double CO2, what happens?  Turns out: a fairly significant warming happens: 1.2C
+https://en.wikipedia.org/wiki/Idealized_greenhouse_model, https://en.wikipedia.org/wiki/Idealized_greenhouse_model
+
+And another thing: we are also 100% certain that humans are adding planetary scale amounts of CO2 to atmosphere. IIRC a generally accepted estimate is about 40GT (giga tons) of CO2 per year (which adds something like 2% to the total CO2 content for the whole damn planet _per_year_).
+
+Note that you don't even have to trust the 40GT estimate (you know liberal scientists), just find out the worldwide oil production and that gives you a  ~10 GT right there (and that not counting coal, gas, deforestation,etc).
+
+
+
+","2019-02-05 06:39:55","2","twotime","1747895867.3667202","global temperature rise","manual"
+"efqhrx4","t3_an3ufp","an3ufp","climatechange","action-oriented","Because we know the background increase rate without GHGs is ~~0.1C~~ ~0.01C increase per year - there's a NASA source for this info out there if you care to find it","2019-02-04 17:24:00","1","JMJimmy","1747895867.3687172","global temperature rise","manual"
+"efqmz9o","t3_an3ufp","an3ufp","climatechange","action-oriented","We know this is true the same way that we know all existential facts.  There is sufficient evidence to support the conclusion and little evidence supporting an alternate conclusion.
+
+Note that existential facts are not the same as formal logic.   Existential facts are subject to refinement as evidence accumulates.  ","2019-02-04 18:26:50","1","crashorbit","1747895867.3707168","global temperature rise","manual"
+"efwwmkr","t3_an3ufp","an3ufp","climatechange","action-oriented","We don’t fully understand all the drivers, but whatever effect CO2 is having is small and diminishes logarithmically.","2019-02-07 01:34:17","1","Mad_magus","1747895867.3717172","global temperature rise","manual"
+"efr6efl","t3_an3ufp","an3ufp","climatechange","action-oriented","Haven't seen a mention here about water vapour. Heard once ""climate models don't do cloud""","2019-02-04 22:14:48","-1","NewyBluey","1747895867.378247","global temperature rise","manual"
+"efr9bir","t3_an3ufp","an3ufp","climatechange","action-oriented","""No doubt""?
+
+That's not  the response of an engineer or a scientist.  
+
+I doubt muchly.
+
+
+","2019-02-04 22:51:10","-1","TheFerretman","1747895867.3812454","global temperature rise","manual"
+"ehfn4mr","t3_a3dw3y","a3dw3y","climatechange","action-oriented","TIPER-NOx: Transmitter Induced Ozone Depletion
+
+[www.broadcasttheory.com](https://www.broadcasttheory.com) ","2019-02-27 23:05:35","1","LewisCarlson","1747896058.6886592","global temperature rise","manual"
+"efwy3sx","t3_anibdd","anibdd","climate","scientific","What's really sad is that due to the psychological flaws involved in human cognition facts don't sway climate change deniers. 
+
+Libertarian worldviews, vested interests, confirmation biases, Dunning-Kruger issues and cognitive dissonance all help distort what should be simple evidence based conclusions.
+
+Humans are severely flawed in many ways.
+
+&#x200B;","2019-02-07 01:54:08","2","extinction6","1747896193.66837","global temperature rise","manual"
+"egru3j9","t3_as4wla","as4wla","collapse","skeptical","If this were true (and the data is still sparse) would show that our current climate predicament is not entirely unprecedented and that the ecosystem is capable of rebounding from rapid climate change. 
+
+Global civilization would still be screwed, of course. ","2019-02-19 02:12:50","20","[deleted]","1747896367.1628473","global temperature rise","manual"
+"egrt6te","t3_as4wla","as4wla","collapse","skeptical","I think I heard some Guy talking about this on the internet in a video from 2012....","2019-02-19 02:00:13","11","[deleted]","1747896367.1639855","global temperature rise","manual"
+"egs0qu2","t3_as4wla","as4wla","collapse","skeptical","Worst case? Giant asteroid. It's happened before.
+
+Worst case? Snowball earth. It's happened before.
+
+Worst case? Siberian Traps. It's happened before.
+
+If it's happened before, and you absolutely must have a worst case, Collapse delivers","2019-02-19 03:43:34","9","FF00A7","1747896367.1671896","global temperature rise","manual"
+"egrtbcu","t3_as4wla","as4wla","collapse","skeptical","Was it global or local?","2019-02-19 02:01:58","7","revenant925","1747896367.1736999","global temperature rise","manual"
+"egruq43","t3_as4wla","as4wla","collapse","skeptical","What about the Venus Syndrome? James Hansen (ex-NASA scientist and one of the first to study global warming) says runaway global warming will be irreversible and is a certainty once the ice sheets melt and in a few decades later all land will turn int deserts and ocean will acidic and eventually boil away","2019-02-19 02:21:21","6","Goran01","1747896367.1757033","global temperature rise","manual"
+"egsbo1c","t3_as4wla","as4wla","collapse","skeptical","It's almost not worth worrying about. 
+
+That kind of change would turbo-kill humanity. 
+
+Although, since we already have to worry about +6 degrees (currently, that's a certainty, if radical changes don't happen far faster than capitalism can arrange) I suppose we can also worry about overkill.","2019-02-19 06:48:10","4","cr0ft","1747896367.1777005","global temperature rise","manual"
+"egsjen6","t3_as4wla","as4wla","collapse","skeptical","And what do you do personally?
+Human stupidity is infinite, and change fairly regular albeit in sudden shifts at long enough intervals to lull the idiots asleep between them...
+
+Got mobility? Got subsistence skills?
+Got skills making and repairing things? or just watching the Tsunami coming at you on TV until the doors and windows blow in and suddenly you are underwater?
+
+Gotta react guys... gotta actually do things to prepare for probable scenarios.  Gotta be proactive and prepare for worst case... Then your bases are covered for more likely lesser case scenarios...
+
+Doing nothing is only a temporary option. And doing something at least makes great hobbies.
+
+","2019-02-19 10:07:38","4","GrisBosque","1747896367.1797009","global temperature rise","manual"
+"egsvs8h","t3_as4wla","as4wla","collapse","skeptical",">a rapid temperature rise of 16C that we can observe in Greenland ice cores. 14,000 years ago the climate warmed 22F
+
+I predict the temperature will rise by 15 Kelvin.
+
+&#x200B;
+
+(edit: quote)
+
+&#x200B;","2019-02-19 14:17:45","2","ButtingSill","1747896367.1825788","global temperature rise","manual"

@@ -1,0 +1,573 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"cmzd7r","climatechange","action-oriented","Looking to get educated","I'm tired of hearing people fight about climate change and not being able to contribute to a constructive conversation, because I have very little knowledge on the subject.
+
+I am generally in the camp that it's true because the majority of the scientific community is in agreement, however without actually doing any research I haven't held this opinion strongly.
+
+So here I am asking for articles, studies, books, anything that makes a good point one way or the other to help me better understand the science behind climate change
+
+
+Thanks!","2019-08-07 01:33:40","10","33","0.87","https://www.reddit.com/r/climatechange/comments/cmzd7r/looking_to_get_educated/","True","AbsuredMrSteel","1747912717.1712308","CO2 is good","manual"
+"cr9r5m","climatechange","action-oriented","what are some good individual actions that can help fight climate change?","I understand that we’re at a time where corporations and governments are doing the most harm to the planet by not treating climate change as an environmental emergency. so one of our individual actions that could have the most impact right now is pressuring them into taking action to fight the climate crisis. but what else can we do as individuals to fight climate change besides changing our diet and stop consuming plastic?
+
+// edit: i had disconnected from social media but just got back to it. I attended the UN Climate Summit, and the majority of countries proposals involved renewable energy from wind and solar. china, and India didn’t commit to any changes in their emissions. slowly but steady we are shifting economies and resources!","2019-08-16 17:38:34","5","30","0.78","https://www.reddit.com/r/climatechange/comments/cr9r5m/what_are_some_good_individual_actions_that_can/","True","bs0world","1747912722.1161416","CO2 is good","manual"
+"cllhtf","climatechange","action-oriented","I was watching maynard james keenan latest interview on the joe rogan podcast and he made reference to some scientific research and modeling that predicted a 400 year estimate before a global climate extinction level event. Does anybody know what research he may have been referencing?","Truth be told, i also heard something similar on an audio podcast a while ago but they referenced research that said 300 years. Perhaps it was some fake news, bullshit article that did the rounds. With everything going on at the moment, i dont think its an unreasonable assumption that we r all fucked in that time frame if we don't act fast this century. Good things are happening, slowly, there is hope.","2019-08-03 17:41:03","16","10","0.94","https://www.reddit.com/r/climatechange/comments/cllhtf/i_was_watching_maynard_james_keenan_latest/","True","TeegeeackXenu","1747912763.9194572","CO2 is good","manual"
+"clkt85","climatechange","action-oriented","The empress tree and atmospheric carbon removal","There was an article in Bloomberg today about the empress tree, a fast growing tree with high capacity for carbon trapping.
+
+https://www.bloomberg.com/news/features/2019-08-02/we-already-have-the-world-s-most-efficient-carbon-capture-technology
+
+Specifically, the article claims this is the most efficient way to scrub atmospheric carbon... and I think that makes sense.
+
+The article claims that an acre of empress trees can trap ~103 tons of carbon in a single year.  Spectacular!  But I wonder how much it would take to balance our global energy usage?
+
+Let’s run the numbers.
+
+Out of laziness, I am approximating our energy consumption as though it came half from gasoline and half from electricity, but I’ll look at both gasoline and electricity independently as well.
+
+A half/half split is generally (if I recall correctly) true for the average American household, but I can post those calculations if someone is interested.  
+
+The numbers for energy carbon footprint come from here: https://carbonfund.org/how-we-calculate/
+
+I used the energy density of gasoline from here:
+https://www.ocean.washington.edu/courses/envir215/energynumbers.pdf
+
+Now, I’m using the 2016 global energy load I used in an article I wrote yesterday which was 6.04 x10^17 kJ.
+
+If I use the electrical carbon rate from the above website for the entire load, I get that the total carbon footprint of the world is 42 billion tons... meaning that I need 818 million total acres of Empress trees to balance the load.  That’s 1.278 million square miles, or a geographic square about 1130 miles on each side.
+
+That is rapidly approaching the size of a continent.
+
+Now, if I run the numbers for gasoline, I get that we’re producing 77% more carbon per energy unit... which is much dirtier.
+
+When I put half the loading on gasoline and half on electricity, I come up with a need for a geographic square 1565 miles on each side. 
+
+I do not think we can carbon balance this.
+
+
+Takeaway:  Converting to electricity from gasoline is good, but we still aren’t sustainable.
+
+Planting some trees can help, but we are eventually going to have to stop burning stuff for energy if we want this level to stop climbing.
+
+I’m not convinced that the carbon loading is the cause of global climate change, especially when the energy numbers alone explain adequately everything that’s been observed.
+
+But I believe pollution is bad and that balancing carbon loading is desirable.
+
+This looks like a pretty big job... I don’t think that a continent sized orchard is going to work.
+
+Initial gut feeling: planting trees is good but we’ve got to convert to lower emission sources before the discussion of balance will even be plausible at current CO2 levels.
+...
+But this assumes I’m trying to keep CO2 levels where they are (I’d like to, but this isn’t really likely).
+
+
+Ok, so what’s really going to happen
+
+Well, CO2 concentration in the atmosphere will continue to rise.
+
+Luckily, despite nitrogen absorption limitations causing actual crops to benefit little, CO2 increases in the atmosphere cause plants to absorb more CO2 faster because photosynthesis speeds up.
+
+There is a chart (7.3) In chapter 7 of the document at this link that shows photosynthetic  rate relative to CO2 concentration in soybeans... and shows how fast it increases as CO2 concentration increases.
+https://www.nap.edu/read/1911/chapter/8
+
+So let’s assume we are at 400ppm now and will continue to increase because we can’t plant a continent sized copse of empress trees.
+
+Let’s also assume all plants behave the way those soybeans behave.
+
+Now, we have to be able to ballpark actual carbon consumption by plants now to see what % over that quantity we are... this will give us an idea whether plants will be able to compensate for our energy consumption... and at what level our CO2 level will stabilize and if it will.
+
+https://www.sciencedaily.com/releases/2011/09/110928222003.htm
+
+According to this, total carbon capturing of global photosynthesis is about 150 petagrams... or 150 trillion kilograms( 165.3 billion tons).
+
+Ok, so if the total carbon loading of the planetary energy consumption is 42 billion tons, and we assume (very conservatively) none of it is currently represented in the current carbon photosynthetic capturing, I need to increase photosynthetic rate by 25.4% in order to capture all the carbon and stabilize the CO2 concentration.
+
+If you look at fig 7.3 in this document you’ll see a relative comparison of photosynthetic rates at different levels of atmospheric CO2.
+https://www.sciencedaily.com/releases/2011/09/110928222003.htm
+
+I put us currently at 400 ppm, which means our current reference number is 2.2 (1.2 over the baseline of 1).
+
+In order to find the stabilization level, I increase that number by 25.4% to 2.76... which yields a stabilization point at about 1000 ppm if this chart is right (and that’s assumed for no global energy load is currently compensated for by plants... which is wildly conservative).
+
+Now, is this little exercise fraught with uncertainty?  
+
+Yup.
+
+Is the CO2 going to grow without bound... no.  
+
+Is 1000 ppm going to be devastating even if the greenhouse effect is our primary temperature driver?  Probably not.
+
+Assuming stability comes at that point... which is consistent with current observations, that’s not even nearly the highest Earth has seen... while supporting conditions that we believe would be livable.
+
+https://skepticalscience.com/print.php?r=77
+Here is a chart showing pre-historic CO2 levels.
+
+If we stabilize at 1000... I’m thinking the planet remains habitable.  Stuff lived here when levels were much higher.","2019-08-03 16:41:35","6","1","0.88","https://www.reddit.com/r/climatechange/comments/clkt85/the_empress_tree_and_atmospheric_carbon_removal/","True","envelopemathguy","1747912794.5294757","CO2 is good","manual"
+"coypui","climate","scientific","Monsanto Paid Google To Bury Bad News","Link: https://futurism.com/the-byte/monsanto-google-hide-unfavorable-news
+
+Editorial:
+
+Google and Facebook can swing presidential elections by 2-10 million votes. Google promised Trump won't win 2020, but that's not important. What is important is who they promote. They promote centrists.
+
+Did you know that YouTube is the 2ⁿᵈ largest search engine in the world? Really Graceful on YT has an excellent 5 minute history called ""What the media won't tell you about YouTube"".
+
+https://youtu.be/ri8g3M8jJMw
+
+Renewable energy is the biggest lie you were ever told. Europe gets 50% of its ""renewable energy"" burning forests, many of those forests are in America. Google's own renewable energy experts quit because they found out renewable energy is fraud. The only reason you may even be aware of that is if you're a long-time collapse reader.
+
+**Forests should never be used to serve our electricity needs**
+
+https://thehill.com/blogs/congress-blog/energy-environment/456977-chopping-down-and-burning-our-forests-for-electricity
+
+When Europeans take their recycled plastic and paper out on the curb, it is collected and burned for electricity. They call it ""recycled energy"". Burning plastic and paper for electricity produces CO2, and god knows what else -- but try searching for it on Google, and you'll come away thinking it's a good idea. All the top ranked articles will be positive.
+
+https://www.theguardian.com/environment/2019/feb/28/burning-issue-are-waste-to-energy-plants-a-good-idea
+
+It took us 30 years for solar and wind to reach 3% of total world energy use, and during that 30 years emissions went up 60%. Yet search for ""renewable energy"" on google and the top ranked links you'll see is all feel good stuff. Do you honestly believe google unbiased? If google is willing to de-rank bad Monsanto news, what will they do for private healthcare and the NRA? Monsanto is poisoning us so they can spray food with enough poison to kill off all the insects, and Google helps them for money.
+
+**Google Engineers Explain Why They Stopped R&D in Renewable Energy**
+https://www.greentechmedia.com/articles/read/google-engineers-explain-why-they-stopped-rd-in-renewable-energy#gs.vmd6pe
+
+We are in the middle of a world mass extinction event, and we are at the beginning of runaway mass extinction, which cannot be stopped or reversed -- meaning there will be nothing we can do about it, period. Try searching Facebook and Google for that information, you won't find much, but try looking for EVs and you'll get all kinds of stuff. EVs will do nothing for the environment, but they'll help FB and Google's bottom line.
+
+Google and FB are public forums protected from libel laws by the government, yet they claim they are private companies when they ban both the far left and right in favor of centrist MSM views that corporate advertisers love.","2019-08-11 16:20:23","7","6","0.66","https://www.reddit.com/r/climate/comments/coypui/monsanto_paid_google_to_bury_bad_news/","True","CommonEmployment","1747912853.4755569","CO2 is good","manual"
+"cnf5pe","collapse","skeptical","Geoengineering Will Be Worse Than Climate Change: The Real Threat We Should Be Talking About","**Geoengineering Is Inevitable**
+
+It is going to be used. Collapse gets closer by the day, and even now research is being done into it's [dispersal] (https://www.reddit.com/r/collapse/comments/clrizu/america_finally_hits_the_panic_button_harvard/), [cost] (https://www.seas.harvard.edu/news/2018/11/calculating-solar-geoengineering-s-technical-costs), and [expected effects] (https://geoengineering.environment.harvard.edu/files/sgrp/files/irvine_etal_ncc_solar_geoengineering.pdf). 
+
+There was a Congressional [hearing] (https://www.youtube.com/watch?v=mxdT3cpTftw) about it in 2017. The (at the time) active CIA Director [discussed] (https://www.youtube.com/watch?time_continue=736&v=uIQDqxl9FtM) it in 2016, and it was the subject of congressional reports as early as [2010] (https://www.govinfo.gov/content/pkg/CHRG-111hhrg53007/pdf/CHRG-111hhrg53007.pdf) and [2013] (https://fas.org/sgp/crs/misc/R41371.pdf), and as recently as [2017] (https://www.congress.gov/bill/115th-congress/house-bill/4586/text?format=txt) and [2019] (https://eos.org/articles/congressional-hearing-considers-paths-forward-on-climate-change) (though this last one seems to have disappeared off of their website). Geoengineering [would] (https://www.theguardian.com/environment/2018/nov/23/solar-geoengineering-could-be-remarkably-inexpensive-report) be extremely [cheap] (https://www.ethicsandinternationalaffairs.org/2017/costs-of-geoengineering/), and could basically be attempted by any major industrialized nation as things get desperate.
+
+Every day, new [studies] (https://www.sciencealert.com/harvard-scientists-say-reflecting-the-sun-could-safely-halve-temperature-increases) and [articles] (https://www.nature.com/articles/s41558-019-0398-8) are published [highlighting] (https://www.tandfonline.com/doi/abs/10.1080/17449626.2018.1552180?journalCode=rjge20) the [benefits] (https://keith.seas.harvard.edu/publications/solar-geoengineering-could-substantially-reduce-climate-risks-%E2%80%94-research-hypothesis) of geoengineering while downplaying the consequences.
+
+The point here, ladies and gentlemen, is that the governments of the world have been aware of this for a long time. We often wonder, here on r/collapse, why it seems no one in power is doing anything, or even acknowledges the problem. This is why. 
+Because geoengineering is, and has always been, the plan. 
+
+>*“Unfortunately, climate change is dire enough for us to have to consider drastic action,” said Dr. Matthew Watson at the University of Bristol. “Some argue against researching these ideas but personally I think that is a mistake. There may come a time, in a future not so far away, where it would be immoral not to intervene.”*
+
+**Why This Is A Bad Thing**
+
+Cooling the planet sounds like a good thing, right? And on it's own, it is. The problem is what else it will do. 
+
+It should go without saying, but every single report and prediction that cast geoengineering in a positive light are based on computer modeling and projections. We've seen how accurate those are with [permafrost] (https://www.theguardian.com/environment/2019/jun/18/arctic-permafrost-canada-science-climate-crisis), [sea levels] (https://thehill.com/policy/energy-environment/444879-sea-levels-could-rise-faster-than-expected-swamping-coastal-cities), and [warming] (https://www.bbc.com/news/science-environment-48964736) in general. Relying on these models, which are clearly incomplete, to predict the long-term or side effects of geoengineering is frankly ridiculous. But don't just take my word for it. 
+
+>*""Most of the information on solar radiation management is from models and computer simulations. The actual results may differ from the predicted effect. The full effects of various solar radiation management proposals are not yet well understood. It may be difficult to predict the ultimate effects of projects, with models presently giving varying results.""* [Source] (https://en.wikipedia.org/wiki/Solar_radiation_management#Control_and_predictability)
+
+And again.
+
+>*""There is very high scientific uncertainty on the potential impacts of solar radiation management, and these cannot be resolved by field experiments. Most studies of solar radiation management are based on highly idealised scenarios and assumptions that differ substantially from discussed, real-world applications of solar radiation management. Results of idealised experiments should not be conflated with discussions around solar radiation management ‘solutions’ based on very different techniques.""* [Source] (https://climateanalytics.org/media/climateanalytics_srm_brief_dec_2018.pdf) 
+
+It is very clear that they do not actually know what it will do, despite the optimistic projections. 
+
+>*""The scientific modelling is still at a very early stage. Most studies are standalone in nature and by a limited number of scientists, based on highly idealised scenarios reducing the incoming solar radiation. For more complex experiments (such as with sulfate included) only a few studies based on individual models are available in the literature. Those that are available show a much higher inter-model uncertainty related to aerosol injection than for the highly idealised solar radiation experiment. This is in line with the state of the science as reported in the IPCC AR5 that there are still very large uncertainties in atmospheric chemistry in relation to aerosols. Furthermore, there may be very different circulation responses to aerosol injection and total solar irradiance.""* [Source] (https://climateanalytics.org/media/climateanalytics_srm_brief_dec_2018.pdf) 
+
+But what about effects that they know for certain will happen?
+
+**Side Effects**
+
+>*""There may be unintended climatic consequences of solar radiation management that might not be predicted by the models used to plan them. Such effects may be cumulative or chaotic in nature.""* [Source] (https://en.wikipedia.org/wiki/Solar_radiation_management#Side_effects)
+
+* Disruptions to the hydrologic cycle
+
+It is [agreed] (https://www.llnl.gov/news/geoengineering-could-slow-down-global-water-cycle) upon [by] (https://www.pnas.org/content/105/22/7664.short) many [sources] (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgrd.50868) that [geoengineering] (http://www.homepages.ed.ac.uk/shs/Climatechange/Climate%20model%20results/Hydrological%20response.pdf) will [disrupt] (https://keith.seas.harvard.edu/files/tkg/files/kravitz_et_al._-_2014_-_a_multi-model_assessment_of_regional_climate_dispa.pdf) the water cycle of the [planet] (http://climate.envsci.rutgers.edu/pdf/RobockStratAerosolGeo.pdf). The [water cycle] (https://en.wikipedia.org/wiki/Water_cycle) is very important to life on earth. While the predicted effect is not too extreme, around 5-10% depletion in total rainfall per continent and a delaying of monsoon seasons, consider that these projections are made using the same models, and the same simplified and idealized scenarios, as described earlier. [Source](https://en.wikipedia.org/wiki/Solar_radiation_management#cite_ref-Keith_Bower_2006,_pp._328_22-1)
+
+It could also cause an uneven distribution in rainfall, resulting in, for instance, increased rainfall in one region and droughts in another. [Source] (https://eandt.theiet.org/content/articles/2017/11/geoengineering-could-have-devastating-side-effects-study-warns/)
+
+*  No effect to CO2 levels, reduction in sunlight
+
+Because geoengineering does nothing to affect CO2 content in the air, levels of CO2 can be expected to not only be unaffected, but continue to increase. Thus, every CO2 related side effect other than heat trapping will persist in a geoengineered world. [Source] (https://en.wikipedia.org/wiki/Solar_radiation_management#Incomplete_solution_to_CO2_emissions)
+
+This includes potentially severe [deficiencies] (https://phys.org/news/2019-07-nutrient-deficiencies-rice-grown-higher.html) in [nutrients] (https://www.ifpri.org/news-release/rising-co2-climate-change-projected-reduce-availability-nutrients-worldwide) in crops grown around the world, [ocean acidification] (https://en.wikipedia.org/wiki/Ocean_acidification), and potential effects on human health and cognition. It will also have a negative effect on the growth of agriculture and plant life in general due to less sunlight reaching the surface of the earth. [Source] (https://www.ncbi.nlm.nih.gov/pubmed/30089909) In addition, it would affect solar panel power output for the same reason. [Source] (https://journals.ametsoc.org/doi/full/10.1175/JAMC-D-16-0298.1)
+
+* Thermohaline circulation
+
+Geoengineering may have [no effect] (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL064314) on ocean temperature. The [consequences] (https://scripps.ucsd.edu/news/research-highlight-loss-arctics-reflective-sea-ice-will-advance-global-warming-25-years) of a [warming ocean] (https://www.reddit.com/r/askscience/comments/clz6it/are_the_melting_ice_caps_and_glaciers_causing_any/evz1dd3/) are [devastating] (https://www.plymouth.ac.uk/news/scientific-experts-call-for-eight-urgent-measures-to-preserve-life-supporting-ocean-function-amid-fears-that-changes-could-be-irreversible). 
+
+* Ozone Depletion
+
+[Many] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC122395/) studies [show] (https://www.cosis.net/abstracts/EGU2008/10823/EGU2008-A-10823.pdf) that sulfate aerosols commonly proposed for use in geoengineering [could] (https://iopscience.iop.org/article/10.1088/1748-9326/4/4/045108) significantly [deplete] (https://www.ncbi.nlm.nih.gov/pubmed/18436741) the ozone layer. The [ozone layer] (https://en.wikipedia.org/wiki/Ozone_layer) is vital for life on earth. 
+
+* Acid rain and other human health problems
+
+Sulfate aerosols commonly proposed for use in engineering [cause] (https://web.archive.org/web/20070730012326/http://www-ramanathan.ucsd.edu/PASScriptaVaria106.pdf) acid rain and other human health problems, such as lung cancer, acute respiratory infections,  and chronic obstructive pulmonary disease.
+
+So we've covered the complete lack of understanding and predictability, as well as the guaranteed side effects. Ready for the best part? 
+
+**Termination Shock**
+
+>*""If solar radiation management were masking a significant amount of warming and then were to abruptly stop, the climate would rapidly warm. This would cause a sudden rise in global temperatures towards levels which would have existed without the use of the climate engineering technique.""* [Source] (https://en.wikipedia.org/wiki/Solar_radiation_management#Termination_shock)
+
+That's right, once we start [we] (https://iopscience.iop.org/article/10.1088/1748-9326/9/2/024005/pdf) can't [stop] (https://iopscience.iop.org/article/10.1088/1748-9326/4/4/045103). 
+
+**Conclusion**
+
+Geoengineering may very well create a world worse than the problem it is trying to fix. It's an unproven and virtually untested technology, that when started cannot be stopped no matter what, that's main effects are uncertain to work as intended and that's known and unknown side effects are potentially catastrophic. We should all be terrified. 
+
+A world in which geoengineering is deployed cannot be planned for. No one, from the most educated scientists to the average layman, can truly predict the potential for devastation and catastrophe. If your collapse plan is anything besides a gun and one bullet, all I can say is good luck. We're going to need it. 
+
+*Note: Geoengineering, as used in this post and in many articles and studies, primarily refers to Solar Radiation Management. [This] (https://www.nature.com/articles/ncomms4304) article covers other, less effective, methods.*","2019-08-08 02:07:13","124","66","0.94","https://www.reddit.com/r/collapse/comments/cnf5pe/geoengineering_will_be_worse_than_climate_change/","True","Cimbri","1747913299.1052747","CO2 is good","manual"
+"cq0xb7","collapse","skeptical","Are the Feedback loops as bad as people say they are?","And is there any peer-reviewed studies that determine at what point does Human Civilization collapses and Humans go extinct due to the Earth getting too hot to where it's unsustainable. Wether it be 2050 or even earlier thanks to feedbacks and inaction.
+
+I'm honestly terrified by those, since it means that the warming will accelerate to points where any effort to lower or mitigate it will be impossible and that there is no hope anymore.
+
+
+Even the cloud loss scares me, if it's as bad as people say it is.
+
+and this: https://phys.org/news/2019-08-limits-rainforest-growth.amp
+
+This has led by to give in and accept that all of us are going to look forward to a future similar to ""The Road"" in or lifetime and we will experience it. I mean many of us have a lifespan that goes as far as the 2080's.
+
+Though then again someone here said that those lops were debunked and disproven. 
+
+
+/u/ClimateNurse had this to say about them:
+
+
+- Not exactly. Methane is (typically) overplayed a lot, and is in relation to short-term effects.
+
+
+For the methane hydrates/methane bomb shebang...In Svalbard, where there is a particularly notable clathrate eruption and bubbling, was discovered to be happening for at least 8000 years, and erupted likely due to water depth changes, as it is on a continental slope.
+
+
+More than likely this is one of the few events where this can occur, as methane hydrates must be under high pressure at high depths, where warning from the sea floor, which is dramatically colder than the air, must reach it to destabilize it. On top of that, even in shallow areas, fluctuations in temperature have not destabilized them. Even should they be destabilized (which would take a long, long while), Shakova et al., the team where the methane bomb theory originated, found that much of it went directly into the water and dissolved. Given this, methane releases would be small, given it is [quite soluble already in water, and research by Shakova & more backs this up.] (http://adsabs.harvard.edu/abs/2017RvGeo..55..126R) The methane bomb theory was aided by the team extrapolating how much methane release was there due to it dissolving, therefore spawning an inaccurate number of how much methane is actually venting from there. (Plus, it's hard to concentrate and find out how much)
+
+
+A 15 Gt burst (1% of permafrost in nothing but methane. This... Isn't plausible one bit) (the 50 Gt burst is described in Edit 2) would give us a heating of 1C for a short duration, 0.4C in long-term. Various scientists such as Gavin Schmidt, cast doubt on this quite frequently, saying it is incredibly unlikely. For actual permafrost, we can likely expect some variation. .5C under high emissions scenarios (closer to RCP 8.5), with some saying a bit lower, or around .3-.4C at the same time. The same study just linked also says under low emissions scenarios we'd expect .15C but due to various melt collapses (thermokarsts), this is up for debate. But thermokarst studies predicts less by 2100, under high emission scenarios, yet others predict (only for low emission scenarios) double the warming, making it closer to .3C.
+
+
+Due to arctic sea ice loss already, we've been facing .11C extra of heating, or .2 W/m^-2.
+
+
+If we lose summer arctic sea ice, we can face an estimated .16C, or .3 W/m^-2.
+
+
+If it is furthered in extent (year round), we are expected to get .35C total (counting the .11C we are already facing). This is where things get...Tricky.
+
+
+So, cloud albedo plays a role in negating warming- but how much, we don't know. Sea ice loss increases cloud cover by 81% over these areas consistently, potentially reducing the feedback (and being 2-3x better than sea ice).It may also provide negligible reduction, or be a positive feedback. There's a lot of variability here, but it isn't going to be a big mass heating in an instant. It'd be gradual as the ice goes away more and more, particularly as we get closer to an ice-free arctic.
+
+
+For it to happen -this- year, well...We'd have to see a graph like this. Which is very, very, very unlikely. We'll probably track closer to 2012 this year, and for the next...Who knows? There is a -lot- of variabiliy with it.
+
+
+- The aerosol masking effect is a big cluster of a...Mess, really.
+
+
+Some predict .4C, but the most common one I see thrown around on Reddit is 1C, but people never seem to note that it is by 2100, and under a specific RCP scenario, rather than what is currently masked. A majority of models indicate lower levels, or around .5C. Various comments from climate scientists also say this.
+
+
+However, aerosols aren't just black and white like most people say they are- and they're not all from fossil fuel emissions. Some are from agriculture, others from fires, others from fossil fuels (not counting the natural ones). Some also heat the world, rather than cool it, but the variety of places that they come from make it unlikely that we'll see them vanish rapidly.
+
+
+- Not a good thing, for certain. But it wouldn't be an instant one either, as a reminder.
+
+
+Dieback (which would happen at ~+3-5°C anyway), would happen over decades (if not longer), but this isn't accounting for deforestation in addition to this. It's important to realize it wouldn't just explode out a lot of carbon!
+
+
+Forest dieback is defined as trees losing health, and is the decline of a forest after a point has been reached. A lot can go into it, such as pests, disease, etc., but it's nonetheless a progressive or premature loss of trees. They can be in specific areas, elevations, perimeters, etc.
+
+
+Likely, it would eventually become a net source rather than sink over time, as weve seen with other dying forests, then start to fade away into a Savannah, as predicted. CO2 release due to this would be gradual, rather than instant.
+
+
+...But the capacity of it isn't nice.
+
+
+Edit: I'm going to do some more research as OPs links say that it could produce 140 years of human emissions (sounds off to me, even if is from the rainforest trust. But there's a lot of factors at play so im gonna check what others say! I could be wrong.) Also, edited my figures.
+
+
+PREPARE FOR MATH.
+
+
+It turns out the Hothouse Earth paper covered this a little, too! (from 2018) So, this paper estimates by 2100 that the Amazon rainforest dieback will add .05°C, under 2C of warming. It has a range of .03-.11°C, BUT is based on extrapolations of observed changes in diebacks and model projections. The total CO2 estimate released by 2100 is also around 15-55 GtC.
+
+
+2014 articles from Journal of Ecology (posting on mobile, reading on desktop, will post articles here eventually) and the sources used for the Hothouse Earth paper line up with this. So, this seems to support the idea that it will be VERY drawn out. The worst case scenarios run with 24-40% biomass shrinkage by 2100. (15-25 GtC).
+
+
+I ran some conversions on the claims by rainforest trust as well, w/ 140 billion tons being 127 Gt. I'm...Confused but also bad at math, so someone correct me if I'm wrong here. For reference, humanity releases ~42 GtC per year. Their math lines up with the Hothouse Earth paper w/ how much carbon is stored (they estimated 150-200 GtC).
+
+
+A rough calculation of GtC to ppm is about (from the IPCC)
+
+
+1ppm CO2 = 2.12 GtC = 7.76 GtCO2.
+So: 1GtCO2 = .127ppm CO2
+1GtC = .47 ppm CO2.
+1ppm = 0.0046875C.
+
+
+We see about a 3ppm rise per year, but this also is on a delay. So even the warming released from this would be delayed for a LONG while. It'd add in the end about ~90+-5 ppm, so it'd be in the current roughly 31 years of human emissions by ppm per year, but a bit over 3 by our total emissions per year. (a lot of our emissions are absorbed by the ocean primarily!) This warming would be delayed by a good bit and vary in the end, as we also have a delay in our emissions (.2°C/decade), so this is a lot of complexity, and this also presumes it'd be instant release -and- all released.
+
+
+So, if the Amazon were to poof and release all of its CO2, it'd end up warming us by around .45C! (used 95 ppm as a reference).
+
+
+However, this assumes all of it would be in the atmosphere and not in the oceans/vegetation/etc. Humans still will release far more, nonetheless!
+
+
+Nonetheless, the dieback would likely be due to the fact that the rainforest is a self sustaining system, and after a certain point it would probably start to struggle. Combine that with a changing climate and you've got this. It'd be over a long period, but be irreversible.
+
+Okay, having to rewrite this as I closed the page clicking to a paper to link. Whoops.
+
+To quickly summarize (by 2100)
+Permafrost + Methane = .15-.5C (.5C being RCP 8.5, methane hydrates ignored because they're not quite a threat)
+Forest fires (boreal forest) = .02-.10C
+Amazon dieback realistically = .03-.11C
+Land sink change = .13-.27C
+
+
+https://www.pnas.org/content/pnas/suppl/2018/07/31/1810141115.DCSupplemental/pnas.1810141115.sapp.pdf
+
+
+Carbon sinks also vary greatly depending on where they're at, what they are, how they'll be affected, what warming we'll hit, etc. So that is also too tricky to put into a singular post. The ocean is also one of our biggest carbon sinks, and absorbs a -lot-. Most of our emissions go into it, rather than vegetation.
+
+
+I can't cover the carbon cycle much (if at all), as that's a bit out of my depth. I'll bug a climate scientist for sure, but I imagine it'd be similar to other feedbacks- over time, relatively small compared to human emissions.
+
+
+- Methane is (typically) overplayed a lot, and is in relation to short-term effects.
+
+
+For the methane hydrates/methane bomb shebang...In Svalbard, where there is a particularly notable clathrate eruption and bubbling, was discovered to be happening for at least 8000 years, and erupted likely due to water depth changes, as it is on a continental slope.
+
+
+More than likely this is one of the few events where this can occur, as methane hydrates must be under high pressure at high depths, where warning from the sea floor, which is dramatically colder than the air, must reach it to destabilize it. On top of that, even in shallow areas, fluctuations in temperature have not destabilized them. Even should they be destabilized (which would take a long, long while), Shakova et al., the team where the methane bomb theory originated, found that much of it went directly into the water and dissolved. Given this, methane releases would be small, given it is [quite soluble already in water, and research by Shakova & more backs this up.] (http://adsabs.harvard.edu/abs/2017RvGeo..55..126R) 
+
+
+The methane bomb theory was aided by the team extrapolating how much methane release was there due to it dissolving, therefore spawning an inaccurate number of how much methane is actually venting from there. (Plus, it's hard to concentrate and find out how much)
+
+
+A 15 Gt burst (1% of permafrost in nothing but methane. This... Isn't plausible one bit) (the 50 Gt burst is described in Edit 2) would give us a heating of 1C for a short duration, 0.4C in long-term. Various scientists such as Gavin Schmidt, cast doubt on this quite frequently, saying it is incredibly unlikely. For actual permafrost, we can likely expect some variation. .5C under high emissions scenarios (closer to RCP 8.5), with some saying a bit lower, or around .3-.4C at the same time. The same study just linked also says under low emissions scenarios we'd expect .15C but due to various melt collapses (thermokarsts), this is up for debate. But thermokarst studies predicts less by 2100, under high emission scenarios, yet others predict (only for low emission scenarios) double the warming, making it closer to .3C.
+
+
+Due to arctic sea ice loss already, we've been facing .11C extra of heating, or .2 W/m^-2.
+
+
+If we lose summer arctic sea ice, we can face an estimated .16C, or .3 W/m^-2.
+
+
+If it is furthered in extent (year round), we are expected to get .35C total (counting the .11C we are already facing). This is where things get...Tricky.
+
+
+So, cloud albedo plays a role in negating warming- but how much, we don't know. Sea ice loss increases cloud cover by 81% over these areas consistently, potentially reducing the feedback (and being 2-3x better than sea ice).It may also provide negligible reduction, or be a positive feedback. There's a lot of variability here, but it isn't going to be a big mass heating in an instant. It'd be gradual as the ice goes away more and more, particularly as we get closer to an ice-free arctic.
+
+
+For it to happen -this- year, well...We'd have to see a graph like this. Which is very, very, very unlikely. We'll probably track closer to 2012 this year, and for the next...Who knows? There is a -lot- of variabiliy with it.
+
+
+-  I've had the 1.6C claim thrown at me recently, so I was curious if it was from the same source. (It was from the temperature anomaly + estimated aerosol masking from the current date, though I've also had other baselines used, vs. what is commonly used- 1850-1900). The IPCC has gotten ice sheet melt wrong by a good measure, but observed warming has been incredibly accurate to date (with minor deviations above average). There's always going to be some deviation in predicted warming, which could also have added to this (they estimated .8C to 1.2C, with an average of 1C warming in the AR5 report.)
+
+
+For temperatures to rise that high, we'd have to be far beyond...Well, any understandings of the climate, and forgo our observations to date (as our observations are very in-line with CMIP5 modeling), and presume that the climate ECS is far higher than what it is observed to be, or could be- even with the new model estimates.
+
+
+For presuming averages, we have to take into account land & sea changes, and for the IPCC/Paris Agreement '1.5C', it must be an average of 1.5C over a certain period of time, rather than the average hitting this. (There's a lot of factors that go into consideration of the average, will dig it up when I can!) The average on some years -has- breached 1C repeatedly (the average from observations in 2017 was 1.2C!), but this was expected due to anomalies.
+
+
+
+- A: GMOs can and will bridge the gap eventually.
+
+
+B: Current biodiversity decline is largely due to horrible management of agriculture and pesticides. Those 2 stop we will see significant drops in species dying. Climate change is still an issue obviously but it's not the reasons species are rapidly dying. And just so you know *we are not in the 6th mass extinction*.
+
+
+
+Not sure if i should feel better or event trust this at all. because me, like most people concerned about this believe we will see this on our lifetime, are depressed by it and feel hopeless about it. Thinking of the horrible deaths as well as the utter grief of seeing society collapse before our very eyes. Many of us are contemplating suicide even as they are unwilling to live long enough to see that happen.
+
+Heck even much of us accepted and resigned that as the future as governments and corporations do nothing about it or oppose action against it in the face of activism and mounting public concern. Even the people guilty of inaction as they are unwilling to change their lifestyles or are unaware of the concern or even straight up deny  or dismiss it. either saying it wont affect them or having swallowed up the climate denial junk being generated by the right wing and the corporate propagandists. 
+
+I dont know if if they are really as bad as what the articles, and people (including scientists) say but I feel that I will live to see the collapse of society and the extinction of Mankind within my lifetime or even earlier (either in the 2030s or even as early as the 2020s) thanks to the feedback loops. I'm even anticipating the Water Crisis (Nothing is being done to address the drying wells) as well as the collapse of the agricultural system and the famines it will produce thanks to bees going extinct and land becoming unusable as predicted in the IPCC report recently.
+
+
+Given AR6 report is to be published this December 31st. I'm merely expecting more bad news or straight up ""The window has closed and any attempt now is impossible and the 2030 deadline has shortened"". Especially since this time around. Feedback loops will be taken into account. i can only imagine the disappointment these activists and all of us will have once its stated that it's either impossible at this point or it's too big to even handle anymore. The distraught and grief of them having to face a post apocalyptic world in their lifetime as there is nothing they can do anymore I hope we all accept what's coming and hope we at least die as swiftly, quietly, and as painlessly as possible. we al fear death dont we? And many of us fear a death from disease, starvation thirst and ehat stroke from this. or even getting killed by other survivors when society collapses. I'm even having nightmares of aimlessly wandering around a post apocalyptic world and then dying from hunger, thirst, and the intense heat from the  uncontrolled warming.
+
+Those feedback loops don't make climate change like boiling a frog. It's more ike dying from a terminal sickness that rapidly gets faster.
+
+It's hard if not impossible to have hope and make a difference when the thing you are fighting against increasingly accelerates faster than expected to the point where the deadline is going to hit you like a brick wall.","2019-08-13 22:57:53","44","81","0.88","https://www.reddit.com/r/collapse/comments/cq0xb7/are_the_feedback_loops_as_bad_as_people_say_they/","True","Newman1651","1747913302.2441769","CO2 is good","manual"
+"cowc6o","collapse","skeptical","Google and Facebook Bias Will Kill Earth","Google and Facebook can swing presidential elections by 2-10 million votes. Google promised Trump won't win 2020, but that's not important. What is important is who they promote. They promote centrists.
+
+Did you know that YouTube is the 2ⁿᵈ largest search engine in the world? Really Graceful on YT has an excellent 5 minute history called ""What the media won't tell you about YouTube"".
+
+https://youtu.be/ri8g3M8jJMw
+
+Renewable energy is the biggest lie you were ever told. Europe gets 50% of its ""renewable energy"" burning forests, many of those forests are in America. Google's own renewable energy experts quit because they found out renewable energy is fraud. The only reason you may even be aware of that is if you're a long-time collapse reader.
+
+**Forests should never be used to serve our electricity needs**
+
+https://thehill.com/blogs/congress-blog/energy-environment/456977-chopping-down-and-burning-our-forests-for-electricity
+
+When Europeans take their recycled plastic and paper out on the curb, it is collected and burned for electricity. They call it ""recycled energy"". Burning plastic and paper for electricity produces CO2, and god knows what else -- but try searching for it on Google, and you'll come away thinking it's a good idea. All the top ranked articles will be positive.
+
+https://www.theguardian.com/environment/2019/feb/28/burning-issue-are-waste-to-energy-plants-a-good-idea
+
+It took us 30 years for solar and wind to reach 3% of total world energy use, and during that 30 years emissions went up 60%. Yet search for ""renewable energy"" on google and the top ranked links you'll see is all feel good stuff. Do you honestly believe google unbiased? If google is willing to de-rank bad Monsanto news, what will they do for private healthcare and the NRA? Monsanto is poisoning us so they can spray food with enough poison to kill off all the insects, and Google helps them for money.
+
+**Google Engineers Explain Why They Stopped R&D in Renewable Energy**
+https://www.greentechmedia.com/articles/read/google-engineers-explain-why-they-stopped-rd-in-renewable-energy#gs.vmd6pe
+
+We are in the middle of a world mass extinction event, and we are at the beginning of runaway mass extinction, which cannot be stopped or reversed -- meaning there will be nothing we can do about it, period. Try searching Facebook and Google for that information, you won't find much, but try looking for EVs and you'll get all kinds of stuff. EVs will do nothing for the environment, but they'll help FB and Google's bottom line.
+
+Google and FB are public forums protected from libel laws by the government, yet they claim they are private companies when they ban both the far left and right in favor of centrist MSM views that corporate advertisers love.","2019-08-11 12:48:16","93","35","0.86","https://www.reddit.com/r/collapse/comments/cowc6o/google_and_facebook_bias_will_kill_earth/","True","CommonEmployment","1747913340.8899577","CO2 is good","manual"
+"cvfrp0","collapse","skeptical","Why Don't We Just Avoid The Collapse? It's Not Impossible.","Dear Everyone Who Wants to Save the World;
+
+We all want to save the planet, but our methods are tired and never worked in the first place. Lets stop with the symbolic protests and fix the problems directly, effectively, and immediately. Our leaders are inadequate to the task, but we can solve things directly, without them.   
+
+I believe the answer is to pursue solutions, not to stand around with signs demanding other people solve our problems. Here is how we can save the  world for nearly no money, using existing tech and proven methods. Anyone with a few tens of millions of dollars could pursue one or more of these solutions, and become a multi-billionaire in the process.  
+
+**The lowest hanging fruit** in the present day is cleaning/fertilizing the oceans in order to restore them to the state they existed in prior to industrialization. This can be accomplished by way of filtering the garbage patches, and adding rice hulls soaked in wood paste and iron oxide. These rice hulls serve as time-release, fully biodegradable fertilizer, supplying iron and silica to the de-nutriated deep oceans. The second part of this will be immensely profitable and save commerical fishing, by reversing 400 years of taking more from the seas than we give back.  
+
+Obvious partners: Florida bauxite mines have the iron oxide, wood pulp mills have the wood paste, rice farmers have the hulls. All are currently waste products, and can be acquired cheaply ($150/ton, will fall with economy of scale.)  Commercial fishing companies are going under worldwide, and the larger players would likely partner with us to save their livelihoods.  
+
+Obstacles:  UN law of the sea prohibits deliberate dumping of fertilizer in international waters. For this we need fishing companies as partners. The profit motive will serve us to get fertilization going, and cleanup can be tied into the granting of fertilization/fishing rights.  
+
+Estimated costs: a few tens of millions of dollars annually would cover the costs of fertilizing the oceans, and this would be recuperated annually in  the form of greatly increased fish haul. Unknown lobbying fees to pass laws allowing UN (or someone) to grant fishing exclusivity in exchange for fertilization and cleaning responsibilities.  
+
+Likely outcome: immediate(under 180 day)  40-50% reduction in oceanic albedo in treated areas, rising as the plankton community grows around the time-release fertilizing rice hulls. Estimated carbon offset, after fertilizing all nutrient-depleted oceanic waters, and both polar oceans, of 50-75% annual anthropogenic greenhouse gas emissions. Massive production of oceanic plankton, shrimp, fish, at observed rates of upwards of 10+ tonnes CO2 sequestered for every 1 tonne of fertilizer added.  
+
+Additional beneficial effect of plankton exhaling DMS (dimethyl sulfate), a cooling chemical which promotes marine cloud formation, leading to additional localized cooling and further reducing albedo. Difficult to  calculate, the increase in cloud production is a common feature of all  algal blooms worldwide.  
+
+*By my (admittedly incomplete) calculations, this is the cheapest, fastest, most easily deployed method of climate healing available to us today.*  
+
+**Second  Solution:** Widespread microbial treatment of oceans, river outlets, to treat nitrogen and phosphate overload from agricultural runoff.  
+
+You can't add nutrients to most of the shallow ocean, and especially not around river outlets, because the issue there is over-nutriation, and oxygen is the limiting factor.
+
+So, in a two part solution, we need to add microbes that metabolize  phosphates and nitrogen, and we need more biologically available oxygen. The microbes are easy, they can be grown in agar and applied via a  spray system (boat, buoy, barge, or terrestrial) to river outflows as they meet the sea. The harder part is increasing the biologically available oxygen.  
+
+For this we can use tethered aerators on buoys, which can convert wave action into finely dissolved oceanic oxygen by way of a simple one-way valve which allows oxygen into the top of the buoy, and then forces it out of the bottom of the buoy through a fine sieve as the buoys descend from each wave crest. By letting the waves do the work, we cut costs precipitously, and the machinery becomes much lower maintenance/cost.  
+
+Combined, the microbes and increased oxygen break down the abundant phosphates and nitrogen into biologically available nutrients, which other species can utilize. Because the buoys keep the water from going hypoxic, life flocks to the now-available nutrients. By balancing the available nutrients with sufficient oxygen and innoculating the river outflows with species which can process agricultural runoff, we keep our shallow oceans alive, and prevent the massive die-off of coastal waters. We additionally sequester substantial (though yet unknown) carbon into the bodies of living creatures.  
+
+Stabilizing the oceanic life web is of utmost importance. The seas are most of the surface of our planet, and without them functioning as they have been for millions of years, we will soon perish. They produce most of our oxygen, and sequester most of our greenhouse emissions. We must rebalance the seas, and part of that is management of our wastes.  
+
+I don't know enough about this particular solution to estimate costs, but objections will be from anyone who has to foot the bill, especially agriculture. Coastal environmental group opposition is guaranteed.  
+
+Desired results: remediation and elimination of river outlet dead zones, closing the cycle on human waste of fertility causing oceanic hypoxia. Revitalization of coastal oceanic waters, massive carbon sequestration.  Because I haven't worked on precisely this sort of project in the past, I will need to do more research into the numbers before I am comfortable providing specific estimates of the carbon sequestration and overall effects on the seas. The result will be a massive reduction in worldwide oceanic dead zones, and a concurrent bloom of all living things, each sequestering carbon in the process of living.
+
+**Third solution:** reversal of oceanic acidification through usage of Olivine mineral degradation through tidal action.  
+
+I love the simplicity of this one. We need to make the oceans more alkaline, quickly and cheaply, before the changing pH kills all the corals and the rest of us  too. The best solution available right now is to take an abundant mining waste product, the mineral Olivine, crush it up, and distribute it in into the tide zones of the ocean. By putting crushed Olivine on the beaches, we allow the natural wave action to slowly degrade this alkaline mineral into the coastal waters. This will return  the oceans to their pre-industrial pH balance, and save us all from the nasty fate of being suffocated by the seas belching out methane and carbon.  
+
+Possible allies: mining companies would love to sell Olivine, and this is a good way to bring them into the climate fight on the side of life. Anyone interested in saving the oceans. Coastal fishing companies, also anyone who wishes to save the corals. This is a good candidate for carbon offset programs as well.  
+
+Objections: it's geoengineering, so environmentalists  and beach protection groups, first and foremost. There are no international legal problems with a nation doing this inside of its own economic exclusion zone, but in the USA, state, federal, and local environmental regulations will have to be modified.  
+
+Estimated costs: I don't have current numbers, but Olivine is sitting in massive heaps worldwide. The costs of transport, crushing, dispersal will all measure in tens if not hundreds of millions of dollars, spread across a decade or more. Re-application may be necessary with time, depending on other climate actions taken/the rate of drawdown of GHG emissions.  
+
+*The biggest obstacle* is that this is not monetarily profitable, and will have to be paid by  governments/society. Economic benefits are hard to define due to the nature of measuring the effect of pH on ocean life. Ultimately, this is cost that must be paid to save the seas, not a business, and thus unlikely to be implemented before more profitable solutions.  
+
+Desired results: a decadal reversal of ocean if acidification benefits all oceanic life aside jellyfish and acidophilic species. All fish, whales, plankton, corals, kelp, sea grasses, most oceanic life benefits. Humans benefit immensely, when we don't die with the seas belching greenhouse gasses into the air. Saving the seas from going acidic is among the most crucial projects of the near term future. We save it and live, or else fail to do so and die suffocating in our own wastes.  
+
+**Fourth solution:** widespread terrestrial revitalization through balancing of the soil biome. We can correct the imbalanced soil microbiome, revitalize exhausted land, reverse desertification and remove nearly any soil pollution simply by adding microorganisms which consume the waste products, and which excrete biologically available nutrients.  
+
+This is not new tech, but an acceleration of existing natural cycles. Members of my family, myself among them, have worked in this industry since the early 1990s, and we have been successfully cleaning up sludge ponds, wastewater treatment plants, mining and agricultural runoff, and fuel oil spills for nearly 30 years, for pennies on the dollar as compared to other methods.  
+
+Microbes  breed so quickly that (if properly motivated) they can remove decades of damage in a matter of months. Once you have inundated the soil, you simply must keep them wet for 90-180 days, and they will balance the soil for you, before dying out and becoming food for the next generation of soil microbes.  
+
+In but one example, we have quietly restored several hundred square miles of desert to grasslands in the southwestern USA, and as long as the soil stays wet, the grassland keeps expanding. The total cost was $850 before water and labor. Anyone can do what we do. It's bone simple and the only reason it isn't done everywhere is there's no profit in fixing people's problems virtually for free, or in giving them the means to do it themselves. As such, you've likely never heard of it, and these methods are rarely emphasized in microbiology, remediation, or environmental science. Nonetheless, they exist and work better, cheaper, faster, than any other method we've discovered.
+
+Obstacles:  Halliburton, Monsanto, Denali, large fertilizer and chemical companies.  We put them out of business by doing their job better, cheaper, and faster. Environmental regulations and pressure groups. Sadly, environmentalists are one of the biggest obstacles to widespread  microbial soil remediation.  
+
+Costs: next to nothing for the microbes, but lots of water is necessary to keep them alive and happy. Because untreated/minimally treated groundwater or wastewater can be used, water costs can be minimized and human drinking water preserved to the greatest possible extent. Most projects will see results within weeks, and be fully completed within 6 months. For perhaps 100 million dollars across ten years, we could turn every desert and all the marginal land on Earth (roughly 11% of Earth's surface) into vibrant, growing grasslands, rich with life and sequestering carbon more efficiently than any other landscape.  
+
+Desired results: by revitalizing the land, we would sequester more CO2,  methane, and GHGs than any other method except for solution 1, which is  to do the same thing to the seas. Estimated offset of performing this more than 50% of annual anthropogenic emissions, as an annual offset. Additionally, the creation of multiple inches of topsoil annually multiplies the carbon sequestration of this method, but in order to improve our measuring techniques, we will likely have to implement this method and perform careful field observations.
+
+**In conclusion**, these solutions, totalling well less than a billion dollars over a decade, would have the result of sequestering more carbon than we emit as a species. They will give us the time to implement new forms of power generation,  transportation, and infrastructure, and save us from climate apocalypse.  
+
+*If  we could find the funds, I have the contacts for everyone we would need  to make these projects happen, and further, have access to all of the  relevant tech. We could start this immediately.*  My entire career, and my father's career, and our entire company's history has been an effort to discover the means of arresting anthropogenic global warming, and to that end, we now have the methods by which we can save the world.
+
+We lack the financial means, and political connections, to make more than a tiny dent in the problems faced by mankind. But by sharing the knowledge we have gathered with the millions of willing and able people who wish to save our Earth, I know that we can solve this problem. Not mitigate it. Solve it dead, and live the rest of our lives on a living world. It's worth untold billions of lives. Surely, it is worth trying, is it not?  
+
+I've  been bashing my head against the wall for years trying to catch the ear of someone with money or power, and meanwhile making a tidy living doing at small scale what I'm suggesting we do globally. But I cannot stand by any longer, watching mankind commit suicide when the means to save ourselves are within our grasp.  
+
+It  will work. It will cost shockingly little. We will save the world in a decade, and most of what I'm proposing is profitable. We just need to get this message to the right people. So, who knows some billionaires/millionaires/enough concerned citizens to fund this? We  have the solutions. Let's make the conversation one of implementing  proven solutions, not one of demanding action from corrupt elites.
+
+We can fix this. So let's do it, instead of begging others to!
+
+\*\*\*\*
+
+Tl;Dr - If you want to save the world, I know how we can do it in a decade, and we just need to fund the damn thing. I need your help, because I suck as a fundraiser and an activist. If any of this resonates with you, please reach out to me, and I will happily put you into contact with the right people.  
+
+If you knew we could save the world, what wouldn't you do to make that happen? Don't we owe it to life itself? I pray that someone reading this can put me into contact with the right folks. Keep your head up folks - we can do this, but we must act now.","2019-08-25 23:10:17","56","31","0.77","https://www.reddit.com/r/collapse/comments/cvfrp0/why_dont_we_just_avoid_the_collapse_its_not/","True","Lets_SaveTheWorld","1747913361.9443676","CO2 is good","manual"
+"ctveur","collapse","skeptical","Let's say the Amazon is all burned to ash tomorrow. How is the rest of the biosphere affected?","It feels like the effects would be catastrophic, but what specific forms would those catastrophes manifest in? Usually I am pretty good at theorizing but tbh this particular event is depressing me so hard I freeze up a bit when trying to think it through. Therefore I am curious to see speculation from others.
+
+Also I realize that this question is theoretical in the short term (it won't all literally burn to ash tomorrow), but it is likely that within not too long it will actually come to pass. It's always hard to predict exactly when, but the watchword is ever ""faster than expected"".","2019-08-22 10:18:24","82","19","0.92","https://www.reddit.com/r/collapse/comments/ctveur/lets_say_the_amazon_is_all_burned_to_ash_tomorrow/","True","TenYearsTenDays","1747913393.2957687","CO2 is good","manual"
+"cl59xk","collapse","skeptical","Top 20% = 70% Emissions | Last Chance To Eat The Rich","About Yesterday's Post: **Top 20% = 70% Emissions | Ignoring Billionaires Will Kill Us All**
+
+I spent 10 years promoting James Hansen 100% private carbon taxes with zero success, but I guess there's a lot of new blood in this sub, because yesterday's ""throwaway post"" was a big hit, and a bigger surprise to me. This is a corrected and referenced version. I'm very heartened by the interest.
+
+**100% Dividends = 0% to the government + 100% to the citizen**
+
+The very foundation of Hansen's proposal is that **all** of the tax money goes 100% back to the people, to those who will bear the brunt of a carbon tax, the poor. I define the poor as the bottom 40%. Kevin Anderson says that the top 20% of earners produce 70% of emissions. 
+
+https://lokisrevengeblog.files.wordpress.com/2019/08/unnamed-file.jpg
+
+10 years ago, James Hansen introduced us to a 100% private carbon tax, which he called a ""Fee & Dividend"" on February 25, 2009.
+
+**Carbon Tax & 100% Dividend vs. Tax & Trade**
+
+http://www.columbia.edu/~jeh1/2009/WaysAndMeans_20090225.pdf
+
+Hansen believes cap'n trade has failed. A 100% dividend means 0% for government, and 100% to the public, notably the poor. This would be the equivalent of a UBI; but instead of just ""free money"", the poor would be paid to fight carbon emissions. This would unite left and right, and drive a new green economy based on climate justice and equality. It puts the horse in front of the wagon, and the carrot in front of the horse.
+
+**The “Carbon Fee & 100% Dividend” as the best potential to initiate cause and effect that will lower CO2 emissions**
+
+http://ossfoundation.us/projects/environment/economics
+
+Hansen came out with his plan in the news.
+
+**James Hansen rails against cap-and-trade plan in open letter**
+
+https://www.theguardian.com/environment/2010/jan/12/james-hansen-carbon-emissions
+
+**Hansen's plea fell on deaf Obama ears.** Obama supported cap'n trade.
+
+http://www.worldwatch.org/node/5962
+
+""We will establish strong annual targets that set us on a course to reduce emissions to their 1990 levels by 2020 and reduce them an additional 80 percent by 2050,"" Obama said.
+
+**Emissions went up 10-15% since 2009**
+
+https://lokisrevengeblog.files.wordpress.com/2019/07/emissions2.jpg?w=696
+
+**In 2015, Hansen tried again at COP21, without success, again**
+
+https://atomicinsights.com/james-hansen-takes-stage-at-cop21-to-explain-carbon-fee-and-dividend/
+
+In 2013, Bernie Sanders introduced a fee and dividend bill that would allow the government to keep 40% of any carbon tax dividend, essentially neutering Hansen's vision. It was a con job using the same language of fee and dividend, but allowing the government to keep 40% of it. It was highly celebrated in the green press.
+
+https://grist.org/climate-energy/sanders-and-boxer-introduce-fee-and-dividend-climate-bill-greens-tickled-pink/
+
+**James Hansen, Ph.D. - The Coming Climate Catastrophe and Our Last Chance to Save Humanity - Offstage** Hansen explains how the US could export 100% dividends to the world.
+
+https://youtu.be/2QvVzE1Gn54
+
+It's my contention that renewable energy is little more than a fraud without a 100% dividend, as evidenced by Solyndra and Solar City.
+
+Renewable Fraud
+
+**Solyndra misled government to get $535M solar project loan: report**
+
+https://www.washingtontimes.com/news/2015/aug/26/solyndra-misled-government-get-535-million-solar-p/
+
+China controls 70% of the world solar market and has recently cut solar production 40%, and lowered subsidies, because they had more solar panels than their grid could handle.
+
+**Solar Down 40%**
+
+https://www.greentechmedia.com/articles/read/chinas-bombshell-solar-policy-could-cut-capacity-20-gigawatts#gs.t3votc
+
+**Is Elon Musk's SolarCity circling the drain?**
+
+https://www.treehugger.com/solar-technology/elon-musks-solarcity-circling-drain.html
+
+**Kevin Anderson says that in the last 30 years, emissions have gone up 60%.**
+
+https://www.carbonneutraluniversity.org/delivering-on-2-degrees---kevin-anderson.html
+
+After 30 year of trying, solar and wind are less than 3% of total world energy use. Do you see that thin orange sliver in the link below, that's how pathetic solar and wind growth are. What good are low solar panel prices, if they don't solve anything? They have to be backed up with a 100% dividend. Even then, we're not out of the woods, but at least we're honestly trying. 
+
+https://lokisrevengeblog.files.wordpress.com/2019/08/bp-2018.jpg?w=696
+
+European green energy fraud is almost indescribable. In northern Europe they get over 50% of their renewable energy by burning imported trees. They burn palm oil in their diesel fuel and lie about the emissions. Their cap'n trade system is so corrupt, the only people making money off it are the fossil fuel companies. In northern Europe, they burn plastic and paper for electricity and call it ""recycled energy"".
+
+**Scientists discover microplastics falling out of the air on remote French mountain**
+
+https://www.nationalgeographic.com/environment/2019/04/microplastics-pollution-falls-from-air-even-mountains/","2019-08-02 15:03:55","54","15","0.95","https://www.reddit.com/r/collapse/comments/cl59xk/top_20_70_emissions_last_chance_to_eat_the_rich/","True","CommonEmployment","1747913418.9228578","CO2 is good","manual"

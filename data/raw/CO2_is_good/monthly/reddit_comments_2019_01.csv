@@ -1,0 +1,297 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"eeycsl2","t3_ajs3vs","ajs3vs","climatechange","action-oriented","Your friend's interpretation of these model outputs is fine, as far as it goes. You can't say he's wrong. The best you can say is that there are other data and other models which can support a different interpretation. It's up to you whether you feel analytically grounded enough to enter a battle of models and interpretations.
+
+This is the problem with trying to reduce extremely complex systems to models: There will always be wide ranges of models, methods, relevant datasets and interpretations. 
+
+One method which I prefer as a starting point is to set models aside for a moment, and focus instead on empirical data: These data incontrovertibly show increases in terrestrial heat-energy reservoirs, prominently including the surface and troposphere, at around the same time that we've seen massive increases in the greenhouse-gas content of the atmosphere. 
+
+That's proof of correlation, not proof of causation, so it's important not to overstate the value of this evidence. But the correlation, taken together with other empirical data if you wish, do strongly support a hypothesis of continued warming. 
+
+That's a really good place to start. From there you can try to bring in models to attribute some percentage of warming to manmade GHG emissions — but at that point you're not really convincing anyone, you're just supporting your empirical point with added speculation. 
+
+Adding speculation and model interpretations to empirical data is a fine enough analytic method on its own — it's how science goes forward. But it's not strong enough evidence to rule out other people's interpretations which start from approximately the same empirical data. We don't yet have climate-science methods that allow us to zero in on one model or one interpretation as the correct one. We have to remain open to everything that remains plausible but unproved...until it's actually disproven.  ","2019-01-25 19:26:14","9","DocHarford","1747906789.738559","CO2 is good","manual"
+"eez0lzk","t3_ajs3vs","ajs3vs","climatechange","action-oriented","The IPCC says that the climate sensitivity is somewhere between 1.5C and 4.5C. That's a factor of 3. And that range has not decreased at all in over 20 years. So indeed it is not 'settled science'.","2019-01-25 23:36:03","4","etzpcm","1747906789.738559","CO2 is good","manual"
+"eez1w9q","t3_ajs3vs","ajs3vs","climatechange","action-oriented","The first odd thing is him using the results of a >30yr old model to make a decision about the validity of current climate science.
+
+The second is that this 30yr old obsolete model actually does surprisingly well considering how simple it was. Your friend talks about emissions being above Scenario B, but that is only looking at CO2, while there are other GHG that affect the climate. Methane in particular is faster acting than CO2, so where did CH4 track? [RealClimate](http://www.realclimate.org/index.php/archives/2018/06/30-years-after-hansens-testimony/) have looked into this and say that the most other GHG emissions have been tracking at or below Scenario C, so the overall anthropogenic forcing has been somewhere between B and C. Taking that into account, Hansen 1988 does surprisingly well for such a simple climate model. Later models have generally done better. 
+
+Finally, the ""settled science"" schtick. Conservation of energy is a cornerstone of physics, it's pretty much as ""settled"" as you get, and that's all global warming is. If you let less energy leave a system (by blocking LW radiation leaving), then it warms up. So that's ""settled"". But scientists are still actively researching the details - how fast the warming will be, how much it will warm to equilibrium etc. So that's not settled. But that doesn't invalidate the first bit!","2019-01-25 23:51:29","5","dirk_prefect","1747906789.7525697","CO2 is good","manual"
+"eeyaxv9","t3_ajs3vs","ajs3vs","climatechange","action-oriented","""NOT settled science?"" Is it settled enough, in your or your friend's view, to take measures to reduce CO2 emissions to zero and transition to energy sources and activities that don't emit CO2?","2019-01-25 19:07:08","1","sdbest","1747906789.7525697","CO2 is good","manual"
+"eeyr3u4","t3_ajs3vs","ajs3vs","climatechange","action-oriented","The models are doing well despite what anyone says: http://www.realclimate.org/index.php/climate-model-projections-compared-to-observations/ And if the models were substantially different from observations in a way that was unexpected then there would need to be a rethinking of what we know about forcings. But whether humans are having an influence or not is beyond question at this point. The temperature rise we have experienced is probably higher than anything experienced in the holocene. [Here is a graph](http://www.realclimate.org/images//Marcott.png) of temperatures from the last 12,000 years at a 20 year resolution. That graph is from [this paper by Marcott](http://content.csbs.utah.edu/~mli/Economics%207004/Marcott_Global%20Temperature%20Reconstructed.pdf). Also note how the modern instrument records is a huge unnatural looking spike. If there were a huge spike like that anywhere in the proxy records we would be able to see it.
+
+The first prediction of a large temperature rise due to carbon emissions was made in 1896 by [Svante Arrhenius](https://earthobservatory.nasa.gov/features/Arrhenius/arrhenius_3.php), his rough calculation was high but it was very good considering the small amount of information he had. He correctly calculated the right order of magnitude of the change. And now we have instrumental observations that show temperatures have risen at a pace that still has no known precedence [ [In the past century alone, the temperature has climbed 0.7 degrees Celsius, roughly ten times faster than the average rate of ice-age-recovery warming.](https://earthobservatory.nasa.gov/features/GlobalWarming/page3.php) ] rise to a point that has not been seen in *at least* [2000 years](http://www.realclimate.org/images//Marcott_PAGES2k.png). Could the early scientists have gotten lucky with their prediction? That they could predict a huge unprecedented temperature rise that has no known precedent of happening in many thousands of years and then for it to happen directly after making the prediction. You at least have to admit that the sharp temperature spike looks a lot like [this graph](https://climate.nasa.gov/system/resources/detail_files/24_co2-graph-021116-768px.jpg).  
+
+But you know it's not just the basic physics and the observation of correlation that is convincing, but most people don't seem to understand that there are physical fingerprints in the atmosphere that show us what is causing the warming. For instance did you know that while the troposphere is warming the stratosphere is actually cooling? This happens as a transient effect when a large amount of greenhouse gases are put into the atmosphere this blocks infrared radiation from reaching into the stratosphere, and so it cools. This effect has been observed and any other known source of temperature change would not have this result. If the Sun were the cause then all layers of the atmosphere would warm. If you want to dig deeper: [[1]](https://www.pnas.org/content/early/2013/09/10/1305332110) [[2]](https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1256/qj.02.186)
+
+And it's not just that the stratosphere is cooling but also the diurnal temperature range (daily macimum and minimum temperature difference) is decreasing and the tropopause height is increasing. These observable effects are what go into fingerprint attribution studies. They can not be explained without a large greenhouse gas effect. Looking at these effects is just one method of attribution as well, there are many papers using different methods that come to a similar conclusion that humans are the cause. [This graph](https://en.wikipedia.org/wiki/Attribution_of_recent_climate_change#/media/File:Attribution_of_global_warming.jpg) was developed from an IPCC report that weighed all the different studies. 
+
+EDIT: More to their point we have simply learned more about climate sensitivity in that time. Hansens's value for climate sensitivity is higher than the average we think now. And the 80s were when the first serious models were being made, we shouldn't expect it to be perfect. Scientists have already looked at the early models critically and improved on them. They made the same observation that this person is making and moved forward and incorporated new better knowledge of the atmosphere, this person is 30 years behind the science.","2019-01-25 21:52:50","2","[deleted]","1747906789.7525697","CO2 is good","manual"
+"ef8mhjv","t3_ajs3vs","ajs3vs","climatechange","action-oriented","u/PSadair antropogenic climate change IS settled science, but that does not mean, that our models are already fully accurate. For instance solar output was strongest around year 1960 and is at an actual minimum (but the fall was not linear, of course). Also our aerosole output, mostly by SO2 emissions was cooling the planet, but in our efforts to reduce air pollution we cleaned up chimneys and so this cooling effect, ""solar dimming"" was reduced. There are losts of other effects. Let me give you a simple analogy: IF during winter you drive your car on a snowy slippery road and in a curve your car gets out of control, you are in deep trouble. However you might not be able to predict, if your journey will end at the next tree, or if you might get your car safely to a halt. Still this uncertainty does not mean the cause of your trouble, snow on the road and too high speed, is in any doubt. ","2019-01-29 05:51:36","1","[deleted]","1747906789.7525697","CO2 is good","manual"
+"eeyckz7","t3_ajs3vs","ajs3vs","climatechange","action-oriented","This argument makes too many vague references to be effectively and specifically rebutted.
+
+However, the fact that the earth is warming due to recent, human carbon dioxide emissions is settled science.
+
+The exact temperature sensitivity of earth to carbon dioxide is far from settled, and we had very, very little idea of that sensitivity back in 1988. No shit that paper didn't spell out the earth's exact future!","2019-01-25 19:24:15","-1","FIST_IT_AGAIN_TONY","1747906789.7682052","CO2 is good","manual"
+"edkfv08","t3_aduybr","aduybr","climatechange","action-oriented","Nope. Arctic News is well known for being absolutely full of shit and associating with the likes of Guy McPherson. I believe Malcolm Light, the 'scientist' who wrote the article has a long history of making outrageous predictions - I think he claimed Britain would be underwater by 2000 a few decades ago, although I may be misremembering.
+
+If global extinction were sufficiently likely within a certain period, serious scientists would actually be predicting it. Seeing as only pseudoscientists are predicting it, I'd say we're okay for a while.","2019-01-08 16:13:22","12","[deleted]","1747906808.9991531","CO2 is good","manual"
+"edkfe1n","t3_aduybr","aduybr","climatechange","action-oriented","Seriously? You are linking to a random page on the internet that says
+
+> We will all be boiled alive like lobsters in a massively humid atmosphere and converted into stardust. 
+
+(within 18-34 months) and you're asking if it's true?","2019-01-08 16:07:29","10","etzpcm","1747906809.0021532","CO2 is good","manual"
+"edkaw3t","t3_aduybr","aduybr","climatechange","action-oriented","Over the past 12 or so years I have seen a steady stream of these reports of sudden spikes in methane. the image shown is from the Zeppelin station in Svalsbard in 2011. 
+
+This is the current data from NOAA (though affected by the shutdown)
+
+[https://www.esrl.noaa.gov/gmd/webdata/ccgg/trends/ch4\_trend\_all\_gl.png](https://www.esrl.noaa.gov/gmd/webdata/ccgg/trends/ch4_trend_all_gl.png)
+
+&#x200B;
+
+Yes it is a worry in the longer term of decades but we do not face extinction in years. 
+
+&#x200B;
+
+You can see the Zeppelin station up to date here
+
+[https://www.esrl.noaa.gov/gmd/webdata/iadv/ccgg/graphs/ccgg.ZEP.ch4.1.none.discrete.all.png](https://www.esrl.noaa.gov/gmd/webdata/iadv/ccgg/graphs/ccgg.ZEP.ch4.1.none.discrete.all.png)
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;","2019-01-08 15:09:07","5","[deleted]","1747906809.0081532","CO2 is good","manual"
+"edkowj8","t3_aduybr","aduybr","climatechange","action-oriented","""causing a Catastrophic Permian Style Global Extinction Event, is timed to begin on 4th September, 2021""    
+Now that's precise timing right there.    
+
+
+It's a modern-day equivalent of holding a sign saying ""The End Is Nigh"".  In most articles claiming near-term human extinction, you will find the same selected few names and websites.  Arctic News, Sam Carana, Malcom Light, Guy McPherson, ... I don't know what's in this for them, but I don't believe their claims for a minute.  Most likely, they are deluded.   
+
+
+Maybe we see another catastrophic wildfire, or another devastating typhoon or hurricane.  But exactly nothing earth-shattering will happen before, at, or after 4th September, 2021.  
+
+&#x200B;
+
+&#x200B;","2019-01-08 18:00:34","5","nosleepatall","1747906809.0111532","CO2 is good","manual"
+"edl9an3","t3_aduybr","aduybr","climatechange","action-oriented","From [Ruppel & Kessler, 2016](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016RG000534):
+
+> On the contemporary Earth, gas hydrate is dissociating in specific  terrains in response to post‐LGM climate change and probably also due to  warming since the onset of the Industrial Age. Nevertheless, there is  no conclusive proof that the released methane is entering the atmosphere  at a level that is detectable against the background of \~555 Tg yr−1 CH4  emissions. The IPCC estimates are not based on direct measurements of  methane fluxes from dissociating gas hydrates, and many numerical models  adopt simplifications that do not fully account for sinks, the actual  distribution of gas hydrates, or other factors, resulting in probable  overestimation of emissions to the ocean‐atmosphere system. The new  generation of models based on ocean circulation dynamics holds the  greatest promise for robustly predicting the fate of gas hydrates under  climate change scenarios \[*Kretschmer et al*., [2015](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016RG000534#rog20120-bib-0172)\] and could be improved further with better incorporation of sinks.           
+
+You shouldn't worry about what these bloggers are saying about a methane apocalypse. Extraordinary claims require extraordinary evidence, and they fail to produce it. As a general rule of thumb, anyone who cites the Arctic News blog is almost certainly wrong.","2019-01-08 22:01:13","5","Devonian93","1747906809.0151532","CO2 is good","manual"
+"edkfeb3","t3_aduybr","aduybr","climatechange","action-oriented","Well since the first paragraph start that we will all die in a global firestorm caused by methane blowout by 2020. That's a bit more then in a year, i don't take it to seriously. It looks a lot like a blog with some nice handmade pictures and a lot of sources to support their view. I'm not a scientist, but just looks to extreme to me. But we will have worse storms and other factors then we now have in the coming decades.","2019-01-08 16:07:34","3","derjarjarbinks","1747906809.0171533","CO2 is good","manual"
+"edwrsye","t3_aduybr","aduybr","climatechange","action-oriented","Id say ""hell naw"" since i just went to the CAMS methane forecast charts and nothings out of the ordinary. It seems to be direct links that arent working but i'll try and paste a link anyways. 
+
+[https://atmosphere.copernicus.eu/charts/cams/methane-forecasts?facets=undefined&time=2019010800,3,2019010803&projection=classical\_global&layer\_name=composition\_ch4\_totalcolumn](https://atmosphere.copernicus.eu/charts/cams/methane-forecasts?facets=undefined&time=2019010800,3,2019010803&projection=classical_global&layer_name=composition_ch4_totalcolumn)","2019-01-12 18:25:31","3","RipDuncanIdaho","1747906809.0236235","CO2 is good","manual"
+"edkkfeu","t3_aduybr","aduybr","climatechange","action-oriented","This looks like some nonsense. Arctic News has a reputation for wildly outlandish claims and purposefully misinterpreting data to fit their clickbait stories of catastrophe. They are definitely NOT well regarded among actual climate scientists. Rule of thumb, don’t trust random people that post on blogs or YouTube channels when it comes to climate science. Trust sources that are actually educated and active in the field and publish peer reviewed work in journals.
+
+That being said methane feedbacks are a problem for the future and something that requires more study and understanding since it will contribute to more warming this century, just not on the extreme level that doomsayers claim. Here is a good breakdown on it from the chief of the USGS gas hydrate project: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016RG000534","2019-01-08 17:08:25","2","STOPSENDINGMEHENTAI","1747906809.026623","CO2 is good","manual"
+"edkl9za","t3_aduybr","aduybr","climatechange","action-oriented","Thanks for brightening my day! It has been a long time since I have last seen a nice, overblown, end-of-all-life apocalyptic climate change story like yours! It made me smile and take the actual evil things that are happening a little lighter :-)","2019-01-08 17:18:40","1","TSeral","1747906809.028623","CO2 is good","manual"
+"edu8k2c","t3_aduybr","aduybr","climatechange","action-oriented","As long as irresponsible morons are allowed to breed without regulation, leaving women to pay the price of raising their child....yea we are fucked. It's just Idiocracy, it's just science and math.","2019-01-11 21:06:58","1","[deleted]","1747906809.030623","CO2 is good","manual"
+"ef6ijn8","t3_aduybr","aduybr","climatechange","action-oriented","Yep, fucked.","2019-01-28 15:56:59","1","catalystmatt","1747906809.0396767","CO2 is good","manual"
+"eduvy0i","t3_aduybr","aduybr","climatechange","action-oriented","Good. Yay. Good riddance! Good bye human race! Good bye rat race!","2019-01-12 01:26:04","0","[deleted]","1747906809.043689","CO2 is good","manual"
+"edz00l1","t3_aduybr","aduybr","climatechange","action-oriented","https://mobile.twitter.com/climate_ice/status/494146188514693120
+
+""If even a small fraction of Arctic sea floor carbon is released to the atmosphere, we're f'd.""
+
+","2019-01-13 13:11:10","0","littlefreebear","1747906809.0452306","CO2 is good","manual"
+"edlkxos","t3_ae04u5","ae04u5","climatechange","action-oriented","Global temperature response to CO2 is logarithmic.  So if a first doubling from 300 ppm -> 600 ppm causes 1.4 degrees of warming, it takes another doubling from 600 ppm -> 1200 ppm to cause the next 1.4 degrees, etc.","2019-01-09 00:30:50","6","technologyisnatural","1747906828.5618076","CO2 is good","manual"
+"edm7xbk","t3_ae04u5","ae04u5","climatechange","action-oriented","We actually have about +1.52C from today's warming :) 
+
+So, *if* we are only ""feeling"" the effect of GHGs 35-40 years past (360ppm), then we would see ~ another 1.52C if we hit ~ 520 ppm.","2019-01-09 06:07:16","0","InvisibleRegrets","1747906828.5643983","CO2 is good","manual"
+"ed7c7bh","t3_acchit","acchit","climatechange","action-oriented","90% of Californias rainwater just runs off into the ocean. Hope that helps.","2019-01-04 04:58:01","1","MrHand1111","1747906863.8998768","CO2 is good","manual"
+"ed0flz7","t3_abi9ul","abi9ul","environment","emotional","Never a good idea to reference wiki or joe Rogan 😂","2019-01-01 13:47:22","16","[deleted]","1747906978.0697043","CO2 is good","manual"
+"ed0gwa6","t3_abi9ul","abi9ul","environment","emotional","Varg Vickerns is a convicted murderer and white supremacist.
+
+Howard Bloom is a PR hack.
+
+Joe Rogan got famous making people eat bugs on TV.
+
+If you are refuting the consensus of the majority scientists in the world, you need stronger sources than just some grifters' opinions.","2019-01-01 14:19:32","16","FlipJustFlip","1747906978.073786","CO2 is good","manual"
+"ed0hbdo","t3_abi9ul","abi9ul","environment","emotional","You are mostly wrong. True, the single biggest polluter is the u.s. army, and 100 companies are responsible for 70% of world's greenhouse gases.
+It doesn't mean it is a scam though. Sure, dumb politics and policies are always dumb, but with your personal choises, you can either be part of the problem or part of the solution. We need to treat nature better for the benefit of ourselves, as well as nature and it's inhabitants.","2019-01-01 14:29:13","11","teikki","1747906978.077333","CO2 is good","manual"
+"ed0hg7u","t3_abi9ul","abi9ul","environment","emotional","All of your sources are heavily unreliable. The persons listed have no idea what they’re talking about . Additionally, you have cited 4 sources against the 99 percent of scientists that disagree with you. You don’t even have a single peer-reviewed study or anything of the like to back up your claim. As for temperature fluctuations, do you honestly believe all of modern climate science forgot to account for that known phenomenon?","2019-01-01 14:32:19","9","bigboyyungtors0","1747906978.0798552","CO2 is good","manual"
+"ed0hemn","t3_abi9ul","abi9ul","environment","emotional","1: You correctly identify the current policies to be insufficient to deal with climate change. This tells you something about politics, not about climate change.
+
+2: The primary health concern of cars (but also industry) in cities comes from particulates and other pollutants. These can be measured and the effects on humans are well-known. However, their contributions to climate change are mostly on a global, not on a local scale. Greenhouse gases spread globally, and while a rise in CO₂ concentration has certain effects on living things, it cannot be easily smelled or sensed.
+
+3: Forests are part of the carbon cycle, so a forest fire does not release additional greenhouse gases into the atmosphere. The forest is going to regrow and recapture the released greenhouse gases, whereas burning fossil fuels releases carbon that was stored millions or even billions of years ago. And your claim regarding volcanic activities is simply not true as you can see [here](https://www.sciencedirect.com/science/article/pii/S092181810200070X) or [here](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2001RG000105).
+
+4: Climate reacts to whatever forces it to change at the time; humans are now the dominant forcing. The fact that there is a natural cycle of changes in climate does not negate human effects that are important now and in the near future. There are countless studies that all show pretty well that there have been dramatic changes in the earths atmosphere since the industrial revolution, and the scientific evidence that this is caused by human activities is overwhelming. I am really sorry, but watching questionable youtube videos does not somehow make you more knowledgable than 99% of science.","2019-01-01 14:31:17","7","[deleted]","1747906978.0833359","CO2 is good","manual"
+"ed0htm0","t3_abi9ul","abi9ul","environment","emotional","Ice ages and volcanoes are factored in.
+
+Valid points about industrial pollution and waste being allowed yet average citizens being held accountable. Tax credits are another shelter. 
+
+I’ve lived in cities polluted by car exhaust emissions compounded by weather - smog, acid rain, etc. 
+electric vehicles will be the shift- thank you Musk- but it will still take time. Every year is warmer and the oceans are sitting on vast supplies of methane. That’s why Gates and his crew will be spewing particulates in the atmosphere next year.  
+
+So do your tabulations - the philanthropic entrepreneurial geniuses will find ways to circumvent the clowns in congress and get some things done. If not- humans migrate while they can still breathe. ","2019-01-01 14:40:43","4","annbeagnach","1747906978.0863593","CO2 is good","manual"
+"ed0hzoe","t3_abi9ul","abi9ul","environment","emotional","Your first statement about the ships is a lie. It's 16 ships, and the statistic refers to sulfer only, not emissions as a whole. If you would've read the article past the headline then you would have known that. 
+
+Please do actual research before making such statements on reddit. The least you can do is actually read posts and articles before referencing them. ","2019-01-01 14:44:34","4","Uny0n","1747906978.088359","CO2 is good","manual"
+"ed0gzdy","t3_abi9ul","abi9ul","environment","emotional","Ice Ages!! There's been 20 in the past 2M years. If you look at the CO2 levels for the end of the Eemian then maybe we can talk. If you know how little the Milankovitch actually affects temperature, again maybe....  but just tossing that in the ""argument"" then adding mammoths(!!) FFS take a course","2019-01-01 14:21:31","3","Sznajberg","1747906978.0903592","CO2 is good","manual"
+"ed0mlu0","t3_abi9ul","abi9ul","environment","emotional","This is hilarious.","2019-01-01 16:14:49","4","[deleted]","1747906978.0918815","CO2 is good","manual"
+"ed19a80","t3_abi9ul","abi9ul","environment","emotional","Why did you even post this? None of us can change your mind. ","2019-01-01 20:50:38","3","[deleted]","1747906978.093678","CO2 is good","manual"
+"ed0k47z","t3_abi9ul","abi9ul","environment","emotional","Yep. You’re smarter than all the scientists. So much smart.","2019-01-01 15:29:32","2","VorpalBunny0604","1747906978.0957017","CO2 is good","manual"
+"ed0ka6q","t3_abi9ul","abi9ul","environment","emotional","Howard Bloom music publicist for Billy Joel and Styx!!  Deep thinker on Mooslems! ...The guy who started the 60's(!!) And an expert in Cch with only a bachelors degree! 
+
+  ","2019-01-01 15:32:45","2","Sznajberg","1747906978.0977027","CO2 is good","manual"
+"ed1czsq","t3_abi9ul","abi9ul","environment","emotional","Why would you post this if you cannot be convinced that you are incorrect? You thought you might enlighten people with the wise words of Howard Bloom?","2019-01-01 21:35:28","2","[deleted]","1747906978.0997026","CO2 is good","manual"
+"ee19vyk","t3_afdakl","afdakl","environment","emotional","Also, \*please\* learn about Global Warming Potential 'GWP' factors GWP20 vs GWP100 for comparing CH4 to CO2. Here's a start based on what I've been reading - including references at the bottom to source data: 
+
+Methane (CH4) 'lives' in the atmosphere about 10-12.5 years. And yet, due to (as far as I can tell) institutional inertia and conforming to long established standards, most papers compare methane to CO2 on a 100 year scale. You'll see many papers stating that methane is 20x or 25x more powerful than CO2. But that's using GWP100. Thing is, over a 20 year timeframe, CH4 is \~85x more potent than CO2. (see EPA website below)
+
+If we were sitting in the year 1850, GWP100 could make sense, as we'd be thinking about how our behavior affects long term climate change. But this is 2019. We've already seen 1 degree C rise. Our predicament is urgent. We need to be accounting for how emissions today contribute to global warming over the next few years.  We want to avoid tripping off cascading warming events. 
+
+Given all this, please consider that roughly 1.5 billion head of cattle worldwide account for 35-40% of human caused methane emissions, and by using GWP100, we are probably under-calling the effect of these animals by at least 3x.   
+
+
+**What you can do:** 
+
+1. read up on GWP20 and GWP100 and consider both in every discussion about methane. 
+2. Find plant based alternatives to dairy and beef.  
+3. Urge people around you to find plant based alternatives to dairy and beef. ([challenge22.com](https://challenge22.com) is helpful)
+4. Call your reps and tell them to end subsidies to animal ag - esp those for dairy and cattle ranching. And, if your political ideology allows it, tell them you want a dairy and meat tax too.
+5. Support organizations like [rowdygirlsanctuary.com](https://rowdygirlsanctuary.com) and their RAP - Rancher's Advocacy Program - that helps animal farmers and ranchers transition to low carbon / low cruelty businesses. 
+6. Support my lobbying campaign to end US fed subsidies to animal ag ([https://www.lobbyists4good.org/animal-ag-subsidies](https://www.lobbyists4good.org/animal-ag-subsidies) ). We've already crowd-funded 1 full month of lobbying (and I'm going to DC for 3 weeks to lobby along with our lobbyist). We'd love to crowd-fund another month. The focus of this campaign is 100% environmental - reducing animal ag in order to lower methane emissions and thus global warming.
+
+Note: this is not to diminish our call to transition from fossil fuel energy to clean energy sources. This is simply another component we need to tackle. And we don't have time to put it in climate action plan 2.0. We need to cut out beef and dairy NOW. 
+
+**Sources:** 
+
+See tables on pg 385 & 387 of LLS [http://www.fao.org/docrep/010/a0701e/a0701e.pdf](http://www.fao.org/docrep/010/a0701e/a0701e.pdf) for the per-head methane emissions of cattle in various regions of the world. The table on page 96 gives the population of large ruminants at 1.5 B. 
+
+See EPA website for a discussion of GWP 20 vs GWP100 as well as the lifetime of a single methane emission. Their wording feels slightly to favor GWP100, but at least they explain the difference. [https://www.epa.gov/ghgemissions/understanding-global-warming-potentials#Learn%20why](https://www.epa.gov/ghgemissions/understanding-global-warming-potentials#Learn%20why)
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;","2019-01-14 07:29:04","2","StuporTropers","1747907001.1797035","CO2 is good","manual"
+"ee4dtka","t3_afdakl","afdakl","environment","emotional","This is excellent, but I think the summary fails to do justice to the answers they gave. In order of importance I would say:
+
+1. Collaborate. Work with others to do something real about climate change. 
+
+2. Bring the conversation to everyone's attention. It's not just about discussing it, it's about getting people to do something. We only probably have the near future to work with. 
+
+3. Don't think that doing one thing is doing your duty. Do everything you can on all sorts of levels. Consume less, lobby more, change lifestyle, make and push for changes. And so on.
+
+[Edit] [This article](http://greensocialthought.org/content/green-growth-heart-green-new-deal-it%E2%80%99s-malignant) offers an excellent viewpoint on the Green New Deal. Warning: it's brutal but fair. Ignore the title.","2019-01-15 14:34:01","2","jaggs","1747907001.1839435","CO2 is good","manual"
+"ed8vw5r","t3_acim6e","acim6e","environment","emotional","If you're in the U.S., your involvement could be especially critical because [experts agree that the U.S. could induce other nations to enact climate mitigation policies by adopting one of our own](http://policyintegrity.org/files/publications/ExpertConsensusReport.pdf). 
+
+The states where we need by the most new volunteers are Kentucky (because McConnell) Ohio, Georgia, Indiana, West Virginia, Arkansas, Kansas, Texas, and Missouri. For an idea of scale, Kentucky needs to more than sextuple its volunteer lobbyists, while Missouri needs to less than quadruple. Even in Kentucky, [59% of the public supports a carbon tax](http://climatecommunication.yale.edu/visualizations-data/ycom-us-2018/?est=reducetax&type=value&geo=state&id=21), so this is far from an outrageous goal. I suspect our greatest barrier to success is [pluralistic ignorance](https://en.wikipedia.org/wiki/Pluralistic_ignorance#Examples), which [can be dispelled through education](https://en.wikipedia.org/wiki/Pluralistic_ignorance#Consequences). 
+
+The state where we need the fewest new volunteers is Alaska, which only needs about 2 more active volunteers. 
+
+EDIT: yikes, typos. Also, [there are tens of millions of Americans just waiting for a trusted friend or family to ask them to join a campaign like this](http://climatecommunication.yale.edu/wp-content/uploads/2017/07/Global-Warming-Policy-Politics-May-2017.pdf). Let it be you!","2019-01-04 19:26:33","1","ILikeNeurons","1747907021.1612964","CO2 is good","manual"
+"effjhot","t3_alnrte","alnrte","collapse","skeptical",".8 mach is a more likely cruise speed and 80% power not 20%. So your estimate was less than half the average small business jet. You are right that even inside rich countries emissions go up massively with the wealthy.  And just think about Sheldon aldelson with his two in line 747 flights, because he wanted his grandchildren to have a skate park on theirs.","2019-01-31 11:20:24","49","iamamiserablebastard","1747907329.2237406","CO2 is good","manual"
+"effkwty","t3_alnrte","alnrte","collapse","skeptical","Regarding the average emissions for Australians, we can't apply that number for the average citizen. From what I have read, it's calculated by dividing the total emissions of a country by the number of citizens but as you show, some (the Capitalists) emit much more than the rest so we end up with numbers that don't really show the actual problem (inequality). It also ignores people that are actually doing something to curb their emissions by not using air travel, avoiding meat, etc...
+
+&#x200B;
+
+Here is a good part from a book called ""Too many people?"" (the book does NOT agree with the overpopulation idea in case you were wondering)
+
+>The “global sect of greedy gluttons,” as journalist Hervé Kempf calls the super-rich,33 occupies global ecological space and generates pollution vastly out of proportion to its numbers. Any attempt to attribute the environmental crisis to “American consumption” (or British, or Australian, or Canadian, or . . .) misses the target if it doesn’t recognize:  
+>  
+>• The richest 1 percent of Americans take in and spend more than the bottom 40 percent.  
+>  
+>• The richest 5 percent of Americans own more than everyone else in the United States combined.34  
+>  
+>• The bottom 80 percent of Americans account for less than 40 percent of consumer spending.35  
+>  
+>• In Australia, eleven very rich individuals own more than the country’s 800,000 poorest households combined.36  
+>  
+>• The 147 individuals who topped the 2002 Forbes “World’s Richest People” list had total wealth equal to the total annual income of three billion people, half of the world’s population.37  
+>  
+>In the face of these facts, overpopulation pales as a social issue. To quote Guardian columnist George Monbiot: “It’s time we had the guts to name the problem. It’s not sex; it’s money. It’s not the poor; it’s the rich.”38
+
+&#x200B;
+
+The sources:
+
+34 Wolff, “Recent Trends in Household Wealth,” 52.
+
+35 Lind, “Is America a Plutonomy?”
+
+36 Calculation courtesy of Dick Nichols. The eleven are the ten men and one woman from Australia on the Forbes list of the world’s billionaires. The 800,000 households are the poorest decile (10 percent) according to the Australian Bureau of Statistics.
+
+37 Toussaint, Your Money or Your Life, 34.
+
+38 Monbiot, “The Population Myth.”
+
+&#x200B;
+
+That being said, nations in the first world will have to tackle more than the 1% in order to reduce emissions (though the 1% will still pay the most). Stan Cox (an ecosocialist) argues that [the 33% wealthiest in America will need to make some noticeable sacrifices](http://greensocialthought.org/content/33-percent-will-have-pick-tab-climate-conversion).
+
+Finally, the crimes of the Capitalists like Elon aren't limited to their personal emissions alone (I would say their personal emissions are the least worst thing about them). Their desire to amass profit has led to planned obsolescence, outsourcing, agroindustry and so on and don't get me started on their efforts to sabotage any attempts to serve people. [An example out of many](https://grist.org/article/the-koch-brothers-hate-public-transit-but-they-cant-always-stop-projects-in-their-tracks/).
+
+&#x200B;","2019-01-31 11:44:24","30","[deleted]","1747907329.2303352","CO2 is good","manual"
+"efffgtw","t3_alnrte","alnrte","collapse","skeptical","Interesting breakdown, obviously some very low hanging fruit, but that's the truth of it. A small percentage of people are the big emitters, but also by proxy. Others emit more because they do. 
+
+You said the average Aussie annual co2 was 20? I think EU is 8, USA 35 or something. The third world is negligible in comparison. 
+
+Emissions are insidious things. I watched a local bush fire being brought to heel over a week recently and the planes, helicopters, trucks, etc involved was staggering. I also do humanitarian work in Africa and there are times when a project I implemented was by far the most carbon intensive activity in that village at the time. It's not easy to reconcile, however mr musk can not justify his emissions no matter what good he does. Period.","2019-01-31 09:47:43","30","happygloaming","1747907329.2341383","CO2 is good","manual"
+"efg3p9b","t3_alnrte","alnrte","collapse","skeptical",">Now, granted, Elon's is a particularly egregious example.
+
+Is it though?  This is someone that claims he is working for the future of the planet/mankind and actively reducing greenhouse emissions, yet using strip mining to manufacture and traditional energy generation methods to fuel his developments, all while wastefully jetsetting around the world to call people pedophiles.
+
+The mega-rich are most definitely at least 20x as pollutive as most Westerners, simply because they have more money to burn.  The fact that people accuse all Westerners of being wasteful is utter shit anyways though, just think about all the homeless, the lower-income people who are unable to go on vacation, and those forced to use public transportation/living in cities.
+
+Things are more spread out in America, but people still tend to live close to work if they can, and gas is expensive as shit in Europe.  Nobody wastes fuel unless they can afford it, and yachts/private jets are so much more wasteful than passenger crafts that it's just stupid to even make the argument.  ","2019-01-31 15:27:28","10","Dixnorkel","1747907329.237138","CO2 is good","manual"
+"effzf1a","t3_alnrte","alnrte","collapse","skeptical","At fuel-economical cruise speed I get a result of 360 metric tons of jet fuel burned.
+
+Apparently, the operators routinely cruise a bit faster and that would increase the fuel usage to little short of 390 metric tons.
+
+The numbers are for the cruise flight only and do not include any taxing, takeoffs and landings.
+
+Sources: [Washington Post](https://www.washingtonpost.com/business/economy/elon-musks-highflying-2018-what-150000-miles-in-a-private-jet-reveal-about-his-excruciating-year/2019/01/29/83b5604e-20ee-11e9-8b59-0a28f2191131_story.html), [Aviation Week](http://aviationweek.com/business-aviation/gulfstream-announces-g650er), [Gulfstream G650ER Specifications brochure](http://www.gulfstream.com/images/uploads/brochures/aircraft/G650ERSpecSheet.pdf).
+
+","2019-01-31 14:45:45","6","Pasander","1747907329.2401383","CO2 is good","manual"
+"efgdfe5","t3_alnrte","alnrte","collapse","skeptical","Have you calculated in Musk's wealth in regards to Tesla and how the cars generated from his wealth aren't burning fossil fuels?","2019-01-31 17:03:58","5","TheseNthose","1747907329.2416456","CO2 is good","manual"
+"efg30fh","t3_alnrte","alnrte","collapse","skeptical","Are you asking him to bootstrap the electric plane industry ?","2019-01-31 15:20:58","2","agumonkey","1747907329.2436538","CO2 is good","manual"
+"efgfqzl","t3_alnrte","alnrte","collapse","skeptical","The amount of flying we do in developed countries is absolutely sickening. I recently did some interviews for graduate school, and they all required me to fly to them. Like, are you fucking serious? Can't we just skype? You're going to make me, and the 50 other applicants literally fly here from all over the country for a 30 minute interview? And I understand that there are certain advantages to an in-person interview, i.e. the person on a skype interview could be ""cheating"" by reading off notecards off screen or some shit. But still, considering the circumstances of our environmental situation, I think the trade off is obviously worth it. This shit happens every year, at hundreds of universities and institutions when a Skype interview would easily suffice. And the irony is that these are universities supposedly filled with intellectuals and academics, yet here we are, pumping out thousands of more pounds of unnecessary CO2 into our atmosphere which will likely lead to our own demise. But hey! At least they got to do an in-person interview!","2019-01-31 17:28:50","3","hopefulgardener","1747907329.248516","CO2 is good","manual"
+"effymgv","t3_alnrte","alnrte","collapse","skeptical","Good work! Here’s one more number to think about.
+
+One earth.","2019-01-31 14:37:33","2","potent_rodent","1747907329.2495153","CO2 is good","manual"
+"efgaql6","t3_alnrte","alnrte","collapse","skeptical","Too bad he couldn’t travel by Hyperloop, or an advanced tunnel system. Maybe in the future we will see travel evolve again. 
+
+I think Elon is trying to get us there. 
+
+We are all hypocrites. No one is blameless. However, certain corporations and industry’s are responsible for the majority of carbon emissions. A revolution is absolutely necessary if we want to save humanity. 
+
+Society is facing collapse - time to stop nitpicking and focus on the true players who are responsible for this disaster. 
+
+Godspeed, Elon!","2019-01-31 16:35:09","3","tshirt_with_wolves","1747907329.2539375","CO2 is good","manual"
+"efgdzhh","t3_alnrte","alnrte","collapse","skeptical","While I think you are making a valid point, someone like Elon Musk and Bill Gates are doing many, many things that offset their emissions imho. 
+
+There are certainly some egregious offenders though.","2019-01-31 17:09:58","2","[deleted]","1747907329.2569206","CO2 is good","manual"
+"efgqadg","t3_alnrte","alnrte","collapse","skeptical","He may be polluting quite a bit, but he's one of the few that's actually pushing for a full societal switch to electric vehicles (which he stands to profit very heavily off of... so, that makes his motives to be built somewhat on greed, but it is possible to have both. There is room for some nuance in nearly any discussion. Besides, do you see any other mega-tycoons pushing for a greener future? No. He's pretty much one of the only ones with the means, motive, and opportunity to shift things in that direction that's actually doing it.)","2019-01-31 19:20:28","2","Redz0ne","1747907329.2609208","CO2 is good","manual"
+"efg4ks0","t3_alnrte","alnrte","collapse","skeptical","> Assuming ideal efficiency, it would take 2.53E12 J of energy to cover this distance at this speed
+
+How did you calculate this? Also, mach 0.75-0.8 seems a lot more sensible speeds. Where did you get 0.97 from?
+
+> but we'll say the engines are 50% efficient
+
+I think the engines are a lot more efficient than that, I would guess upwards of 80% efficient.","2019-01-31 15:35:41","1","Dave37","1747907329.2639465","CO2 is good","manual"
+"efgcbke","t3_alnrte","alnrte","collapse","skeptical","But...but...but...he cares about climate change! Haven't you heard him speak? He's really passionate about it! /s
+
+We'd also have to account for the emissions to extract all of that jet fuel and get it to him, to make the jet itself, and STILL that would only be one small part of his transportation emissions, excluding his house(s?) food, etc.
+
+I'm not exactly a communist but I really am getting to the point of ""eat the rich"". They've been cannibalizing the rest of us for generations.","2019-01-31 16:52:07","1","BicyclingBetty","1747907329.2669442","CO2 is good","manual"
+"efgeze4","t3_alnrte","alnrte","collapse","skeptical","He traveled 150,000 miles and sold 250,000 cars with no tailpipe emission but you admitted the example is kind of shit.
+
+Edit: Wait just read that the G650 has two Rolls Royce BR725 A1-12's engines in it? Neat.
+","2019-01-31 17:20:45","1","rumblith","1747907329.2699447","CO2 is good","manual"
+"efgf5oy","t3_alnrte","alnrte","collapse","skeptical","I like to think of it in fairly simple terms that actually stands fairly true.  Every time you spend a dollar, you buy services or products that require carbon to fulfill.  Sure some things use a little more or a little less depending on the transaction, but generally you can say 1 dollar = 1 carbon unit.
+
+This is a quick test to see what the population is generating in terms of carbon to the atmosphere... generally. 
+
+But with Musk and others, well the money they spend means creating jobs in their wakes.  Jet fuels is the worst of the worst because thats just pure lost energy, but you could say that other forms of spending helps create jobs.  Of course, jobs means carbon in the atmosphere... so, its a Catch 22.","2019-01-31 17:22:37","1","[deleted]","1747907329.2739685","CO2 is good","manual"
+"effh1lt","t3_alnrte","alnrte","collapse","skeptical","That may be true, but there are less than 10000 people like Musk in the world and their emissions are dwarfed by collective emissions from all the rest of us.","2019-01-31 10:28:58","-1","runmeupmate","1747907329.279642","CO2 is good","manual"
+"ed151te","t3_aa2reh","aa2reh","sustainability","action-oriented","I would be very interested in your blog/YouTube channel. As for the actual content, I think a good starting point would to review Jem Bendell's Deep Adaption paper available at:
+
+[https://jembendell.wordpress.com/2018/07/26/the-study-on-collapse-they-thought-you-should-not-read-yet/](https://jembendell.wordpress.com/2018/07/26/the-study-on-collapse-they-thought-you-should-not-read-yet/)
+
+It suggests that our current economic/political systems need to change radically as a result of climate change. This is something that is getting little attention, with many people believing that we can make changes to our current nation-state system rather than considering that we may need to change the basis of our economic, social and political systems if we are to survive. 
+
+In any case, the best luck with you efforts. Please keep me posted. If you do decide to create a YouTube channel, I has some experience with video production, so may be able to help.","2019-01-01 20:03:47","2","Ink12342","1747907497.7961464","CO2 is good","manual"
+"edif66x","t3_aa2reh","aa2reh","sustainability","action-oriented","Considering you mentioned feminism and civil rights in your original post, maybe you also find it interesting to look into whether green/sustainable living is only a luxury for the rich. Found it to be a very interesting topic. ","2019-01-07 21:59:06","2","Tayreeb","1747907497.80091","CO2 is good","manual"

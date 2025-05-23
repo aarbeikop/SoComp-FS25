@@ -1,0 +1,127 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"e0kt7gc","t3_8qnq31","8qnq31","climatechange","action-oriented","I've made this comment previously on this sub but these ""refute all skeptic arguements in a reddit post, please"" are impossible. Pick a particular arguement, do some research from different sources and if you have a specific question, by all means, make a post. This post is just asking for way too much. There are plenty of sources to examine some of the arguements you linked to. Start with skepticalscience.com. Good luck. It is a fascinating topic. ","2018-06-13 01:39:42","6","lostshakerassault","1747896909.1853364","CO2 is good","manual"
+"e0l08e5","t3_8qnq31","8qnq31","climatechange","action-oriented","I try to keep up with Judith Curry because I appreciate the effort she's making to analyze climate hypotheses on a really granular level. 
+
+From reading her past commentary, I do think she manages to set aside some of the obfuscations that naturally pop up when people inject their own wishful thinking into climate analysis. And she manages to focus pretty well on the specific climate issue that I think is really interesting and significant: Just how much uncertainty can we reasonably expect there to be in current models of climate change and its effects? 
+
+My own views align with Prof. Curry's in many places, although I came to them through my own work with complex forecasting models, well before I knew who she was. In short, I believe — and I think Prof. Curry would agree — that there's no accepted methodology for calculating just how much uncertainty is baked into current climate models. There's some uncertainty in the current models, and while the models try to address this uncertainty by incorporating a range of possible outcomes, there's no way to prove that this range of possible outcomes reflects the actual probability distribution of those outcomes at any point. There just isn't enough data collected yet about how planetary climates evolve.    
+
+I also think Prof. Curry would say that we're just beginning to get a handle on the complexities of modeling the planetary climate, and current models can't be expected to properly incorporate additional complexities that might be discovered in the future.
+
+None of this is meant to assert that climate change isn't happening, that humans aren't responsible, or that the models are wrong. Those hypotheses could all be true. But I think Prof. Curry would say that right now, we just don't know enough to state that standard climate hypotheses are the only hypotheses likely to be relevant in 20 or 50 or 100 years. 
+
+Her comments about the ""political economy"" of climate change (""Policy cart before scientific horse"") I can't evaluate, but that kind of groupthink is a familiar phenomenon in other analytic fields — like finance, for anyone who remembers the onset of the recent downturn (2007-09). That was another case where the best available models, based as they were on historical data, were simply unable to incorporate the massive uncertainties inherent in the complex, unstable system of (primarily) syndicated debt financing. ","2018-06-13 03:50:09","4","DocHarford","1747896909.1853364","CO2 is good","manual"
+"e0lbjrw","t3_8qnq31","8qnq31","climatechange","action-oriented","In slide # 13, Dr. Curry takes issue with the IPCC consensus that human emissions are extremely likely to be causing the majority of warming. Her gut tells her that it's a 50/50 proposition. She is not saying that the consensus is wrong, only that the certainty of the consensus doesn't feel right to her.
+
+I would argue that in the face of uncertainty, we should look to the Hippocratic Oath as a source of moral guidance on how to proceed. First do no harm. Dr. Curry seems to be arguing that we should behave as if climate change is not significantly harmful and that the ""cure"" (emission reductions) would be ""worse than the disease"" (effects of climate change.
+
+Potential emission reductions come in a lot of different forms. There is a big difference between asking someone to forego energy for cooking and heating vs. reducing overseas travel or Humvee sales. When you are considering the possibility of a significant reduction in quality of life for future generations, the onus should be on the present generation to cut back on unnecessary luxuries. 
+
+In the absence of certainty, there isn't any good case for not taking a conservative approach. 
+
+Curry devotes a lot of her slides (5) to sea level rise (SLR). I have a lot of issues with her presentation there. 
+
+1) In slide #9, the chart seems to represent a SLR decline from 2000 to the end and the length of that length appears to represent something close to 10 years. I look at NASA's site as the official record and the no such lengthy flattening exists. She's using a chart (not of her making) which misrepresents what is going on. 
+
+2) A bullet point on slide 9 indicates that the ramp up of CO2 emissions from 1950-1980 is not accompanied by a significant increase in the rate of SLR. She doesn't point out that there is an expected lag period in ocean warming and expansion as it takes quite a few years for ocean to reach equibrium to the greenhouse forcing.
+
+3) At the end of slide 9 she implies that she is going to explain why sea level is rising in the following slide. What she does do is provide an inventory of sources of sea level rise. She doesn't offer an explanation of the root cause. 
+
+4) I'm not exactly sure what the measurement is in slide 10. Perhaps it's a 10 or 20 year rolling average of SLR. It's misleading becausing there is a great deal of year to year volatility in the number. Also, the max value in the slide is ~ 3.3mm/yr and in this decade, the average has been about 4.4mm/yr with 2 years exceeding 10mm. 
+
+5) In slide 9, Curry acknowledges that rate of SLR has increased since 1993. Good for her ! Some of her followers are reluctant to acknowledge that. 
+
+6) In Slide 11, Curry employs a slide which shows Greenland ice / mass change dating back to 1900. I'm not sure how they could have gotten reliable measurements of this in the pre-satellite era (before 1993). 
+
+7) Curry's slides complete ignore the state of the art in SLR research related to Marine Ice Sheet Instability which has come to the forefront in the last 5 years. Changes in wind and ocean circulation are allowing more warm water to come into contact with glaciers in Greenland and Antarctica and accelerating melt. In areas where the glaciers sit below sea level on retrograde beds, the melting will continue accelerating until new grounding lines are reached or until the warm water recedes.
+
+For a good understanding of the change in global wind circulations due to climate change, I recommend perusing the work of Jennifer Francis of Rutgers University. 
+
+For expertise on SLR in general, I recommend the work of Eric Rignot of NASA and UC Irvine or the seminal work on Marine Ice Sheet Instability by Deconto and Pollard in 2014. 
+
+If you haven't read much about climate change, you're probably not in a good position to evaluate whether a particular author is balanced. 
+
+ 
+
+
+
+","2018-06-13 09:13:14","6","buddhist62","1747896909.202987","CO2 is good","manual"
+"e0ljewq","t3_8qnq31","8qnq31","climatechange","action-oriented","The emissions vs. sea level rise analysis is mistaken. Primarily, instead of using emissions, she should be using atmospheric CO2 concentration, because that's what drives climate change. To be more precise, you want to look at the logarithm of the CO2 concentration, as the effect is approximately logarithmic, absent considerations about feedback.
+
+There is [data](http://www.atmo.arizona.edu/students/courselinks/fall11/atmo336/lectures/sec3/carbon.html) on atmospheric CO2 concentration prior to the instrumental record. When you look at this data, the sea level rise series is actually quite interesting, isn't it?
+
+There is, of course, a relationship between emissions and excess CO2 in the atmosphere, but it's not straightforward. You would need to calculate the cumulative emissions, and then subtract the amount of CO2 that is reclaimed by the planet.
+","2018-06-13 12:53:33","3","j-solorzano","1747896909.202987","CO2 is good","manual"
+"e0nxoyg","t3_8qnq31","8qnq31","climatechange","action-oriented","There are really only two aspects of climate science addressed by Judith Curry on that blog post: 1) attribution of surface warming to anthropogenic causation since 1950, 2) sea level rise.
+
+Focusing on 1, she ultimately concludes that 'Man-made CO2 emissions are as likely as not (50:50 chance) to contribute less than 50% of the recent warming' compared to the scientific consensus of relevant experts (via IPCC AR5) that 'It is extremely likely [>95% chance] that human activities caused more than 50% of the observed increase in GMST from 1951 to 2010'.
+
+Firstly, I will assume when she says 'Man-made CO2 emissions' that's shorthand for total net influence of all anthropogenic factors (of which CO2 is just one, albeit major, part), and when she says 'recent warming' she means 1951-2010 for consistency with the IPCC statement.
+
+I'll put the statements in other terms, since I find people are often confused by multiple percentages:
+
+- Observed surface warming over the 1951-2010 period is about 0.7ºC. 
+- Curry believes that human-caused warming over that period was most likely about 0.35ºC , with some uncertainty either side (I think about +/- 0.2ºC from previous things she's said). Therefore she believes natural factors have most likely caused about 0.35ºC warming, plus or minus.
+- Scientists working in this area have published research which points to an overall conclusion that anthropogenic warming over that period was mostly likely about 0.7ºC (i.e. all the warming), and only a 5% chance being as small or smaller than 0.35ºC. Therefore there is only a 5% chance that natural factors could have caused more than 0.35ºC warming.
+
+And you may think I'm lacking balance by ascribing 'belief' to Judith Curry versus 'published research' to the mainstream scientists, but it's really just an accurate description of the situation. As she says herself in her piece, her statement is simply a 'personal assessment', for which she provides no evidential basis and has never submitted to peer review. She's been asked for some rationale for her personal assessment for years now and nothing has been forthcoming. 
+
+Ultimately a change in surface temperature can arise from three categories of causation:
+
+- Natural Earth system internal variability, the way that factors contributing to Earth's surface temperature can vary chaotically to some degree without an external push.
+- Natural forcing, a natural change directly influencing the energy budget of the climate system, with Solar and Volcanic activity the main factors considered for recent warming.
+- Anthropogenic forcing, a human-caused change directly influencing the energy budget of the climate system, consists primarily of greenhouse gases and particulate matter, but also some other factors.
+
+For the period 1951-2010 we have decent observations indicative of solar and volanic activity which show that they could not have had much net influence on Earth's energy budget over the full period, so natural forcing = zero warming +/- a bit.
+
+For the period 1951-2010 we have very good observations of greenhouse gas concentrations which show that they have increased dramatically. This has been countered to some uncertain extent by the cooling influence from an increase in particulate matter but the net forcing is very likely between +1 and +2.5W/m2. As a simple magnitude comparison total absorbed solar radiation by Earth = 240W/m2 and Earth's radiating temperature is about 255K (surface temperature about 290K) so human-caused forcing in that range is comfortably able to produce 0.7K warming or more.
+
+Then we come to natural internal variability, which is the crux of the matter. It's also something for which we don't have a good physical understanding. As such there is no clear evidence whether internal variability has been a positive or negative factor so what's done is to set zero as the central estimate with some uncertainty representing an assessed potential magnitude for internal variability over a given periodicity. Potential magnitude can be assessed by reference to late Holocene proxy temperature reconstructions after accounting for known forcings from solar and volcanic changes.
+
+The IPCC statement assumes an internal variability allowance of about +/-0.2ºC for the sixty year 1951-2010 period around zero. So, central estimates for both natural forced and natural internal variability over 1951-2010 are zero, meaning the best estimate for anthropogenic must be all the warming. The uncertainty in natural factors then sets the anthropogenic uncertainty of about +/-0.35ºC.
+
+Curry hasn't indicated any clear internal variability estimate, but what's really key to her 50:50 statement is a belief that internal variability **must** be a warming influence. A plausible basis for that belief has never been provided. [Her own published work](https://curryja.files.wordpress.com/2013/10/stadium-wave1.pdf) (pdf) on internal variability suggests a cycle with 60-year periodicity, which means her central internal variability estimate *should be* zero for the 60-year 1951-2010 period and therefore best estimate anthropogenic warming should be 0.7ºC. Meanwhile [her published work on climate sensitivity](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-17-0667.1) is dependent on assuming a smaller potential magnitude of internal variability than considered by the IPCC. She has never addressed why her position on attribution is inconsistent with her own research.","2018-06-14 15:32:30","2","skeeezoid","1747896909.217372","CO2 is good","manual"
+"e1gzjvd","t3_8qnq31","8qnq31","climatechange","action-oriented","Thanks for this post! This is just what I was looking for. I will cite it in a philosophy paper I am working on.","2018-06-29 00:26:29","1","David_Robert","1747896909.217372","CO2 is good","manual"
+"e0knneo","t3_8qnq31","8qnq31","climatechange","action-oriented","They are not right or wrong, they are different.
+
+It is a political issue and you may have noticed dwindling tolerance levels towards differing opinions, no middle ground, no negotiation. ","2018-06-13 00:02:05","-6","rogerramjet1975","1747896909.217372","CO2 is good","manual"
+"e0jm5ok","t3_8qh2u2","8qh2u2","climatechange","action-oriented","It depends how much warming we're talking.  Warming through 2C is net positive (that's actually why that target was chosen), but every change has winners and losers.  Warming helps the North, but hurts the tropics.  More people and more poor people live in the tropics, so impact there is disproportionate.","2018-06-12 14:55:08","7","technologyisnatural","1747896944.0066838","CO2 is good","manual"
+"e0j71mn","t3_8qh2u2","8qh2u2","climatechange","action-oriented","Sure, there could be some positive effects. But I don’t see how they balance out the likely negatives of global warming and ocean acidification or justify the unknown risks of continuing GHG emissions. ","2018-06-12 09:07:06","6","iHartS","1747896944.008684","CO2 is good","manual"
+"e0jbhca","t3_8qh2u2","8qh2u2","climatechange","action-oriented","Regarding weather deaths, in your link below the effect of climate change is actually increased mortality in their study. It is adaptation which reduces mortality. But of course, adaptation itself incurs costs.","2018-06-12 11:35:40","2","skeeezoid","1747896944.010684","CO2 is good","manual"
+"e0jizpt","t3_8qh2u2","8qh2u2","climatechange","action-oriented","In looking at the glacial-interglacial cycles, the former are much longer and would be deadly to agriculture. Greenhouse gas emissions have likely forestalled our descent into the next glacial period, perhaps by thousands of years. That's a good thing.","2018-06-12 14:05:51","2","Will_Power","1747896944.0126836","CO2 is good","manual"
+"e0j5dim","t3_8qh2u2","8qh2u2","climatechange","action-oriented","Do you have any links to research to support your claims? They seem highly dubious to me. ","2018-06-12 08:04:52","1","buddhist62","1747896944.0146835","CO2 is good","manual"
+"e0jab5m","t3_8qh4ik","8qh4ik","climate","scientific","You might want to re-think the idea that there will less weather related deaths:
+
+https://www.scientificamerican.com/article/global-warming-and-health/","2018-06-12 11:02:50","3","ghost00013","1747897088.2910519","CO2 is good","manual"
+"e0j6jlf","t3_8qh4ik","8qh4ik","climate","scientific","Land in arctic and subarctic areas will be more useful for farming, but at the same time other lands will become too dry or hot. I would recommend investing in Alaskan companies right about now. ","2018-06-12 08:47:48","1","[deleted]","1747897088.2935553","CO2 is good","manual"
+"e0j7vd2","t3_8qh4ik","8qh4ik","climate","scientific","It is indeed good the discuss this to get a good picture of the science, thanks for the question.
+
+An important benefit is tourism in quite a few countries. People like recreating in hot weather more. An other important benefit is that adaptation usually has a lot of co\-benifits. You could imagine cities planting more trees to provide shade, which has the additional benefit of providing more location to chill out and enjoy some nature.
+
+Some new research has come out on the weather\-related mortality, which is point to flaws in research that shows weather related mortality goes down: [http://www.realclimate.org/index.php/archives/2018/06/will\-climate\-change\-bring\-benefits\-from\-reduced\-cold\-related\-mortality\-insights\-from\-the\-latest\-epidemiological\-research/](http://www.realclimate.org/index.php/archives/2018/06/will-climate-change-bring-benefits-from-reduced-cold-related-mortality-insights-from-the-latest-epidemiological-research/). They find that in most regions weather related deaths (in summer) instead go up faster than the decrease in winter if no adaptation finds place.
+
+In terms of agriculture: these effects are also probably negative on a world scale. All plants have a benefit from CO2 fertilization, but the heat and water stress in most agricultural land increases. Locally of course some countries will become more fertile.
+
+I'm also not entirely sure about a net decrease in energy consumption. Of course, heating costs will go down globally, but some countries like the US use air conditioning in a lot of houses. If that technology also gets widespread use in Europe and Asia, energy consumption might increase again.. ","2018-06-12 09:38:40","1","Femkemilene","1747897088.2976036","CO2 is good","manual"
+"e18y9ip","t3_8tnx5g","8tnx5g","collapse","skeptical","About the wall... if people are willing to travel through the desert and risk their lives to escape their homeland(because their country is completely fucked), they're going to find a way past a fucking wall. Building a wall would be a total waste of time, money, and resources, just to postpone the inevitable. All politics aside, people are coming here because they're trying to survive, plain and simple. If this doesn't make sense, put yourself in a room. You sit on one side with no food, and on the other side, there's food. In the middle there's someone telling you that you can't cross the room. How long would it take for you say ""Fuck this, I need to eat."" And everything that produces electricity is dependent on hydrocarbons in one way or another, so that is also not a realistic solution. ","2018-06-25 05:38:59","11","DJDickJob","1747897624.947288","CO2 is good","manual"
+"e18z8rc","t3_8tnx5g","8tnx5g","collapse","skeptical","The way things are going, I cannot see any amount of hypothetical prevention initiatives or behavioral changes actually preventing collapse this late in the game.  I'm pretty sure a good fraction of this sub leans this way.  It seems the most we can do is brace for impact.  If we really wanted to prevent collapse outright, we ought to have started decades ago.","2018-06-25 06:06:38","6","liatrisinbloom","1747897624.9522793","CO2 is good","manual"
+"e191t0u","t3_8tnx5g","8tnx5g","collapse","skeptical","Stop water being wasted watering massive lawns.
+Save electricity by getting rid of massive neon signs.
+Stop manufacturing plastic, end of story.","2018-06-25 07:27:12","3","GreenGoddess33","1747897624.9562798","CO2 is good","manual"
+"e1913j1","t3_8tnx5g","8tnx5g","collapse","skeptical","Fusion, space mining, CCS ","2018-06-25 07:03:25","2","InvisibleRegrets","1747897624.9622965","CO2 is good","manual"
+"e198kuz","t3_8tnx5g","8tnx5g","collapse","skeptical","Dissolve all states and their structures. People should finally act on their own responsibility. Anyone who behaves inappropriately should be aware that he could be shot at any moment.","2018-06-25 11:32:18","2","[deleted]","1747897624.965407","CO2 is good","manual"
+"e19bb9x","t3_8tnx5g","8tnx5g","collapse","skeptical","Stop people from reproducing for 20 years","2018-06-25 12:41:39","2","[deleted]","1747897624.9712517","CO2 is good","manual"
+"e1b06d1","t3_8tnx5g","8tnx5g","collapse","skeptical","Rephrase the question, if you could control the laws of physics what would you do. How can you even begin to think about the answer to that, being bound to the universe ","2018-06-26 05:45:09","2","CyFus","1747897624.9737828","CO2 is good","manual"
+"e1900ka","t3_8tnx5g","8tnx5g","collapse","skeptical","Apart from launching a worldwide war to decrease world population, I don't see what else would really have any meaning. 
+
+It's a systemic problem so no part solution will work, and one of the issues is the exponentially growing population.","2018-06-25 06:29:19","1","nicolasstampf","1747897624.9767828","CO2 is good","manual"
+"e19ly9f","t3_8tnx5g","8tnx5g","collapse","skeptical","Carbon tax coupled with carbon rationing based on global population of 1950.  (So as to discourage acquiring additional access to rationed carbon by having more children.)
+
+Central economic planning (war time economy)-basically the end of the free market economy. Sorry kiddo, toys are lovely, but play time is over. 
+
+Yes, I know none of this will happen. We're crashing. And for most people, it's not going to be a soft landing. There is no reset button, there was no technical miracle that saved us from overpopulation, depletion of non-renewable resources, polluting everything with a toxic brew of thousands of chemicals, plastics that destroy everything in their wake....
+
+The chickens are coming home to roost. ","2018-06-25 15:45:40","1","[deleted]","1747897624.982722","CO2 is good","manual"
+"e19oz33","t3_8tnx5g","8tnx5g","collapse","skeptical","Prevent the collapse of this evil society? I'm waiting for it to collapse so my quality of life will go up. Personally, I hope the economy collapses before my landlord sells the house (he's cashing in).","2018-06-25 16:29:41","1","[deleted]","1747897624.9865596","CO2 is good","manual"
+"e1agn4w","t3_8tnx5g","8tnx5g","collapse","skeptical","Phased abandonment of industrial capitalism, eradication of legacy of authoritarian technics, transition to global Fukuoka farming.","2018-06-25 23:18:02","1","[deleted]","1747897624.9912226","CO2 is good","manual"
+"e1aq389","t3_8tnx5g","8tnx5g","collapse","skeptical","Dictatorship of the Proletariat now.","2018-06-26 02:16:11","1","Gamma_Ram","1747897624.9932225","CO2 is good","manual"
