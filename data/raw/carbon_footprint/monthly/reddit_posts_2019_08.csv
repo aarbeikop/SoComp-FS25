@@ -1,0 +1,98 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"cr6wnf","climatechange","action-oriented","Aren't we already past the point of extinction for the species?","A 10 or so years ago we only had ""a decade to cut back on fossil fuels"" and such. It's been a decade, but people are now saying that we've got yet another decade before *truly* being doomed. It seems likely that they're saying that simply because it's human nature to avoid facing a sad truth. 
+
+Not to mention, I believe for some time now it's been hot enough for arctic ice to melt and contribute further to global warming without us even doing anything; for us to fix this, not only do we have to stop contributing to the damage (which isn't happening any time soon), we have to  reverse damage: humanity needs to have a negative carbon footprint. This seems extremely unlikely. 
+
+Realistically (without letting the despair make you overly optimistic), where do we stand? Any answers are appreciated.","2019-08-16 14:11:56","0","29","0.5","https://www.reddit.com/r/climatechange/comments/cr6wnf/arent_we_already_past_the_point_of_extinction_for/","True","calomelforpresident","1747922089.598582","carbon footprint","manual"
+"clkt85","climatechange","action-oriented","The empress tree and atmospheric carbon removal","There was an article in Bloomberg today about the empress tree, a fast growing tree with high capacity for carbon trapping.
+
+https://www.bloomberg.com/news/features/2019-08-02/we-already-have-the-world-s-most-efficient-carbon-capture-technology
+
+Specifically, the article claims this is the most efficient way to scrub atmospheric carbon... and I think that makes sense.
+
+The article claims that an acre of empress trees can trap ~103 tons of carbon in a single year.  Spectacular!  But I wonder how much it would take to balance our global energy usage?
+
+Let’s run the numbers.
+
+Out of laziness, I am approximating our energy consumption as though it came half from gasoline and half from electricity, but I’ll look at both gasoline and electricity independently as well.
+
+A half/half split is generally (if I recall correctly) true for the average American household, but I can post those calculations if someone is interested.  
+
+The numbers for energy carbon footprint come from here: https://carbonfund.org/how-we-calculate/
+
+I used the energy density of gasoline from here:
+https://www.ocean.washington.edu/courses/envir215/energynumbers.pdf
+
+Now, I’m using the 2016 global energy load I used in an article I wrote yesterday which was 6.04 x10^17 kJ.
+
+If I use the electrical carbon rate from the above website for the entire load, I get that the total carbon footprint of the world is 42 billion tons... meaning that I need 818 million total acres of Empress trees to balance the load.  That’s 1.278 million square miles, or a geographic square about 1130 miles on each side.
+
+That is rapidly approaching the size of a continent.
+
+Now, if I run the numbers for gasoline, I get that we’re producing 77% more carbon per energy unit... which is much dirtier.
+
+When I put half the loading on gasoline and half on electricity, I come up with a need for a geographic square 1565 miles on each side. 
+
+I do not think we can carbon balance this.
+
+
+Takeaway:  Converting to electricity from gasoline is good, but we still aren’t sustainable.
+
+Planting some trees can help, but we are eventually going to have to stop burning stuff for energy if we want this level to stop climbing.
+
+I’m not convinced that the carbon loading is the cause of global climate change, especially when the energy numbers alone explain adequately everything that’s been observed.
+
+But I believe pollution is bad and that balancing carbon loading is desirable.
+
+This looks like a pretty big job... I don’t think that a continent sized orchard is going to work.
+
+Initial gut feeling: planting trees is good but we’ve got to convert to lower emission sources before the discussion of balance will even be plausible at current CO2 levels.
+...
+But this assumes I’m trying to keep CO2 levels where they are (I’d like to, but this isn’t really likely).
+
+
+Ok, so what’s really going to happen
+
+Well, CO2 concentration in the atmosphere will continue to rise.
+
+Luckily, despite nitrogen absorption limitations causing actual crops to benefit little, CO2 increases in the atmosphere cause plants to absorb more CO2 faster because photosynthesis speeds up.
+
+There is a chart (7.3) In chapter 7 of the document at this link that shows photosynthetic  rate relative to CO2 concentration in soybeans... and shows how fast it increases as CO2 concentration increases.
+https://www.nap.edu/read/1911/chapter/8
+
+So let’s assume we are at 400ppm now and will continue to increase because we can’t plant a continent sized copse of empress trees.
+
+Let’s also assume all plants behave the way those soybeans behave.
+
+Now, we have to be able to ballpark actual carbon consumption by plants now to see what % over that quantity we are... this will give us an idea whether plants will be able to compensate for our energy consumption... and at what level our CO2 level will stabilize and if it will.
+
+https://www.sciencedaily.com/releases/2011/09/110928222003.htm
+
+According to this, total carbon capturing of global photosynthesis is about 150 petagrams... or 150 trillion kilograms( 165.3 billion tons).
+
+Ok, so if the total carbon loading of the planetary energy consumption is 42 billion tons, and we assume (very conservatively) none of it is currently represented in the current carbon photosynthetic capturing, I need to increase photosynthetic rate by 25.4% in order to capture all the carbon and stabilize the CO2 concentration.
+
+If you look at fig 7.3 in this document you’ll see a relative comparison of photosynthetic rates at different levels of atmospheric CO2.
+https://www.sciencedaily.com/releases/2011/09/110928222003.htm
+
+I put us currently at 400 ppm, which means our current reference number is 2.2 (1.2 over the baseline of 1).
+
+In order to find the stabilization level, I increase that number by 25.4% to 2.76... which yields a stabilization point at about 1000 ppm if this chart is right (and that’s assumed for no global energy load is currently compensated for by plants... which is wildly conservative).
+
+Now, is this little exercise fraught with uncertainty?  
+
+Yup.
+
+Is the CO2 going to grow without bound... no.  
+
+Is 1000 ppm going to be devastating even if the greenhouse effect is our primary temperature driver?  Probably not.
+
+Assuming stability comes at that point... which is consistent with current observations, that’s not even nearly the highest Earth has seen... while supporting conditions that we believe would be livable.
+
+https://skepticalscience.com/print.php?r=77
+Here is a chart showing pre-historic CO2 levels.
+
+If we stabilize at 1000... I’m thinking the planet remains habitable.  Stuff lived here when levels were much higher.","2019-08-03 16:41:35","7","1","1.0","https://www.reddit.com/r/climatechange/comments/clkt85/the_empress_tree_and_atmospheric_carbon_removal/","True","envelopemathguy","1747922166.938226","carbon footprint","manual"
+"cmsuhc","sustainability","action-oriented","Carbon Footprint Calculation","Does anyone here know of any resources that explains how exactly a carbon footprint is calculated/maybe what the best way is to do so or what the best factors are to consider? Or better yet, a comprehensive list of factors, big or small? I’m not asking for one of those websites that calculates your footprint for you, rather i’m looking for information on how it’s done, and where the information is coming from that informs the amount of carbon estimated per action. Books, websites, videos, etc. are all fine. 
+
+I appreciate any leads! Thank you.","2019-08-06 16:32:36","6","5","0.88","https://www.reddit.com/r/sustainability/comments/cmsuhc/carbon_footprint_calculation/","True","cvantass","1747922859.341603","carbon footprint","manual"

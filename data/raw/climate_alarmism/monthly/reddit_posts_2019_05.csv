@@ -1,0 +1,10 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"bs1trc","climatechange","action-oriented","help choosing between the outdated AR4 Scenarios","  
+
+Dear climate change community, 
+
+I have a bit of an academic situation and I wanted to know your opinion regarding the subject.  I am a PhD Student, I am doing my PhD in Sustainable Environmental  Architectural Design in the tropics. Anyhow, the thing is I am using this software called Meteonorm  ( [https://meteonorm.com/en/](https://meteonorm.com/en/) ) to generate a series of weather files to generate a territorial climate zoning using the Koeppen method but changing the years of the climate normals, first from 1981 to 1990, then 1991 to 2012 and then a prediction for 2060. My problem is, even though the software is a recent updated version, the thing still uses the AR4 IPCCs scenarios from 2007, thus in order to generate the future files, one must choose between the scenarios B1, A1B and A2. 
+
+At the beginning I had no doubt in using the A2 Scenario, since the last year IPCC special report of Global warming of 1.5°C was a bit alarming and I thought the temperature ranges (2.0 to 5.4 °C) seem to fit on the 100 year predictions, but then I read a paper from 2015 ([https://www.nature.com/articles/srep09957](https://www.nature.com/articles/srep09957) )  which I understood that the most likely scenario was A1B and it made sense, but some years have gone by and thins have evolved a lot in the last years, I understand the AR4 is a bit outdated and the latest reports offer a better and more detailed prediction of what we may encounter but, what would be your recommendation regarding the subject, do you thing conditions may have changed and the A2 is more likely than the A1B? or the A1B still fit the range of possibilities?
+
+Thanks for your time,","2019-05-23 11:34:19","1","1","1.0","https://www.reddit.com/r/climatechange/comments/bs1trc/help_choosing_between_the_outdated_ar4_scenarios/","True","dnlzepeda","1747950365.620592","climate alarmism","manual"

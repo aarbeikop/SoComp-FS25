@@ -1,0 +1,44 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"dspm6in","t3_7qdd1x","7qdd1x","climatechange","action-oriented",">They cite a 1990 IPCC assessment that predicts a rise of 0.3C every decade
+
+Here's the [Policymaker's Summary](http://ipcc.ch/ipccreports/far/wg_I/ipcc_far_wg_I_spm.pdf) for the report in question (pdf link).
+
+That the 1990 IPCC report predicted 0.3ºC/Decade warming is a very common claim. What is almost always omitted from such pieces is that the report didn't just make one prediction. It made four, based on four different possible future scenarios. This is because we don't know what will happen with greenhouse gas concentrations in future - it depends on human decision making. The claimed 0.3ºC/Decade trend refers only to one of those scenarios, called Business-as-Usual (BaU). A text description of each scenario is found on the last page of that document, and concentrations of important greenhouse gases assumed for each are shown on page 13.
+
+Comparing the description and ghg concentrations of BaU with what actually happened shows that we didn't follow that scenario. The Montreal Protocol was strongly implemented and enforced, controls on carbon monoxide emissions and gas flaring helped to dramatically reduce growth in atmospheric methane (although other factors may have been involved as well). Unforeseen events also played a role - the collapse of the USSR quickly put a dent in emissions growth. Since we didn't follow that scenario it doesn't make any sense to believe predictions based on that scenario should match observed temperature changes. That would be like predicting explosive activity if potassium is added to water, but then not bothering to add potassium and declaring that the prediction was wrong because there was no explosion.
+
+At this point in time the other three IPCC 1990 scenarios are very similar to each other. A comparison with current observed estimates for GHG concentrations and forcing reveals that they are all pretty close overall - i.e. they are scenarios against which predictions could reasonably be compared with observations (albeit with caveats). [Here's an observational comparison I made against Scenario C from that report](https://i2.wp.com/bonjourplanetearth.files.wordpress.com/2016/03/ipccfar-obs-2.jpg). Remarkably close. The Scenario C rate is about 0.15-0.2ºC/Decade.
+
+It should be noted that, while the basics remain unchanged, since 1990 a lot of work has gone towards quantification of other elements which play a role in short and long term trends. The 1990 report only considered well-mixed greenhouse gases for projections, whereas the most recent report quantifies climatic radiative forcing from 9 other types of anthropogenic source plus natural solar and volcanic influences. Indeed the following IPCC report in 1995 introduced anthropogenic aerosols to projections and predicted a warming rate of about 0.13ºC/Decade for 1990-2020 (little difference between scenarios). This is lower than observed, which is typically partly attributed to an assumed increase in negative aerosol forcing since 1990, which is now generally believed not to have happened, or to have been smaller.
+
+On a minor point, the 0.3ºC/Decade figure is actually an overestimate. It's calculated from the overall warming from 1990 to 2100, with an assumption that the predicted rate of warming was constant over that time. But it wasn't constant. It increases in the 21st Century. The real projected rate between 1990 and today under BaU was about 0.25ºC/Decade.","2018-01-15 13:24:03","3","skeeezoid","1747941591.863728","climate alarmism","manual"
+"dsozj4f","t3_7qdd1x","7qdd1x","climatechange","action-oriented","Whether it's one or the other, the fact that humans have an impact on a global scale is fact. 
+
+I'm going to go off topic here so feel free to stop reading.
+
+I personally don't take global warming as seriously as some people, and this is because in my opinion, there are other affects humans have on this planet that are much more imminent. This includes:
+
+Mass extinctions (1000x the natural rate of extinctions)
+
+Habitat loss
+
+Habitat fragmentation
+
+Overexploitation of both animals and fuel
+
+Pollution from farming, factories, mining, drilling, and more that affect both our air and our drinking water.
+
+Invasive species (species that we introduced to a new area and are now having a negative impact on that ecosystem)
+
+The list goes on. Climate change in regards to temperature will take decades, but all of these things combined will fuck us over pretty quickly.","2018-01-15 01:45:27","2","Wafflemakerbreaker","1747941591.8674319","climate alarmism","manual"
+"dsoz18b","t3_7qdd1x","7qdd1x","climatechange","action-oriented",">Can anyone credibly confirm or rebut the article's claim?
+
+Their claim is correct. Here's the data for you to examine:
+
+http://woodfortrees.org/plot/wti/plot/wti/trend/plot/wti/from:1997/trend/plot/wti/from:1992/to:2012/trend/plot/wti/from:1987/to:2007/trend
+
+I recommend you spend some time looking around at that. There are several data sets to choose from. On this composite data set I've plotted the trend over the satellite era (since about 1978). I've set also plotted three other trend lines, each covering 20 year periods. One ends last year, another five years before that, and another five years before that. You'll notice that the most recent 20 year period warms more slowly than the others.
+
+Try different data sets. You'll see that GISS has the steadiest warming rate, while RSS and UAH has the most notable slowdown.
+
+This is known among mainstream climate scientists, and in fact was acknowledged back in AR5 in 2013, and in such papers at Otto, et al 2013.","2018-01-15 01:35:39","1","Will_Power","1747941591.870323","climate alarmism","manual"
