@@ -1,0 +1,54 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"2x3sja","science","scientific","Science AMA Series: I’m Roger Aines, a geochemist who runs the Carbon Fuel Cycle Program at Lawrence Livermore National Laboratory. We’re working to capture greenhouse gases by using things found in your kitchen cabinet. AMA.","Hi Reddit,
+
+I’m Roger Aines, Carbon Fuel Cycle Program leader at the Lawrence Livermore National Laboratory (LLNL). My team is working with colleagues from Harvard University to advance carbon capture and storage technologies, and ultimately save the planet by preventing greenhouse gasses from saturating the atmosphere.
+ 
+I plan to answer questions from 10 a.m. to noon PST. (1 pm EST to 3 pm EST), joining me is a member of my team, John Vericella (/u/John_Vericella). Ask me anything about my research interests (below), how to grow an awesome mustache and everything in between.
+ 
+
+**Current Research**
+
+
+We recently developed a new type of carbon capture media composed of core-shell microcapsules, which consist of a highly permeable polymer shell and a fluid (made up of sodium carbonate solution) that reacts with and absorbs carbon dioxide (CO2). Sodium carbonate is typically known as the main ingredient in baking soda. The capsules keep the liquid contained inside the core, and allow the CO2 gas to pass back and forth through the capsule shell.
+
+With this research, we are working to minimize the risks associated with using caustic chemicals, like MEA, for carbon capture by using things we are all familiar with, like baking soda. The challenge was getting the more common kitchen chemicals to work better, and that's what we have done. To date, microcapsules have been used for controlled delivery and release (e.g., pharmaceuticals, food flavoring, cosmetics, agriculture, etc.) — but this is the first demonstration of using this approach for controlled CO2 capture and release.
+ 
+
+The aim of carbon capture is to prevent the release of large quantities of CO2 — a greenhouse gas that traps heat and makes the planet warmer — into the atmosphere from fossil fuel use in power generation and other industries. However, currently used methods, while successful, can be harmful to the environment. The ability to move away from caustic fluids, such as monoethanol amine to capture CO2, to more environmentally benign ones, like carbonates, is a key attribute of the team’s research.
+ 
+
+[Read more about this research on the LLNL website](https://www.llnl.gov/news/microcapsules-capture-carbon-safely)
+ 
+
+[Read the peer-reviewed paper in Nature Communications](http://www.nature.com/ncomms/2015/150205/ncomms7124/full/ncomms7124.html)
+
+**Other Research Interests**
+
+Carbon dioxide capture and storage. Natural gas production and use. Development of catalysts for carbon dioxide capture, management of pressure in geologic sequestration through brine withdrawal and treatment, encapsulation of carbon dioxide capture solvents, and integration of computational and experimental methods in earth science.
+
+Update
+
+Just logging in and about to answer lots of the great questions here!  Thanks for all your interest!
+
+Roger
+
+Update 2
+
+Having problems with replies - we'll get it solved soon.  We hope, still getting 503 errors on replies. But we're working on all your questions!
+
+Update 3
+
+Some hope that the 503 problems are getting solved - we are storing up all the answers we are writing!
+
+Update 4
+
+YAY we are back, and getting the answers posted.
+
+Update 5
+
+John Vericella and Josh Stolaroff are going to be sending me some of their responses so we can get more posted!
+
+Update - closing up now.  We will try and check on the conversations here and update as possible.  Thanks all for the great questions!
+
+
+","2015-02-25 12:22:05","2302","281","0.87","https://www.reddit.com/r/science/comments/2x3sja/science_ama_series_im_roger_aines_a_geochemist/","True","Roger_Aines","1747839697.563374","carbon capture","manual"
