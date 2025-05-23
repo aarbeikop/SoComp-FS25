@@ -1,0 +1,128 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"fcfvuw2","t3_eh72c7","eh72c7","climatechange","action-oriented","Well a model is per definition an abstraction of the real world. Would not call it flawed, but you try to  represent the essence. It's always possible that are gaps between the model and the real world.
+
+But having said that, if there were such gaps I think the peer review process would have or will identify them eventually. The models keep getting better and better. So no, not flawed. Just an abstraction.","2019-12-29 15:44:01","7","Adlermann_nl","1747934676.3236501","climate crisis","manual"
+"fcgfu91","t3_eh72c7","eh72c7","climatechange","action-oriented","This is the Clausius-Clapeyron relation
+
+ [https://en.wikipedia.org/wiki/Clausius%E2%80%93Clapeyron\_relation](https://en.wikipedia.org/wiki/Clausius%E2%80%93Clapeyron_relation) 
+
+It basically means that the amount of water vapour in the atmosphere increases as temperature increases. 
+
+Using this and the basic fact that doubling CO2 will produce about 1.2C, you can calculate an increase of temperature by about 3-4C per doubling of CO2. 
+
+To find that we will not experience this temperature increase would require a model that shows a significant negative feedback that was not working between the last glaciation and today, that is when small changes  in the orbit, allowed for warmer northern hemisphere summers, this melted the ice sheets and produced some of the warming from the deep glacial state 18000 years ago till today. Only when  CO2 and water vapour feedback are included with albedo change can we get our estimates to come close too the temperature change. 
+
+So on the whole models are used to refine this very rough working understanding of the basics of climate science. 
+
+In other words, our expectations of warming is built on very basic science and our observations support it. Models are to tell us how much warming and where, rather than it will warm.","2019-12-29 17:12:02","6","[deleted]","1747934676.325848","climate crisis","manual"
+"fcfxo5w","t3_eh72c7","eh72c7","climatechange","action-oriented","Is your friend motivated by a certain conclusion he wants to drive at? Models are all inaccurate to different degrees but I’m wondering if he thinks the current ones are overly pessimistic or optimistic","2019-12-29 15:51:26","3","itsnotallornothing","1747934676.327469","climate crisis","manual"
+"fcglx88","t3_eh72c7","eh72c7","climatechange","action-oriented","You need to explain how science works to your friend. We start with a hypothesis, test it, and try to disprove it. The more we do this, the more data we gather. The more data we gather, the more we can refine our models. Early on, those refinements were quite large since they were based on very little data, so were more flawed: 40 years ago, then, the models were not supported by a lot of data, but today, those models are built off hundreds of thousands of research papers, and the refinements are getting smaller and smaller now, so the accuracy increases with each increase in data points.","2019-12-29 17:45:45","3","[deleted]","1747934676.328745","climate crisis","manual"
+"fcgyu0n","t3_eh72c7","eh72c7","climatechange","action-oriented","[https://en.wikipedia.org/wiki/All\_models\_are\_wrong](https://en.wikipedia.org/wiki/All_models_are_wrong)
+
+Models are not even supposed to be unflawed!  By definition, these are abstractions that are used to simplify and predict things.  Part of the process of ""simplifying"" or ""abstracting"" is deliberately ignoring certain things that don't matter, so the model will end up not being a perfect representation, which is a type of philosophical flaw.  For instance, you would not eat a menu, so it has that flaw of not being a perfect representation of food.  Being worried about ""flaws"" is a kind of selective criticism which isn't really important or useful, it's a misunderstanding of what things are supposed to be.  It's more important to ask whether the models are *right* or *wrong*.
+
+[https://en.wikipedia.org/wiki/Climate\_model](https://en.wikipedia.org/wiki/Climate_model)
+
+In modeling the climate, a large number of factors are being considered.  These are basically ""computer simulations"".
+
+[https://en.wikipedia.org/wiki/Verification\_and\_validation\_of\_computer\_simulation\_models](https://en.wikipedia.org/wiki/Verification_and_validation_of_computer_simulation_models)
+
+When computers are used to simulate real-world effects, there are many ways to validate and find errors.  This is a check for rightness or wrongness.  Most of the ways involve comparing computer simulations against real-world data.
+
+For example, a climate model could be built using historical temperature data.  Some data could be held back from the simulation, and the simulation could be tested to see whether it outputs the same data as we actually really observed in the held back set.  If it does that very well, people will tend to be more confident in the ability of that model to predict things.
+
+So it's important to note that our data that we are using for validation is basically taken out of a historical record.  But, if we are considering predicting the future (outside our experience, outside our data), then consider that there can be hidden ""tipping points"":
+
+[https://en.wikipedia.org/wiki/Tipping\_points\_in\_the\_climate\_system](https://en.wikipedia.org/wiki/Tipping_points_in_the_climate_system)
+
+"" Tipping point behaviour in the climate can also be described in mathematical terms. Tipping points are then seen as any type of bifurcation with hysteresis. Hysteresis is the dependence of the state of a system on its history. For instance, depending on how warm and cold it was in the past, there can be differing amounts of ice present on the poles at the same concentration of greenhouse gases or temperature.""
+
+""Bifurcation with hysteresis."" Translation: the system suddenly switches to a new state where it starts to seek a new balance point.  Based on what events unfold, the system can choose from multiple outcomes, but there's no way to switch between them after they are observed.
+
+For example, a given concentration of CO2 in the atmosphere could guarantee more than one climate state -- one hot, one cold.  Which state the climate gets into depends, for example, on the amount of ice in the pole that was there leading to the time of the CO2 increase.  (That's a made up example.)  So observe that there might not be a 1:1 relationship with CO2 and temperature if that's the case.  There's a connection but it's more complicated and needs to look at many factors.  (Totally fake made up example.)
+
+This is part of why climate simulations need to consider a lot of moving parts.
+
+This is essentially like the observation from chaos theory that deterministic non-linear systems can be very sensitive to small changes in their initial states (butterfly effect: butterfly flapping its wings in china eventually causes a hurricane in texas).
+
+[https://en.m.wikipedia.org/wiki/Chaos\_theory](https://en.m.wikipedia.org/wiki/Chaos_theory)
+
+Climate systems ARE chaotic systems.  We know that.  That means that ultimately we cannot model them perfectly and especially not far in advance.
+
+This is a sort of theoretical overview about various ways that systems can suddenly *become* unstable.  There are all kinds of patterns.
+
+[https://galileo-unbound.blog/2019/04/24/biased-double-well-potential-bistability-bifurcation-and-hysteresis/](https://galileo-unbound.blog/2019/04/24/biased-double-well-potential-bistability-bifurcation-and-hysteresis/)
+
+One of the issues for validation of climate model simulations is that we haven't crossed the sorts of irreversible tipping points that would generate all the necessary high quality real-world data to check our simulations against!  In other words, we might be validating a chaotic unstable system, but validating it as if it's stable, using data that  is taken from one of many *stable node states* of a much more complex situation that is likely to change dynamically.
+
+Looking at some special historical events in earth's history, there are many observations that suggest this might indeed be the case.  The global system historically has found many stable climate regimes that don't tend to reverse themselves until some large nudge happens and then they suddenly destabilize.  The transitions between these states, by comparison, are very rapid switches with pretty chaotic observations.
+
+Translation: models may not be good at accurately predicting tipping points *in advance*.  We have no real way to know what the important factors are before we see them.  This is really not good news for humans who are trying to predict the future.  Models that we have are suggesting that the effects will be more severe than we are able to predict accurately, quantitatively.   Here is an scientific paper that explores the stability of the climate system:
+
+[https://www.pnas.org/content/115/33/8252](https://www.pnas.org/content/115/33/8252)
+
+The bottom line is that our civilization is attempting to have a goal of aiming towards some moderate / intermediate amount of temperature rise.  We actually don't have evidence that this is definitely possible.  Our simulations about what happens may indeed be wrong about that.
+
+In other words, *some* small amount of atmospheric CO2 could lead us to a world in which CO2 actually *can't stay small*!  The small amount *we* add might be a ""butterfly effect"" situation that causes a very major change, where suddenly many other sources start adding CO2 without human input.  So far, this is being considered by a lot of people...but the models we use *don't actually know how to model this perfectly.*
+
+So basically, our models work well up until we do the right changes to the system to reach some previously unknown, hidden thresholds/boundaries.  The models we do have are telling us that it's very likely that the climate system won't actually stay stable.  As for more exact knowledge of the future, that remains uncertain, but it could be a lot worse than we're able to know in advance.","2019-12-29 18:50:36","3","fake-meows","1747934676.335074","climate crisis","manual"
+"fchpzkb","t3_eh72c7","eh72c7","climatechange","action-oriented","Almost all of the climate models from the 1990s and 1980s have been very good at predicting current global temperatures: 
+
+https://www.carbonbrief.org/analysis-how-well-have-climate-models-projected-global-warming","2019-12-29 20:54:51","3","bonjarno65","1747934676.336092","climate crisis","manual"
+"fcibghc","t3_eh72c7","eh72c7","climatechange","action-oriented","The scientific challenge of understanding and estimating climate change (Palmer 2019)
+
+> *Now that the blurry outlines of global climate change have been settled, the need to sharpen the picture (Box 1) has become more urgent (2). However, such sharpening is proving to be more challenging than anticipated—something that we attribute to the inadequacy of our models (3–5).* ***Unfortunately, many in the community—notably those in charge of science funding—have no idea how significant and widespread these inadequacies are*** 
+
+> Figs. 2 and 3 develop this point further by showing how, on the regional scale and for important regional quantities (7), these problems are demonstrably more serious still, **as model bias (compared with observations) is often many times greater than the signals that the models attempt to predict**. In a nonlinear system, particularly one as important as our model of Earth’s climate, one cannot be complacent about biases with such magnitudes. Both basic physics and past experience (at least on timescales that observations constrain) teach us that our ability to predict natural fluctuations of the climate system is limited by such biases (8–11). **By downplaying the potential significance that model inadequacies have on our ability to provide reliable estimates of climate change, including of course in terms of extremes of weather and climate, we leave policy makers (and indeed, the public in general) ignorant of the extraordinary challenge it is to provide a sharper and more physically well- grounded picture of climate change, essentially depriving them of the choice to do something about it.**
+
+
+
+
+[link(pdf)](https://www.pnas.org/content/pnas/early/2019/11/26/1906691116.full.pdf)","2019-12-29 22:55:13","2","DrDolittle","1747934676.3388941","climate crisis","manual"
+"fch5jnd","t3_eh72c7","eh72c7","climatechange","action-oriented","Show him this excellent video from a MIT professor .
+
+https://youtu.be/OwqIy8Ikv-c","2019-12-29 19:24:25","1","[deleted]","1747934676.340232","climate crisis","manual"
+"fchon7x","t3_eh72c7","eh72c7","climatechange","action-oriented","Why are you sure he is wrong if you have no arguments?","2019-12-29 20:48:17","2","DrDolittle","1747934676.34132","climate crisis","manual"
+"fcificw","t3_eh72c7","eh72c7","climatechange","action-oriented","Your friend has a vague point that all models are intentionally biased to some degree. But that doesnt mean that all models are wrong. That just means you have to factor in more than just one source besides IPcc or whatever its called.","2019-12-29 23:22:36","1","[deleted]","1747934676.342401","climate crisis","manual"
+"fciq9mh","t3_eh72c7","eh72c7","climatechange","action-oriented","If he's following the IPCC models, and think they are all somewhat flawed then he's thinking about it correctly. The flaw isn't in the science on what is happening/what those things do, but with what they will change in the future and when. He probably needs to look back and see how things have changed as predicted before.
+
+What did people think before would happen?
+
+In [1979 Exxon said](http://www.climatefiles.com/exxonmobil/1979-exxon-memo-on-potential-impact-of-fossil-fuel-combustion/) that continuing to burn their emissions would push the world above 400 CO2 PPM by 2012 (we hit that I think 2015), and because of that we would see increased temperatures. As have seen.
+
+The inaction from 1979 to today brought us to exactly as was expected. The only difference was that the ocean absorbed far more CO2 than expected, acidifying itself.
+
+Fast forward - IPCC - They are the model that IF THE ENTIRE WORLD follows it then the world stays below 1.5C.
+
+[From the IPCC Chapter 5](https://www.ipcc.ch/sr15/chapter/chapter-5/). Here is an image from it showing the difference between [BAU or rapid adjustments.](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/01/Figure5.1-1024x612.jpg)
+
+""Without   societal   transformation   and    rapid    implementation of  ambitious  greenhouse  gas   reduction   measures,  pathways to limiting warming to 1.5°C and achieving sustainable development  will  be  exceedingly  difficult,  if   not   impossible, to achieve (*high confidence*).""
+
+""Warming of 1.5°C is not considered ‘safe’ for most nations, communities, ecosystems and sectors and poses significant risks to natural and human systems as compared to the current warming of 1°C (*high confidence*).""","2019-12-30 00:54:11","-1","drewbreeezy","1747934676.344573","climate crisis","manual"
+"f9pubjh","t3_e6gb9u","e6gb9u","TrueOffMyChest","unknown","In 25 years when you’re sitting in your empty two bedroom apartment and the birds are singing the sun is shining and the waves are lapping gently against the ancient shore - don’t cry.  Realize you’ve been duped and this is the outcome the people who conned you want.","2019-12-05 12:29:29","5","iMattApp","1747935277.0266","climate crisis","manual"
+"f9q0ekk","t3_e6gb9u","e6gb9u","TrueOffMyChest","unknown","Hey, people above are being very negative. It’s ok to feel this way, maybe a good compromise for you would be adoption. You could then improve lives instead of dooming them as you feel reproduction would. There might be hope for the future. That’s all we can do at this point, be active and hope.","2019-12-05 13:33:59","2","[deleted]","1747935277.027851","climate crisis","manual"
+"f9q6g8v","t3_e6gb9u","e6gb9u","TrueOffMyChest","unknown","Have you actually dug into any of that? That '12 years and we're doomed' thing? Been the claim for forty years. It's also NOT the only prediction being made, just the one the media picks up and runs with because fear grabs attention, attention gets them advertisers, and ads pay bills. Also turns out the data they base that on is part of a set of estimates based on current data. The twelve years claim comes from the set intended to represent the absolute worst possible scenario.
+
+You should also be aware that, while the extreme majority of climate scientists do agree that climate change is occurring, there is absolutely no consensus on how much, or even if, humanity plays any role in it.
+
+Further hot planet = / = death. There's been eras in the planet's history that have been a full nine degrees Celsius warmer than we see today. Life will continue, no matter what. Some things will die out, yes, but life will go on. And considering how inventive and resilient we hairless apes are, you can pretty much guarantee we'll survive too. Maybe in reduced numbers, but if anything can survive it, then we can.
+
+And take the greenhouse gas stuff with a grain of salt: five million years ago the planet had CO2 levels three times higher than we see today (and no humans to blame yet), and the planet still managed to go into an ice age. Not a single climate scientist has been able to explain that yet. (To be clear, I'm not at all denying climate change exists. This post is about pulling people back from the extremes that the media encourages. I hope that by pointing out that there are problems with the science, while not denying it, and pointing out that media coverage is geared towards ratings, and that nothing about what IS being said actually indicates 'we're all gonna die' that this will help bring people back from the edges a bit.)
+
+And finally 95% of all pollution and greenhouse gas emissions are caused by companies, not individuals. You having one, two, or twenty kids will bear no significant impact on that. So my advice is, live your life, don't blindly believe anything ANYONE tells you, and use your voice to demand action from and consequences for those who are really causing the problems.","2019-12-05 14:26:44","1","MojitoBlue","1747935277.030902","climate crisis","manual"
+"fa8ahsg","t3_e80b7p","e80b7p","environmental_science","unknown","The Japanese realized this:  [https://time.com/5259602/japanese-forest-bathing/](https://time.com/5259602/japanese-forest-bathing/)","2019-12-08 22:20:08","2","addelorenzi","1747935444.012819","climate crisis","manual"
+"fa8ovgk","t3_e80b7p","e80b7p","environmental_science","unknown","i took a class based on something very similar to this and environmental psychology at a very well known engineering school in the united states, its extremely fascinating and should really be brought to attention to more people so that even more research can go into it. i completely agree that the two have direct effects on each other, i know that i can personally see it in comparison to where i go to school and where i live after learning all of this and now being able to explain why i felt the way that i did when i was in certain situations before even taking the class","2019-12-09 00:26:50","1","maamlizard","1747935444.014386","climate crisis","manual"
+"fachve5","t3_e80b7p","e80b7p","environmental_science","unknown","Yes if the fishing is bad, it effects how much longer I am going to sit on the lake. So bad fishing bad mode, lots of fish full freezer good mode. :)","2019-12-10 01:04:17","1","texhume","1747935444.0154428","climate crisis","manual"
+"fbt84hu","t3_e80b7p","e80b7p","environmental_science","unknown","There's actually a really great book called ""Last Child in the Woods: Saving Our Children From Nature-Deficit Disorder"" written back in 2005 about how nature deficit we've become as a society. Not as many people spend time outside anymore, kids are being put on medications at younger ages for ADHD, depression, etc. It's an interesting read and definitely inspired me to get outside more. I personally feel better if I get outside more frequently than not and if it gets to the point where it's actually unhealthy for us to breathe the air or there's little to no canopy cover, my mental health will definitely go down hill. And I think I've read studies on this as well. People just don't realize how important it is to incorporate nature into our lives.","2019-12-23 03:15:02","1","kaydeebeee","1747935444.017067","climate crisis","manual"
+"favgv1n","t3_eapczc","eapczc","futurology","unknown","Especially with many people not having children and not having any hope of buying and building home owner equity, living mobile makes more and more sense. Imagine the saving being a developer in Seattle earning $150,000 and not having to pay $50-60,000 rent","2019-12-14 21:26:09","2","Surur","1747935719.0031948","climate crisis","manual"
+"fawfndj","t3_eapczc","eapczc","futurology","unknown","If there was a real danger of that sort of forced migration anytime in the near future you wouldn’t see the Obamas buying a $15mm house on Martha’s Vinyard.  
+
+But that as it is, mobile houses cost more. A lot more. They’re great fun, but neither economical nor environmentally friendly.","2019-12-15 00:41:26","2","Piper-Bob","1747935719.004628","climate crisis","manual"
+"fawzpi7","t3_eapczc","eapczc","futurology","unknown","I have a really nice kitchen I paid a lot of money to install because I enjoy cooking. That’s not something you could have in a portable home.
+
+The biggest selling features in a house are kitchen and bathrooms, both of which suck in every RV, even the luxury ones.","2019-12-15 02:32:05","2","PatriotMinear","1747935719.005871","climate crisis","manual"
+"fax0tvd","t3_eapczc","eapczc","futurology","unknown","Move once or twice, not so much as a full time lifestyle. Driving an RV only contributes to climate change.","2019-12-15 02:37:49","2","[deleted]","1747935719.00738","climate crisis","manual"
+"favjnc6","t3_eapczc","eapczc","futurology","unknown","I've thought about this a lot. 
+
+ Think Ready Player One, but mixed reality instead of Virtual Reality and Self Driving RVs instead of Stacked stationary RVs.","2019-12-14 21:36:55","1","Chispy","1747935719.008418","climate crisis","manual"
+"fawhr3v","t3_eapczc","eapczc","futurology","unknown","What climate crisis? The impact of natural disasters has been diminished by an exceptional amount over the last century. Migration is socio-economic, not climate driven.","2019-12-15 00:57:09","1","vommavanna","1747935719.0097332","climate crisis","manual"
