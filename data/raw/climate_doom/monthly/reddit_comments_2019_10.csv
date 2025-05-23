@@ -1,0 +1,267 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"f2hso1a","t3_dcwyvr","dcwyvr","climatechange","action-oriented","A guy says something. I guess that about wraps it up for climate science, guys. Call the movers.
+
+I've read this kind of nonsense before, and wasted a lot of time researching it. It never pans out. Couple that with the fact that the climate models have done a passable job so far, not perfect (which is impossible anyway since it would require actual knowledge of things like future economic activity), but good enough. They are projections, not weather forecasts. 
+
+Climate change is a demonstrated fact. [http://www.woodfortrees.org/graph/best/from:1879/to:1908/trend/plot/best/from:1889/to:1918/trend/plot/best/from:1899/to:1928/trend/plot/best/from:1909/to:1938/trend/plot/best/from:1919/to:1948/trend/plot/best/from:1929/to:1958/trend/plot/best/from:1939/to:1968/trend/plot/best/from:1949/to:1978/trend/plot/best/from:1959/to:1988/trend/plot/best/from:1969/to:1998/trend/plot/best/from:1977/to:2006/trend/plot/best/from:1989/to:2018/trend](http://www.woodfortrees.org/graph/best/from:1879/to:1908/trend/plot/best/from:1889/to:1918/trend/plot/best/from:1899/to:1928/trend/plot/best/from:1909/to:1938/trend/plot/best/from:1919/to:1948/trend/plot/best/from:1929/to:1958/trend/plot/best/from:1939/to:1968/trend/plot/best/from:1949/to:1978/trend/plot/best/from:1959/to:1988/trend/plot/best/from:1969/to:1998/trend/plot/best/from:1977/to:2006/trend/plot/best/from:1989/to:2018/trend)
+
+The human causes are demonstrated facts, primarily caused by the burning of fossil fuels. The ratio of C13/C12 in atmospheric CO2 demonstrates that beyond any reasonable doubt.
+
+So a guy, no matter how well credentialed, saying something in the popular press means nothing. If he thinks he has something, then publish in a reputable peer-reviewed scientific journal and see how his hypothesis withstands scrutiny. Otherwise, he is wasting your time or attempting to steal you belief.","2019-10-05 03:55:01","3","-misanthroptimist","1747902960.4268658","climate doom","manual"
+"f2ck29q","t3_dcwyvr","dcwyvr","climatechange","action-oriented","Thanks, I got the free kindle edition of his book, pointed to in the article.","2019-10-03 21:42:20","2","raarts","1747902960.42837","climate doom","manual"
+"f2g2oxx","t3_dcwyvr","dcwyvr","climatechange","action-oriented","I'm generally sympathetic to certain criticisms of models of very complex systems. Generally I've found that the more you work with complex models, the more modest are the claims you tend to make about their outputs. 
+
+When cutting-edge models use the best available data and the best available modeling techniques, that makes them *academically* valid. But only a well-defined set of predictions, compared against a well-defined set of empirical data and with errors rigorously quantified, can be considered useful for actual forecasting. So this passage in the linked article, I basically agree with:
+
+>The climate models are useful tools for academic studies, he says. However, “the models just become useless pieces of junk or worse (worse in a sense that they can produce gravely misleading output) when they are used for climate forecasting.” 
+
+The article goes on to give some reasoning for this conclusion:
+
+>These models completely lack some critically important  climate processes and feedbacks, and represent some other critically important climate processes and feedbacks in grossly distorted manners to the extent that makes these models totally useless for any meaningful climate prediction.
+
+Okay, I guess that's fine. But actual scientists probably don't claim that their models are complete or even sufficient for forecasting. Climate scientists who are intellectually honest surely acknowledge the gaps that are noted here as criticisms. So framing that as a criticism is a little bit unnecessarily confrontational. It would be better to discuss the actual gaps in terms that an objective layperson can understand.      
+
+>I am confident that some honest and courageous, true climate scientists will continue to publicly point out the fraudulent claims made by the mainstream climate science community in English.
+
+Okay, this is also highly confrontational. I guess there probably are some such fraudulent claims being made — probably some academics do overstate the usefulness of model outputs as forecasts. And it's true that laypeople have a tough time identifying those overstated claims. I doubt it's really necessary to take a confrontational approach there, but I guess it's not wrong.
+
+>Climate forecasting is simply impossible, if only because future changes in solar energy output are unknowable.  
+
+While true, this isn't a very deep criticism of climate models. I would hope this is just a statement of convenience for the author's readership, and not a full summary of this climate scientist's views. 
+
+More climate-model gaps pointed out:
+
+>Other gross model simplifications include
+
+>* Ignorance about large and small-scale ocean dynamics
+
+>* A complete lack of meaningful representations of aerosol changes that generate clouds.
+
+>* Lack of understanding of drivers of ice-albedo (reflectivity) feedbacks: “Without a reasonably accurate representation, it is impossible to make any meaningful predictions of climate variations and changes in the middle and high latitudes and thus the entire planet.”
+
+>* Inability to deal with water vapor elements
+
+>* Arbitrary “tunings” (fudges) of key parameters that are not understood
+
+I'm glad to have this list written down for laypeople like myself. But this is just one step toward evaluating various criticisms of climate models. We don't know how significant any of these gaps really are. 
+
+>Solar input, absurdly, is modelled as a “never changing quantity”. He says, “It has only been several decades since we acquired  an ability to accurately monitor the incoming solar energy. In these several decades only, it has varied by one to two watts per square metre. Is it reasonable to assume that it will not vary any more than that in the next hundred years or longer for forecasting purposes? I would say, No.”
+
+This is a more comprehensive discussion of a small but important point. 
+
+>Good modelling of oceans is crucial, as the slow ocean currents are transporting vast amounts of heat around the globe, making the minor atmospheric heat storage changes almost irrelevant. For example, the Gulf Stream has kept western Eurasia warm for centuries. On time scales of more than a few years, it plays a far more important role on climate than atmospheric changes. 
+
+Interesting. I've wondered about this too. The ocean is definitely a more significant heat reservoir than the atmosphere, in terms of capacity. But in terms of altering existing heat flows...I don't know. A further discussion of that topic would be interesting.
+
+>Proper ocean modelling would require a tenfold improvement in spatial resolution and a vast increase in computing power, probably requiring quantum computers. If or when quantum computers can reproduce the small-scale interactions, the researchers will remain out of their depth because of their traditional simplifying of conditions.
+
+Okay, I'm generally sympathetic to this claim, if you leave out the stuff about requiring quantum computers. 
+
+>The models are ‘tuned’ by tinkering around with values of various parameters until the best compromise is obtained. I used to do it myself. It is a necessary and unavoidable procedure and not a problem so long as the user is aware of its ramifications and is honest about it. But it is a serious and fatal flaw if it is used for climate forecasting/prediction purposes.
+
+Yes, this is something that I've wondered about as an objective layperson, and no scientist's explanation of these tunings has seemed very complete or satisfactory to me. So I'm sympathetic to this criticism too.
+
+>Ad hoc representation of clouds may be the greatest source of uncertainty in climate prediction. A profound fact is that only a very small change, so small that it cannot be measured accurately…in the global cloud characteristics can completely offset the warming effect of the doubled atmospheric CO2.
+
+I think this is another example of a model gap which is freely acknowledged by climate modelers. But Dr. Nakamura may feel that those academic acknowledgments are omitted from public discussions, and he might be correct to feel that way. I kind of feel that way myself too, as a layperson.
+
+>Accurate simulation of cloud is simply impossible in climate models since it requires calculations of processes at scales smaller than 1mm.” Instead, the modellers put in their own cloud parameters. Anyone studying real cloud formation and then the treatment in climate models would be “flabbergasted by the perfunctory treatment of clouds in the models.
+
+Wow, accuracy down to one millimeter? That seems like an unreasonable expectation. But accuracy down to 1000 cubic meters seems like a reasonable threshold at which to define an accurate atmospheric model. I think the current modeling threshold is several orders of magnitude larger than this.   
+
+>Nakamura describes as “moronic” the claims that “tuned” ocean models are good enough for climate predictions. 
+
+Again, I think this is mostly a semantic disagreement. I don't think many modelers actually consider current climate models to be ""good enough"" in terms of *completeness*. I think current models are considered ""good enough"" in terms of ""the best outputs available, which can lead to the creation of more precise models in the future."" Probably no one disputes that future climate models will be considerably superior to current ones. Climate modeling at this stage is undoubtedly an iterative process.
+
+>He says a large part of the forecast global warming is attributed to water vapor changes, not CO2 changes. “But the fact is this: all climate simulation models perform poorly in reproducing the atmospheric water vapor and its radiative forcing observed in the current climate… They have only a few parameters that can be used to ‘tune’ the performance of the models and (are) utterly unrealistic.” Positive water vapor feedbacks from CO2 increases are artificially enforced by the modelers. They neglect other reverse feedbacks in the real world, and hence they exaggerate forecast warming.
+
+Interesting. But I think the only way to truly evaluate this criticism is by testing a superior model.
+
+>The  supposed measuring of global average temperatures from 1890 has been based on thermometer readouts barely covering 5 per cent of the globe until the satellite era began 40-50 years ago. “We do not know how global climate has changed in the past century, all we know is some limited regional climate changes, such as in Europe, North America and parts of Asia.”  
+
+I don't think climate modelers deny the limited coverage available in the data. Although perhaps Dr. Nakamura is again correct to point out that these limitations get omitted from public discussions of model outputs. 
+
+>The take-home message is (that) all climate simulation models, even those with the best parametric representation scheme for convective motions and clouds, suffer from a very large degree of arbitrariness in the representation of processes that determine the atmospheric water vapor and cloud fields. Since the climate models are tuned arbitrarily …there is no reason to trust their predictions/forecasts.
+
+A strong claim. But possibly very hard to rebut.
+
+Overall, this is a very interesting and challenging article. It's probably overstating the case to say that mainstream climate scientists are on the wrong path. Dr. Nakamura's criticisms of model gaps do seem plausible, although I think climate modelers themselves would uncontroversially acknowledge the existence of many of these gaps. 
+
+I guess the key question comes down to whether these gaps are properly disclosed in public discussions of model outputs. It seems plausible to me that Dr. Nakamura has the better of this controversy, since it seems to me that the public audience gets mesmerized by announcements of model outputs and has basically no attention span for discussion of the actual facts of atmospheric composition and trends, much less any discussion of model shortcomings.
+
+[Edit: typo]","2019-10-04 21:51:17","2","DocHarford","1747902960.445663","climate doom","manual"
+"f2h3nxk","t3_dcwyvr","dcwyvr","climatechange","action-oriented","I couldn't find the post in [r/skeptics](https://www.reddit.com/r/skeptics) but I did find a post in [r/climateskeptics](https://www.reddit.com/r/climateskeptics), which is a group for people who aren't skeptics, at all.
+
+So that's not a good start.
+
+But anyway [here is a post](https://www.reddit.com/r/DebunkThis/comments/dcgtcc/mit_climate_scientist_mototaka_nakamuras_book/) in [r/DebunkThis](https://www.reddit.com/r/DebunkThis) so, enjoy that, probably no need for us to spend time and effort debunking it again.","2019-10-05 01:29:43","2","samdekat","1747902960.447226","climate doom","manual"
+"f2cldo7","t3_dcwyvr","dcwyvr","climatechange","action-oriented","I found his bok. Coherent, as the climate maffia grants super powers to the co2 and ch3 as to drive greater feedback from actual strong greenhouse gases as watervapor","2019-10-03 21:50:58","1","AcostaJA","1747902960.4484549","climate doom","manual"
+"f2ccu5m","t3_dcwyvr","dcwyvr","climatechange","action-oriented","Looks like some scientist are not consenting.","2019-10-03 21:05:45","0","LackmustestTester","1747902960.458824","climate doom","manual"
+"f4v9fy6","t3_dlz5rk","dlz5rk","climatechange","action-oriented","> are we doomed to fail?
+
+Given that ‘we’ = all 7.7 billion inhabitants of the planet, I’m sure we’ll succeed in some ways and fail in others.","2019-10-23 13:53:40","7","technologyisnatural","1747903010.64243","climate doom","manual"
+"f4x23tr","t3_dlz5rk","dlz5rk","climatechange","action-oriented","Simple answer cause I need to start making a copy/paste post for these kinds of questions:
+
+No, we're going to make it.","2019-10-23 20:16:44","6","[deleted]","1747903010.64467","climate doom","manual"
+"f4yd3ek","t3_dlz5rk","dlz5rk","climatechange","action-oriented","Depends on your definition of failure. We’ve missed the cutoff for avoiding some significant negative economic impacts. So that is going to make it a difficult job: not only do we need to become carbon neutral, we need to do so with less resources, and we need to remove MORE CO2, since we just continued to add more rather than doing something about it earlier. 
+
+On the other hand:
+1. Climate change is now visceral, it’s something you can see happening now, rather than only being significant in a model predicting the future. That is motivating people, which is why we are hearing more from more motivated people. That won’t go away.
+
+2. Economic collapse can also significantly reduce CO2 emissions - if people can’t afford to pay for electricity or drive cars, then eventually, less electricity is generated, and less fuel is burnt. It is probably the worst approach to reducing emissions,  but emissions will eventually go down.","2019-10-23 23:53:03","2","samdekat","1747903010.647498","climate doom","manual"
+"f4wwd5b","t3_dlz5rk","dlz5rk","climatechange","action-oriented","Every species suffers the fate of reaching a natural balance eventually where the power of exponential population growth evens out with the negative forces of scarcity, pollution, and conflict. This isnt failure, on the contrary, therein lies the amazing power of life.","2019-10-23 19:52:52","1","Feldheld","1747903010.649185","climate doom","manual"
+"f5jbvo8","t3_dlz5rk","dlz5rk","climatechange","action-oriented","No. But some people are. Third world countries with arid, desert like climates will experience drought (they already do). Places with humid, tropical conditions will likely experience wildfires and coastal states will see massive sea-level rise cause extreme collapse of their societies. So lots of places will suffer. 
+
+But the developed nations will largely be fine. The hard part is the refugees from these countries, the food production industry and several other industries having to take hits. Climate change won't directly affect most of humanity like we all think it will. It will be slow, it will be hardly noticeable, it will be hard for some. But like our ancestors we'll survive.","2019-10-28 00:56:18","0","Fuarian","1747903010.6515021","climate doom","manual"
+"f5jrifq","t3_dlz5rk","dlz5rk","climatechange","action-oriented","Yes .. we will not be keeping to 1.5C, and probably not even 2C. People can protest, and argue online. But look around you.
+
+Is McDonald selling fewer burgers? Are people walking, instead of driving to work? Are people buying less stuff?","2019-10-28 04:43:37","0","[deleted]","1747903010.653708","climate doom","manual"
+"f4z2ve3","t3_dlz5rk","dlz5rk","climatechange","action-oriented","You've elected a guy who doesn't believe in science.","2019-10-24 04:52:33","-1","Togethernotapart","1747903010.6560278","climate doom","manual"
+"f2wlfnh","t3_dem1p1","dem1p1","climate","scientific","There are some other good examples out there of international coopration.  The [Montreal Protocol on Substances that Deplete the Ozone Layer](https://en.wikipedia.org/wiki/Montreal_Protocol) substantially ended the production of ozone-depleting chemicals.  Humans have  addressed a host of local pollution problems as well.
+
+It's entirely possible to affect outcome here -- we've got a mix of technologies available to us which will allow an end to fossil fuel consumption.  But whether we do so or not is a political question: it comes down to whether enough people, in enough countries, get involved in pressuring their government, in a country-appropriate manner, to create the political will for action.
+
+[You can do your part](https://www.reddit.com/r/climate/comments/b49xgi/how_to_get_involved_with_a_local_group_to_create/).","2019-10-07 16:53:06","2","silence7","1747903142.3904781","climate doom","manual"
+"f30jbd4","t3_dem1p1","dem1p1","climate","scientific","My hope is that the climate scientists have overestimated the scale of the problem.
+
+I say this because there appears to be no easy fix, and the resulting political and economic inertia will likely mean any action taken will be too little, too late.","2019-10-08 17:27:17","2","ad1mt","1747903142.3931","climate doom","manual"
+"f2wtaov","t3_dem1p1","dem1p1","climate","scientific"," 
+
+First and foremost, I want to point out that I hate the fact that you have to preface your post the way you did, due to today's culture on discussing topics like this. It's no wonder we are so incapable of making decisions on a societal level when we can't even have a calm and level headed conversation about difficult topics without it inevitably devolving into a shouting match.
+
+I am personally hopeful. I have looked at the IPCC reports for the different outcomes based on different levels of action that we take and that coupled with the current #FridaysForFuture climate strikes and the general waking up of people around the world that I have seen in the news recently, I believe we have a chance at making a difference. I frequently visit [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) to try and find some good news. I just saw the other day that LA is planning to plant 90,000 trees by 2021. I also saw that scientists mapped out several areas where we can plant trees today and they discovered that it has the potential to capture 2/3 of all the carbon emitted since the beginning of the industrial revolution. I try to take all of this with a grain of salt, of course. And I definitely look at all of these options as being a single option in an overall greater list of things we need to do simultaneously, but I think we have reason for hope.","2019-10-07 17:39:00","1","ModestMariner","1747903142.397132","climate doom","manual"
+"f3vstx3","t3_difo01","difo01","collapse","skeptical","Is our wealth inequality so high that the rich don't care anymore? People with all that money give zero fucks, we need to stop fighting each other start eating the rich.","2019-10-15 23:59:14","138","[deleted]","1747903829.4033878","climate doom","manual"
+"f3vludl","t3_difo01","difo01","collapse","skeptical","> Gonna be interesting in 8 years time when the IPCC report is just one line “We’re fucked”.
+
+The final climate conference will be like: IPCC - *""So now we have finally reached the conclusion that the world has come to an end. Wait... where is everybody?""*","2019-10-15 22:37:53","83","202020212022","1747903829.405405","climate doom","manual"
+"f3wa50z","t3_difo01","difo01","collapse","skeptical","Do these motherfuckers know what happens at 4C!?!?  The ignorance of the masses and the apathy of the elite are going to bring about events that will dwarf every hardship and cataclysm out species has ever faced.  
+
+We are the generation that the survivors will revile. We have had every chance to change.  We have been shown every sign of what is coming.  And what do we do?  We set the last of the rainforests on fire and repeal what paltry environmental legislation had already been passed.","2019-10-16 03:16:40","63","VolkspanzerIsME","1747903829.407372","climate doom","manual"
+"f3vvvlp","t3_difo01","difo01","collapse","skeptical","I don't see how we stop this before 4ºC warming.  This is the scenario I put into [http://TheClimateTrail.com](http://TheClimateTrail.com) game and people claimed it was too pessimistic.  Well sadly it isn't.
+
+Note: Free Game, No Ads, No IAP.","2019-10-16 00:33:32","47","bikingbill","1747903829.409256","climate doom","manual"
+"f3w8pbe","t3_difo01","difo01","collapse","skeptical","So how exactly do financiers expect to reap their investments in a post 4C world? Live in their fortified biodomes? What's the fucking point?","2019-10-16 02:59:00","23","are-e-el","1747903829.410665","climate doom","manual"
+"f3wiwuc","t3_difo01","difo01","collapse","skeptical","The world needs to be like Hong Kong. Better to die fighting for  the hope of something better than dying not doing anything at all.","2019-10-16 05:38:48","20","fuzzyshorts","1747903829.41329","climate doom","manual"
+"f3w6guq","t3_difo01","difo01","collapse","skeptical","Full speed ahead, to the doom!","2019-10-16 02:32:56","13","freedom_from_factism","1747903829.415104","climate doom","manual"
+"f3vvctx","t3_difo01","difo01","collapse","skeptical","Oh and here's more proof financial system is fucking us over:
+
+ [https://www.theguardian.com/environment/2019/oct/15/concerns-eu-bank-balks-plans-halt-fossil-fuel-investments-climate-action-eib](https://www.theguardian.com/environment/2019/oct/15/concerns-eu-bank-balks-plans-halt-fossil-fuel-investments-climate-action-eib) 
+
+*""The European Investment Bank (EIB) has balked at a proposal to halt new investments in fossil fuels, raising concerns that* [*Germany*](https://www.theguardian.com/world/germany) *and other nations are plotting to water down what would be one of the financial sector’s most ambitious climate moves.*
+
+*The EIB, the largest public bank in the world, announced this year that it would end lending to new gas projects, having already curtailed funding for coal and oil. This would free up more money for renewable energy developments. The details of the plan were* [*expected*](https://www.theguardian.com/commentisfree/2019/oct/13/divestment-bank-european-investment-fossil-fuels) *to be confirmed by a board meeting of EU finance ministers on Tuesday but last-minute lobbying has forced a postponement.""*
+
+Yes ""lobbying"". And there you have it, part of our immoral and corrupt system that will see the end of human civilisation.","2019-10-16 00:27:59","14","Littlearthquakes","1747903829.417425","climate doom","manual"
+"f3vzpht","t3_difo01","difo01","collapse","skeptical","Shorting the climate ?","2019-10-16 01:15:52","12","[deleted]","1747903829.418327","climate doom","manual"
+"f3vv2bb","t3_difo01","difo01","collapse","skeptical","> in 8 years time when the IPCC report is just one line “We’re fucked”.
+
+Wonder if the maturity dates on this 100 trillion in capital investment bonds are past the point of collapse. Capitalists cause ecological collapse for free; global financiers never get to open their christmas presents","2019-10-16 00:24:55","11","heliotach712","1747903829.420165","climate doom","manual"
+"f3w3zd4","t3_difo01","difo01","collapse","skeptical","In 8 years time, the IPCC report will still be reporting on data from 5-6 years time.","2019-10-16 02:03:58","10","mogsington","1747903829.4212322","climate doom","manual"
+"f3w4fjv","t3_difo01","difo01","collapse","skeptical","yes to be honest, this is why i say and will continue to say.....
+
+#politics is wrestling.","2019-10-16 02:09:11","7","robespierrem","1747903829.422355","climate doom","manual"
+"f3woc1b","t3_difo01","difo01","collapse","skeptical","Keep in mind that governor of the Bank of England Mark Carney is known for underestimating everything and taking the most conservative version of events and has underestimated growth for years and years...
+
+So expect it to be worse.","2019-10-16 07:45:04","8","Drxero1xero","1747903829.4236941","climate doom","manual"
+"f3wgce4","t3_difo01","difo01","collapse","skeptical","As long as the economists and politicians are getting the final say with the IPCC, it'll be ""We're fucked, but the market is up and there are tremendous economic opportunities in people transport and farming in Siberia.""","2019-10-16 04:51:08","6","[deleted]","1747903829.42499","climate doom","manual"
+"f3wsd3o","t3_difo01","difo01","collapse","skeptical","Well duhh...
+
+without credit there would be no investment
+
+>Economics is a notoriously complicated subject. To make things easier, let’s
+imagine a simple example.
+
+>Samuel Greedy, a shrewd financier, founds a bank in El Dorado, California.
+A. A. Stone, an up-and-coming contractor in El Dorado, finishes his first big job,
+receiving payment in cash to the tune of $1 million. 
+
+>He deposits this sum in Mr Greedy’s bank. 
+
+>The bank now has $1 million in capital.
+
+>In the meantime, Jane McDoughnut, an experienced but impecunious El Dorado
+chef, thinks she sees a business opportunity – there’s no really good bakery in her
+part of town. But she doesn’t have enough money of her own to buy a proper
+facility complete with industrial ovens, sinks, knives and pots. She goes to the
+bank, presents her business plan to Greedy, and persuades him that it’s a
+worthwhile investment. He issues her a $1 million loan, by crediting her account
+in the bank with that sum.
+
+>McDoughnut now hires Stone, the contractor, to build and furnish her bakery.
+
+>His price is $1,000,000.
+
+>When she pays him, with a cheque drawn on her account, Stone deposits it in
+his account in the Greedy bank.
+
+>So how much money does Stone have in his bank account? 
+
+>Right, $2 million.
+
+>How much money, cash, is actually located in the bank’s safe? 
+
+>Yes, $1 million.
+
+>It doesn’t stop there. As contractors are wont to do, two months into the job
+Stone informs McDoughnut that, due to unforeseen problems and expenses, the
+bill for constructing the bakery will actually be $2 million. Mrs McDoughnut is not
+pleased, but she can hardly stop the job in the middle. So she pays another visit to
+the bank, convinces Mr Greedy to give her an additional loan, and he puts
+another $1 million in her account. She transfers the money to the contractor’s
+account.
+
+>How much money does Stone have in his account now? 
+
+>He’s got $3 million.
+
+>But how much money is actually sitting in the bank? 
+
+>Still just $1 million. 
+
+>In fact, the same $1 million that’s been in the bank all along.
+
+>Current US banking law permits the bank to repeat this exercise seven more
+times. 
+
+>The contractor would eventually have $10 million in his account, even
+though the bank still has but $1 million in its vaults. 
+
+>Banks are allowed to loan $10 for every dollar they actually possess, which means that 90 per cent of all the money in our bank accounts is not covered by actual coins and notes. 
+
+>If all of the account holders at Barclays Bank suddenly demand their money, Barclays will promptly collapse (unless the government steps in to save it). The same is true of Lloyds, Deutsche Bank, Citibank, and all other banks in the world.
+
+
+[-from *Sapiens* by Yuval Noah Harari](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)","2019-10-16 09:36:50","3","ki4clz","1747903829.4293041","climate doom","manual"
+"f3wrptd","t3_difo01","difo01","collapse","skeptical","Interesting – many of us can behold the fall of modern civilization in our lifetimes.","2019-10-16 09:19:00","2","[deleted]","1747903829.4302778","climate doom","manual"
+"f3wri1i","t3_difo01","difo01","collapse","skeptical","> The risks associated with temperatures at or above 4C include a 9-metre  rise in sea levels – affecting up to 760 million people – searing  heatwaves and droughts, serious food supply problems and half of all  animal and plant species facing local extinction. 
+
+Ok, is anyone pretending that a 9-metre rise in sea levels doesn't affect us all? The 760 million *drown.* Anyone else has to get along without all of those people and everything else that was 28ft or lower.","2019-10-16 09:12:51","1","FireWireBestWire","1747903829.431756","climate doom","manual"
+"f3ybxzn","t3_difo01","difo01","collapse","skeptical","The wealthy elite are just going to leave us to die here on earth while they expand to another planet.","2019-10-16 18:48:00","1","ObscureSir","1747903829.432791","climate doom","manual"
+"f3wk1t7","t3_difo01","difo01","collapse","skeptical","A society of death. The western mind was never meant to rise to global domination. It is born from a sickness, a deficiency that drove it to compensate with large scale murder and fear. Its science, its judeo-christian religions are the embodiment of its separation from even their own humanity. And now the planet will die from the plague made by the mind of deviants. 
+
+If there are survivors in some far flung future, I hope there is nothing of the european mind left amongst them.","2019-10-16 06:02:31","1","fuzzyshorts","1747903829.434036","climate doom","manual"
+"f22msh9","t3_dbb5n2","dbb5n2","collapse","skeptical","A little optimistic, but I really appreciate the effort you put into this. Thank you!","2019-10-01 01:09:29","3","NewAccount4NewPhone","1747904034.214138","climate doom","manual"
+"f22t8kp","t3_dbb5n2","dbb5n2","collapse","skeptical","Alright, now we just need to factor in Faster Than Expected.","2019-10-01 02:21:28","3","driusan","1747904034.215195","climate doom","manual"
+"f234gw5","t3_dbb5n2","dbb5n2","collapse","skeptical",">The destruction of forests for pasture/farm land will also continue. Many of these forests also effect the environment that they're in
+
+s/effect/affect
+
+>The Ozone layer will continue to deplete if the current uses of it doesn't stop.
+
+Ozone production/use near the surface of the earth does not affect ozone levels in the stratophere, which is what we're concerned about when we talk about he ozone layer.
+
+Ozone is produced in the stratophere when UV rays break apart oxygen molecules and the oxygen atoms (O) then combine with oxygen molecules (O2) to form ozone (O3). The problem is that we're producing and releasing into the atmosphere chemicals (chlorofluorocarbons) which are very good at breaking down ozone, and that's a bad thing.","2019-10-01 04:55:51","3","mrrp","1747904034.216653","climate doom","manual"
+"f22p76l","t3_dbb5n2","dbb5n2","collapse","skeptical","Real quality post. Thanks for taking your time to put it together, I really appreciate it.","2019-10-01 01:34:21","2","RGirl297","1747904034.219009","climate doom","manual"
+"f239lab","t3_dbb5n2","dbb5n2","collapse","skeptical","Should've added impending water crisis. Visit r/CollapseIndia. More than 21 Indian states are predicted to face day zero before 2021","2019-10-01 06:42:42","2","cooltechpec","1747904034.2205381","climate doom","manual"
+"f22hgei","t3_dbb5n2","dbb5n2","collapse","skeptical","Concentration camps and genocide will be common. Many of the genocides will be whitewashed as terrible tragedies (""who could have predicted all of these people penned up cheek to jowl in the hot, hot sun would all get sick and die?!"").","2019-10-01 00:18:47","1","Armbarfan","1747904034.2226949","climate doom","manual"
+"f22q2yb","t3_dbb5n2","dbb5n2","collapse","skeptical","Near future: Stand on Zanzibar meets We
+
+Distant Future: The Sheep Look Up meets Children of Men
+
+Far Future: The Road meets The Genocides (no aliens)
+
+Sounds lovely.  My fiction shelves will see literal interpretation yet.","2019-10-01 01:44:41","1","Toluenecandy","1747904034.224313","climate doom","manual"
+"f237mla","t3_dbb5n2","dbb5n2","collapse","skeptical","Im saving this to read later. Great work bud","2019-10-01 05:57:50","1","cooltechpec","1747904034.225004","climate doom","manual"
+"f28adqw","t3_dbb5n2","dbb5n2","collapse","skeptical","North Atlantic current slowdown is not far future, it's already verified down > 10% since 1950.
+
+[https://climatenewsnetwork.net/north-atlantic-ocean-currents-are-slowing/](https://climatenewsnetwork.net/north-atlantic-ocean-currents-are-slowing/)","2019-10-02 22:48:38","1","[deleted]","1747904034.226146","climate doom","manual"

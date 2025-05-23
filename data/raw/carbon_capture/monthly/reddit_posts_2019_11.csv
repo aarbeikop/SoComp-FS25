@@ -1,0 +1,8 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"dypnj7","sustainability","action-oriented","Numbers on Carbon capture tech","Hey guys,
+
+I recently read an [article](http://news.mit.edu/2019/mit-engineers-develop-new-way-remove-carbon-dioxide-air-1025) where MIT researchers are able to develop low energy intensive carbon capture tech at lab scale. They were able to bring down the energy cost to  1 GJ for 1 tonne of CO2 ( Most existing tech is in the range of 4-10 GJ).
+
+Although commercial scale up feasibility of the tech not tested yet, I took that energy cost as reference and calculated energy needed for CCS to absorb entire current emissions of US as a percentage of their current total energy consumption. For the calcs, I assumed 300 GJ per capita consumption, 330 million population and 5 billion tonnes of emissions. It turns out that to capture entire US emissions, CCS energy cost is only 5 percent of their current total energy consumption! ( 5 billion GJ out of 99 billion GJ) This number sounds too good to be true, am I missing anything?
+
+If this number is true, US can easily allocate  5 percent of their annual energy cost to carbon capture. Maybe another 2-3 percent needed for pipelining and storage. I have been very skeptical of CCS, but now it looks very feasible with these numbers.","2019-11-19 19:50:44","2","0","1.0","https://www.reddit.com/r/sustainability/comments/dypnj7/numbers_on_carbon_capture_tech/","True","zenneutral","1747914928.889129","carbon capture","manual"

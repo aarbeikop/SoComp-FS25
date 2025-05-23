@@ -1,0 +1,46 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"5gr898","environment","emotional","""If the most important environmental impact you wanted to alleviate was global warming, then you would go with plastic."" - David Tyler","Just read an interesting article interviewing a University of Oregon Chemistry Professor, David Tyler. The focus of the interview was on the life-cycle assessments of greenhouse gas emissions of plastic, paper, cotton, ceramic, owning a dog, buying local, and cloth diapers. Spoiler alert -- he says that plastic produces fewer GHG emissions than the above items. While I feel that his research focus was a little narrow (he focuses on GHG emissions only, not impact on health, animals, litter, etc.), he does make some interesting (and valid) points. I think the biggest takeaways from this article are -- (1) we need to evaluate the impact of our own practices (no matter what lifestyle you follow) with a critical eye and determine if our lifestyle meets the standards we are trying to achieve, and (2) if our lifestyle does not meet those standards, we should strive to change the way we live, change the products we buy, or take actions to change the way companies make these products. I encourage you to keep an open mind and check out [the article](https://cascade.uoregon.edu/fall2012/expert/expert-article/) for yourself. Summary is below, but **warning**, the explanations given in the article produces less of an eye rolling effect (from personal experience).
+
+
+
+**Summary as provided by author/interviewer:**
+
+Tyler’s Top Ten Environmental Surprises
+
+Life-cycle assessments of our popular “green” consumer choices suggest we may be wise to consider alternatives as well. In some of these assessments, researchers have concluded:
+
+• Plastic bags produce FEWER greenhouse gases than paper or cotton bags.
+
+• Ceramic mugs consume MORE ENERGY than disposable cups.
+
+• The environmental impact of owning a dog CAN BE GREATER than owning an SUV.
+
+• Styrofoam cups produce FEWER greenhouse gases than paper cups.
+
+• Bioplastic forks CAN BE HARDER on the environment than plastic ones.
+
+• The BART system in the San Francisco area USES ABOUT AS MUCH ENERGY as commuters in cars.
+
+• Delivering a large truckload of tomatoes from California to Eugene can be EASIER ON THE ENVIRONMENT than delivering an equivalent amount in small truckloads from local farms.
+
+• Recycled paper CAN CONSUME MORE ENERGY than new paper (at least in England).
+
+• LED lights save energy but increase TOXICITY concerns.
+
+• Plastic diapers can be A GREENER CHOICE than cloth diapers.
+
+
+* X-post in /r/ZeroWaste*","2016-12-06 05:48:05","8","6","0.9","https://www.reddit.com/r/environment/comments/5gr898/if_the_most_important_environmental_impact_you/","True","perceptionsinreality","1747866160.46018","zero waste","manual"
+"5j6lqv","collapse","skeptical","Why I'm sure we're not going to solve it","Just 65% of human greenhouse gas emissions actually come from burning fossil fuels, the other 35% are from deforestation and non-carbon dioxide greenhouse gasses. So, 11% of greenhouse gasses come from land use change. Considering [we've lost a third of arable land in the past forty years](https://www.theguardian.com/environment/2015/dec/02/arable-land-soil-food-security-shortage), we have every reason to believe land use change will continue. It's hard to see how Africans can grow their population to four billion by 2100 without removing the Congo rainforest. As the global population increases and dietary habits change, most of the other greenhouse gas emissions will increase too.
+
+So that brings us back to the other 65% of greenhouse emissions, the use of fossil fuels. When fossil fuels are used to generate electricity, we're not using them in their most effective manner. Their most effective use is in the process of generating intense heat. Conversion to electricity is a relatively lossy process. So when do we need intense heat? When we produce glass, cement, steel, clay bricks for buildings and streets, when we recycle metals, when we produce solar panels and just about every other process. Producing steel also requires the production of coke from coal, as steel is iron with carbon added. Producing cement also release carbon as the cement settles. In addition, the Haber-Bosch process consumes 3-5% of our natural gas supply, as hydrogen is used to react with nitrogen in the atmosphere to produce synthetic fertilizer, at temperatures above 400 degree Celsius.
+
+It will be very difficult to truly get rid even of fossil fuel use in electricity generation. Roughly a third of fly ash produced when burning coal is used for various purposes. It may be seen as waste now, but when all the fossil fuel plants shut down it won't necessarily be seen as waste any longer. In the Netherlands, the rest heat is increasingly used to heat homes and greenhouses with, while the carbon dioxide is tunneled through pipes and used to stimulate plant growth in the greenhouses. Worries are now that the transition to a low carbon economy will cause a big reduction in the production of waste-heat, which is going to make it impossible to heat people's homes using waste-heat, meaning that we remain dependent on natural gas to heat people's homes.
+
+So in other words, there are a lot of processes that depend on natural gas and coal. How do we use oil? Just half is used for transportation, the other half is used for various lubricants, plastics, electricity generation in remote places and during emergencies and to produce heating oils. Of the half used for transportation, just over a third is used for passenger cars. Around 9% is used by aircraft, most of the rest is used by trucks. Because trucks are much bigger than passenger vehicles, [hybrid electric trucks are impractical](http://energyskeptic.com/2016/hybrid-electric-trucks-are-very-different-from-hev-cars/), as you need very large batteries to provide the peak energy demand needed for trucks. A truck that has to start driving has much greater inertia than a regular car. Trucks also need to be capable of driving long uninterrupted distances that aren't necessary for electric passenger vehicles.
+
+When it comes to aircraft, we really need oil. The air travel industry is growing rapidly every year. Air travel has an average annual growth rate of 5.5% over the past 10 years, so over fifty years it would be expected to increase 14-fold. It's possible to produce synthetic oil but this has to be done using photosynthetic capacity that we already need to feed people. Demand for oil that's freed up through introduction of electric vehicles just seems to stimulate more air travel.
+
+Current CO2 concentrations don't reveal their maximum temperature impact until ten years later and yet we're already seeing evidence that natural processes are now beginning to release increasing amounts of carbon dioxide too. Most of the carbon dioxide we emit doesn't end up in the air, it ends up in the ocean and soils, which protect us from the consequences of our emissions. However, they can't take up more carbon dioxide forever, they're becoming saturated and as a result a greater share of our emissions ends up stuck in the atmosphere. The IPCC scenarios that keep us below 2 degree Celsius don't just require a reduction in emissions, but rather, they [require negative emissions](http://www.helpsavetheclimate.com/ipccco2.gif).
+
+If you read what I've shown above, you understand why zero emissions is not realistic without the end of the industrial lifestyle. Americans and Europeans would have to live like Africans and Afghans. In Uganda, less than 1% of the population has cars and perhaps 20% has electricity. Practically all food production there is local and except for the elite nobody ever sees the inside of an airplane.","2016-12-19 14:20:37","52","46","0.91","https://www.reddit.com/r/collapse/comments/5j6lqv/why_im_sure_were_not_going_to_solve_it/","True","-triggerexpert-","1747866451.059763","zero waste","manual"
