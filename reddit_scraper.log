@@ -1,0 +1,1625 @@
+2025-05-21 13:26:56,101 - __main__ - INFO - === Reddit scraping session started ===
+2025-05-21 13:26:56,101 - __main__ - INFO - Scraping 'climate doom' for 2015_01
+2025-05-21 13:38:57,295 - __main__ - INFO - === Reddit scraping session started ===
+2025-05-21 13:38:57,297 - __main__ - INFO - Scraping 'climate doom' for 2015_01
+2025-05-21 13:38:57,599 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:38:57,604 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 13:39:33,409 - __main__ - INFO - === Reddit scraping session started ===
+2025-05-21 13:39:33,409 - __main__ - INFO - Scraping 'eco grief' for 2015_01
+2025-05-21 13:39:33,410 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:39:33,411 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:39:36,529 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:39:40,551 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:39:46,606 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:39:50,222 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:39:54,077 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:39:57,638 - __main__ - WARNING - Error fetching comments for post 12vyhxt: received 429 HTTP response
+2025-05-21 13:39:58,206 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:40:01,885 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:40:04,953 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:40:06,952 - __main__ - INFO - === Reddit scraping session started ===
+2025-05-21 13:40:27,063 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:40:30,127 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:40:35,732 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_01
+2025-05-21 13:40:35,733 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:40:35,733 - __main__ - INFO - Total time taken: 0:01:02.323586
+2025-05-21 13:40:35,733 - __main__ - INFO - Scraping 'eco grief' for 2015_02
+2025-05-21 13:40:35,734 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:40:35,735 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:40:40,173 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:40:44,311 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:40:50,366 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:40:55,146 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:40:58,283 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:41:02,891 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:41:05,170 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:41:50,765 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:41:55,101 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:41:58,646 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_02
+2025-05-21 13:41:58,647 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:41:58,647 - __main__ - INFO - Total time taken: 0:02:25.237690
+2025-05-21 13:41:58,647 - __main__ - INFO - Scraping 'eco grief' for 2015_03
+2025-05-21 13:41:58,648 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:41:58,649 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:42:02,036 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:42:06,327 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:42:12,217 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:42:14,868 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:42:17,775 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:42:23,646 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:42:27,675 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:42:58,387 - __main__ - INFO - === Reddit scraping session started ===
+2025-05-21 13:42:58,387 - __main__ - INFO - Scraping 'climate doom' for 2015_01
+2025-05-21 13:42:58,388 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:42:58,389 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 13:43:13,180 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:43:16,277 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:43:19,705 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_03
+2025-05-21 13:43:19,705 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:43:19,705 - __main__ - INFO - Total time taken: 0:03:46.296235
+2025-05-21 13:43:19,705 - __main__ - INFO - Scraping 'eco grief' for 2015_04
+2025-05-21 13:43:19,706 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:43:19,706 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:43:23,851 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:43:27,476 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:43:33,470 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:43:37,743 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 13:43:38,569 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:43:41,974 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:43:46,175 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:43:51,717 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:44:41,113 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:44:44,712 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:44:49,437 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_04
+2025-05-21 13:44:49,437 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:44:49,437 - __main__ - INFO - Total time taken: 0:05:16.028179
+2025-05-21 13:44:49,437 - __main__ - INFO - Scraping 'eco grief' for 2015_05
+2025-05-21 13:44:49,438 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:44:49,439 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:44:54,934 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:44:58,704 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:45:02,012 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:45:06,741 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:45:10,346 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:45:15,169 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:45:21,741 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:45:56,593 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 13:46:05,880 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 13:46:10,070 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:46:15,308 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:46:19,006 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_05
+2025-05-21 13:46:19,006 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:46:19,006 - __main__ - INFO - Total time taken: 0:06:45.597211
+2025-05-21 13:46:19,006 - __main__ - INFO - Scraping 'eco grief' for 2015_06
+2025-05-21 13:46:19,007 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:46:19,008 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:46:21,575 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:46:27,042 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:46:31,418 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:46:35,923 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:46:39,860 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:46:45,017 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:46:49,364 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:47:40,239 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:47:43,833 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:47:47,934 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_06
+2025-05-21 13:47:47,934 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:47:47,934 - __main__ - INFO - Total time taken: 0:08:14.525266
+2025-05-21 13:47:47,934 - __main__ - INFO - Scraping 'eco grief' for 2015_07
+2025-05-21 13:47:47,935 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:47:47,935 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:47:53,379 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:47:55,662 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 13:47:56,769 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:48:01,444 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:48:05,245 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:48:10,357 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:48:13,599 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 13:48:13,799 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:48:18,240 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:48:18,903 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 13:48:23,579 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 13:48:25,577 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 13:49:06,859 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:49:11,889 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:49:14,823 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_07
+2025-05-21 13:49:14,823 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:49:14,823 - __main__ - INFO - Total time taken: 0:09:41.414376
+2025-05-21 13:49:14,824 - __main__ - INFO - Scraping 'eco grief' for 2015_08
+2025-05-21 13:49:14,824 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:49:14,825 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:49:18,255 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:49:23,864 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:49:29,807 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:49:32,658 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:49:38,990 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:49:42,167 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:49:48,227 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:49:57,205 - __main__ - WARNING - Error fetching comments for post j8ln9u: received 429 HTTP response
+2025-05-21 13:49:58,367 - __main__ - WARNING - Error fetching comments for post 1ar8kad: received 429 HTTP response
+2025-05-21 13:50:32,135 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:50:33,513 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 13:50:34,489 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:50:41,174 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_08
+2025-05-21 13:50:41,175 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:50:41,175 - __main__ - INFO - Total time taken: 0:11:07.765567
+2025-05-21 13:50:41,175 - __main__ - INFO - Scraping 'eco grief' for 2015_09
+2025-05-21 13:50:41,175 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:50:41,176 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:50:44,025 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 13:50:46,947 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:50:50,110 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:50:56,072 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:50:59,104 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:51:03,707 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:51:06,969 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:51:12,459 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:52:03,440 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:52:07,641 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:52:10,467 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_09
+2025-05-21 13:52:10,467 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:52:10,467 - __main__ - INFO - Total time taken: 0:12:37.058000
+2025-05-21 13:52:10,467 - __main__ - INFO - Scraping 'eco grief' for 2015_10
+2025-05-21 13:52:10,468 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:52:10,468 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:52:15,438 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:52:20,104 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:52:23,036 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:52:28,957 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:52:33,939 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:52:37,336 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:52:38,110 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 13:52:42,296 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:52:53,483 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 13:52:59,373 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 13:53:04,519 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 13:53:32,970 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:53:38,098 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:53:42,139 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_10
+2025-05-21 13:53:42,139 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:53:42,139 - __main__ - INFO - Total time taken: 0:14:08.730196
+2025-05-21 13:53:42,139 - __main__ - INFO - Scraping 'eco grief' for 2015_11
+2025-05-21 13:53:42,140 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:53:42,141 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:53:47,700 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:53:50,316 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:53:55,226 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:53:59,478 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:54:05,211 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:54:08,298 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:54:13,640 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:55:06,030 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:55:09,511 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:55:13,908 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_11
+2025-05-21 13:55:13,908 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:55:13,908 - __main__ - INFO - Total time taken: 0:15:40.499356
+2025-05-21 13:55:13,909 - __main__ - INFO - Scraping 'eco grief' for 2015_12
+2025-05-21 13:55:13,909 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:55:13,910 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:55:17,727 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:55:23,048 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:55:26,947 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:55:30,846 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:55:35,383 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:55:40,723 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:55:46,106 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:56:33,306 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:56:38,307 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:56:41,128 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_12
+2025-05-21 13:56:41,128 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:56:41,128 - __main__ - INFO - Total time taken: 0:17:07.719171
+2025-05-21 13:56:41,128 - __main__ - INFO - Scraping 'eco grief' for 2016_01
+2025-05-21 13:56:41,129 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:56:41,129 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:56:45,126 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:56:50,144 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:56:54,624 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:57:01,704 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:57:06,704 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:57:10,249 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:57:15,222 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:58:05,981 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:58:10,702 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:58:14,473 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_01
+2025-05-21 13:58:14,473 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:58:14,473 - __main__ - INFO - Total time taken: 0:18:41.063957
+2025-05-21 13:58:14,473 - __main__ - INFO - Scraping 'eco grief' for 2016_02
+2025-05-21 13:58:14,474 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:58:14,474 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:58:20,534 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:58:24,737 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 13:58:28,913 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 13:58:33,059 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 13:58:37,513 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 13:58:43,141 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 13:58:46,463 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 13:59:38,472 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 13:59:43,348 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 13:59:48,781 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_02
+2025-05-21 13:59:48,781 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 13:59:48,781 - __main__ - INFO - Total time taken: 0:20:15.371784
+2025-05-21 13:59:48,781 - __main__ - INFO - Scraping 'eco grief' for 2016_03
+2025-05-21 13:59:48,781 - __main__ - INFO - Connected to Reddit API
+2025-05-21 13:59:48,782 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 13:59:52,367 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 13:59:56,133 - __main__ - WARNING - Error fetching comments for post 1eedduw: received 429 HTTP response
+2025-05-21 13:59:57,824 - __main__ - WARNING - Error fetching comments for post xyrca2: received 429 HTTP response
+2025-05-21 14:00:00,087 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:00:04,354 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:00:08,061 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:00:11,203 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:00:16,193 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:00:21,169 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:01:04,197 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:01:08,028 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:01:14,191 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_03
+2025-05-21 14:01:14,192 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:01:14,192 - __main__ - INFO - Total time taken: 0:21:40.782696
+2025-05-21 14:01:14,192 - __main__ - INFO - Scraping 'eco grief' for 2016_04
+2025-05-21 14:01:14,192 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:01:14,193 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:01:19,239 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:01:24,922 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:01:27,696 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:01:34,119 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:01:39,083 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:01:43,443 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:01:47,278 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:02:17,350 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 14:02:38,330 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:02:42,277 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:02:47,591 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_04
+2025-05-21 14:02:47,592 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:02:47,592 - __main__ - INFO - Total time taken: 0:23:14.182594
+2025-05-21 14:02:47,592 - __main__ - INFO - Scraping 'eco grief' for 2016_05
+2025-05-21 14:02:47,592 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:02:47,593 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:02:50,440 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:02:55,219 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:02:59,326 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:03:07,000 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:03:12,052 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:03:14,330 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:03:20,060 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:03:39,202 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 14:03:43,347 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_01
+2025-05-21 14:03:43,347 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:03:43,347 - __main__ - INFO - Total time taken: 0:24:46.050969
+2025-05-21 14:03:43,347 - __main__ - INFO - Scraping 'climate doom' for 2015_02
+2025-05-21 14:03:43,348 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:03:43,348 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 14:04:11,218 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:04:15,459 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:04:19,590 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_05
+2025-05-21 14:04:19,590 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:04:19,590 - __main__ - INFO - Total time taken: 0:24:46.181326
+2025-05-21 14:04:19,591 - __main__ - INFO - Scraping 'eco grief' for 2016_06
+2025-05-21 14:04:19,591 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:04:19,592 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:04:24,454 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:04:28,005 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:04:31,839 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:04:37,971 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:04:41,338 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:04:46,609 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:04:51,502 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:05:38,793 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:05:44,473 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:05:48,919 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_06
+2025-05-21 14:05:48,919 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:05:48,919 - __main__ - INFO - Total time taken: 0:26:15.510265
+2025-05-21 14:05:48,919 - __main__ - INFO - Scraping 'eco grief' for 2016_07
+2025-05-21 14:05:48,920 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:05:48,921 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:05:55,045 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:05:59,440 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:06:03,030 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:06:08,338 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:06:12,766 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:06:17,711 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:06:21,346 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:07:13,904 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:07:17,385 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:07:21,873 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_07
+2025-05-21 14:07:21,873 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:07:21,874 - __main__ - INFO - Total time taken: 0:27:48.464461
+2025-05-21 14:07:21,874 - __main__ - INFO - Scraping 'eco grief' for 2016_08
+2025-05-21 14:07:21,874 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:07:21,875 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:07:25,219 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:07:27,916 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 14:07:30,752 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:07:37,390 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:07:42,058 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:07:46,023 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:07:51,829 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:07:56,681 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:08:42,728 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 14:08:45,214 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:08:46,922 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_01
+2025-05-21 14:08:46,922 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:08:46,923 - __main__ - INFO - Total time taken: 0:25:48.535604
+2025-05-21 14:08:46,923 - __main__ - INFO - Scraping 'climate doom' for 2015_02
+2025-05-21 14:08:46,923 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:08:46,924 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 14:08:47,549 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:08:52,511 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_08
+2025-05-21 14:08:52,511 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:08:52,511 - __main__ - INFO - Total time taken: 0:29:19.102348
+2025-05-21 14:08:52,511 - __main__ - INFO - Scraping 'eco grief' for 2016_09
+2025-05-21 14:08:52,512 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:08:52,512 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:08:55,446 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:08:59,706 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:09:05,065 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:09:09,641 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:09:14,589 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:09:18,208 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:09:18,896 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 14:09:23,949 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:09:56,467 - __main__ - WARNING - Error fetching comments for post ojeydv: received 429 HTTP response
+2025-05-21 14:09:57,122 - __main__ - WARNING - Error fetching comments for post 184dv1u: received 429 HTTP response
+2025-05-21 14:09:58,100 - __main__ - WARNING - Error fetching comments for post 1gmf4wd: received 429 HTTP response
+2025-05-21 14:10:12,560 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:10:16,220 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:10:19,194 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_09
+2025-05-21 14:10:19,194 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:10:19,194 - __main__ - INFO - Total time taken: 0:30:45.785132
+2025-05-21 14:10:19,194 - __main__ - INFO - Scraping 'eco grief' for 2016_10
+2025-05-21 14:10:19,195 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:10:19,195 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:10:25,596 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:10:29,882 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:10:33,932 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:10:38,875 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:10:43,175 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:10:48,408 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:10:51,641 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:11:24,242 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 14:11:32,481 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 14:11:38,219 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:11:41,641 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:11:46,312 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_10
+2025-05-21 14:11:46,312 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:11:46,312 - __main__ - INFO - Total time taken: 0:32:12.903237
+2025-05-21 14:11:46,312 - __main__ - INFO - Scraping 'eco grief' for 2016_11
+2025-05-21 14:11:46,313 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:11:46,314 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:11:49,783 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:11:54,745 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:11:59,574 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:12:04,869 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:12:10,574 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:12:14,260 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:12:20,513 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:13:11,752 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:13:16,963 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:13:17,069 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 14:13:21,915 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_11
+2025-05-21 14:13:21,915 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:13:21,916 - __main__ - INFO - Total time taken: 0:33:48.506609
+2025-05-21 14:13:21,916 - __main__ - INFO - Scraping 'eco grief' for 2016_12
+2025-05-21 14:13:21,916 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:13:21,917 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:13:25,597 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:13:29,969 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:13:33,015 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 14:13:35,054 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:13:37,058 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 14:13:39,693 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:13:40,946 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 14:13:42,561 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:13:44,396 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 14:13:49,814 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:13:53,452 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:14:41,633 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:14:46,916 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:14:51,099 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_12
+2025-05-21 14:14:51,099 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:14:51,099 - __main__ - INFO - Total time taken: 0:35:17.690195
+2025-05-21 14:14:51,099 - __main__ - INFO - Scraping 'eco grief' for 2017_01
+2025-05-21 14:14:51,100 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:14:51,101 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:14:56,612 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:15:01,125 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:15:03,978 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:15:09,529 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:15:14,575 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:15:17,238 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:15:21,833 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:16:11,630 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:16:12,034 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 14:16:17,899 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:16:22,501 - __main__ - INFO - Saved 0 posts and 0 comments for 2017_01
+2025-05-21 14:16:22,501 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:16:22,501 - __main__ - INFO - Total time taken: 0:36:49.092283
+2025-05-21 14:16:22,501 - __main__ - INFO - Scraping 'eco grief' for 2017_02
+2025-05-21 14:16:22,502 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:16:22,502 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:16:24,056 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 14:16:26,621 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:16:29,373 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:16:35,564 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:16:40,416 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:16:45,480 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:16:49,026 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:16:54,417 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:17:44,982 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:17:49,445 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:17:55,128 - __main__ - INFO - Saved 0 posts and 0 comments for 2017_02
+2025-05-21 14:17:55,129 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:17:55,129 - __main__ - INFO - Total time taken: 0:38:21.719647
+2025-05-21 14:17:55,129 - __main__ - INFO - Scraping 'eco grief' for 2017_03
+2025-05-21 14:17:55,130 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:17:55,130 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:18:00,445 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:18:05,702 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:18:11,001 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:18:15,977 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:18:17,184 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 14:18:19,495 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:18:24,261 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:18:28,652 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:18:32,056 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 14:18:38,079 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 14:18:44,328 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 14:19:13,751 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:19:17,168 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:19:23,280 - __main__ - INFO - Saved 0 posts and 0 comments for 2017_03
+2025-05-21 14:19:23,280 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:19:23,280 - __main__ - INFO - Total time taken: 0:39:49.871121
+2025-05-21 14:19:23,280 - __main__ - INFO - Scraping 'eco grief' for 2017_04
+2025-05-21 14:19:23,281 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:19:23,282 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:19:26,691 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:19:30,512 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:19:35,531 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:19:42,381 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:19:46,373 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:19:53,166 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:19:56,379 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:19:57,527 - __main__ - WARNING - Error fetching comments for post td46sj: received 429 HTTP response
+2025-05-21 14:19:58,556 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:19:59,694 - __main__ - WARNING - Error fetching comments for post 129djc0: received 429 HTTP response
+2025-05-21 14:20:01,699 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:20:22,330 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:20:26,268 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:20:31,193 - __main__ - INFO - Saved 0 posts and 0 comments for 2017_04
+2025-05-21 14:20:31,193 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:20:31,193 - __main__ - INFO - Total time taken: 0:40:57.783674
+2025-05-21 14:20:31,193 - __main__ - INFO - Scraping 'eco grief' for 2017_05
+2025-05-21 14:20:31,193 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:20:31,194 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:20:36,255 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:20:41,432 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:20:45,664 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:20:50,912 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:20:54,050 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:20:57,143 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:21:04,318 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:21:52,371 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:21:56,506 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:22:02,300 - __main__ - INFO - Saved 0 posts and 0 comments for 2017_05
+2025-05-21 14:22:02,300 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:22:02,300 - __main__ - INFO - Total time taken: 0:42:28.891032
+2025-05-21 14:22:02,300 - __main__ - INFO - Scraping 'eco grief' for 2017_06
+2025-05-21 14:22:02,301 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:22:02,301 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:22:04,981 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:22:11,789 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:22:15,814 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:22:19,454 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:22:25,142 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:22:29,806 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:22:35,399 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:23:22,818 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:23:29,219 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:23:33,681 - __main__ - INFO - Saved 0 posts and 0 comments for 2017_06
+2025-05-21 14:23:33,681 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:23:33,681 - __main__ - INFO - Total time taken: 0:44:00.272311
+2025-05-21 14:23:33,682 - __main__ - INFO - Scraping 'eco grief' for 2017_07
+2025-05-21 14:23:33,683 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:23:33,683 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:23:40,419 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:23:45,469 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:23:50,443 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:23:53,699 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:23:58,841 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:24:02,707 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:24:07,357 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:24:57,273 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:25:01,050 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:25:05,625 - __main__ - INFO - Saved 0 posts and 0 comments for 2017_07
+2025-05-21 14:25:05,625 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:25:05,625 - __main__ - INFO - Total time taken: 0:45:32.215663
+2025-05-21 14:25:05,625 - __main__ - INFO - Scraping 'eco grief' for 2017_08
+2025-05-21 14:25:05,625 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:25:05,626 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:25:08,941 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:25:14,473 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:25:18,938 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:25:22,418 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:25:25,979 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:25:30,878 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:25:34,674 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:26:26,321 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:26:32,368 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:26:36,065 - __main__ - INFO - Saved 0 posts and 0 comments for 2017_08
+2025-05-21 14:26:36,065 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:26:36,065 - __main__ - INFO - Total time taken: 0:47:02.655950
+2025-05-21 14:26:36,065 - __main__ - INFO - Scraping 'eco grief' for 2017_09
+2025-05-21 14:26:36,066 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:26:36,066 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:26:40,492 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:26:43,883 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:26:48,078 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:26:52,730 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:26:57,829 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:27:03,043 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:27:08,145 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:27:50,806 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 14:27:58,500 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:28:04,075 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:28:08,117 - __main__ - INFO - Saved 0 posts and 0 comments for 2017_09
+2025-05-21 14:28:08,117 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:28:08,117 - __main__ - INFO - Total time taken: 0:48:34.707803
+2025-05-21 14:28:08,117 - __main__ - INFO - Scraping 'eco grief' for 2017_10
+2025-05-21 14:28:08,117 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:28:08,118 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:28:11,352 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:28:16,565 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:28:20,127 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:28:26,300 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:28:28,931 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:28:35,479 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:28:42,388 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:29:12,857 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 14:29:15,348 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_02
+2025-05-21 14:29:15,348 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:29:15,348 - __main__ - INFO - Total time taken: 0:50:18.052144
+2025-05-21 14:29:15,348 - __main__ - INFO - Scraping 'climate doom' for 2015_03
+2025-05-21 14:29:15,349 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:29:15,349 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 14:29:33,467 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:29:37,236 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:29:40,835 - __main__ - INFO - Saved 0 posts and 0 comments for 2017_10
+2025-05-21 14:29:40,835 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:29:40,835 - __main__ - INFO - Total time taken: 0:50:07.425983
+2025-05-21 14:29:40,835 - __main__ - INFO - Scraping 'eco grief' for 2017_11
+2025-05-21 14:29:40,836 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:29:40,836 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:29:45,644 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:29:48,508 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:29:54,058 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:29:56,116 - __main__ - WARNING - Error fetching comments for post 7hnsnd: received 429 HTTP response
+2025-05-21 14:29:57,041 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:29:59,540 - __main__ - WARNING - Error fetching comments for post 1ggxq7q: received 429 HTTP response
+2025-05-21 14:29:59,900 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:30:04,920 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:30:09,511 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:30:11,966 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:30:48,969 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:30:54,020 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:30:58,069 - __main__ - INFO - Saved 0 posts and 0 comments for 2017_11
+2025-05-21 14:30:58,070 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:30:58,070 - __main__ - INFO - Total time taken: 0:51:24.660576
+2025-05-21 14:30:58,070 - __main__ - INFO - Scraping 'eco grief' for 2017_12
+2025-05-21 14:30:58,070 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:30:58,071 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:31:02,692 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:31:07,581 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:31:12,854 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:31:18,162 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:31:21,280 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:31:26,532 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:31:30,994 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:32:21,837 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:32:25,066 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:32:30,005 - __main__ - INFO - Saved 0 posts and 0 comments for 2017_12
+2025-05-21 14:32:30,005 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:32:30,005 - __main__ - INFO - Total time taken: 0:52:56.595680
+2025-05-21 14:32:30,005 - __main__ - INFO - Scraping 'eco grief' for 2018_01
+2025-05-21 14:32:30,005 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:32:30,005 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:32:34,832 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:32:41,018 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:32:43,804 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:32:50,107 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:32:55,011 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:33:00,343 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:33:04,260 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:33:29,320 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 14:33:54,859 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:33:59,126 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:34:04,068 - __main__ - INFO - Saved 0 posts and 0 comments for 2018_01
+2025-05-21 14:34:04,068 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:34:04,068 - __main__ - INFO - Total time taken: 0:54:30.659325
+2025-05-21 14:34:04,069 - __main__ - INFO - Scraping 'eco grief' for 2018_02
+2025-05-21 14:34:04,069 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:34:04,070 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:34:09,968 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:34:13,772 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:34:18,704 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:34:23,556 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:34:27,313 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:34:33,665 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:34:36,210 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:34:47,511 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 14:34:55,981 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 14:34:59,418 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_02
+2025-05-21 14:34:59,418 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:34:59,418 - __main__ - INFO - Total time taken: 0:52:01.030849
+2025-05-21 14:34:59,418 - __main__ - INFO - Scraping 'climate doom' for 2015_03
+2025-05-21 14:34:59,418 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:34:59,418 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 14:35:25,436 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:35:29,783 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:35:35,136 - __main__ - INFO - Saved 0 posts and 0 comments for 2018_02
+2025-05-21 14:35:35,136 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:35:35,136 - __main__ - INFO - Total time taken: 0:56:01.726924
+2025-05-21 14:35:35,136 - __main__ - INFO - Scraping 'eco grief' for 2018_03
+2025-05-21 14:35:35,137 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:35:35,137 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:35:38,064 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:35:42,711 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:35:48,659 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:35:52,039 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:35:55,365 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:36:02,686 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:36:07,078 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:36:28,593 - prawcore - WARNING - Retrying due to 500 status: GET https://oauth.reddit.com/comments/1gqbls4/
+2025-05-21 14:36:41,602 - prawcore - WARNING - Retrying due to 500 status: GET https://oauth.reddit.com/comments/dem1p1/
+2025-05-21 14:36:58,872 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:37:02,427 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:37:06,714 - __main__ - INFO - Saved 0 posts and 0 comments for 2018_03
+2025-05-21 14:37:06,714 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:37:06,714 - __main__ - INFO - Total time taken: 0:57:33.305370
+2025-05-21 14:37:06,714 - __main__ - INFO - Scraping 'eco grief' for 2018_04
+2025-05-21 14:37:06,715 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:37:06,715 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:37:10,097 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:37:15,201 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:37:19,460 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:37:21,613 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 14:37:24,435 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:37:30,212 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:37:30,747 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 14:37:33,701 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:37:40,482 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:38:29,691 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:38:34,786 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:38:39,548 - __main__ - INFO - Saved 0 posts and 0 comments for 2018_04
+2025-05-21 14:38:39,548 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:38:39,549 - __main__ - INFO - Total time taken: 0:59:06.139466
+2025-05-21 14:38:39,549 - __main__ - INFO - Scraping 'eco grief' for 2018_05
+2025-05-21 14:38:39,549 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:38:39,549 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:38:44,108 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:38:49,482 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:38:53,940 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:38:58,524 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:39:02,398 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:39:08,857 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:39:11,920 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:39:23,726 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 14:39:40,815 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 14:39:44,652 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 14:39:49,594 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 14:39:58,089 - __main__ - WARNING - Error fetching comments for post 1h72pc9: received 429 HTTP response
+2025-05-21 14:39:58,205 - __main__ - WARNING - Error fetching comments for post 18717nm: received 429 HTTP response
+2025-05-21 14:39:58,613 - __main__ - WARNING - Error fetching comments for post c4skjl: received 429 HTTP response
+2025-05-21 14:40:12,871 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:40:15,467 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:40:19,059 - __main__ - INFO - Saved 0 posts and 0 comments for 2018_05
+2025-05-21 14:40:19,059 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:40:19,060 - __main__ - INFO - Total time taken: 1:00:45.650467
+2025-05-21 14:40:19,060 - __main__ - INFO - Scraping 'eco grief' for 2018_06
+2025-05-21 14:40:19,060 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:40:19,061 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:40:22,116 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:40:25,886 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:40:26,664 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 14:40:28,995 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:40:33,270 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:40:38,177 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:40:41,024 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:40:43,777 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:41:31,083 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:41:36,025 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:41:41,105 - __main__ - INFO - Saved 0 posts and 0 comments for 2018_06
+2025-05-21 14:41:41,105 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:41:41,105 - __main__ - INFO - Total time taken: 1:02:07.696061
+2025-05-21 14:41:41,105 - __main__ - INFO - Scraping 'eco grief' for 2018_07
+2025-05-21 14:41:41,106 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:41:41,106 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:41:46,318 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:41:49,798 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:41:55,577 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:41:59,592 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:42:05,671 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:42:08,182 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:42:14,044 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:42:49,276 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 14:43:00,856 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 14:43:05,696 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:43:09,198 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:43:14,635 - __main__ - INFO - Saved 0 posts and 0 comments for 2018_07
+2025-05-21 14:43:14,636 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:43:14,636 - __main__ - INFO - Total time taken: 1:03:41.226770
+2025-05-21 14:43:14,636 - __main__ - INFO - Scraping 'eco grief' for 2018_08
+2025-05-21 14:43:14,637 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:43:14,638 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:43:20,497 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:43:25,261 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:43:29,964 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:43:33,480 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:43:39,658 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:43:43,259 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:43:48,944 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:44:38,266 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:44:41,392 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:44:46,372 - __main__ - INFO - Saved 0 posts and 0 comments for 2018_08
+2025-05-21 14:44:46,372 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:44:46,372 - __main__ - INFO - Total time taken: 1:05:12.963241
+2025-05-21 14:44:46,372 - __main__ - INFO - Scraping 'eco grief' for 2018_09
+2025-05-21 14:44:46,373 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:44:46,374 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:44:50,441 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:44:53,815 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:44:54,025 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 14:45:00,089 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:45:03,828 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:45:07,704 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:45:07,747 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 14:45:12,623 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:45:14,562 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 14:45:17,708 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 14:45:18,250 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:46:07,145 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:46:11,788 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:46:15,205 - __main__ - INFO - Saved 0 posts and 0 comments for 2018_09
+2025-05-21 14:46:15,205 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:46:15,205 - __main__ - INFO - Total time taken: 1:06:41.795875
+2025-05-21 14:46:15,205 - __main__ - INFO - Scraping 'eco grief' for 2018_10
+2025-05-21 14:46:15,205 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:46:15,206 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:46:18,963 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:46:23,148 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:46:26,548 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:46:31,357 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:46:36,712 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:46:41,154 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:46:46,491 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:47:34,296 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:47:38,041 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:47:42,305 - __main__ - INFO - Saved 0 posts and 0 comments for 2018_10
+2025-05-21 14:47:42,305 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:47:42,305 - __main__ - INFO - Total time taken: 1:08:08.896106
+2025-05-21 14:47:42,305 - __main__ - INFO - Scraping 'eco grief' for 2018_11
+2025-05-21 14:47:42,306 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:47:42,307 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:47:45,291 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:47:52,673 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:47:57,502 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:48:02,014 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:48:06,982 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:48:10,213 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:48:14,620 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:49:04,540 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:49:10,137 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:49:13,348 - __main__ - INFO - Saved 0 posts and 0 comments for 2018_11
+2025-05-21 14:49:13,348 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:49:13,349 - __main__ - INFO - Total time taken: 1:09:39.939412
+2025-05-21 14:49:13,349 - __main__ - INFO - Scraping 'eco grief' for 2018_12
+2025-05-21 14:49:13,349 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:49:13,350 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:49:17,520 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:49:23,205 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:49:26,162 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:49:32,190 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:49:35,566 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:49:41,415 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:49:44,173 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:49:56,980 - __main__ - WARNING - Error fetching comments for post nd3s64: received 429 HTTP response
+2025-05-21 14:49:59,489 - __main__ - WARNING - Error fetching comments for post 1kpg7m0: received 429 HTTP response
+2025-05-21 14:50:16,523 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:50:21,529 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:50:25,587 - __main__ - INFO - Saved 0 posts and 0 comments for 2018_12
+2025-05-21 14:50:25,587 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:50:25,587 - __main__ - INFO - Total time taken: 1:10:52.178157
+2025-05-21 14:50:25,587 - __main__ - INFO - Scraping 'eco grief' for 2019_01
+2025-05-21 14:50:25,588 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:50:25,588 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:50:28,814 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:50:31,573 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:50:36,392 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:50:39,042 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:50:41,625 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:50:48,765 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:50:53,189 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:51:42,708 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:51:45,542 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:51:51,431 - __main__ - INFO - Saved 0 posts and 0 comments for 2019_01
+2025-05-21 14:51:51,432 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:51:51,432 - __main__ - INFO - Total time taken: 1:12:18.022662
+2025-05-21 14:51:51,432 - __main__ - INFO - Scraping 'eco grief' for 2019_02
+2025-05-21 14:51:51,432 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:51:51,433 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:51:56,500 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:52:01,755 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:52:07,057 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:52:11,076 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:52:14,627 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:52:20,267 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:52:23,894 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:53:12,600 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:53:15,358 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:53:22,683 - __main__ - INFO - Saved 0 posts and 0 comments for 2019_02
+2025-05-21 14:53:22,684 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:53:22,684 - __main__ - INFO - Total time taken: 1:13:49.274562
+2025-05-21 14:53:22,684 - __main__ - INFO - Scraping 'eco grief' for 2019_03
+2025-05-21 14:53:22,684 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:53:22,684 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:53:29,264 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:53:34,160 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:53:39,171 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:53:43,367 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:53:46,619 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:53:51,452 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:53:55,997 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:54:38,097 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 14:54:48,967 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:54:52,674 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:54:58,343 - __main__ - INFO - Saved 0 posts and 0 comments for 2019_03
+2025-05-21 14:54:58,344 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:54:58,344 - __main__ - INFO - Total time taken: 1:15:24.934710
+2025-05-21 14:54:58,344 - __main__ - INFO - Scraping 'eco grief' for 2019_04
+2025-05-21 14:54:58,345 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:54:58,345 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:55:03,290 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:55:07,434 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:55:10,976 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:55:16,337 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:55:21,896 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:55:25,999 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:55:29,489 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:56:00,286 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 14:56:04,578 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_03
+2025-05-21 14:56:04,578 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:56:04,578 - __main__ - INFO - Total time taken: 1:17:07.281901
+2025-05-21 14:56:04,578 - __main__ - INFO - Scraping 'climate doom' for 2015_04
+2025-05-21 14:56:04,579 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:56:04,579 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 14:56:21,363 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:56:25,281 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:56:29,090 - __main__ - INFO - Saved 0 posts and 0 comments for 2019_04
+2025-05-21 14:56:29,090 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:56:29,090 - __main__ - INFO - Total time taken: 1:16:55.681381
+2025-05-21 14:56:29,091 - __main__ - INFO - Scraping 'eco grief' for 2019_05
+2025-05-21 14:56:29,091 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:56:29,092 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:56:33,522 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:56:39,780 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:56:42,282 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:56:48,105 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:56:51,047 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:56:55,982 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:56:59,914 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:57:51,933 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:57:54,225 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:58:00,465 - __main__ - INFO - Saved 0 posts and 0 comments for 2019_05
+2025-05-21 14:58:00,466 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:58:00,466 - __main__ - INFO - Total time taken: 1:18:27.056721
+2025-05-21 14:58:00,466 - __main__ - INFO - Scraping 'eco grief' for 2019_06
+2025-05-21 14:58:00,466 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:58:00,467 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:58:06,050 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:58:08,564 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:58:13,359 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:58:20,699 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:58:23,480 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 14:58:29,845 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 14:58:34,241 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 14:59:25,475 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 14:59:30,715 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 14:59:33,400 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 14:59:34,690 - __main__ - INFO - Saved 0 posts and 0 comments for 2019_06
+2025-05-21 14:59:34,690 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 14:59:34,691 - __main__ - INFO - Total time taken: 1:20:01.281543
+2025-05-21 14:59:34,691 - __main__ - INFO - Scraping 'eco grief' for 2019_07
+2025-05-21 14:59:34,691 - __main__ - INFO - Connected to Reddit API
+2025-05-21 14:59:34,692 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 14:59:38,108 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 14:59:44,374 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 14:59:48,793 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 14:59:52,519 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 14:59:56,357 - __main__ - WARNING - Error fetching comments for post 12zingg: received 429 HTTP response
+2025-05-21 14:59:57,340 - __main__ - WARNING - Error fetching comments for post kuphfv: received 429 HTTP response
+2025-05-21 14:59:57,638 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 15:00:00,447 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 15:00:03,897 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 15:00:08,892 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 15:00:39,549 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 15:00:44,705 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 15:00:49,321 - __main__ - INFO - Saved 0 posts and 0 comments for 2019_07
+2025-05-21 15:00:49,322 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 15:00:49,322 - __main__ - INFO - Total time taken: 1:21:15.912840
+2025-05-21 15:00:49,322 - __main__ - INFO - Scraping 'eco grief' for 2019_08
+2025-05-21 15:00:49,323 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:00:49,324 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 15:00:51,768 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 15:00:52,884 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 15:00:57,610 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 15:00:59,915 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 15:01:05,306 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 15:01:08,095 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 15:01:12,283 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 15:01:14,620 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 15:01:15,663 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_03
+2025-05-21 15:01:15,663 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 15:01:15,663 - __main__ - INFO - Total time taken: 1:18:17.276457
+2025-05-21 15:01:15,663 - __main__ - INFO - Scraping 'climate doom' for 2015_04
+2025-05-21 15:01:15,664 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:01:15,665 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 15:01:18,204 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 15:02:07,309 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 15:02:11,102 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 15:02:16,171 - __main__ - INFO - Saved 0 posts and 0 comments for 2019_08
+2025-05-21 15:02:16,172 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 15:02:16,172 - __main__ - INFO - Total time taken: 1:22:42.762598
+2025-05-21 15:02:16,172 - __main__ - INFO - Scraping 'eco grief' for 2019_09
+2025-05-21 15:02:16,172 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:02:16,173 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 15:02:20,874 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 15:02:26,494 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 15:02:31,164 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 15:02:33,849 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 15:02:37,883 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 15:02:44,386 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 15:02:48,126 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 15:03:19,534 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 15:03:28,569 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 15:03:38,093 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 15:03:42,460 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 15:03:47,586 - __main__ - INFO - Saved 0 posts and 0 comments for 2019_09
+2025-05-21 15:03:47,586 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 15:03:47,586 - __main__ - INFO - Total time taken: 1:24:14.177241
+2025-05-21 15:03:47,586 - __main__ - INFO - Scraping 'eco grief' for 2019_10
+2025-05-21 15:03:47,587 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:03:47,587 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 15:03:52,557 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 15:03:54,887 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 15:03:59,435 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 15:04:05,789 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 15:04:08,810 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 15:04:13,663 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 15:04:20,146 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 15:05:09,670 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 15:05:12,835 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 15:05:17,967 - __main__ - INFO - Saved 0 posts and 0 comments for 2019_10
+2025-05-21 15:05:17,968 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 15:05:17,968 - __main__ - INFO - Total time taken: 1:25:44.558520
+2025-05-21 15:05:17,968 - __main__ - INFO - Scraping 'eco grief' for 2019_11
+2025-05-21 15:05:17,968 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:05:17,969 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 15:05:19,759 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 15:05:23,135 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 15:05:28,131 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 15:05:32,938 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 15:05:34,864 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 15:05:36,994 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 15:05:39,080 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 15:05:42,654 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 15:05:44,848 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 15:05:46,941 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 15:05:51,334 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 15:06:36,909 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 15:06:40,739 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 15:06:44,299 - __main__ - INFO - Saved 0 posts and 0 comments for 2019_11
+2025-05-21 15:06:44,299 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 15:06:44,299 - __main__ - INFO - Total time taken: 1:27:10.890233
+2025-05-21 15:06:44,299 - __main__ - INFO - Scraping 'eco grief' for 2019_12
+2025-05-21 15:06:44,300 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:06:44,300 - __main__ - INFO - Scraping r/climatechange for query: eco grief
+2025-05-21 15:06:46,953 - __main__ - INFO - Scraping r/climate for query: eco grief
+2025-05-21 15:06:47,319 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 15:06:52,093 - __main__ - INFO - Scraping r/ClimateActionPlan for query: eco grief
+2025-05-21 15:06:55,786 - __main__ - INFO - Scraping r/environment for query: eco grief
+2025-05-21 15:06:58,075 - __main__ - INFO - Scraping r/science for query: eco grief
+2025-05-21 15:07:04,408 - __main__ - INFO - Scraping r/worldnews for query: eco grief
+2025-05-21 15:07:08,457 - __main__ - INFO - Scraping r/news for query: eco grief
+2025-05-21 15:07:13,700 - __main__ - INFO - Scraping r/collapse for query: eco grief
+2025-05-21 15:08:00,477 - __main__ - INFO - Scraping r/sustainability for query: eco grief
+2025-05-21 15:08:03,590 - __main__ - INFO - Scraping r/renewable for query: eco grief
+2025-05-21 15:08:08,136 - __main__ - INFO - Saved 0 posts and 0 comments for 2019_12
+2025-05-21 15:08:08,136 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 15:08:08,137 - __main__ - INFO - Total time taken: 1:28:34.727463
+2025-05-21 15:09:05,474 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 15:09:15,140 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 15:09:56,596 - __main__ - WARNING - Error fetching comments for post amttvf: received 429 HTTP response
+2025-05-21 15:09:58,411 - __main__ - WARNING - Error fetching comments for post 1atpag1: received 429 HTTP response
+2025-05-21 15:10:49,145 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 15:11:05,419 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 15:11:09,561 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 15:11:14,472 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 15:18:32,002 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 15:19:42,099 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 15:19:45,478 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_04
+2025-05-21 15:19:45,478 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 15:19:45,478 - __main__ - INFO - Total time taken: 1:40:48.181632
+2025-05-21 15:19:45,478 - __main__ - INFO - Scraping 'climate doom' for 2015_05
+2025-05-21 15:19:45,478 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:19:45,478 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 15:19:57,735 - __main__ - WARNING - Error fetching comments for post 1167y4b: received 429 HTTP response
+2025-05-21 15:23:46,627 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 15:24:10,106 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 15:24:55,552 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 15:24:58,130 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_04
+2025-05-21 15:24:58,130 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 15:24:58,130 - __main__ - INFO - Total time taken: 1:41:59.743540
+2025-05-21 15:24:58,130 - __main__ - INFO - Scraping 'climate doom' for 2015_05
+2025-05-21 15:24:58,131 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:24:58,131 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 15:26:09,979 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 15:26:18,866 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 15:27:49,630 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 15:28:01,802 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 15:28:06,450 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 15:28:10,276 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 15:29:30,308 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 15:29:57,640 - __main__ - WARNING - Error fetching comments for post 5laam9: received 429 HTTP response
+2025-05-21 15:29:58,833 - __main__ - WARNING - Error fetching comments for post 1eabpjy: received 429 HTTP response
+2025-05-21 15:31:15,492 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 15:31:25,261 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 15:32:45,313 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 15:32:58,414 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 15:33:02,355 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 15:33:06,209 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 15:34:48,082 - __main__ - INFO - === Reddit scraping session started ===
+2025-05-21 15:34:48,083 - __main__ - INFO - Scraping 'zero waste' for 2015_01
+2025-05-21 15:34:48,173 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:34:48,175 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 15:36:16,212 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 15:37:11,468 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 15:37:27,398 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 15:39:56,510 - __main__ - WARNING - Error fetching comments for post 963tmw: received 429 HTTP response
+2025-05-21 15:39:56,764 - __main__ - WARNING - Error fetching comments for post 8uo4s7: received 429 HTTP response
+2025-05-21 15:39:59,911 - __main__ - WARNING - Error fetching comments for post 14ok727: received 429 HTTP response
+2025-05-21 15:40:22,296 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 15:41:06,517 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 15:41:13,061 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 15:41:18,243 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 15:41:23,307 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 15:41:39,330 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 15:41:41,655 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_05
+2025-05-21 15:41:41,655 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 15:41:41,655 - __main__ - INFO - Total time taken: 2:02:44.358995
+2025-05-21 15:41:41,655 - __main__ - INFO - Scraping 'climate doom' for 2015_06
+2025-05-21 15:41:41,656 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:41:41,656 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 15:46:56,213 - __main__ - INFO - Scraping r/sustainability for query: zero waste
+2025-05-21 15:47:08,469 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 15:47:18,637 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 15:48:29,304 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 15:48:33,409 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_05
+2025-05-21 15:48:33,409 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 15:48:33,409 - __main__ - INFO - Total time taken: 2:05:35.022560
+2025-05-21 15:48:33,410 - __main__ - INFO - Scraping 'climate doom' for 2015_06
+2025-05-21 15:48:33,410 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:48:33,410 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 15:49:48,776 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 15:49:55,780 - __main__ - WARNING - Error fetching comments for post 1gmf4wd: received 429 HTTP response
+2025-05-21 15:49:57,835 - __main__ - WARNING - Error fetching comments for post xs2jej: received 429 HTTP response
+2025-05-21 15:49:59,478 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 15:50:01,804 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 15:51:21,738 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 15:51:39,486 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 15:51:44,880 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 15:51:50,393 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 15:53:41,581 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 15:54:58,253 - __main__ - INFO - Scraping r/renewable for query: zero waste
+2025-05-21 15:55:10,923 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_01
+2025-05-21 15:55:10,923 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 15:55:10,923 - __main__ - INFO - Total time taken: 0:20:22.840662
+2025-05-21 15:55:10,923 - __main__ - INFO - Scraping 'zero waste' for 2015_02
+2025-05-21 15:55:10,924 - __main__ - INFO - Connected to Reddit API
+2025-05-21 15:55:10,924 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 15:56:08,049 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 15:56:18,357 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 15:56:35,978 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 15:57:36,258 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 15:57:51,015 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 15:58:11,527 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 15:58:27,719 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 15:58:31,984 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 15:58:37,224 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 15:59:56,605 - __main__ - WARNING - Error fetching comments for post 9ih4hq: received 429 HTTP response
+2025-05-21 15:59:57,653 - __main__ - WARNING - Error fetching comments for post ya2teh: received 429 HTTP response
+2025-05-21 15:59:58,351 - __main__ - WARNING - Error fetching comments for post 189qmpl: received 429 HTTP response
+2025-05-21 16:01:35,077 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 16:01:41,729 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 16:01:46,467 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 16:01:50,487 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 16:06:00,894 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 16:07:22,177 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 16:07:25,104 - __main__ - INFO - Scraping r/sustainability for query: zero waste
+2025-05-21 16:07:26,792 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_06
+2025-05-21 16:07:26,793 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 16:07:26,793 - __main__ - INFO - Total time taken: 2:28:29.496692
+2025-05-21 16:07:26,793 - __main__ - INFO - Scraping 'climate doom' for 2015_07
+2025-05-21 16:07:26,794 - __main__ - INFO - Connected to Reddit API
+2025-05-21 16:07:26,794 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 16:09:56,051 - __main__ - WARNING - Error fetching comments for post 10k6i6c: received 429 HTTP response
+2025-05-21 16:09:56,937 - __main__ - WARNING - Error fetching comments for post 1blq509: received 429 HTTP response
+2025-05-21 16:09:58,130 - __main__ - WARNING - Error fetching comments for post vmhi09: received 429 HTTP response
+2025-05-21 16:12:34,307 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 16:13:36,978 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 16:14:58,434 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 16:15:02,078 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_06
+2025-05-21 16:15:02,078 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 16:15:02,078 - __main__ - INFO - Total time taken: 2:32:03.690858
+2025-05-21 16:15:02,078 - __main__ - INFO - Scraping 'climate doom' for 2015_07
+2025-05-21 16:15:02,078 - __main__ - INFO - Connected to Reddit API
+2025-05-21 16:15:02,078 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 16:15:09,980 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 16:15:16,542 - __main__ - INFO - Scraping r/renewable for query: zero waste
+2025-05-21 16:15:18,926 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 16:15:30,410 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_02
+2025-05-21 16:15:30,410 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 16:15:30,411 - __main__ - INFO - Total time taken: 0:40:42.328124
+2025-05-21 16:15:30,411 - __main__ - INFO - Scraping 'zero waste' for 2015_03
+2025-05-21 16:15:30,411 - __main__ - INFO - Connected to Reddit API
+2025-05-21 16:15:30,412 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 16:17:03,095 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 16:17:09,658 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 16:17:28,479 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 16:17:32,581 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 16:17:36,977 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 16:17:56,580 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 16:18:12,906 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 16:19:56,432 - __main__ - INFO - === Reddit scraping session started ===
+2025-05-21 16:19:58,000 - __main__ - WARNING - Error fetching comments for post 1iyi2ud: received 429 HTTP response
+2025-05-21 16:19:58,924 - __main__ - WARNING - Error fetching comments for post bbikiz: received 429 HTTP response
+2025-05-21 16:20:08,253 - __main__ - INFO - === Reddit scraping session started ===
+2025-05-21 16:20:08,253 - __main__ - INFO - Scraping 'carbon capture' for 2015_01
+2025-05-21 16:20:08,255 - __main__ - INFO - Connected to Reddit API
+2025-05-21 16:20:08,256 - __main__ - INFO - Scraping r/climatechange for query: carbon capture
+2025-05-21 16:22:01,924 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 16:22:06,217 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 16:22:11,992 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 16:22:17,189 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 16:27:57,682 - __main__ - INFO - Scraping r/sustainability for query: zero waste
+2025-05-21 16:29:56,812 - __main__ - WARNING - Error fetching comments for post otq74u: received 429 HTTP response
+2025-05-21 16:29:56,823 - __main__ - WARNING - Error fetching comments for post 17ca8l6: received 429 HTTP response
+2025-05-21 16:29:57,904 - __main__ - WARNING - Error fetching comments for post 17ujjsy: received 429 HTTP response
+2025-05-21 16:30:24,961 - __main__ - INFO - Scraping r/climate for query: carbon capture
+2025-05-21 16:31:24,497 - __main__ - INFO - Scraping r/ClimateActionPlan for query: carbon capture
+2025-05-21 16:32:21,424 - __main__ - INFO - Scraping r/environment for query: carbon capture
+2025-05-21 16:32:22,233 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 16:33:03,769 - __main__ - INFO - Scraping r/science for query: carbon capture
+2025-05-21 16:33:44,547 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 16:33:47,172 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_07
+2025-05-21 16:33:47,172 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 16:33:47,172 - __main__ - INFO - Total time taken: 2:54:49.875680
+2025-05-21 16:33:47,172 - __main__ - INFO - Scraping 'climate doom' for 2015_08
+2025-05-21 16:33:47,172 - __main__ - INFO - Connected to Reddit API
+2025-05-21 16:33:47,173 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 16:33:48,011 - __main__ - INFO - Scraping r/worldnews for query: carbon capture
+2025-05-21 16:34:04,104 - __main__ - INFO - Scraping r/news for query: carbon capture
+2025-05-21 16:34:08,836 - __main__ - INFO - Scraping r/collapse for query: carbon capture
+2025-05-21 16:35:49,871 - __main__ - INFO - Scraping r/renewable for query: zero waste
+2025-05-21 16:36:03,057 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_03
+2025-05-21 16:36:03,058 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 16:36:03,058 - __main__ - INFO - Total time taken: 1:01:14.975162
+2025-05-21 16:36:03,058 - __main__ - INFO - Scraping 'zero waste' for 2015_04
+2025-05-21 16:36:03,058 - __main__ - INFO - Connected to Reddit API
+2025-05-21 16:36:03,058 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 16:37:37,438 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 16:38:35,179 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 16:38:50,138 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 16:39:27,859 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 16:39:56,993 - __main__ - WARNING - Error fetching comments for post oung58: received 429 HTTP response
+2025-05-21 16:39:58,153 - __main__ - WARNING - Error fetching comments for post z775yf: received 429 HTTP response
+2025-05-21 16:39:59,207 - __main__ - WARNING - Error fetching comments for post 8e3ryo: received 429 HTTP response
+2025-05-21 16:41:51,350 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 16:42:01,201 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 16:42:44,169 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 16:42:46,851 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 16:42:52,193 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 16:42:56,914 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 16:43:51,997 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 16:44:06,598 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 16:44:12,397 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 16:44:16,698 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 16:45:00,031 - __main__ - INFO - Scraping r/sustainability for query: carbon capture
+2025-05-21 16:47:47,129 - __main__ - INFO - Scraping r/renewable for query: carbon capture
+2025-05-21 16:47:51,002 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_01
+2025-05-21 16:47:51,002 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 16:47:51,002 - __main__ - INFO - Total time taken: 0:27:42.749315
+2025-05-21 16:47:51,002 - __main__ - INFO - Scraping 'carbon capture' for 2015_02
+2025-05-21 16:47:51,003 - __main__ - INFO - Connected to Reddit API
+2025-05-21 16:47:51,003 - __main__ - INFO - Scraping r/climatechange for query: carbon capture
+2025-05-21 16:48:27,975 - __main__ - INFO - Scraping r/sustainability for query: zero waste
+2025-05-21 16:49:56,683 - __main__ - WARNING - Error fetching comments for post e26vf9: received 429 HTTP response
+2025-05-21 16:49:58,769 - __main__ - WARNING - Error fetching comments for post kwzotc: received 429 HTTP response
+2025-05-21 16:49:59,096 - __main__ - WARNING - Error fetching comments for post w6331v: received 429 HTTP response
+2025-05-21 16:56:32,946 - __main__ - INFO - Scraping r/renewable for query: zero waste
+2025-05-21 16:56:47,954 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_04
+2025-05-21 16:56:47,955 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 16:56:47,955 - __main__ - INFO - Total time taken: 1:21:59.872372
+2025-05-21 16:56:47,955 - __main__ - INFO - Scraping 'zero waste' for 2015_05
+2025-05-21 16:56:47,955 - __main__ - INFO - Connected to Reddit API
+2025-05-21 16:56:47,956 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 16:58:23,061 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 16:58:34,729 - __main__ - INFO - Scraping r/climate for query: carbon capture
+2025-05-21 16:58:41,584 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 16:59:17,153 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 16:59:32,503 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 16:59:43,318 - __main__ - INFO - Scraping r/ClimateActionPlan for query: carbon capture
+2025-05-21 16:59:56,229 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 16:59:57,251 - __main__ - WARNING - Error fetching comments for post g670ja: received 429 HTTP response
+2025-05-21 16:59:57,497 - __main__ - WARNING - Error fetching comments for post wc7neu: received 429 HTTP response
+2025-05-21 16:59:59,776 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 17:00:01,997 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 17:00:06,278 - __main__ - INFO - Saved 3 posts and 52 comments for 2015_08
+2025-05-21 17:00:06,278 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 17:00:06,278 - __main__ - INFO - Total time taken: 3:21:08.981611
+2025-05-21 17:00:06,278 - __main__ - INFO - Scraping 'climate doom' for 2015_09
+2025-05-21 17:00:06,278 - __main__ - INFO - Connected to Reddit API
+2025-05-21 17:00:06,279 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 17:00:53,746 - __main__ - INFO - Scraping r/environment for query: carbon capture
+2025-05-21 17:01:36,048 - __main__ - INFO - Scraping r/science for query: carbon capture
+2025-05-21 17:02:15,978 - __main__ - INFO - Scraping r/worldnews for query: carbon capture
+2025-05-21 17:02:32,327 - __main__ - INFO - Scraping r/news for query: carbon capture
+2025-05-21 17:02:38,471 - __main__ - INFO - Scraping r/collapse for query: carbon capture
+2025-05-21 17:03:22,777 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 17:03:28,576 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 17:03:33,439 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 17:03:37,598 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 17:05:21,570 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 17:07:56,854 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 17:08:04,122 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 17:09:03,141 - __main__ - INFO - Scraping r/sustainability for query: zero waste
+2025-05-21 17:09:52,647 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 17:09:57,151 - __main__ - WARNING - Error fetching comments for post yob3nu: received 429 HTTP response
+2025-05-21 17:09:58,699 - __main__ - WARNING - Error fetching comments for post pmh8be: received 429 HTTP response
+2025-05-21 17:09:59,355 - __main__ - WARNING - Error fetching comments for post 6qhgsn: received 429 HTTP response
+2025-05-21 17:10:14,816 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 17:10:18,047 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 17:10:21,462 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 17:13:37,479 - __main__ - INFO - Scraping r/sustainability for query: carbon capture
+2025-05-21 17:16:34,561 - __main__ - INFO - Scraping r/renewable for query: carbon capture
+2025-05-21 17:16:39,362 - __main__ - INFO - Saved 1 posts and 47 comments for 2015_02
+2025-05-21 17:16:39,362 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 17:16:39,362 - __main__ - INFO - Total time taken: 0:56:31.108968
+2025-05-21 17:16:39,362 - __main__ - INFO - Scraping 'carbon capture' for 2015_03
+2025-05-21 17:16:39,363 - __main__ - INFO - Connected to Reddit API
+2025-05-21 17:16:39,363 - __main__ - INFO - Scraping r/climatechange for query: carbon capture
+2025-05-21 17:16:57,564 - __main__ - INFO - Scraping r/renewable for query: zero waste
+2025-05-21 17:17:12,918 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_05
+2025-05-21 17:17:12,918 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 17:17:12,918 - __main__ - INFO - Total time taken: 1:42:24.835720
+2025-05-21 17:17:12,918 - __main__ - INFO - Scraping 'zero waste' for 2015_06
+2025-05-21 17:17:12,919 - __main__ - INFO - Connected to Reddit API
+2025-05-21 17:17:12,920 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 17:18:44,956 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 17:19:42,048 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 17:19:56,353 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 17:19:58,002 - __main__ - WARNING - Error fetching comments for post 15jnq9r: received 429 HTTP response
+2025-05-21 17:19:58,528 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 17:19:59,503 - __main__ - WARNING - Error fetching comments for post f9wcgw: received 429 HTTP response
+2025-05-21 17:20:01,657 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 17:23:24,925 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 17:23:28,598 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 17:23:33,345 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 17:23:36,148 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 17:24:46,129 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 17:26:06,557 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 17:26:10,514 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_09
+2025-05-21 17:26:10,514 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 17:26:10,514 - __main__ - INFO - Total time taken: 3:47:13.217996
+2025-05-21 17:26:10,514 - __main__ - INFO - Scraping 'climate doom' for 2015_10
+2025-05-21 17:26:10,514 - __main__ - INFO - Connected to Reddit API
+2025-05-21 17:26:10,515 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 17:27:05,313 - __main__ - INFO - Scraping r/climate for query: carbon capture
+2025-05-21 17:28:12,363 - __main__ - INFO - Scraping r/ClimateActionPlan for query: carbon capture
+2025-05-21 17:29:05,536 - __main__ - INFO - Scraping r/sustainability for query: zero waste
+2025-05-21 17:29:08,118 - __main__ - INFO - Scraping r/environment for query: carbon capture
+2025-05-21 17:29:48,827 - __main__ - INFO - Scraping r/science for query: carbon capture
+2025-05-21 17:29:55,609 - __main__ - WARNING - Error fetching comments for post gyuc92: received 429 HTTP response
+2025-05-21 17:30:00,064 - __main__ - WARNING - Error fetching comments for post e6i471: received 429 HTTP response
+2025-05-21 17:30:00,064 - __main__ - WARNING - Error fetching comments for post 6isyum: received 429 HTTP response
+2025-05-21 17:30:41,829 - __main__ - INFO - Scraping r/worldnews for query: carbon capture
+2025-05-21 17:30:58,097 - __main__ - INFO - Scraping r/news for query: carbon capture
+2025-05-21 17:31:02,682 - __main__ - INFO - Scraping r/collapse for query: carbon capture
+2025-05-21 17:31:32,897 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 17:34:00,593 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 17:34:10,814 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 17:36:01,016 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 17:36:15,512 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 17:36:21,156 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 17:36:25,634 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 17:36:30,311 - __main__ - INFO - Scraping r/renewable for query: zero waste
+2025-05-21 17:36:44,696 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_06
+2025-05-21 17:36:44,696 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 17:36:44,697 - __main__ - INFO - Total time taken: 2:01:56.614090
+2025-05-21 17:36:44,697 - __main__ - INFO - Scraping 'zero waste' for 2015_07
+2025-05-21 17:36:44,697 - __main__ - INFO - Connected to Reddit API
+2025-05-21 17:36:44,697 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 17:38:13,865 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 17:39:05,757 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 17:39:22,409 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 17:39:56,306 - __main__ - WARNING - Error fetching comments for post 8wwipe: received 429 HTTP response
+2025-05-21 17:39:57,946 - __main__ - WARNING - Error fetching comments for post 3rk6b8: received 429 HTTP response
+2025-05-21 17:42:02,198 - __main__ - INFO - Scraping r/sustainability for query: carbon capture
+2025-05-21 17:43:04,164 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 17:43:09,463 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 17:43:14,439 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 17:43:17,545 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 17:44:46,196 - __main__ - INFO - Scraping r/renewable for query: carbon capture
+2025-05-21 17:44:51,514 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_03
+2025-05-21 17:44:51,515 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 17:44:51,515 - __main__ - INFO - Total time taken: 1:24:43.261605
+2025-05-21 17:44:51,515 - __main__ - INFO - Scraping 'carbon capture' for 2015_04
+2025-05-21 17:44:51,515 - __main__ - INFO - Connected to Reddit API
+2025-05-21 17:44:51,516 - __main__ - INFO - Scraping r/climatechange for query: carbon capture
+2025-05-21 17:48:51,817 - __main__ - INFO - Scraping r/sustainability for query: zero waste
+2025-05-21 17:49:53,101 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 17:49:55,801 - __main__ - WARNING - Error fetching comments for post mxnn95: received 429 HTTP response
+2025-05-21 17:49:58,017 - __main__ - WARNING - Error fetching comments for post 1f0uk4k: received 429 HTTP response
+2025-05-21 17:49:58,102 - __main__ - WARNING - Error fetching comments for post 13wm5p1: received 429 HTTP response
+2025-05-21 17:51:32,128 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 17:51:34,458 - __main__ - INFO - Saved 1 posts and 0 comments for 2015_10
+2025-05-21 17:51:34,458 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 17:51:34,458 - __main__ - INFO - Total time taken: 4:12:37.162161
+2025-05-21 17:51:34,458 - __main__ - INFO - Scraping 'climate doom' for 2015_11
+2025-05-21 17:51:34,459 - __main__ - INFO - Connected to Reddit API
+2025-05-21 17:51:34,459 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 17:55:23,853 - __main__ - INFO - Scraping r/climate for query: carbon capture
+2025-05-21 17:56:30,181 - __main__ - INFO - Scraping r/ClimateActionPlan for query: carbon capture
+2025-05-21 17:57:06,106 - __main__ - INFO - Scraping r/renewable for query: zero waste
+2025-05-21 17:57:17,343 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 17:57:19,016 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_07
+2025-05-21 17:57:19,016 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 17:57:19,016 - __main__ - INFO - Total time taken: 2:22:30.934006
+2025-05-21 17:57:19,016 - __main__ - INFO - Scraping 'zero waste' for 2015_08
+2025-05-21 17:57:19,017 - __main__ - INFO - Connected to Reddit API
+2025-05-21 17:57:19,017 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 17:57:30,867 - __main__ - INFO - Scraping r/environment for query: carbon capture
+2025-05-21 17:58:09,291 - __main__ - INFO - Scraping r/science for query: carbon capture
+2025-05-21 17:58:50,616 - __main__ - INFO - Scraping r/worldnews for query: carbon capture
+2025-05-21 17:58:51,029 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 17:59:06,417 - __main__ - INFO - Scraping r/news for query: carbon capture
+2025-05-21 17:59:09,815 - __main__ - INFO - Scraping r/collapse for query: carbon capture
+2025-05-21 17:59:44,066 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 17:59:46,158 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 17:59:54,014 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 17:59:55,206 - __main__ - WARNING - Error fetching comments for post rqnyo0: received 429 HTTP response
+2025-05-21 18:00:00,250 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 18:01:01,184 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 18:01:18,114 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 18:01:23,649 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 18:01:28,059 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 18:03:07,813 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 18:03:11,497 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 18:03:15,733 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 18:03:20,412 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 18:08:42,321 - __main__ - INFO - Scraping r/sustainability for query: zero waste
+2025-05-21 18:09:23,626 - __main__ - INFO - Scraping r/sustainability for query: carbon capture
+2025-05-21 18:09:56,177 - __main__ - WARNING - Error fetching comments for post zubo7u: received 429 HTTP response
+2025-05-21 18:09:57,095 - __main__ - WARNING - Error fetching comments for post f6i8xv: received 429 HTTP response
+2025-05-21 18:09:59,564 - __main__ - WARNING - Error fetching comments for post 8ldmsj: received 429 HTTP response
+2025-05-21 18:12:47,073 - __main__ - INFO - Scraping r/renewable for query: carbon capture
+2025-05-21 18:12:51,192 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_04
+2025-05-21 18:12:51,192 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 18:12:51,192 - __main__ - INFO - Total time taken: 1:52:42.938965
+2025-05-21 18:12:51,192 - __main__ - INFO - Scraping 'carbon capture' for 2015_05
+2025-05-21 18:12:51,193 - __main__ - INFO - Connected to Reddit API
+2025-05-21 18:12:51,193 - __main__ - INFO - Scraping r/climatechange for query: carbon capture
+2025-05-21 18:15:03,919 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 18:16:20,084 - __main__ - INFO - Scraping r/renewable for query: zero waste
+2025-05-21 18:16:25,540 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 18:16:29,878 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_11
+2025-05-21 18:16:29,878 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 18:16:29,878 - __main__ - INFO - Total time taken: 4:37:32.581620
+2025-05-21 18:16:29,878 - __main__ - INFO - Scraping 'climate doom' for 2015_12
+2025-05-21 18:16:29,878 - __main__ - INFO - Connected to Reddit API
+2025-05-21 18:16:29,879 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 18:16:34,470 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_08
+2025-05-21 18:16:34,470 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 18:16:34,470 - __main__ - INFO - Total time taken: 2:41:46.387421
+2025-05-21 18:16:34,470 - __main__ - INFO - Scraping 'zero waste' for 2015_09
+2025-05-21 18:16:34,470 - __main__ - INFO - Connected to Reddit API
+2025-05-21 18:16:34,471 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 18:18:07,402 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 18:19:02,725 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 18:19:18,043 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 18:19:56,549 - __main__ - WARNING - Error fetching comments for post 8v67wn: received 429 HTTP response
+2025-05-21 18:19:57,394 - __main__ - WARNING - Error fetching comments for post if0cb7: received 429 HTTP response
+2025-05-21 18:21:55,677 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 18:22:53,482 - __main__ - INFO - Scraping r/climate for query: carbon capture
+2025-05-21 18:23:07,143 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 18:23:11,115 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 18:23:16,160 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 18:23:20,618 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 18:24:02,580 - __main__ - INFO - Scraping r/ClimateActionPlan for query: carbon capture
+2025-05-21 18:24:27,301 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 18:24:35,645 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 18:25:03,319 - __main__ - INFO - Scraping r/environment for query: carbon capture
+2025-05-21 18:25:41,096 - __main__ - INFO - Scraping r/science for query: carbon capture
+2025-05-21 18:26:23,970 - __main__ - INFO - Scraping r/worldnews for query: carbon capture
+2025-05-21 18:26:26,748 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 18:26:36,777 - __main__ - INFO - Scraping r/news for query: carbon capture
+2025-05-21 18:26:41,220 - __main__ - INFO - Scraping r/collapse for query: carbon capture
+2025-05-21 18:26:42,882 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 18:26:45,861 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 18:26:51,007 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 18:28:45,555 - __main__ - INFO - Scraping r/sustainability for query: zero waste
+2025-05-21 18:29:56,326 - __main__ - WARNING - Error fetching comments for post 18hfwki: received 429 HTTP response
+2025-05-21 18:29:58,423 - __main__ - WARNING - Error fetching comments for post pguxzj: received 429 HTTP response
+2025-05-21 18:29:58,476 - __main__ - WARNING - Error fetching comments for post 1ispmwm: received 429 HTTP response
+2025-05-21 18:36:45,378 - __main__ - INFO - Scraping r/sustainability for query: carbon capture
+2025-05-21 18:36:55,357 - __main__ - INFO - Scraping r/renewable for query: zero waste
+2025-05-21 18:37:07,836 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_09
+2025-05-21 18:37:07,837 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 18:37:07,837 - __main__ - INFO - Total time taken: 3:02:19.754143
+2025-05-21 18:37:07,837 - __main__ - INFO - Scraping 'zero waste' for 2015_10
+2025-05-21 18:37:07,837 - __main__ - INFO - Connected to Reddit API
+2025-05-21 18:37:07,838 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 18:38:37,891 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 18:39:27,877 - __main__ - INFO - Scraping r/renewable for query: carbon capture
+2025-05-21 18:39:31,442 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 18:39:32,201 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_05
+2025-05-21 18:39:32,201 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 18:39:32,201 - __main__ - INFO - Total time taken: 2:19:23.947735
+2025-05-21 18:39:32,201 - __main__ - INFO - Scraping 'carbon capture' for 2015_06
+2025-05-21 18:39:32,201 - __main__ - INFO - Connected to Reddit API
+2025-05-21 18:39:32,202 - __main__ - INFO - Scraping r/climatechange for query: carbon capture
+2025-05-21 18:39:45,001 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 18:39:56,745 - __main__ - WARNING - Error fetching comments for post 17sduo5: received 429 HTTP response
+2025-05-21 18:39:59,206 - __main__ - WARNING - Error fetching comments for post 1dkrd4g: received 429 HTTP response
+2025-05-21 18:39:59,526 - __main__ - WARNING - Error fetching comments for post j716gk: received 429 HTTP response
+2025-05-21 18:41:42,388 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 18:43:02,641 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 18:43:07,127 - __main__ - INFO - Saved 1 posts and 5 comments for 2015_12
+2025-05-21 18:43:07,127 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 18:43:07,127 - __main__ - INFO - Total time taken: 5:04:09.830985
+2025-05-21 18:43:07,127 - __main__ - INFO - Scraping 'climate doom' for 2016_01
+2025-05-21 18:43:07,128 - __main__ - INFO - Connected to Reddit API
+2025-05-21 18:43:07,128 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 18:43:45,461 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 18:43:50,814 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 18:43:55,989 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 18:44:00,201 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 18:48:44,592 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 18:49:35,371 - __main__ - INFO - Scraping r/sustainability for query: zero waste
+2025-05-21 18:49:56,785 - __main__ - WARNING - Error fetching comments for post q71aru: received 429 HTTP response
+2025-05-21 18:49:58,538 - __main__ - WARNING - Error fetching comments for post 12hqk14: received 429 HTTP response
+2025-05-21 18:49:58,959 - __main__ - WARNING - Error fetching comments for post 3fryc6: received 429 HTTP response
+2025-05-21 18:50:28,539 - __main__ - INFO - Scraping r/climate for query: carbon capture
+2025-05-21 18:51:05,371 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 18:51:15,334 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 18:51:33,319 - __main__ - INFO - Scraping r/ClimateActionPlan for query: carbon capture
+2025-05-21 18:52:31,767 - __main__ - INFO - Scraping r/environment for query: carbon capture
+2025-05-21 18:53:03,868 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 18:53:12,303 - __main__ - INFO - Scraping r/science for query: carbon capture
+2025-05-21 18:53:20,000 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 18:53:25,026 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 18:53:30,294 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 18:53:52,647 - __main__ - INFO - Scraping r/worldnews for query: carbon capture
+2025-05-21 18:54:09,231 - __main__ - INFO - Scraping r/news for query: carbon capture
+2025-05-21 18:54:12,105 - __main__ - INFO - Scraping r/collapse for query: carbon capture
+2025-05-21 18:57:32,295 - __main__ - INFO - Scraping r/renewable for query: zero waste
+2025-05-21 18:57:48,049 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_10
+2025-05-21 18:57:48,049 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 18:57:48,049 - __main__ - INFO - Total time taken: 3:22:59.966696
+2025-05-21 18:57:48,049 - __main__ - INFO - Scraping 'zero waste' for 2015_11
+2025-05-21 18:57:48,050 - __main__ - INFO - Connected to Reddit API
+2025-05-21 18:57:48,050 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 18:59:15,372 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 18:59:58,121 - __main__ - WARNING - Error fetching comments for post f8re91: received 429 HTTP response
+2025-05-21 18:59:59,903 - __main__ - WARNING - Error fetching comments for post 15cy53f: received 429 HTTP response
+2025-05-21 19:00:16,872 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 19:00:25,905 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 19:03:58,840 - __main__ - INFO - Scraping r/sustainability for query: carbon capture
+2025-05-21 19:04:27,412 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 19:04:31,917 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 19:04:35,852 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 19:04:41,715 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 19:06:53,678 - __main__ - INFO - Scraping r/renewable for query: carbon capture
+2025-05-21 19:06:59,087 - __main__ - INFO - Saved 1 posts and 13 comments for 2015_06
+2025-05-21 19:06:59,087 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 19:06:59,087 - __main__ - INFO - Total time taken: 2:46:50.834029
+2025-05-21 19:06:59,087 - __main__ - INFO - Scraping 'carbon capture' for 2015_07
+2025-05-21 19:06:59,088 - __main__ - INFO - Connected to Reddit API
+2025-05-21 19:06:59,089 - __main__ - INFO - Scraping r/climatechange for query: carbon capture
+2025-05-21 19:07:48,415 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 19:09:07,259 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 19:09:11,980 - __main__ - INFO - Saved 0 posts and 0 comments for 2016_01
+2025-05-21 19:09:11,980 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 19:09:11,980 - __main__ - INFO - Total time taken: 5:30:14.683960
+2025-05-21 19:09:11,980 - __main__ - INFO - Scraping 'climate doom' for 2016_02
+2025-05-21 19:09:11,981 - __main__ - INFO - Connected to Reddit API
+2025-05-21 19:09:11,981 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 19:09:56,756 - __main__ - WARNING - Error fetching comments for post 1ggxq7q: received 429 HTTP response
+2025-05-21 19:09:58,175 - __main__ - WARNING - Error fetching comments for post obkqp0: received 429 HTTP response
+2025-05-21 19:09:58,744 - __main__ - WARNING - Error fetching comments for post 8sh9v1: received 429 HTTP response
+2025-05-21 19:10:27,146 - __main__ - INFO - Scraping r/sustainability for query: zero waste
+2025-05-21 19:14:37,192 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 19:17:01,287 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 19:17:10,060 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 19:17:20,585 - __main__ - INFO - Scraping r/climate for query: carbon capture
+2025-05-21 19:18:13,930 - __main__ - INFO - Scraping r/renewable for query: zero waste
+2025-05-21 19:18:24,665 - __main__ - INFO - Scraping r/ClimateActionPlan for query: carbon capture
+2025-05-21 19:18:26,370 - __main__ - INFO - Saved 1 posts and 2 comments for 2015_11
+2025-05-21 19:18:26,371 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 19:18:26,371 - __main__ - INFO - Total time taken: 3:43:38.288237
+2025-05-21 19:18:26,371 - __main__ - INFO - Scraping 'zero waste' for 2015_12
+2025-05-21 19:18:26,371 - __main__ - INFO - Connected to Reddit API
+2025-05-21 19:18:26,372 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 19:18:58,388 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 19:19:15,803 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 19:19:20,500 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 19:19:21,736 - __main__ - INFO - Scraping r/environment for query: carbon capture
+2025-05-21 19:19:24,445 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 19:19:57,143 - __main__ - INFO - Scraping r/science for query: carbon capture
+2025-05-21 19:19:57,641 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 19:19:59,799 - __main__ - WARNING - Error fetching comments for post 1ehbhk1: received 429 HTTP response
+2025-05-21 19:19:59,825 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 19:20:00,566 - __main__ - INFO - Scraping r/science for query: carbon capture
+2025-05-21 19:20:02,139 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 19:20:25,052 - __main__ - INFO - Scraping r/worldnews for query: carbon capture
+2025-05-21 19:20:35,649 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 19:20:41,710 - __main__ - INFO - Scraping r/news for query: carbon capture
+2025-05-21 19:20:47,036 - __main__ - INFO - Scraping r/collapse for query: carbon capture
+2025-05-21 19:20:49,199 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 19:24:59,692 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 19:25:05,069 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 19:25:09,337 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 19:25:12,684 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 19:29:56,328 - __main__ - WARNING - Error fetching comments for post 9rcljp: received 429 HTTP response
+2025-05-21 19:29:57,349 - __main__ - WARNING - Error fetching comments for post oqu9rr: received 429 HTTP response
+2025-05-21 19:30:27,665 - __main__ - INFO - Scraping r/sustainability for query: zero waste
+2025-05-21 19:31:34,890 - __main__ - INFO - Scraping r/sustainability for query: carbon capture
+2025-05-21 19:33:18,183 - __main__ - INFO - Scraping r/sustainability for query: climate doom
+2025-05-21 19:34:20,665 - __main__ - INFO - Scraping r/renewable for query: carbon capture
+2025-05-21 19:34:23,170 - __main__ - INFO - Saved 0 posts and 1 comments for 2015_07
+2025-05-21 19:34:23,170 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 19:34:23,170 - __main__ - INFO - Total time taken: 3:14:14.917141
+2025-05-21 19:34:23,170 - __main__ - INFO - Scraping 'carbon capture' for 2015_08
+2025-05-21 19:34:23,171 - __main__ - INFO - Connected to Reddit API
+2025-05-21 19:34:23,171 - __main__ - INFO - Scraping r/climatechange for query: carbon capture
+2025-05-21 19:34:39,718 - __main__ - INFO - Scraping r/renewable for query: climate doom
+2025-05-21 19:34:43,633 - __main__ - INFO - Saved 1 posts and 6 comments for 2016_02
+2025-05-21 19:34:43,633 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 19:34:43,633 - __main__ - INFO - Total time taken: 5:55:46.336983
+2025-05-21 19:34:43,633 - __main__ - INFO - Scraping 'climate doom' for 2016_03
+2025-05-21 19:34:43,634 - __main__ - INFO - Connected to Reddit API
+2025-05-21 19:34:43,634 - __main__ - INFO - Scraping r/climatechange for query: climate doom
+2025-05-21 19:38:12,037 - __main__ - INFO - Scraping r/renewable for query: zero waste
+2025-05-21 19:38:26,054 - __main__ - INFO - Saved 0 posts and 0 comments for 2015_12
+2025-05-21 19:38:26,054 - __main__ - INFO - === Reddit scraping session completed successfully ===
+2025-05-21 19:38:26,054 - __main__ - INFO - Total time taken: 4:03:37.971947
+2025-05-21 19:38:26,054 - __main__ - INFO - Scraping 'zero waste' for 2016_01
+2025-05-21 19:38:26,055 - __main__ - INFO - Connected to Reddit API
+2025-05-21 19:38:26,055 - __main__ - INFO - Scraping r/climatechange for query: zero waste
+2025-05-21 19:39:56,174 - __main__ - WARNING - Error fetching comments for post 19a8w5k: received 429 HTTP response
+2025-05-21 19:39:56,220 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 19:39:57,858 - __main__ - WARNING - Error fetching comments for post ar64um: received 429 HTTP response
+2025-05-21 19:39:58,502 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 19:40:01,620 - __main__ - INFO - Scraping r/climate for query: zero waste
+2025-05-21 19:40:19,305 - __main__ - INFO - Scraping r/climate for query: climate doom
+2025-05-21 19:40:20,773 - __main__ - INFO - Scraping r/ClimateActionPlan for query: zero waste
+2025-05-21 19:40:30,596 - __main__ - INFO - Scraping r/environment for query: zero waste
+2025-05-21 19:42:40,576 - __main__ - INFO - Scraping r/ClimateActionPlan for query: climate doom
+2025-05-21 19:42:52,122 - __main__ - INFO - Scraping r/environment for query: climate doom
+2025-05-21 19:44:33,990 - __main__ - INFO - Scraping r/science for query: zero waste
+2025-05-21 19:44:39,370 - __main__ - INFO - Scraping r/worldnews for query: zero waste
+2025-05-21 19:44:44,299 - __main__ - INFO - Scraping r/news for query: zero waste
+2025-05-21 19:44:47,346 - __main__ - INFO - Scraping r/science for query: climate doom
+2025-05-21 19:44:47,709 - __main__ - INFO - Scraping r/climate for query: carbon capture
+2025-05-21 19:44:48,327 - __main__ - INFO - Scraping r/collapse for query: zero waste
+2025-05-21 19:45:04,177 - __main__ - INFO - Scraping r/worldnews for query: climate doom
+2025-05-21 19:45:07,035 - __main__ - INFO - Scraping r/news for query: climate doom
+2025-05-21 19:45:11,947 - __main__ - INFO - Scraping r/collapse for query: climate doom
+2025-05-21 19:45:51,480 - __main__ - INFO - Scraping r/ClimateActionPlan for query: carbon capture
