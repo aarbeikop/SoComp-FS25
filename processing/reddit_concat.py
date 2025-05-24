@@ -11,10 +11,6 @@ print("Saving to:", processed_dir)
 
 all_dataframes = []
 
-
-file_counts = {}
-
-
 for root, _, files in os.walk(raw_dir):
     for fname in files:
         if not fname.endswith('.csv'):
@@ -24,9 +20,18 @@ for root, _, files in os.walk(raw_dir):
 
         try:
             df = pd.read_csv(fpath)
-            if df.empty or len(df.columns) <= 1 or "text" not in df.columns:
-                print(f"Skipped invalid or empty file: {fpath}")
+
+            if df.empty:
+                print(f"Skipped empty file: {fpath}")
                 continue
+
+            if len(df.columns) <= 1:
+                print(f"Skipped malformed file: {fpath}")
+                continue
+
+            # Optional: add origin and type tag
+            df['source_file'] = fname
+            df['entry_type'] = 'comment' if 'comment' in fname.lower() else 'post'
 
             all_dataframes.append(df)
             print(f"Loaded {fpath} ({df.shape[0]} rows)")
@@ -41,12 +46,6 @@ if all_dataframes:
     combined = pd.concat(all_dataframes, ignore_index=True)
     output_path = os.path.join(processed_dir, 'all_reddit_data.csv')
     combined.to_csv(output_path, index=False)
-
-    # count posts scraped
-    print(f"\nSummary:")
-    for fpath, count in file_counts.items():
-        print(f" - {fpath}: {count} rows")
-
     print(f"Saved {len(combined)} total rows to {output_path}")
 else:
     print("No valid data found to concatenate.")
