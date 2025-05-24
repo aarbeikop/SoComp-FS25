@@ -1,6 +1,0 @@
-id,subreddit,tone,title,text,created_utc,score,num_comments,upvote_ratio,url,is_self,author,scraped_utc,query_used,query_category
-1kc4e7p,climatechange,action-oriented,Trump Dismisses Scientists Writing Key Climate Report,"""The Trump administration on Monday dismissed all of the scientists working on the newest version of the National Climate Assessment, a sweeping report that outlines the growing dangers of rising temperatures for lawmakers, policy experts and the public.
-
-The sixth installment of the congressionally mandated report, which was due to come out by 2028, has typically been put together by about 400 researchers, many of whom are top scientists at universities who volunteer their time. The assessment is used to craft environmental rules, legislation and infrastructure project planning. It seen by experts as the definitive body of research about how global warming is transforming the country.
-
-Work had already begun on the sixth version. The Trump administration ended that with a note sent to researchers Monday.""   ",1746090962.0,775,59,0.99,https://www.scientificamerican.com/article/trump-dismisses-scientists-writing-the-national-climate-assessment/,False,chota-kaka,1746547889.886492,climate legislation,action_oriented
