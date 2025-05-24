@@ -2,9 +2,8 @@ import os
 import pandas as pd
 
 reddit_inventory = []
-all_dataframes = []
 
-base_dir = 'data/raw'
+base_dir = 'data/raw/'
 
 for query in os.listdir(base_dir):
     query_path = os.path.join(base_dir, query)
@@ -13,45 +12,15 @@ for query in os.listdir(base_dir):
     for fname in os.listdir(query_path):
         if fname.endswith('.csv'):
             fpath = os.path.join(query_path, fname)
-            try:
-                df = pd.read_csv(fpath)
-            except Exception as e:
-                print(f"Failed to read {fpath}: {e}")
-                continue
-
+            df = pd.read_csv(fpath)
             if df.empty or len(df.columns) <= 1:  # Skip empty or header-only files
                 continue
-
-            # Collect metadata
-            try:
-                year = int(fname.split('_')[-1].split('.')[0])
-                month = fname.split('_')[-2]
-            except Exception as e:
-                print(f"Skipping due to invalid filename format: {fname}")
-                continue
-
             meta = {
                 "query": query,
                 "filename": fname,
                 "filepath": fpath,
                 "type": "comment" if "comment" in fname.lower() else "post",
-                "year": year,
-                "month": month
+                "year": int(fname.split('_')[-1].split('.')[0]),
+                "month": fname.split('_')[-2]
             }
             reddit_inventory.append(meta)
-            all_dataframes.append(df)
-
-# Write combined CSV once
-if all_dataframes:
-    concatenated_df = pd.concat(all_dataframes, ignore_index=True)
-    # Convert created_utc to human-readable date if column exists
-    if 'created_utc' in concatenated_df.columns:
-        concatenated_df['created_utc'] = pd.to_datetime(
-            concatenated_df['created_utc'], unit='s', errors='coerce'
-        )
-
-    output_path = 'data/reddit_concatenated.csv'
-    concatenated_df.to_csv(output_path, index=False)
-    print(f"Combined CSV saved to: {output_path}")
-else:
-    print("No valid data found to concatenate.")
