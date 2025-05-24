@@ -1,0 +1,22 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"d5jl6c9","t3_4tr2on","4tr2on","collapse","skeptical","The problem with short time-frames is weather vs. climate. I think the break is 10-20 years. It presents a problem for prediction when temps are spiking rapidly. 
+
+Should also be prepared for the temp rise to ""pause"" as part of a base forming pattern. Historically the temps have been going up in a step fashion, short term bursts to a new regime followed by plateaus. We are currently leaving an old plateau and entering a new regime.
+
+A question that can be answered now is how long the plateaus last before the next spike upward. If the plateau period is shortening.","2016-07-20 14:44:16","5","FF00A7","1747867138.3585155","global temperature rise","manual"
+"d5jndt1","t3_4tr2on","4tr2on","collapse","skeptical","This shows its exponential forget about averages, were fucked.   ","2016-07-20 15:35:04","5","fuckthebankers1","1747867138.360056","global temperature rise","manual"
+"d5k64fk","t3_4tr2on","4tr2on","collapse","skeptical","You're doing statistics on a noisy data set. That's notoriously difficult. Check out [Tamino's blog](https://tamino.wordpress.com/) and read back a few months. He's a statistician and has written a lot about how to do that properly. Your analysis is the kind that caused the talk of a hiatus.","2016-07-20 22:14:05","4","rrohbeck","1747867138.3630557","global temperature rise","manual"
+"d5jk02s","t3_4tr2on","4tr2on","collapse","skeptical","Here are better numbers:
+
+* 2001-2016 - 1 degree C every 43.2 years
+* 2007-2016 - 1 degree C every 20.8 years
+* 2012-2016 - 1 degree C every 5.2 years
+* 2015-2016 - 1 degree C every 1.2 years
+","2016-07-20 14:15:30","3","sapien89","1747867138.3670528","global temperature rise","manual"
+"d5kaxv9","t3_4tr2on","4tr2on","collapse","skeptical","It's difficult to get around the terrible truth that each year will be warmer than the one before it, forever. No telling where this leads.","2016-07-21 00:11:18","1","Starfish_Symphony","1747867138.3680525","global temperature rise","manual"
+"d5ksh9u","t3_4tr2on","4tr2on","collapse","skeptical","Only wrong in that El Nino boosts everything anomalously and gives us an idea of what's coming. That's why the great El Nino of 1998 made it appear that temperatures were going down thereafter.
+
+That being said, the Amazon is having its 3rd once-in-a-hundred-year-drought since 2005.","2016-07-21 10:36:24","1","BeezleyBillyBub","1747867138.3690526","global temperature rise","manual"
+"d5ku09e","t3_4tr2on","4tr2on","collapse","skeptical","NOAA uses it's own data set (GHCN) which has been [repeatedly massaged](http://www.ncdc.noaa.gov/ghcnm/v3.php) in accordance with published papers insisting that it be adjusted upward. Having the agency that does the ""official"" reporting maintain the ""official data set"" is very much like having car makers test emissions. And we all know how that turned out.
+
+ENSO cycles include a peak and a trough. The 2015 ENSO cycle is not yet complete. If we switch the data set to one more widely used [we see flat temperatures](http://woodfortrees.org/plot/hadcrut4gl/from:2001/to:2015/mean:12/plot/hadcrut4gl/from:2001/to:2015/mean:12/trend/plot/hadcrut4gl/from:2001/to:2014/mean:12/trend). El Nino did not take hold until about 1/2 way through 2015. If we remove 2015 entirely (the blue line) we see a drop over the period you selected, though that drop is merely an artifact of the selected period.  ","2016-07-21 11:50:22","0","HappyFluffyBunnies","1747867138.3720527","global temperature rise","manual"

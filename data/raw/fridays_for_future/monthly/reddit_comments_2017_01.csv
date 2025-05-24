@@ -1,0 +1,100 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"dc12xwi","t3_5m66l0","5m66l0","science","scientific","Is the correlation between class and access to clean air fairly straightforward? Or are there wealthy people also living in poor air zones (downtown major cities, for instance)?","2017-01-05 13:08:38","56","sutree1","1747844630.385221","Fridays for Future","manual"
+"dc12qsl","t3_5m66l0","5m66l0","science","scientific","How can general public help in this mission? What kind of data can we contribute and how is it quality controlled?","2017-01-05 13:01:38","29","heywhatsthatcalled","1747844630.38706","Fridays for Future","manual"
+"dc12zwb","t3_5m66l0","5m66l0","science","scientific","Air pollution has been a political issue for a while now with China being the obvious example. But there is also the Torry lobby against EU air pollution restriction laws. And in the US there was the ""Smoggy Skies Act"" (H.R.4775) that aims to reduce the efficacy of the Clean Air Act, which passed the House and is currently in the Senate. 
+
+How can you (or we) encourage this data to not just be collected but also analyzed, interpreted, and published in a way that the public can be empowered with knowledge about their communities? And that, in turn, encouraging people to mobilize so they can effectively call upon representatives to address it?","2017-01-05 13:10:31","19","firedrops","1747844630.389319","Fridays for Future","manual"
+"dc12hgy","t3_5m66l0","5m66l0","science","scientific","Do you think these data could be used to enhance other EHR (electronic health records) for epidemiologic research or even better, more personalized healthcare approaches? If so, how do you see these data being leveraged in Obama's Precision Medicine Initiative? ","2017-01-05 12:52:16","11","p1percub","1747844630.391244","Fridays for Future","manual"
+"dc12uvr","t3_5m66l0","5m66l0","science","scientific","Hi everyone, thanks for the AMA! 
+
+I wonder if you can elaborate on why data for air quality is difficult to get access to? What factors limit sharing of this data through traditional channels?","2017-01-05 13:05:42","10","superhelical","1747844630.392687","Fridays for Future","manual"
+"dc12ggq","t3_5m66l0","5m66l0","science","scientific","This AMA is being permanently archived by *The Winnower*, a publishing platform that offers traditional scholarly publishing tools to traditional *and* non-traditional scholarly outputs—because scholarly communication doesn’t just happen in journals.
+
+To cite this AMA please use: [https://doi.org/10.15200/winn.148362.20666](https://www.thewinnower.com/papers/5933-science-ama-series-we-re-the-openaq-team-building-the-world-s-first-open-data-open-source-real-time-and-historical-air-pollution-platform-we-are-building-it-because-open-data-helps-people-fight-air-inequality-and-no-one-else-was-building-it-ask-us-anything)
+
+You can learn more and start contributing at [*authorea.com*](https://authorea.com)
+","2017-01-05 12:51:14","7","redditWinnower","1747844630.394363","Fridays for Future","manual"
+"dc12avj","t3_5m66l0","5m66l0","science","scientific","Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts.
+ 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+","2017-01-05 12:45:18","1","Doomhammer458","1747844630.396418","Fridays for Future","manual"
+"dc135t5","t3_5m66l0","5m66l0","science","scientific","How are your data sources chosen? I'm very interested in the other side of the OpenAQ platform. Specifically, what do you think about massively-scaleable AQ data collection sourced by the community itself? 
+
+I'm thinking about cheap, wifi-connected home devices. One time setup air scanners. Do you think it's feasible? 
+
+Keep up the good work!","2017-01-05 13:16:12","7","[deleted]","1747844630.397878","Fridays for Future","manual"
+"dc14hbk","t3_5m66l0","5m66l0","science","scientific","Technical question here rather than focused on the content: what does the underlying architecture and design for the platform look like? How is data ingested into the platform?
+
+I'm guessing, based on the number of samples (~34m), that you're probably using using a relational database for storage and query, and not something like HBase, which would be overkill? Something else?  Is data streamed into the platform or uploaded manually?","2017-01-05 13:57:07","5","kstrike155","1747844630.399303","Fridays for Future","manual"
+"dc12k3j","t3_5m66l0","5m66l0","science","scientific","What are some of the most interesting (and perhaps even unexpected) uses of the OpenAQ datasets have you seen?","2017-01-05 12:54:59","4","edwinksl","1747844630.400809","Fridays for Future","manual"
+"dc12u6g","t3_5m66l0","5m66l0","science","scientific","To do the same thing with water is decidedly more difficult but also on the horizon. What do you know about projects similar to yours (like water)?","2017-01-05 13:05:02","4","speisenkarte","1747844630.4020622","Fridays for Future","manual"
+"dc13c72","t3_5m66l0","5m66l0","science","scientific","You mention the cost of air inequality. But how does that balance with the concomitant reduction of economic inequality caused by industries moving to countries with lax air quality standards, or simply lower wage levels? 
+
+For example, would it really have been better for the Chinese economy (including health care costs etc) if lots of people stayed dirt-poor farmers instead of moving to the cities, working in factories for higher wages, admittedly while inhaling more smog?","2017-01-05 13:22:02","5","CrateDane","1747844630.403591","Fridays for Future","manual"
+"dc18h8s","t3_5m66l0","5m66l0","science","scientific","Data + machine learning = predictions 
+
+Have you considered aggregating  additional data, e.g. Wind speeds, weather etc and implementing forecasts on air quality? 
+
+In Beijing the goverment seem to be fairly accurate to predict  (with the limited alerts they issue) , and we all know when the wind starts to blow the air quality will improve. But the alerts are limited and a few days heads up would allow better planning for people.  
+
+What are your thoughts on machine learning for air quality in general and forecasts in particular? ","2017-01-05 15:33:08","3","ScandInBei","1747844630.4048982","Fridays for Future","manual"
+"dc13ucg","t3_5m66l0","5m66l0","science","scientific","Thank you for this important work. As an environmental engineer living in a non-attainment area, I never cease to be amazed by how *edit* unaware *edit* the average person is of what's going on in their own back yard. Hopefully this will educate people and motivate them to hold their industrial neighbors accountable. Questions: 
+
+- what criteria pollutants are you archiving, or is it a complete data dump of whatever is provided by the primary source?
+- are third party independent sources used for countries with no air quality standards, or are these areas excluded from your archive?
+- follow-up to Q2: if third party sources are used, is there some method of verifying the reliability of their data?","2017-01-05 13:38:07","3","fyukhyu","1747844630.406501","Fridays for Future","manual"
+"dc14oix","t3_5m66l0","5m66l0","science","scientific","Have you seen any interesting patterns or correlations in the data that you did not expect? 
+","2017-01-05 14:02:53","2","At_least_im_Bacon","1747844630.4083068","Fridays for Future","manual"
+"dc17md4","t3_5m66l0","5m66l0","science","scientific","For those that are interested in building their own air quality measurement devices [plotly has a great tutorial using an arduino](https://plot.ly/arduino/air-quality-tutorial/).","2017-01-05 15:14:58","2","At_least_im_Bacon","1747844630.4095192","Fridays for Future","manual"
+"dc17stl","t3_5m66l0","5m66l0","science","scientific","How are you guys funded?","2017-01-05 15:18:53","3","ancapnerd","1747844630.412343","Fridays for Future","manual"
+"dc13kff","t3_5m66l0","5m66l0","science","scientific","I may be wrong about this, but from what I have previously read most of pollution comes from 2 sources, Transportation of goods such as cargo ships and Semi-trucks and The meat industry specifically raising animals for Steaks and Milk. My question would be what route would you guys believe would be best to take to fight air pollution, do you believe a solution would come from reduction and innovation of transportation of goods and lab grown meats or do you guys see the better solution would be in having huge oceanic plankton farms or giant city air filters or an ""Amazon sized forest"" in Africa that would clean up more pollution than is being produced. My reason for this question is I really do not know the numbers but I have read that we can stop 100% of transportation pollution but it will still be too little to late to combat the already huge amounts of pollution in our atmosphere.","2017-01-05 13:29:31","2","pryzless1","1747844630.413976","Fridays for Future","manual"
+"dc14skc","t3_5m66l0","5m66l0","science","scientific","Have we gotten better in terms of air pollution in any place in the world due to environmental restrictions or anything else?","2017-01-05 14:06:02","2","tiffas1121","1747844630.415234","Fridays for Future","manual"
+"dc16x73","t3_5m66l0","5m66l0","science","scientific","What would someone need to do to try add his country to your platform?","2017-01-05 14:59:12","2","Petaye","1747844630.416028","Fridays for Future","manual"
+"dc16zj7","t3_5m66l0","5m66l0","science","scientific","What are the most effective masks and other protective methods for those who live in polluted areas? Are scarves effective?","2017-01-05 15:00:41","2","KillerButterfly","1747844630.416901","Fridays for Future","manual"
+"dc1r3ag","t3_5m66l0","5m66l0","science","scientific","Are the Chinese authority cooperating with you in any way? I was wondering that since we've been hearing a lot lately about the constant smog in Beijing and the Northern Provinces.","2017-01-05 21:22:01","2","Doumtabarnack","1747844630.417768","Fridays for Future","manual"
+"dc1zzck","t3_5m66l0","5m66l0","science","scientific","Excellent cause. And also TIL that such air inequality exist. ","2017-01-06 00:20:50","2","dandebeige","1747844630.420188","Fridays for Future","manual"
+"dc218xr","t3_5m66l0","5m66l0","science","scientific","As a future CS (starting next year). What can I contribute to this?","2017-01-06 00:48:21","2","StealthDrone","1747844630.421196","Fridays for Future","manual"
+"dc149pz","t3_5m66l0","5m66l0","science","scientific","Hi OpenAQ team collection of Data is first step.I am sure your team must have come across multiple DIY projects with crowdsourced data model from across the world can you list some projects which are noteworthy here ?","2017-01-05 13:50:56","1","satyaakam","1747844630.422299","Fridays for Future","manual"
+"dc14ts0","t3_5m66l0","5m66l0","science","scientific","I'm originally from Phoenix, AZ, and I have asthma. It's a commonly held belief that the dryer climates in much of the Southwestern United States is better for people with breathing problems.
+
+Is there really any scientific basis to this claim, or is it a belief that simply began when people moved to an area with less pollution and notice breathing was easier?","2017-01-05 14:06:59","1","ElliotFriend","1747844630.42318","Fridays for Future","manual"
+"dc17092","t3_5m66l0","5m66l0","science","scientific","Do you have works published and reviewed in scientific journals?","2017-01-05 15:01:07","1","[deleted]","1747844630.4241312","Fridays for Future","manual"
+"dc19h3z","t3_5m66l0","5m66l0","science","scientific","What kind of concrete conclusions from your data do you hope to publicize the most, in order to spark more immediate action to improve environmental policy? Is it educating the public on the direct link between certain illnesses and certain thresholds of smog? Is it showing governments the earnings that a nation will lose every day due to air pollution-related morbidity?
+
+On a more speculative note, what kind of economic overhaul or restrictions on sources of heavy emissions do you predict would be necessary for these policies to best succeed?","2017-01-05 15:53:09","1","cloudmallo","1747844630.425379","Fridays for Future","manual"
+"dc1agzl","t3_5m66l0","5m66l0","science","scientific","Are you aware of this Project? http://luftdaten.info
+It started as a Citizen science Project to Map air quality Stuttgart, but expanded since then. I just ordered all the parts for another Sensor for Hamburg. Maybe you can get together and figure something out...","2017-01-05 16:12:48","1","Cyp12die4","1747844630.426466","Fridays for Future","manual"
+"dc1b153","t3_5m66l0","5m66l0","science","scientific","I see that there is no data available for Switzerland. However it seems that there are a few measurement stations:
+* http://www.ostluft.ch/
+* http://www.bafu.admin.ch/luft/luftbelastung/aktuell/tabelle/index.html?lang=de
+
+What would be required to incorporate these data in OpenAQ? Are there any resources available, like howtos, guide regarding legal issues etc.","2017-01-05 16:23:29","1","brumgabrasch","1747844630.427861","Fridays for Future","manual"
+"dc1b8r1","t3_5m66l0","5m66l0","science","scientific","It's great that you are doing this! Where do you get your funds from?","2017-01-05 16:27:31","1","kerloom","1747844630.428849","Fridays for Future","manual"
+"dc1bnzk","t3_5m66l0","5m66l0","science","scientific","Thank you for doing this AMA! I hope your mission receives heightened awareness and the information you gather is used to tremendously benefit our planet!
+
+Opinion based question: Based on the information in this article, what do you feel the long term, positive/negative impacts of converting CO2 to ethanol in this manner could be? 
+
+http://www.sciencealert.com/scientists-just-accidentally-discovered-a-process-that-turns-co2-directly-into-ethanol
+
+Personal question, sort of: Based on the information you've gathered, what are some small things that we can do as individuals to improve air quality indoors/outdoors?
+
+Thanks again for doing what you're doing. It's pretty amazing.","2017-01-05 16:35:50","1","[deleted]","1747844630.4298759","Fridays for Future","manual"
+"dc1cmrv","t3_5m66l0","5m66l0","science","scientific","Is there a way for me to look up the air quality in my local area?","2017-01-05 16:54:31","1","[deleted]","1747844630.4304209","Fridays for Future","manual"
+"dc1dr8t","t3_5m66l0","5m66l0","science","scientific","Hey! Thanks for taking the time to do an AMA. I have wondered, do you factor in Benzine as an air pollutant? And if so, how do you measure it? Thanks again!","2017-01-05 17:16:16","1","[deleted]","1747844630.4313788","Fridays for Future","manual"
+"dc1e1au","t3_5m66l0","5m66l0","science","scientific","I was thinking the other day whilst going through a tunnel how many concentrated pollutants those tunnels must see every day.  Is there any useful data you could divine from sensors in tunnels across the world?","2017-01-05 17:21:37","1","tehrob","1747844630.432275","Fridays for Future","manual"
+"dc1e9r1","t3_5m66l0","5m66l0","science","scientific","Air pollution is one of those thing when you see it it is already too late. I live in South Africa and we use too much coal how can we use this data to make people aware that their air is not clean just because they can see the sky","2017-01-05 17:26:01","1","Ansteph09","1747844630.433134","Fridays for Future","manual"
+"dc1i08t","t3_5m66l0","5m66l0","science","scientific","Do I have a significant impact on the quality of air in my own home? If I use perfume diffusers, candles, air fresheners, chemical cleaning sprays (eg. Lysol), are these significantly influence the quality/toxicity of the air I breathe? Do plants, UV Light, etc. actually keep the air clean or is that marketing hype? ","2017-01-05 18:35:36","1","[deleted]","1747844630.433967","Fridays for Future","manual"
+"dc1jpmt","t3_5m66l0","5m66l0","science","scientific","Can someone explain how providing data about air quality actually helps improve the situation? What would regular people even do with such data? We already know the places where air pollution is a very big issue.","2017-01-05 19:06:43","1","rasen58","1747844630.434813","Fridays for Future","manual"
+"dc1jr8f","t3_5m66l0","5m66l0","science","scientific","Just want to say this is a very riteous cause! I lived in an area that was near an airport, garbage incinerator facility, and a major port.  I knew the air quality was off some days but had no way to prove it. Glad you are working on this. ","2017-01-05 19:07:34","1","Cantholditdown","1747844630.435756","Fridays for Future","manual"
+"dc1lr3e","t3_5m66l0","5m66l0","science","scientific","Is there a place we can download the data in a single csv file? I don't want to specify anything, I'd just like to download the air quality data in a single file. ","2017-01-05 19:44:29","1","[deleted]","1747844630.436898","Fridays for Future","manual"
+"dc1mh22","t3_5m66l0","5m66l0","science","scientific","Is there any way I can help out with the coding part, besides contributing to the Github repo?","2017-01-05 19:57:36","1","[deleted]","1747844630.437414","Fridays for Future","manual"
+"dc1okew","t3_5m66l0","5m66l0","science","scientific","Hoping to see more data from China. I've just started with data science, these data can be so helpful to understand the problems. ","2017-01-05 20:35:54","1","3xlax","1747844630.438449","Fridays for Future","manual"
+"dc1oq1b","t3_5m66l0","5m66l0","science","scientific","1/8th of deaths on this planet are from polluted air? So in the average of 55 million dead each year, 6.88 Million died from polluted air.... I just want to be sure these are figures were standing by.
+And killed how? Respiratory failure? Asphyxiation? Disease?  
+And 5 trillion annually, with this death toll, factors to around $700 per dead body. Im just having a difficult time with the numbers","2017-01-05 20:38:45","1","TheAlmightyGawd","1747844630.439374","Fridays for Future","manual"
+"dc1ytyx","t3_5m66l0","5m66l0","science","scientific","How does one use this data to determine which cities are asthma friendly? Which measurements are best to minimize? ","2017-01-05 23:55:28","1","ocawa","1747844630.4403698","Fridays for Future","manual"
+"dc21z9n","t3_5m66l0","5m66l0","science","scientific","In an age when the future president of the United States stated he will defund NASA weather satellites due to the global warming they are reporting how do you foresee dealing with unfavorable data at levels where real decisions can be made?","2017-01-06 01:04:19","1","ruat_caelum","1747844630.441188","Fridays for Future","manual"

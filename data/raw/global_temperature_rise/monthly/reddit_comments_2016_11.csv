@@ -1,0 +1,114 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"dabcl5h","t3_5echzq","5echzq","climatechange","action-oriented","First, recognize that the climate system is incredibly complex. What's more, it's chaotic. That means that one wishing to really learn about the Earth's climate should plan to spend a fair amount of time learning about several different scientific disciplines. 
+
+With that said, I recommend you start here: http://carbonconnections.bscs.org/curriculum/unit-01/
+
+After that, I encourage you to read the IPCC reports: http://www.ipcc.ch/report/ar5/
+
+","2016-11-22 19:14:31","3","Will_Power","1747870589.7682612","global temperature rise","manual"
+"dabk1hh","t3_5echzq","5echzq","climatechange","action-oriented","The IPCC [Summary for Policymakers](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf) does a good job at summarizing the technical information in a readable way, and the US National Academy of Sciences released the [National Climate Assessment](http://nca2014.globalchange.gov), which also does a good job of summarizing things. 
+
+There are a million videos on youtube, I've always been partial to Dr. Richard Ally's [The Biggest Control Knob: Carbon Dioxide in Earth's Climate History](https://www.youtube.com/watch?v=RffPSrRpq_g), a presentation at the major annual Earth science conference (AGU). He's a top scientist and entertaining speaker, and if you're not used to scientific presentations they can actually be really interesting. 
+
+I haven't read it, but Dr. David Archer, who is a top climate scientist and good writer, wrote a book called ""Global Warming: Understanding the Forecast."" that might be worth checking out. 
+
+Spencer Weart's book [The Discovery of Global Warming](http://history.aip.org/climate/reviews.htm) and accompanying [website](http://history.aip.org/climate/index.htm) are great sources of information, and describe the not well-known history of the theory, which has been around for 150 years (much longer than plate tectonics and modern atomic theory, for example). This is more if you want a deep dive.
+
+All of those are at least semi-technical, which is really interesting and sort of necessary if you don't just want to take people's word for it. I know National Geographic just released a movie with Leonardo DiCaprio which is supposed to be good, and probably a less-technical level. ","2016-11-22 21:39:36","2","MFJohnTyndall","1747870589.7742674","global temperature rise","manual"
+"dabz3ir","t3_5echzq","5echzq","climatechange","action-oriented","[Skeptical Science](https://www.skepticalscience.com/). It sounds like a skeptics site but it's the opposite.","2016-11-23 03:35:53","2","[deleted]","1747870589.7742674","global temperature rise","manual"
+"dabpiof","t3_5echzq","5echzq","climatechange","action-oriented","You don't need to be educated.  The scientists will tell how bad it is, and when you can start to panic (years ago).  All that really matters is that you show enough fear to convince the politicians to give lots of money to the right people.","2016-11-22 23:38:35","-1","deck_hand","1747870589.7742674","global temperature rise","manual"
+"dabxpg9","t3_5echzq","5echzq","climatechange","action-oriented","There is an insane amount of hyperbole in this field. Just remember there is an insurmountable mountain of difference between projections and confirmed results or reality based trends. IE, idiots report the seas will flood NYC by 2030(meters in 15 years)... that is projection. The reality is that its rising ~ 1.7mm per year with 0-0.02mm acceleration, which would take ~ 200- 600 years to rise 1 meter.
+
+Don't read articles... read papers, and become knowledgeable on physics, math, geology, hydrology, etc. You cant possibly have any sort of informed idea about climate change without understanding a HUGE range of the sciences. 
+
+All that said,  The easiest path to debunking the hysteria around climate change is the economics of the policy proposed to ""stop"" climate change, so here is my sourced OC copypasta.
+
+---------------------
+
+Using the IPCC's own calculations, I will show that the policy recommendations to ""stop"" climate change are insane.
+
+- The IPCC figured a 5% cut in emissions when Australia implemented it's carbon tax by 2020. (the largest and most ambitious plan implemented to date)
+
+- 100% of Australia's emissions are 1.2% of global emissions.
+
+- The 5% cut of Australia's global amount of 1.2% is 0.07% of total global emissions.
+
+- IPCC figures Co2 will be 410ppm by 2020
+
+- 0.07% of 410 is 409.988 ppm
+
+- IPCC equation for Co2 forcing is (5.35 * ln(current Co2 / revised Co2 )) or (5.35 * ln(410/409.988)) [source](https://en.wikipedia.org/wiki/Radiative_forcing#Forcing_due_to_atmospheric_gas)
+
+- (5.35 * ln(410/409.988)) = 0.00016 w/m2 of reduced forcing
+
+- Climate sensitivity parameter is simple the change in temperature per w/m2 increase. In other words, the actual change in temp divided by the change in energy 'imbalance' since the start of the industrial revolution(150 years).  Accounting for El Nino it's risen ~ 0.7-0.8 K over the last 150 years, but lets just say 1 C.  
+
+- (5.35 * ln(400 / 280)) = 1.90821095007 w/m2
+
+- 1 C / 1.90821095007 = 0.52 K per w/m2 (PS, This number is unlikely to rise because it's derived from a natural logarithm, thus will asymptotically approach zero as Co2 concentrations rise)
+
+- Then figure the climate sensitivity parameter of 0.52(0.00016) and you get 0.0000832 C reduction in global temperatures.
+
+Read that again... it's 1:12,000th of a single degree Celsius.
+
+Now... for the kicker... The IPCC estimated it would cost Australia 160 billion dollars over the 10 year carbon tax plan to get 0.00016 w/m2 of reduced forcing..
+
+**To save a full degree Celsius of warming, based on the IPCC's own math on the Australian carbon tax plan, would cost 3.2 quadrillion dollars.... or 43 times total global GDP.**
+
+Does climate change really matter if the only realistic solution is an economic apocalypse?
+
+According the the stern report(the biggest economic study ever done on climate economics, by the Royal Society of the UK), global costs, under a worst case(nothing done) scenario are expected to be ~ 5% of GDP per year. https://en.wikipedia.org/wiki/Stern_Review
+
+That means that if the costs of a carbon tax costs the average person more then 5% per year, then it is not worth it. Given that emissions are basically synonymous with GDP, a 5% cut in emissions would have an impact on temperatures literally too small to measure, but huge economic ramifications.
+
+To use the above math on how long it would take to achieve a single C drop in temps spending 5% of global GDP on it.
+
+
+- (5.35 * ln(400 / (400+ (20 * 0.05)))) = -0.01335830906 w/m2
+
+- (0.52) * -0.01335830906 = -0.00694632071 K
+
+- 1/0.00694632071 =  143.96 * 10 = 1440 YEARS
+
+Well fuck.  1440 years to break even on the 5% GDP cost.  How many star systems can we colonize before then? 
+
+**So you are stuck in a paradox. Either you drastically lower the average living standard to a level far worse then climate change would ever cause, or cut emissions to a level that would have no discernible impact on global temperatures.** In either case, it makes no sense.
+
+You can argue about the plants and animals... But I can guarantee that any cut that is forced on people strong enough to have a measurable impact... would cause an economic apocalypse large enough to cause widespread environmental destruction. Starving people will burn the forests for energy and hunt everything to extinction, in order to survive.
+
+To end this... Nuclear power is the only realistically viable path to disconnecting the carbon emission = GDP connection, But It's not ""deniers"" stopping the nuclear revolution... it's environmentalists.
+","2016-11-23 02:58:34","0","FireFoxG","1747870589.7842736","global temperature rise","manual"
+"dabee7c","t3_5echzq","5echzq","climatechange","action-oriented","Try www.friendsofscience.org for the truth. Or, the IPCC for the lefty truth (ie. Lies)
+","2016-11-22 19:49:43","-5","marketingman007","1747870589.7842736","global temperature rise","manual"
+"da3cga3","t3_5dbd91","5dbd91","climate","scientific","Start with [Skeptical Science](http://www.skepticalscience.com/) they link just about everywhere.  For the contrary viewpoint go to [Watts up with that](https://wattsupwiththat.com/) -- just don't expect any actual scientific studies.  ","2016-11-16 21:59:31","2","FanOfWinter","1747870774.482022","global temperature rise","manual"
+"da3i55x","t3_5dbd91","5dbd91","climate","scientific","Here are a few links that I've found interesting or useful.
+
+this one is an animation of the decline of arctic sea ice over the last couple decades:
+[Ice Dream](https://www.youtube.com/watch?v=9NP0L1PG9ag) by Andy Robinson
+
+The [Representative Concentration Pathways](https://en.wikipedia.org/wiki/Representative_Concentration_Pathways#/media/File:All_forcing_agents_CO2_equivalent_concentration.png)- possible future greenhouse gas concentrations depending on what emissions path humanity takes, adopted for the IPCC 5th assesment report in 2014. 
+
+How the global average temperature is expected to rise based on the chosen RCP's.
+[global temperature rise projections for different emissions scenarios](http://www.architecture2030.org/images/global_temp_projections_rcp_scenarios3.jpg)
+
+Here is what those temperature rises translate into in the real world-
+[a degree by degree explanation of what will happen when the earth warms](http://globalwarming.berrens.nl/globalwarming.htm) a very short synopsis of some of the effects we may expect in the coming yeara as global average temperatures rise. More detail can be found in the book,
+[Six Degrees- Our Future on a Hotter Planet](https://www.amazon.com/Six-Degrees-Future-Hotter-Planet/dp/1426203853) by Mark Lynas
+
+Antarctic sea ice has also begun to collapse in the last few months:
+[global sea ice area](https://sites.google.com/site/arctischepinguin/home/sea-ice-extent-area/grf/nsidc_global_area_byyear_b.png)
+
+From [Climate Code Red](http://www.climatecodered.org/), an article that contends there is no ""carbon budget"" left to limit warming to 1.5C under sensible assumptions of risk and potential damage-
+[Unravelling the myth of a ""carbon budget"" for 1.5C](http://www.climatecodered.org/2016/09/unravelling-myth-of-carbon-budget-for.html)
+
+Kevin Anderson argues in [this presentation](https://www.youtube.com/watch?v=-T22A7mvJoc)that limiting warming to below 2C consistent with global fairness requires immediate and deep cuts in emissions in the developed world consistent with a revolutionary energy transformation.
+
+[Australians for Coal](https://www.youtube.com/watch?v=tqXzAUaTUSc) a insightful look at their corporate climate policy update.","2016-11-17 00:03:50","1","naufrag","1747870774.482022","global temperature rise","manual"
+"da3l1q3","t3_5dbd91","5dbd91","climate","scientific","I also like Kevin Anderson's presentations.
+
+Changes in the Arctic are the most rapid and climate feed back loops are accelerating the warming which may lead to our demise. There are tipping points which we may have already exceeded.
+
+""FEEM Lecture by Peter Wadhams, Professor of Ocean Physics, University of Cambridge: ""Arctic Amplification, Climate Change, Global Warming. New Challenges from the Top of the World""
+
+https://www.youtube.com/watch?v=p-qdbICw2f8","2016-11-17 01:13:50","1","extinction6","1747870774.482022","global temperature rise","manual"
+"da4p5ge","t3_5dbd91","5dbd91","climate","scientific","Thank you all guys!","2016-11-17 20:41:45","1","Swegoteo","1747870774.482022","global temperature rise","manual"

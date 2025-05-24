@@ -1,0 +1,57 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"5m66l0","science","scientific","Science AMA Series: We're the OpenAQ Team, building the world's first open data, open-source real-time and historical air pollution platform. We are building it because open data helps people fight air inequality and no one else was building it. Ask Us Anything!","Hi Reddit!
+
+Air inequality - the unequal access to clean air to breathe - is responsible for one out of every eight deaths in the world ([WHO, 2014](http://www.who.int/mediacentre/news/releases/2014/air-pollution/en/)). According to the [World Bank](http://www.worldbank.org/en/news/press-release/2016/09/08/air-pollution-deaths-cost-global-economy-225-billion), this equates to a loss of an estimated 5 trillion USD to the global economy each year. The impact of air pollution on human health and the economy is a massive injustice to our civilization. Meanwhile, we’ve seen from Bangkok to Los Angeles how meaningful access to air quality data can effectively arm communities to combat poor air quality. Yet, the injustice of air pollution is often compounded by the fact that such access to basic air quality data can be most difficult in the most polluted places. At the same time, many governments around the world, including in severely polluted places, publicly share air quality data - to the tune of 5-8 million data points per day - but in disparate and sometimes temporary forms.
+
+The OpenAQ community ([openaq.org](https://openaq.org/)) noticed this a little over a year ago, and we decided to capture these data before they disappear and put them in a universal format for anyone to access in a highly available manner. We developed an open-source project (github.com/openaq), and so far have aggregated more than 30 million air quality data points from 42 countries. To date, journalists, public health researchers, policy analysts, low-cost sensor developers, users of satellite data, students, teachers, and others from 1461 cities in 119 countries have accessed our platform, and we receive roughly 500,000 requests each month to our API (docs.openaq.org). An open-source community has developed around the dataset, which has allowed the creation of apps, data-driven media articles, research, and open-source packages in R and python.
+
+We are always seeking software developers, scientists, journalists and lovers of open data to jump in and join us in opening up the world's air quality data for everyone. 
+
+Sites:
+
+- Main - https://openaq.org
+
+- Our Mission: https://medium.com/@openaq/the-mission-of-openaq-cb159084beeb#.ijkw9ol9p
+
+- GitHub - https://github.com/openaq
+
+- API - https://docs.openaq.org
+
+- Twitter - https://twitter.com/Open_AQ
+
+- Medium - https://medium.com/@openaq
+
+- Community Slack Channel: https://openaq-slackin.herokuapp.com/
+
+- Recent Media Coverage: [American Geophysical Union article](https://eos.org/agu-news/closing-the-air-quality-data-gap-in-the-developing-world)
+
+
+You can vote for us and other awesome open science projects in Phase II of the Open Science Prize Competition (Vote ends Friday!): http://event.capconcorp.com/wp/osp/vote-now/
+
+About us: 
+Christa Hasenkopf, CEO/Co-Founder of OpenAQ: 
+I'm a PhD atmospheric scientist who got distracted by the worlds of science policy & international development for a few years at USAID and the US Department of State. Before that and along with Mongolian colleagues and an American software developer (who is also my husband, Joe Flasher :)), I launched the first air quality instrument to automatically share data via social media in Mongolia. This is where I first realized the power that even a little open air quality data can have in fighting air inequality.
+
+Joe Flasher, Co-Founder of OpenAQ 
+I’m Joe Flasher, co-founder and lead architect of the OpenAQ platform. I was trained as an astrophysicist but have been working in software development and open data in some capacity for around a decade. I have also shaken hands with someone who shook Carl Sagan’s hand.
+
+Olaf Veerman, Development Seed
+I’m the project lead of the OpenAQ project for the Phase I of the Open Science Prize at Development Seed. Besides doing open data work, I’ve lived throughout Latin America and worked with civil society organizations to create social impact through the use of technology. 
+
+**EDIT 1: Thanks to everyone for joining us and for the thoughtful questions and conversation! ALSO: a BIG thanks to the moderators for their awesome work. A few quick notes:**
+
+* We're happy to continue the conversation on our slack channel, where there are other awesome people talking about air quality issues from around the world: https://openaq-slackin.herokuapp.com/
+
+* We'll be doing a wrap up post on this AMA here in a few hours (EDIT: It's up!): https://medium.com/@openaq/wrap-up-from-our-r-science-ama-5af92dd0543d#.4se30j1rg
+
+* Lastly, if you'd like to support our work and that of other awesome open science teams, please consider voting in the Open Science Prize - **vote ends tomorrow!**
+http://event.capconcorp.com/wp/osp/vote-now/
+
+**EDIT 2**: Even after this closes, we'd love to hear what other air quality related AMA's you'd be possibly interested in having in the future (e.g. low cost sensors, personal monitors, global public health impact of pollution). We'd love to help convene other experts to help answer your questions. 
+
+**EDIT 3**: Just linked a few more references above.
+
+**EDIT 4**: [Here](https://medium.com/@openaq/wrap-up-from-our-r-science-ama-5af92dd0543d#.ohv29otvb) is our wrap up post on this AMA. Thanks again!
+
+
+","2017-01-05 12:45:00","4282","176","0.85","https://www.reddit.com/r/science/comments/5m66l0/science_ama_series_were_the_openaq_team_building/","True","OpenAQ_Team","1747844625.301086","Fridays for Future","manual"

@@ -1,0 +1,35 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"87tdxe","climatechange","action-oriented","US National Climate Assessment (2017) question.","I'm continuing to pursue the topic of recent science vs the last IPCC here and asking questions to learn. 
+
+What is the perception of the strengths and weaknesses of the US National Climate Assessment vs. the IPCC?
+
+An example here is that the most recent US Climate Assessment has a greater sea level rise projection by 2100 (30-130cm) than the latest IPCC which tops out at 98cm. 
+
+The science is ~ 4 years fresher for the US report. In general, how does the USNCA stack up in terms of crediibility vs. the IPCC? 
+
+https://science2017.globalchange.gov/
+
+","2018-03-28 16:40:04","6","6","0.72","https://www.reddit.com/r/climatechange/comments/87tdxe/us_national_climate_assessment_2017_question/","True","buddhist62","1747869795.920841","sea level projections","manual"
+"86po7t","climatechange","action-oriented","Trying to understand albedo loss better","I get the basics. A whiter surface reflects more solar radiation. GW causes ice to melt and greater heat asborption and hence albedo is a positive feedback mechanism of global warming.
+
+The following study by Pistone published in 2014 seems to be an extremely important one as it quantifies albedo loss due to arctic sea ice retreat. 
+
+http://www.pnas.org/content/111/9/3322
+
+The highlights of the study indicated the increase in radiative forcing due to arctic sea ice loss for the 1979-2011 period of the study were equivalent to ~ 25% of the increase in radiative forcing due to increased atmospheric CO2 during the same period. 
+
+This second article (not peer reviewed) puts a rough estimate that the terrestrial albedo loss in the arctic has been roughly equivalent to the marine albedo loss during the same period. I have seen this approximation elsewhere. 
+
+https://e360.yale.edu/features/as_arctic_ocean_ice_disappears_global_climate_impacts_intensify_wadhams
+
+The following interactive graph from the NSIDC indicates that the maximum arctic sea ice extent declined by ~ 10% during the period of the Pistone study. Current ice levels are at record lows, but not as much below the 2011 levels as I expected. 
+
+https://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/
+
+I'm trying to understand what one should project in terms of albedo loss if the ice continues to retreat. 
+
+We know that the forcing associated with CO2 alone progresses on a logarithmic scale but it occurs to me that albedo loss might not also proceed in the same fashion. The charts in the supporting information to Pistone's paper suggests albedo change is closer to a linear progression in proportion to sea ice coverage, with a minimum value of 0.175 when sea ice coverage is zero. 
+
+This would suggest that forcing associated with albedo loss from further ice loss would be higher than the 25% of incremental radiative forcing during the same period. Albedo related sensitivity would be increasing until we run out of ice. 
+
+I'm new to this, but as I explore it occurs to me that my initial impression of climate sensitivity as being something that can expressed as a relatively fixed multiple of CO2 radiative forcing wasn't accurate. It seems like it should be pretty dynamic as we go through transition states. ","2018-03-24 00:52:16","1","1","0.54","https://www.reddit.com/r/climatechange/comments/86po7t/trying_to_understand_albedo_loss_better/","True","buddhist62","1747869803.0641224","sea level projections","manual"

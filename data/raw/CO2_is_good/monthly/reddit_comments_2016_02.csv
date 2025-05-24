@@ -1,0 +1,20 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"d06z7ca","t3_46oz9s","46oz9s","environment","emotional","I've been doing some more research today, it's really fascinating.
+
+According to a bunch of UN, EU and other reports like [this one](http://www.fao.org/docrep/012/k7930e/k7930e00.pdf), beef produces around 22.6 kilogrammes of CO2 equivalent per kg of meat.
+
+If you make a rough (conservative) guesstimate of eating beef 5 times a week, with a 120g per meal, you get **705 kg of CO2e per year**. (5 * 52 * 0.12 * 22.6).
+
+Then if you check the [Wikipedia page for aviation](https://en.wikipedia.org/wiki/Environmental_impact_of_aviation#Averaged_emissions), you get 0.114 kg CO2e per km travelled.
+
+**So eating beef for a year is roughly the same as taking a 6184km flight.** (705 / 0.114 = 6184)
+**London to New York one-way is 5566 km.**
+
+So if you make the decision to reduce your emissions by being vegetarian, but then take two long-haul flights, you're... not really reducing your emissions at all.","2016-02-20 12:21:21","1","benhumphreys","1747872339.0906825","CO2 is good","manual"
+"czy5zm0","t3_45evku","45evku","environment","emotional","I don't what to make of these out of context quotes. But the title of the list suggests an overly eager beaver. For example this prediction
+
+> “Spring will begin in January starting in 2030.” Die Welt, 30 Sept 2010
+
+Is still a prediction. It has not ""failed"". Maybe it will? 
+
+The list misses the real picture. The IPPC models have been predicting since the the 1980s and have been largely accurate to date. ","2016-02-13 04:22:29","1","FF00A7","1747872372.5553021","CO2 is good","manual"

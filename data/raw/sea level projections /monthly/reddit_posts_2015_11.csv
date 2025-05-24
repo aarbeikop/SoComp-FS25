@@ -1,0 +1,121 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"3rvtqe","science","scientific","Science AMA Series: I'm Niklas Ivarsson, co-author of the recent ""why High Intensity Interval Training works"" paper, AMA!","Hello redditors of /r/science. 
+
+I am Niklas Ivarsson, PhD student at Karolinska Institutet, Stockholm, Sweden. Yesterday you showed a great interest in our work regarding [why high intensity interval training works](http://www.pnas.org/content/early/2015/10/28/1507176112.abstract).
+
+
+In the article we found that free radicals produced during high intensity interval training (HIIT) react in particularly with the [ryanodine receptor](https://en.wikipedia.org/wiki/Ryanodine_receptor), a critical calcium channel in [excitation-contraction coupling](https://www.youtube.com/watch?v=SauhB2fYQkM). The reaction causes the channel to leak calcium from the specialized subcellular compartment (sarcoplasmic reticulum), into the cytoplasm. This causes a prolonged period of increased basal levels of calcium in the muscle cell.
+
+
+Increased baseline calcium acts as a signal for transcription factors important for mitochondrial improvements (e.g. Peroxisome proliferator-activated receptor gamma, coactivator 1 alpha ([PGC-1α] (https://en.wikipedia.org/wiki/PPARGC1A)).
+
+
+HIIT, which is extremely intensive, causes a greater production of free radical than ‘regular exercise’. This results in the ‘damage’ to the ryanodine receptor, and subsequent ‘leak’ is more severe, and last longer than after a marathon. The ryanodine receptor modification and leak can be prevented if the exercise is done with strong antioxidants. Explaining why antioxidants prevents the positive effects of exercise ([Ristow M. et al 2009](http://www.pnas.org/content/106/21/8665.long))
+ 
+
+A little bit about me: 
+
+I have a background in biomedicine. For my master thesis I decided to leave the world of cell culture and try my best in, what to me was a great unknown, physiology. For the master project I focused on insulin signaling in skeletal muscle. From there I kind of just stuck around in the research group of Professor Håkan Westerblad. During my master I got kind of bored. As per usual with large lab groups, there are often several “unfinished” projects laying around waiting for someone to come along. One of those side project eventually led us to applying for research money, namely ‘How does a muscle cell know it need to improve after endurance exercise’. We already knew calcium had to be involved somehow. Now 4.5 years later I am about to present my PhD thesis, which includes 6 (4 published, 2 waiting) different manuscripts around the subject of calcium’s role in training adaptation.
+
+
+Tl;dr I am a biomedical lab rat who stumbled onto the discovery that free radicals produced during exercise stress the muscle cell, which teaches the it to improve for the next shower of free radicals, resulting in improved endurance.
+ 
+I will be back later today to answer your questions, Ask me anything!
+
+edit: I will start answering your questions around 4pm USA East Coast Time
+
+edit: ok, you guys seem really interested so I'll try and squeeze in some answers early 
+
+edit: Thank you everyone for your questions. It is very late over here and time for me to go. Hope my answers satisfied your curiosity.
+
+
+//Niklas ","2015-11-07 12:50:26","3175","422","0.86","https://www.reddit.com/r/science/comments/3rvtqe/science_ama_series_im_niklas_ivarsson_coauthor_of/","True","Niklas-Ivarsson","1747844863.933251","sea level projections","manual"
+"3txns6","science","scientific","Science AMA Series: We are David Zeevi and Tal Korem, graduate students at the Weizmann Institute of Science, and authors of a recent study which showed that people respond differently to the same food, Ask Us Anything!","**Hi Reddit! We’re David Zeevi and Tal Korem, graduate students working on personalizing nutritional recommendations by prediction of postprandial glycemic responses. AUA!**
+
+Obesity and diabetes are practically pandemics; but the dietary recommendations aimed to deal with these conditions are pretty much uniform across all people. Does this make sense? Are people that similar?
+
+In our research, we chose to focus on one quantification of the human response to food - the postprandial glycemic response (PPGR) When we digest our food, carbohydrates are broken down to simple sugars, and these are absorbed into the bloodstream, causing an increase in blood glucose levels, which later return to normal, usually with the help of insulin. That same PPGR is linked to obesity, diabetes risk and management (people with the disease try to lower their PPGRs), cardiovascular disease, and many other ailments. But it has an amazing added value - it allows us to immediately measure a response to every food eaten. So instead of prescribing a diet and waiting for months to see how it worked, we can test individual meals and analyze a person’s response to them immediately.
+
+
+
+[In our study](http://www.sciencedirect.com/science/article/pii/S0092867415014816) ([video abstract]( https://www.youtube.com/watch?v=Ryc5M3Ciytg)), we profiled 800 people, and found out that they respond very differently to identical meals, which raises the question of effectivity in  non-personalized dietary recommendations. We then showed that many personal factors associated with this difference in response: anthropometric measurements (height, weight, etc.); blood test results; and also the composition and function of the microbiome. What we did next was to integrate all of these personal factors and more, as well as what the person actually ate, in terms of fat, protein, etc., into a prediction algorithm that could accurately predict PPGRs to unseen meals. And then finally, we performed a diet intervention study, in which we prescribed subjects with personally tailored diets created with our predictor, and demonstrated that they can reduce PPGRs in a clinical setting.
+
+About us - we’re both graduate students at the Weizmann Institute of Science, Israel. We’re interested in the link between nutrition, microbiome, and glycemic control. Aside from this project, we are also developing methods for microbiome analysis.
+
+We’ll be back on November 23rd, at 1PM ET (10 am PT, 6 pm UTC) to answer your questions!
+
+EDIT:
+
+Thanks so much to everyone who participated and asked questions. We had a great time going over your clever insights and doing our best to answer them! We did our best to answer as many as we could. 
+Special thanks to [Surf_Science] (https://www.reddit.com/user/Surf_Science) for the initial invitation and for moderating this session. We look forward to bringing you new and exciting research in the future!","2015-11-23 12:20:03","2592","244","0.83","https://www.reddit.com/r/science/comments/3txns6/science_ama_series_we_are_david_zeevi_and_tal/","True","Zeevi_and_Korem","1747844883.8412645","sea level projections","manual"
+"3tsxx8","collapse","skeptical","How The IPCC Is Fucking Us Over","Top Experts Call IPCC Projections Science Fiction
+----------------------------------------------
+
+Science Fiction in this case is just a euphemism for bullshit, or what we used to call lies. Most IPCC emission scenarios assume we can pull 10 billion tons of C02/year out of the atmosphere with technology that doesn't even exist. Humans do NOT do anything on a 10 billion ton/year scale. You can watch the following short video where many top notch scientists tell you the truth about IPCC lies.
+
+https://www.youtube.com/watch?v=8akSfOIsU2Y
+
+
+In this next video Kevin Anderson rips into  the IPCC, again telling us that the IPCC RPC scenarios are fucking bullshit.
+
+https://www.youtube.com/watch?v=ZF1zNpzf8RM
+
+Anderson Rips A New One
+
+http://www.theguardian.com/environment/2015/nov/18/how-scientific-miscalculations-could-crash-the-climate
+
+Kevin Anderson (climate-energy expert) explains why we cannot just build solar panels and windmills, but that we MUST reduce emissions 10% per year for 50 years.
+
+https://www.youtube.com/watch?v=jpbfGaKp4K4
+
+David Wasdell explains how the IPCC RPC models vastly underestimate climate sensitivity making them total fiction.
+
+http://www.ecoshock.info/2015/11/facing-harsh-realities-of-now.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+EcoshockNews+%28Ecoshock+News%29
+
+The upcoming Paris negotiations are based on low-ball climate sensitivity models that ignore ""slow"" feedbacks such as methane clathrates. But the Arctic is heating twice as fast as the rest of the earth, and methane emissions on land and sea are speeding up. These emissions will cause more Arctic heating and further destabilize the jet stream wreaking immediate havoc on agriculture worldwide. Never mind adding in a Super El Niño and a Pacific Decadal Oscillation upswing into a prolonged hot state. The perfect climate shit storm.
+
+https://cage.uit.no/news/methane-feeds-subsea-ice-mounds-off-siberia/
+
+https://www.youtube.com/watch?v=p2ckkxEnWpA
+
+http://watercrunch.com/2015/02/what-you-need-to-know-about-the-pacific-decadal-oscillation/
+
+Global Warming Genocide: The Coming Age Of Slaughter
+-------------------------------
+
+Way before temperature, sea level and methane levels rise enough to concern the rich people of the North, we will witness the slaughter of billions in the equatorial regions as crop and water shortages hit there first. The current refugee crisis is merely the thin edge of the wedge of the unimaginable horrors to come.
+
+Michael T. Klare's anatomy of African uprisings details the struggle for dwindling resources. 
+
+http://www.tomdispatch.com/post/176063
+
+Timothy Snyder details ""The Coming Age of Slaughter"".
+
+http://www.newrepublic.com/article/environment-energy/magazine/78207/global-warming-genocide
+
+If you would like to learn more, go here:
+--------------------------------------------
+
+https://www.reddit.com/user/BeezleyBillyBub/
+
+The Paris negotiations will be called a ""success"" (how could they not?) as over 150 countries cross their fingers behind their backs with one hand and ""pinky swear"" with the other to reduce emissions. Do you ever tire of being lied to? Don't worry, some lies tell the truth.
+For example...
+
+...
+
+Science Fiction: 
+
+The First Climate Model Is Over 10,000 Years Old
+-----------------------------------------------------------
+
+Two hunter-gatherers, named Brun and Glick, were sitting by the fire drinking Grog one night after a long day of hunting, when after accidently burning his finger, Glick asked Brun, ""Do you think that fire could ever burn up the whole world one day?""
+
+Brun answered, ""No way! Just look at these entrails here, they predict that the world is way too large for us to ever burn it all up.""
+
+Glick, between licking and blowing on his sore finger, muttered,  ""Well, at least that's good news.""
+
+After passing out from too much Grog, Brun and Glick died in their sleep as the fire burned out of control. Thus causing the very first man made forest fire. The End.
+
+
+
+","2015-11-22 11:33:04","12","13","0.75","https://www.reddit.com/r/collapse/comments/3tsxx8/how_the_ipcc_is_fucking_us_over/","True","BeezleyBillyBub","1747845209.9617965","sea level projections","manual"

@@ -1,0 +1,169 @@
+﻿"id","parent_id","post_id","subreddit","tone","text","created_utc","score","author","scraped_utc","query_used","query_category"
+"dlfb1ut","t3_6st7fr","6st7fr","science","scientific","Just to help me wrap my head around this, what common chemicals are ""most green"" and ""least green"", why?","2017-08-10 13:27:24","173","communistmilk","1747956416.9121642","green energy transition","manual"
+"dlfc2ym","t3_6st7fr","6st7fr","science","scientific","Are there any misconceptions of what is considered 'green' that you'd like to set right? Did your research result in any unexpected results in terms of the 'green'-ness of certain chemicals?","2017-08-10 13:49:38","82","Fog_Terminator","1747956416.9131362","green energy transition","manual"
+"dlfaijj","t3_6st7fr","6st7fr","science","scientific","Thanks for coming to talk with us today!
+When you think about the products that are commonly sold in grocery stores, do you have a few that you think are *the worst*--the most important to avoid?","2017-08-10 13:15:13","46","asbruckman","1747956416.914023","green energy transition","manual"
+"dlfb7f1","t3_6st7fr","6st7fr","science","scientific","How do you feel about advertisements and branding of products on the market, currently? 
+
+My understanding is that 'green,' 'sustainable' and other marketing terms can be widely used without any science or regulating body ensuring that those claims are sound.","2017-08-10 13:30:51","47","Tremor_Sense","1747956416.91505","green energy transition","manual"
+"dlfbrdd","t3_6st7fr","6st7fr","science","scientific","Hello Dr. Murray and Samy.  Thank you for taking the time to share your work with us.
+
+* What does DOZN stand for? And roughly how does it work?
+
+* What makes a product green in your mind? The term gets used a lot, but I'm not aware of a single agreed upon definition.
+
+* How well, in your opinion, do current efforts at green products and technologies achieve what they claim?
+
+* What's the most counter-intuitive result you've found in your research. For example, everyone thinks ""X is green and Y is not, but it's actually the other way around""
+
+* Are there deceptive tactics that companies use to appear environmentally friendly that consumers should look out for?","2017-08-10 13:42:51","32","PapaNachos","1747956416.916331","green energy transition","manual"
+"dlffciq","t3_6st7fr","6st7fr","science","scientific","Do you worry that your work will be misused for 'green-washing', with companies manipulating things for the appearance of being greener?
+
+I'm thinking about things like the can of aerosol citrus cleaner I have that claims to be both ""aerosol-free"" and ""chemical-free"".  When I press the button it literally dispenses a chemical aerosol - maybe d-limonene, I think.
+
+Is your tool designed to be used within industry for decision making by those designing products and processes, or for consumers to inform themselves?  ","2017-08-10 14:52:56","29","madsci","1747956416.917396","green energy transition","manual"
+"dlfc5un","t3_6st7fr","6st7fr","science","scientific","This AMA is being permanently archived by *The Winnower*, a publishing platform that offers traditional scholarly publishing tools to traditional *and* non-traditional scholarly outputs—because scholarly communication doesn’t just happen in journals.
+
+To cite this AMA please use: [https://doi.org/10.15200/winn.150237.73069](https://www.thewinnower.com/papers/7546-science-ama-series-we-designed-a-method-to-quantify-how-green-a-chemical-is-we-re-jane-murray-and-samy-ponnusamy-ask-us-anything)
+
+You can learn more and start contributing at [*authorea.com*](https://authorea.com)
+","2017-08-10 13:51:19","27","redditWinnower","1747956416.918384","green energy transition","manual"
+"dlfd04n","t3_6st7fr","6st7fr","science","scientific","Could you define ""green"" as it pertains to this tool?  ","2017-08-10 14:08:28","12","gwdope","1747956416.9195101","green energy transition","manual"
+"dlfdi0j","t3_6st7fr","6st7fr","science","scientific","Are there substances you already know this method will not calculate accurately?","2017-08-10 14:18:22","8","elheber","1747956416.920266","green energy transition","manual"
+"dlfhvka","t3_6st7fr","6st7fr","science","scientific","Hi, thanks for your AMA. I read your paper and thing the framework looks promising and relatively simple to apply. In the section on Energy Efficiency, you noted:
+
+>Addressing the reality that energy used
+(e.g., kilowatt-hours, Megajoules, therms) in the production of
+a chemical is not commonly measured, P6-GCM estimates
+energy impact by calculating the amount of reaction time that
+synthesis steps deviate from ambient pressure (i.e., atmospheric
+pressure at sea level or 1 atm) and ambient temperature (i.e.,
+room temperature or 25 °C)
+
+Energy use in the chemical industry is huge (about [29% of all energy used in US manufacturing](https://www.eia.gov/consumption/manufacturing/briefs/chemical/)) and your observation that it is rarely measured is an apt one. But I think we can do a better job estimating that energy use. Am I mistaken that by focusing on the chemical steps your analysis fails to take into account another (possibly [THE](https://www.eia.gov/consumption/manufacturing/briefs/chemical/#fig5chart)) major use of energy the chemical industry: distillation? Firing boilers for separations and heating reactors for solvent-changes consume large amounts of energy and represent large chunks of additional time holding a reactor at elevated temperature or reduced pressure. Considering the enthalpies of vaporization of the solvents used or compounds distilled would give you a floor to the energies required for such a process.","2017-08-10 15:37:58","8","dungeonsandderp","1747956416.922406","green energy transition","manual"
+"dlfekwv","t3_6st7fr","6st7fr","science","scientific","Do you consider super critical CO2 as a green chemical solvent? ","2017-08-10 14:38:50","6","puretree","1747956416.924907","green energy transition","manual"
+"dlfery4","t3_6st7fr","6st7fr","science","scientific","Could one or both of you describe the path(s) you took to reach the positions you have in your scientific career(s) today? I am a 4th year undergrad interested in graduate studies in biochemistry, and I am trying to collect the stories of those with experience to help me decide what is best for me. Thanks!","2017-08-10 14:42:28","7","organizedcarbon","1747956416.9257972","green energy transition","manual"
+"dlfexna","t3_6st7fr","6st7fr","science","scientific","Thanks for your time doing this AMA. Some people asked about labeling ""green"" chemicals and I ask the opposite question. Do you think ""not green"" chemicals should be labeled with that info? ","2017-08-10 14:45:23","6","umgajonormal","1747956416.9267368","green energy transition","manual"
+"dlfeyst","t3_6st7fr","6st7fr","science","scientific","That's great and will help genuinely concerned consumers.. but do you think it will actually reach a point where some chemicals will be so not-green that they would actually be forced to be removed from the market because of your findings?  Meaning might you expose something so toxic that the regulation agencies actually remove it from sale?","2017-08-10 14:45:58","6","exotics","1747956416.9275851","green energy transition","manual"
+"dlfadgq","t3_6st7fr","6st7fr","science","scientific","Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts.
+ 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+","2017-08-10 13:11:59","1","Doomhammer458","1747956416.928899","green energy transition","manual"
+"dlfehft","t3_6st7fr","6st7fr","science","scientific","I'm a second year college student currently interested in pursing a field pertaining to green chemistry, and I am curious as to how this could affect how I may be able to conduct research in the future. Are you hoping that this quantification method will become widespread public knowledge in the near future?","2017-08-10 14:36:59","7","irresponsibilities","1747956416.929706","green energy transition","manual"
+"dlfc0qr","t3_6st7fr","6st7fr","science","scientific","How can I know whether a particular product is made of mostly, or entirely, ""green"" materials; or which manufacturer is generally more ""green""? Especially for complex products like mobile phones or cars.
+","2017-08-10 13:48:21","3","DigiMagic","1747956416.930733","green energy transition","manual"
+"dlffwor","t3_6st7fr","6st7fr","science","scientific","I have a question about the relativity of how green certain chemicals are. 
+
+I am aware that chlorofluorocarbons are extremely damaging to the ozone layer and as a result have been replaced by the slightly better hydrochlorofluorocarbons and the best replacement hydrofluorocarbons (as well as propane butene blends for coolants I believe). I would assume that CFCs & HCFCs would be very 'non-green' chemicals and HFCs more so. However some HFCs are still considered a greenhouse gas yet are in wide use as they are a suitable replacement.
+
+So my question is, does your rating system factor in all the different ways a chemical can pollute the environment? And does it account for the fact that some chemicals are the best replacement we have and are therefore the 'greenest' chemical for their specific use? ","2017-08-10 15:03:04","5","natkingcoal","1747956416.931988","green energy transition","manual"
+"dlfgo0s","t3_6st7fr","6st7fr","science","scientific","Is water a green chemical? ","2017-08-10 15:16:46","5","joshcamas","1747956416.933117","green energy transition","manual"
+"dlfibge","t3_6st7fr","6st7fr","science","scientific","Is there a standard (world wide) for green chemicals or is each country able to decide what's green in their eyes and for their environment? 
+
+Also what are the most practical methods of choosing green chemicals for the everyday consumer? 
+
+Thank you!!
+","2017-08-10 15:45:37","3","shinatree","1747956416.9339452","green energy transition","manual"
+"dlfikr8","t3_6st7fr","6st7fr","science","scientific","This looks like an excellent resource, and thank you for answering questions today!
+
+Have there been examples of DOZN used with biocatalytic processes? 
+
+How well does this assessment work with biocatalysis? ","2017-08-10 15:49:58","4","killing1sbadong","1747956416.9346812","green energy transition","manual"
+"dlfjaur","t3_6st7fr","6st7fr","science","scientific","Hello and thank you for taking the time to share this and answer questions. One of the hardest things to determine for me as a consumer is the efficacy of various green products. I know that I have purchased greener alternatives on a number of occasions that worked so terribly I had serious buyers remorse and wished I had gone for the less green original. 
+
+To me this is a serious problem because I WANT to be green(er) but if being green means a higher cost to me i.e. the product (say a paint solvent) cost 125% of the original AND requires 300% additional labor then the actual cost is 425% of the original. 
+
+I will generally engage in the greener alternative anyway out of moral concerns BUT here's the rub. I often hear other consumers complain that they won't buy 'that green shi*' because it doesn't work. I think that creates a fundamental trust issue where 'green' translates to 'doesn't work' 
+
+I appreciate the work that you're doing and I hope that it has it's intended impact. Sincerely. I am also curious to know, to what extent does this tool account for efficacy and how will it help to engender trust in green chemistry?","2017-08-10 16:02:24","2","circumflexiblation","1747956416.936019","green energy transition","manual"
+"dlfjc00","t3_6st7fr","6st7fr","science","scientific","Hello Dr. Murray and Dr. Ponnusamy,
+
+I am a process development chemist in the early stages of my career and a self-proclaimed proponent of green chemistry, so I am happy to see that the movement now has a quantitative way to go about comparing the cleanliness of most processes. I have two questions that deal more generally with green chemistry.
+
+&nbsp;
+
+First, in my dealings with other scientists and management thus far, almost all are *conceptually* committed to the concepts of green chemistry and sustainable practices. However, this is almost never incorporated in to the decision-making when it actually comes down to it; close to 100% of the time the Mitsonobus/TBTU couplings/Stille couplings in DCM or ethers will be chosen over months of paying someone like me to develop a cleaner process that still might not give as high yield and certainly won't be as cost-efficient. In your eyes, what is the long-term solution to actually changing the behavior of chemists and managers to pursue and implement green processes?
+
+&nbsp;
+
+Finally, do you have any opinion on the cGMP guideline which requires recovered solvents to only be used in the process that they were recovered from? It seems to be a guideline that not only discourages the recovery of solvent (as opposed to simply burning it for energy or discarding it so that you don't have to worry about the labor of purifying it) but is not grounded in any chemical principle at all. A solvent with a purity profile that fits the parameters of the reaction should be adequate, no matter the source.","2017-08-10 16:02:57","6","pleasetouchmygrundle","1747956416.937666","green energy transition","manual"
+"dlfnkwn","t3_6st7fr","6st7fr","science","scientific","Hello, thank you for taking the time to answer questions! As someone who has only recently begun working in the field of TEA/LCA it is great to see how passionate people are in the field.
+
+I have a couple of questions if that is okay:
+
+Rapid assessment is a major focus in the LCA/TEA community currently, with a focus on developing streamlined but reliable & replicable methods for analysis. 
+
+Do you see DOZN as a tool that can provide such analysis?
+
+You speak of using a broader data set than that used in an LCA, how do you quantify the qualitative factors? How can you ensure that this doesn't allow for bias when used by others?
+","2017-08-10 17:16:04","5","dipdipderp","1747956416.938735","green energy transition","manual"
+"dlfpiui","t3_6st7fr","6st7fr","science","scientific","How green is plastic used in packaging (bottles, wraps, etc.)?","2017-08-10 17:48:39","4","asmj","1747956416.939512","green energy transition","manual"
+"dlfc0nj","t3_6st7fr","6st7fr","science","scientific","Thank your for doing this AmA.
+How do you plan to label a product in terms of green-iness? Furthermore for whom will be a need and what was the initial reason to develop this method?","2017-08-10 13:48:18","3","thermokilometer","1747956416.9401238","green energy transition","manual"
+"dlflcez","t3_6st7fr","6st7fr","science","scientific","What chemicals do people consider green that surprisingly are not? What chemicals do people treat like villains that are surprisingly green?","2017-08-10 16:37:49","3","Opcn","1747956416.941163","green energy transition","manual"
+"dlfndwf","t3_6st7fr","6st7fr","science","scientific","Thank you for taking the time to do this AMA! I have a few questions. 
+
+1.Have any plans been made or are underway to require your rating on chemical labels? 
+
+2. I am a chemistry major who is about to start applying for chemistry PhD programs. It has been difficult for me to narrow down programs since I am still unsure of what I want to research (I am interested in inorganic chemistry and catalysis and possibly nanotechnology). How did you know which school/program was right for you? 
+
+3. After graduating, how similar was your research to your thesis? 
+
+4. What made both of you venture away from working in the lab and want to work more in the business end of the industry? 
+
+","2017-08-10 17:12:46","3","IworshipCthulhu","1747956416.942192","green energy transition","manual"
+"dlfnqx4","t3_6st7fr","6st7fr","science","scientific","How green is bleach in your opinion (and are the easy pour thick kind greener/better or worse). Thanks!","2017-08-10 17:18:54","3","[deleted]","1747956416.94308","green energy transition","manual"
+"dlfe2ik","t3_6st7fr","6st7fr","science","scientific","Is the measurement of how green a chemical is dependent upon its renewability? Or more so how toxic/harmful it can be?
+
+I ask because in a lot of industrial processing, we use chemicals which are very toxic, but none of which I wouldn't consider green when handled properly and recycled. 
+
+On another note on the topic of being green, where do you fall on the GMO versus organic food industry scale?","2017-08-10 14:29:10","2","mworhatch","1747956416.94397","green energy transition","manual"
+"dlfeyzp","t3_6st7fr","6st7fr","science","scientific","In your opinion what should be done (in legal terms) with the information you collect? ","2017-08-10 14:46:04","2","umgajonormal","1747956416.94458","green energy transition","manual"
+"dlfhd43","t3_6st7fr","6st7fr","science","scientific","As an Indian I feel really proud to see you doing very well, Thanks for the AMA. I live in Madras (Chennai now) too and the question is for the both of you
+
+1.What are some of the parameters you have that determine whether the product is green or not?
+2. And why DOZN?","2017-08-10 15:28:58","2","NKrishnaStark","1747956416.9454","green energy transition","manual"
+"dlfiyvv","t3_6st7fr","6st7fr","science","scientific","Hi there! I've used EWG in the past to help inform myself as to what products are most environmentally friendly. How does this group compare to the work that you are doing? Are there any glaring pros/cons to it?","2017-08-10 15:56:40","2","Eenjuneer645","1747956416.946132","green energy transition","manual"
+"dlfjpec","t3_6st7fr","6st7fr","science","scientific","How green are the chemicals used in the manufacturing of modern photovoltaic panels?
+
+I've always wondered that.","2017-08-10 16:09:33","2","Hawk_v3","1747956416.946902","green energy transition","manual"
+"dlfjqi9","t3_6st7fr","6st7fr","science","scientific","Products like ""Green works"" sell an idea of a green product with no backing information, what is best used to combat this in an industry that can create its own falsehoods?","2017-08-10 16:10:04","2","stripesndredlights","1747956416.947666","green energy transition","manual"
+"dlfoqbo","t3_6st7fr","6st7fr","science","scientific","Question to Dr.Samy: What is your advice to young Indians who are pursuing a career in Biotechnology? 
+You seem to be from South India (I bet Tamil Nadu). What social problem in India do you think needs an immediate scientific solution?","2017-08-10 17:35:27","2","[deleted]","1747956416.948419","green energy transition","manual"
+"dlfp4ud","t3_6st7fr","6st7fr","science","scientific","This is very interesting. Thanks for putting this on a platform where the regular folks like myself can learn. My question is a few parts. 
+Is there a database of chemicals to search and learn about?
+Is this a program where I can input info from the manufacturer or MSDS sheet to calculate it's greenness?
+And last, can this quantification be measured on a 1-10 scale and universally be labeled on products that fall within particular guidelines?
+Thanks again and I hope I got in the AMA!!","2017-08-10 17:42:09","2","normball","1747956416.9494662","green energy transition","manual"
+"dlfpk5e","t3_6st7fr","6st7fr","science","scientific","Thank you so much for doing this AMA!
+
+I have a couple questions:
+
+1) Do you expect this approach being eventually modified to support chemists to estimate greeness during product development? In a way making estimates from the lab on what the performance of the product will be in production?
+ 
+2) While the application of a ranking facilitates decision making, do you think this could potentially lead to misinterpretations and misuse of results by companies?
+
+3) with this method companies can set system boundaries based on data availability, how effective do you think the method is in conveying data gaps, analytical choices and assumptions? 
+
+4) One much discussed topic in LCA is uncertainty. This method doesn't seem to account for that. What is your opinion on the inclusion or exclusion of uncertainties?
+
+5) Have you already identified potential case studies that you would like to work on to compare LCA to this method?
+
+6) I had another question but I forgot :) ... 
+
+Thanks again!!
+
+edit: separated two questions","2017-08-10 17:49:15","2","EnviroLeontief","1747956416.9509199","green energy transition","manual"
+"dlfvr1y","t3_6st7fr","6st7fr","science","scientific","I am really curious after my own experiences;
+
+Have you had any kind of push back from any individuals or groups that might oppose the work you are doing? Or do you guy foresee any kind situation where you might have to defend your work from individuals/groups/companies who might wish that you were not doing this particular service?","2017-08-10 19:36:06","2","AdanteHand","1747956416.951797","green energy transition","manual"
+"dlfyvi5","t3_6st7fr","6st7fr","science","scientific","The Organic food movement has what seems like an arbitrary ban on synthetic input. As we have learned from Ames and others it doesn't seem to come from a scientific point of view but rather one of aesthetics. What have you found in regards to the schism of synthetic vs 'natural' chemicals and is it a false dichotomy of sorts? Should organic embrace synthetics if it aims to provide the ultimate in greenness? If so, do you think consumers are ready for a less black and white approach?","2017-08-10 20:30:13","2","[deleted]","1747956416.952678","green energy transition","manual"
+"dlg3905","t3_6st7fr","6st7fr","science","scientific","what. are. you. measuring.","2017-08-10 21:49:28","2","springbreakbox","1747956416.9538188","green energy transition","manual"
+"dlg8lrm","t3_6st7fr","6st7fr","science","scientific","""Samy Ponnusamy"".....really??","2017-08-10 23:36:19","2","jh36117","1747956416.9549382","green energy transition","manual"
+"dlffpmc","t3_6st7fr","6st7fr","science","scientific","Why are car batteries so expensive when theyre all recycled old ones anyway?","2017-08-10 14:59:28","1","deanthecleanmachine","1747956416.9556649","green energy transition","manual"
+"dlfftvl","t3_6st7fr","6st7fr","science","scientific","Thinking from a synthetic strategy point of view, which specific reactions/synthons are the most pressing for a green ""overhaul"" as it were? I say this as someone who often wants to use green reaction conditions as much as possible but who often has trouble finding them.","2017-08-10 15:01:38","1","BunBun002","1747956416.9564018","green energy transition","manual"
+"dlfh8ev","t3_6st7fr","6st7fr","science","scientific","What is the greenest thing you have found?","2017-08-10 15:26:42","1","toastboy2000","1747956416.956851","green energy transition","manual"

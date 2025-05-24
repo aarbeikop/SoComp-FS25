@@ -1,55 +1,14 @@
 ﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
-"dgzr0k","climatechange","action-oriented","How do I discern the Vatican's per capita CO2 emissions from Italy?","Are CO2 emissions per capita determined by spacecraft scans?
+"dj8axs","climatechange","action-oriented","Where can I get all the climate related raw data? For an assignment.","Hello there!       
+Just like this for co2 ppm [ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2\_annmean\_mlo.txt](ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_annmean_mlo.txt)   
 
-What is the procedure for countries like the Vatican or Lesotho?
+Are there similar txt files for mean temperature? Preferably year by year.      
 
-What sort of equipment is used to ascribe a CO2 emissions total to a tested geographic location? What is the tolerance for this in kilometers? What is the tolerance in highly developed but geopolitically ambiguous areas like Hong Kong?","2019-10-12 19:33:57","0","23","0.5","https://www.reddit.com/r/climatechange/comments/dgzr0k/how_do_i_discern_the_vaticans_per_capita_co2/","True","apocalypsetruck","1747729516.072611","CO2 emissions","scientific"
-"do0jlg","climatechange","action-oriented","Here’s a Mega-List of reputable sources proving climate change is very real.","EDIT: I suppose the title should say “proving that humans are causing climate change.” 
+In general, which is the go-to site for these kind of data?     
 
-——
+\[Trying to do something with this data as part of my Matlab coursework\].    
 
-I recently encountered a climate change denier in the wild and thought, “You know what, there are plenty of reputable sources out there that agree that climate change is real and being caused by humans. I’m going to collect a list of those sources and show them to this person.”
+Many thanks.","2019-10-17 15:52:36","5","5","1.0","https://www.reddit.com/r/climatechange/comments/dj8axs/where_can_i_get_all_the_climate_related_raw_data/","True","president_of_neom","1747824247.882638","climate data","scientific"
+"do99h1","renewable","action-oriented","Amazon announces three new renewable energy projects to support its 2030 and 2024 renewables goal","https://pvbuzz.com/amazon-announces-three-new-renewable-energy-projects/
 
-So I did, and I wanted to share this mega list with you, to better arm you to help people accept what is happening to our planet. So here goes:
-
-
-[NASA](https://climate.nasa.gov/evidence/)
-
-[The U.S. Senate in an unprecedented 98 to 1 vote](https://www.sciencemag.org/news/2015/01/98-1-us-senate-passes-amendment-saying-climate-change-real-not-hoax)
-
-[The National Institute of Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995507/)
-
-[The Government of New Zealand](https://www.mfe.govt.nz/climate-change/why-climate-change-matters/evidence-climate-change)
-
-[The United Nations](https://www.un.org/en/sections/issues-depth/climate-change/)
-
-[Snopes.com](https://www.snopes.com/collections/climate-change-denial-debunked/)
-
-[National Geographic](https://www.nationalgeographic.com/environment/global-warming/global-warming-real/)
-
-[American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/about-ams/ams-statements/statements-of-the-ams-in-force/climate-change1/)
-
-[A Trump appointed energy official](https://www.cnn.com/2019/04/10/business/climate-change-chatterjee-coal-renewable-energy/index.html)
-
-[Business Insider](https://www.businessinsider.com/climate-change-global-warming-scientific-evidence-2011-8?IR=T)
-
-[The UK Environmental Agency](https://www.gov.uk/government/news/speech-climate-change-too-true-to-be-good)
-
-[The World Health Organization](https://www.who.int/health-topics/climate-change#tab=tab_1)
-
-[M.I.T.](http://news.mit.edu/2019/mit-tilclimate-podcast-breaks-down-climate-change-facts-0502)
-
-[The Governor Of Idaho](https://www.hcn.org/articles/climate-change-idahos-new-governor-brad-little-recognizes-that-climate-change-is-real)
-
-[The National Academies of Science](http://nationalacademies.org/onpi/06072005.pdf)
-
-[United States Geological Survey](https://www.usgs.gov/faqs/what-are-some-signs-climate-change-1?qt-news_science_products=0#qt-news_science_products)
-
-EDIT: a lot of these sources also talk about the causes of climate change, and the fact that climate change is being primarily caused by human CO2 emissions. Many also cover additional evidence of human caused climate change.","2019-10-27 22:59:04","164","134","0.96","https://www.reddit.com/r/climatechange/comments/do0jlg/heres_a_megalist_of_reputable_sources_proving/","True","TheJoshWatson","1747729625.261278","CO2 emissions","scientific"
-"doukp4","sustainability","action-oriented","Tesla Cars — Actually better for the planet?","This may be a commonly asked question, so forgive me if it’s been covered in some detail already.
-
-The company I work for wants to change it’s company car to an electric one, more specifically a Tesla, but our CEO isn’t sure if it’s everything it’s cracked up to be.
-
-I read online that the Tesla S for example has the same amount of emissions as an average car in the UK. Of course that statement alone has too many variables to make an accurate comparison, so I thought I’d reach out to you guys!
-
-What have you found within your research? Are Teslas actually better for the planet than a diesel or petrol car?","2019-10-29 19:11:21","7","17","0.82","https://www.reddit.com/r/sustainability/comments/doukp4/tesla_cars_actually_better_for_the_planet/","True","thatsomethinglife","1747730084.032876","CO2 emissions","scientific"
+Amazon announces three new renewable energy projects to support Amazon’s commitment to The Climate Pledge to be net-zero carbon by 2040. It will supply renewable energy to the company’s Amazon Web Services data centers that support Amazon and millions of AWS customers globally.","2019-10-28 14:03:38","41","2","0.93","https://www.reddit.com/r/Renewable/comments/do99h1/amazon_announces_three_new_renewable_energy/","True","team_pv","1747825393.919682","climate data","scientific"

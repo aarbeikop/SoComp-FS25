@@ -1,0 +1,31 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"5mxdig","science","scientific","Science AMA Series: We just published a paper showing recent ocean warming had been underestimated, and that NOAA (and not Congress) got this right. Ask Us Anything!","#**NB: We will be dropping in starting at 1PM to answer questions.**
+
+---
+
+# Hello there /r/Science!
+
+We are a group of researchers who just published [a new open access paper in *Science Advances*](http://advances.sciencemag.org/content/3/1/e1601207.full) showing that ocean warming was indeed being underestimated, confirming the conclusion of a paper last year that triggered a series of political attacks. You can find some press coverage of our work at [Scientific American](https://www.scientificamerican.com/article/no-pause-in-ocean-warming/), [the Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2017/01/04/noaa-challenged-the-global-warming-pause-now-new-research-says-the-agency-was-right/?utm_term=.e9b8eb3f3628), and [the CBC](http://www.cbc.ca/news/technology/global-warming-hiatus-never-happened-say-climate-scientists-1.3922378). One of the authors, Kevin Cowtan, has [an explainer on his website](http://www-users.york.ac.uk/~kdc3/papers/ihsst2016/background.html) as well as [links to the code and data](http://www-users.york.ac.uk/~kdc3/papers/ihsst2016/methods.html) used in the paper.
+
+For backstory, in 2015 the National Oceanic and Atmospheric Administration (NOAA) updated its global temperature dataset, showing that their previous data had been underestimating the amount of recent warming we've had. The change was mainly from their updated ocean data (i.e. their sea surface temperature or ""SST"") product. 
+
+The NOAA group's updated estimate of warming formed the basis of high profile paper in Science ([Karl et al. 2015](http://science.sciencemag.org/content/348/6242/1469)), which joined a growing chorus of papers (see also [Cowtan and Way, 2014](http://onlinelibrary.wiley.com/doi/10.1002/qj.2297/abstract); [Cahill et al. 2015](http://iopscience.iop.org/article/10.1088/1748-9326/10/8/084002); [Foster and Rahmstorf 2016](http://docdro.id/pwnUlm7)) pushing back on the idea that there had been a ""pause"" in warming.
+
+This led to Lamar Smith (R-TX), the Republican chair of the House Science, Space, and Technology Committee to accuse NOAA of deliberately ""altering data"" for nefarious ends, and issue a series of public attacks and subpoenas for internal communications that were characterized as [""fishing expeditions""](http://www.slate.com/blogs/bad_astronomy/2015/10/30/global_warming_lamar_smith_s_conspiracy_ideations.html), [""waging war""](http://www.csmonitor.com/USA/USA-Update/2015/1119/Why-is-Lamar-Smith-waging-war-on-a-NOAA-global-warming-study), and a [""witch hunt""](https://insideclimatenews.org/news/22112015/ranking-congresswoman-defends-NOAA-climate-change-scientists-from-witch-hunt-lamar-smith).
+
+Rather than subpoenaing people's emails, we thought we would check to see if the Karl et al. adjustments were kosher a different way- by doing some science! 
+
+We knew that a big issue with SST products had to do with the transition from mostly ship-based measurements to mostly buoy-based measurements. Not accounting for this transition properly could hypothetically impart a cool bias, i.e. cause an underestimate in the amount of warming over recent decades. So we looked at three ""instrumentally homogeneous"" records (which wouldn't see a bias due to changeover in instrumentation type, because they're from one kind of instrument): only buoys, satellite radiometers, and Argo floats. 
+
+We compared these to the major SST data products, including the older (ERSSTv3b) and newer (ERSSTv4) NOAA records as well as the HadSST3 (UK's Hadley Centre) and COBE-SST (Japan's JMA) records. We found that the older NOAA SST product was indeed underestimating the rate of recent warming, and that the newer NOAA record appeared to correctly account for the ship/buoy transition- i.e. the NOAA correction seems like it was a good idea! We also found that the HadSST3 and COBE-SST records appear to underestimate the amount of warming we've actually seen in recent years.
+
+Ask us anything about our work, or climate change generally!
+
+Joining you today will be:
+
+* Zeke Hausfather ([@hausfath](https://twitter.com/hausfath))
+* Kevin Cowtan
+* Dave Clarke
+* Peter Jacobs (/u/past_is_future)
+* Mark Richardson (if time permits)
+* Robert Rohde (if time permits)","2017-01-09 12:25:53","14512","924","0.82","https://www.reddit.com/r/science/comments/5mxdig/science_ama_series_we_just_published_a_paper/","True","ocean_warming_AMA","1747949175.224371","green energy transition","manual"

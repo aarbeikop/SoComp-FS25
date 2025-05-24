@@ -1,0 +1,18 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"88lqy0","climatechange","action-oriented","Need help with developing a carbon footprint calculator","Hi everyone,
+I've been a long time anonymous lurker on Reddit but recently created this id to share some work I've been doing in terms of our carbon footprint.
+The one thing that I've been wrangling in my brain is how to perceive how everyday choices we make have an impact on the climate. For example me driving bit faster to reach office sooner or consuming coffee in a papercup vs using a ceramic one, etc. Secondly, I realized that all of the carbon footprint calculators out there provide a footprint estimate in Kg of CO2. But this number doesn't seem to be intuitive for us to understand.
+
+In order to address the above, I have created a bunch of spreadsheets each calculating the carbon footprint of an everyday scenario. Also, I've converted the footprint in KgCO2e into the approximate time it would take for an average tree to absorb (sequester) this CO2. The idea being that time in days/months/years is easier to comprehend than weight of a gas.
+
+I have created a repository of these spreadsheets in this Github repo: https://github.com/bearhugger404/climateChangeCalcs
+
+What I'm hoping to get out of this post:
+1) Your feedback on the methodology & assumptions I have made
+2) What other everyday scenarios can we calculate the footprints
+3) Change the constants that I have used in my calculations such as region specific carbon mix for electricity (me being from Ontario, have used the carbon footprint of the Ontario utility), units - km vs mile, kg vs lb, etc
+4) MOST IMPORTANTLY - volunteers to work on the above items
+
+For the future - if there's sufficient interest in this kind of tools, consider developing a web/mobile app customized to a user profile
+
+Note that although I have attempted to source my estimates from well researched sources, they are to be considered ballpark estimates. Nevertheless, they seem to be a good way to appreciate the impacts of these activities.","2018-03-31 21:16:21","4","1","0.83","https://www.reddit.com/r/climatechange/comments/88lqy0/need_help_with_developing_a_carbon_footprint/","True","bearhugger404","1747894504.4634466","CO2 is good","manual"

@@ -1,0 +1,23 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"6st7fr","science","scientific","Science AMA Series: We designed a method to quantify how “green” a chemical is; We’re Jane Murray and Samy Ponnusamy, Ask us anything!","Our recently published paper in the ACS Sustainable Chemistry & Engineering journal describes a quantitative assessment tool to evaluate chemicals and chemical processes against the 12 Principles of Green Chemistry, using generally accepted industry practices and readily available data sources. This tool, called DOZN, provides a consistent framework for measuring and communicating what’s “greener” about the products labeled as “greener alternatives” and is robust and flexible enough to encompass a diverse product portfolio, from biology to chemistry to materials science. So, feel free to ask us anything about this tool and how it’s currently being implemented at MilliporeSigma, or how you can apply it in your organization.
+
+**We’ll be back at 1:00 PM Eastern Time (10 am PT, 6 pm UTC) to answer your questions, ask us anything!**
+
+**Dr. Jane Murray**: I am the head of Green Chemistry for the Life Science business of Merck KGaA, Darmstadt, Germany, which operates as MilliporeSigma in the U.S. and Canada. I have a background in chemical research—having completed my Ph.D. at the University of York, where I researched green oxidations of organosulfur compounds using hydrogen peroxide. I am a member of the American Chemical Society’s Green Chemistry Institute, Chemical Manufacturer’s Roundtable, the Royal Society of Chemistry and the American Chemical Society. 
+
+**Dr. Ettigounder ""Samy"" Ponnusamy**: I am the Green Chemistry Fellow with the Life Science business of Merck KGaA, Darmstadt, Germany, which operates as MilliporeSigma in the U.S. and Canada. In this role, I manage and expand new green business opportunities, as well as research and develop greener alternatives—including spearheading the DOZN tool that we’ll be talking about on this AMA. I have more than 30 years of experience managing new product developments—from bench scale through product launch—with many products showing sustained growth over time. I earned my Ph.D. from the University of Madras and am the co-author of 30 related scientific articles and holder/co-holder of seven patents.
+
+
+**Edit:** We forgot to include the link to the paper: http://pubs.acs.org/doi/pdfplus/10.1021/acssuschemeng.6b02399
+
+
+**Edit 2:** We'll be back in an hour to begin answering but wanted to share a link to the 12 Principles of Green Chemistry that we referred to at the top - https://www.acs.org/content/acs/en/greenchemistry/what-is-green-chemistry/principles/12-principles-of-green-chemistry.html
+
+
+**Edit 3:** Hi everyone, thank you for all of the questions. We'll be sticking around until 2:30 EST to answer questions, so keep them coming. If you're interested in learning more about MilliporeSigma's program, you can go to www.sigma.com/greener
+
+
+**Edit 4:** Thank you everyone for the great questions! This was both of our first times on Reddit and we appreciate the informative and engaging discussion - hopefully you did as well. We’re sorry if we weren’t able to get to your question but we hope to be back here sometime soon. If you have time, feel free to take a look at the links we shared above and throughout our answers. If you’d like to see an example of our DOZN scoring for a real product, you can see it here: http://www.sigmaaldrich.com/catalog/product/sigma/a7005
+
+If you have any other feedback or questions, please continue to post. We’ll continue to revisit this thread and may even answer a few more questions. Thank you again!
+","2017-08-10 13:11:41","3805","181","0.84","https://www.reddit.com/r/science/comments/6st7fr/science_ama_series_we_designed_a_method_to/","True","Millipore-Sigma","1747956415.4393759","green energy transition","manual"

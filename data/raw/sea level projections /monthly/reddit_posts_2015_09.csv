@@ -1,0 +1,22 @@
+﻿"id","subreddit","tone","title","text","created_utc","score","num_comments","upvote_ratio","url","is_self","author","scraped_utc","query_used","query_category"
+"3ks5qv","collapse","skeptical","What's the maximum amount of carbon dioxide that will support healthy human life?","What's the maximum amount of carbon dioxide that will support healthy human life?
+
+How about [426 parts per million?](http://www.alfaintek.com/assets/files/D_S_Robertson.pdf)
+
+>At the very least, 600 ppm of carbon dioxide in the atmosphere will be unpleasant and there will be no readily available means of reversing the changes giving rise to the above symptoms. Such a situation is unlikely to be tolerable for a lifetime by humans (and other mammals with the possible exception of seals) without deterioration in general health along with serious curtailing of physical activity presently taken as normal.
+
+Now, I haven't been able to find much verification for the 426 number, but I did find [this terrifying paper](http://grapevine.com.au/~pbierwirth/co2toxicity.pdf)(pdf):
+
+>Increased CO2 increases the production of ROS leading to increased incidence  of cancers and other diseases including the promotion of virus activity. Ezraty et et al (2012) concluded that with increasing atmospheric CO2 concentrations, this exacerbation might be of great ecological concern with important implications for life on Earth. 
+
+Here's a [Skeptical Science summary](http://www.skepticalscience.com/how-sapiens-in-the-world-of-high-co2-concentration.html) which acts as a good overview.
+
+>Gradually, to the known effects of carbon dioxide emissions – like climate warming and ocean acidification – we will be forced to add impairment of our higher mental functions. Faced with the rising complex problems of our civilization, requiring the ability to analyze complex information, undertake initiatives and strategic planning - we place ourselves at a profound disadvantage, perhaps at a literally dysfunctional level.
+
+I started looking into all of this when I realized that the map of CO2 distribution worldwide is almost identical to the map of [Crohn's Disease](https://www.reddit.com/r/CrohnsDisease/comments/3hojrt/crackpot_hypothesis_elevated_levels_of_co2_cause/). In the course of writing the idea up, more questions occurred, and from what I can tell we are severely, truly, and immediately fucked. The air we're breathing may be making us immensely more susceptible to all sorts of health complications.
+
+[Just a reminder](https://www.youtube.com/watch?t=201&v=t0dXjmoA0dw), our current monthly mean is 400 parts per million. [On top of Mauna Loa.](http://www.esrl.noaa.gov/gmd/ccgg/trends/). Carbon dioxide levels in cities closer to sea level are generally higher. We've been worried about the effects of carbon dioxide on plants, on shellfish, on sea levels. What about its effects on us? It's gone up [24% since 1958](http://climate.nasa.gov/400ppmquotes/). And even the best IPCC projections [don't have it going down from here](http://www.ipcc-data.org/observ/ddc_co2.html).
+
+[The dose makes the poison](https://en.wikipedia.org/wiki/The_dose_makes_the_poison). [Carbon dioxide is a poison](http://www.epa.gov/ozone/snap/fire/co2/appendixb.pdf). And from what I can tell, we have very little idea how much carbon dioxide human beings can breathe long-term without serious effects on our health.
+
+Does anyone have better research on this? And... why the hell isn't there better research on this?","2015-09-13 13:41:10","8","36","0.67","https://www.reddit.com/r/collapse/comments/3ks5qv/whats_the_maximum_amount_of_carbon_dioxide_that/","True","MrVisible","1747843431.802149","sea level projections","manual"
