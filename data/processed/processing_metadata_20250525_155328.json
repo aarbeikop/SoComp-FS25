@@ -1,0 +1,25 @@
+{
+    "timestamp": "20250525_155328",
+    "total_entries": 24130,
+    "processing_date": "2025-05-25 15:53:28",
+    "entry_type_counts": {
+        "comment": 22090,
+        "post": 2040
+    },
+    "subreddit_counts": {
+        "science": 8335,
+        "collapse": 7091,
+        "climatechange": 2460,
+        "environment": 1155,
+        "climate": 1077,
+        "sustainability": 976,
+        "conspiracy": 966,
+        "politics": 356,
+        "vegan": 343,
+        "futurology": 333
+    },
+    "files": {
+        "processed_data": "data/processed/processed_reddit_data_20250525_155328.csv",
+        "sample_data": "data/processed/sample_for_validation_20250525_155328.csv"
+    }
+}

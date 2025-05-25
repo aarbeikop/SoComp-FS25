@@ -257,3 +257,41 @@ AttributeError: 'RedditDataProcessor' object has no attribute 'add_metadata'
 2025-05-25 15:41:21,578 - __main__ - INFO - sample_posts_file: data/processed/sample_posts_for_validation_20250525_154121.csv
 2025-05-25 15:41:21,578 - __main__ - INFO - sample_comments_file: data/processed/sample_comments_for_validation_20250525_154121.csv
 2025-05-25 15:41:21,578 - __main__ - INFO - metadata_file: data/processed/processing_metadata_20250525_154121.json
+2025-05-25 15:53:11,187 - __main__ - INFO - Loading combined data from: data/processed/all_reddit_data.csv
+2025-05-25 15:53:11,345 - __main__ - INFO - Available columns: ['id', 'subreddit', 'tone', 'title', 'text', 'created_utc', 'score', 'num_comments', 'upvote_ratio', 'url', 'is_self', 'author', 'scraped_utc', 'query_used', 'query_category', 'source_file', 'entry_type', 'parent_id', 'post_id']
+2025-05-25 15:53:11,345 - __main__ - INFO - Data shape: (24251, 19)
+2025-05-25 15:53:11,348 - __main__ - INFO - Entry types: entry_type
+comment    22208
+post        2043
+Name: count, dtype: int64
+2025-05-25 15:53:11,348 - __main__ - INFO - Adding metadata...
+2025-05-25 15:53:11,955 - __main__ - INFO - Cleaning and filtering data...
+2025-05-25 15:53:11,956 - __main__ - INFO - Starting with 24251 entries
+2025-05-25 15:53:11,964 - __main__ - INFO - Removed 0 deleted/removed entries
+2025-05-25 15:53:11,976 - __main__ - INFO - Removed 0 obvious bot entries
+2025-05-25 15:53:22,804 - __main__ - INFO - Removed 119 non-English entries
+2025-05-25 15:53:22,811 - __main__ - INFO - Removed 2 entries with very short content
+2025-05-25 15:53:22,815 - __main__ - INFO - Final count: 24130 entries (kept 99.5%)
+2025-05-25 15:53:22,815 - __main__ - INFO - Analyzing text characteristics...
+2025-05-25 15:53:28,006 - __main__ - INFO - Creating validation sample...
+2025-05-25 15:53:28,031 - __main__ - INFO - Saving processed data...
+2025-05-25 15:53:28,723 - __main__ - INFO - Saved processed data to: data/processed/processed_reddit_data_20250525_155328.csv
+2025-05-25 15:53:28,727 - __main__ - INFO - Saved sample for validation to: data/processed/sample_for_validation_20250525_155328.csv
+2025-05-25 15:53:28,729 - __main__ - INFO - Saved processing metadata to: data/processed/processing_metadata_20250525_155328.json
+2025-05-25 15:53:28,729 - __main__ - INFO - 
+=== PROCESSING SUMMARY ===
+2025-05-25 15:53:28,729 - __main__ - INFO - Total entries processed: 24130
+2025-05-25 15:53:28,729 - __main__ - INFO - Entry type distribution:
+2025-05-25 15:53:28,729 - __main__ - INFO -   comment: 22090
+2025-05-25 15:53:28,729 - __main__ - INFO -   post: 2040
+2025-05-25 15:53:28,729 - __main__ - INFO - Top subreddits:
+2025-05-25 15:53:28,730 - __main__ - INFO -   science: 8335
+2025-05-25 15:53:28,730 - __main__ - INFO -   collapse: 7091
+2025-05-25 15:53:28,730 - __main__ - INFO -   climatechange: 2460
+2025-05-25 15:53:28,730 - __main__ - INFO -   environment: 1155
+2025-05-25 15:53:28,730 - __main__ - INFO -   climate: 1077
+2025-05-25 15:53:28,730 - __main__ - INFO - Data processing complete!
+2025-05-25 15:53:28,744 - __main__ - INFO - Processing complete. Output files:
+2025-05-25 15:53:28,744 - __main__ - INFO - main_file: data/processed/processed_reddit_data_20250525_155328.csv
+2025-05-25 15:53:28,744 - __main__ - INFO - sample_file: data/processed/sample_for_validation_20250525_155328.csv
+2025-05-25 15:53:28,745 - __main__ - INFO - metadata_file: data/processed/processing_metadata_20250525_155328.json
