@@ -1,0 +1,259 @@
+2025-05-25 15:06:47,208 - __main__ - INFO - Loading combined data from: data/processed/all_reddit_data.csv
+2025-05-25 15:06:47,371 - __main__ - INFO - Split into 2043 posts and 22208 comments
+2025-05-25 15:06:47,372 - __main__ - INFO - Cleaning and filtering data...
+2025-05-25 15:06:47,380 - __main__ - INFO - Removed 0 deleted/removed posts
+2025-05-25 15:06:47,380 - __main__ - INFO - Removed 0 deleted/removed comments
+2025-05-25 15:06:48,272 - __main__ - INFO - Removed 0 bot posts
+2025-05-25 15:06:48,272 - __main__ - INFO - Removed 93 bot comments
+2025-05-25 15:06:58,379 - __main__ - INFO - Removed 2043 non-English posts
+2025-05-25 15:06:58,380 - __main__ - INFO - Removed 22002 non-English comments
+2025-05-25 15:06:58,380 - __main__ - INFO - Removed 0 posts with very short content
+2025-05-25 15:06:58,380 - __main__ - INFO - Removed 0 comments with very short content
+2025-05-25 15:06:58,383 - __main__ - INFO - Adding metadata...
+2025-05-25 15:06:58,387 - __main__ - ERROR - Error processing data: time data "1746365374.0" doesn't match format "%Y-%m-%d %H:%M:%S", at position 52. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 526, in main
+    file_paths = processor.process_data(
+        posts_file=args.input,
+    ...<2 lines>...
+        sample_size=args.sample_size
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 461, in process_data
+    posts_with_metadata, comments_with_metadata = self.add_metadata(
+                                                  ~~~~~~~~~~~~~~~~~^
+        posts_filtered, comments_filtered)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 270, in add_metadata
+    comments['created_date'] = pd.to_datetime(comments['created_utc'])
+                               ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/tools/datetimes.py", line 1067, in to_datetime
+    values = convert_listlike(arg._values, format)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/tools/datetimes.py", line 433, in _convert_listlike_datetimes
+    return _array_strptime_with_fallback(arg, name, utc, format, exact, errors)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/tools/datetimes.py", line 467, in _array_strptime_with_fallback
+    result, tz_out = array_strptime(arg, fmt, exact=exact, errors=errors, utc=utc)
+                     ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "strptime.pyx", line 501, in pandas._libs.tslibs.strptime.array_strptime
+  File "strptime.pyx", line 451, in pandas._libs.tslibs.strptime.array_strptime
+  File "strptime.pyx", line 583, in pandas._libs.tslibs.strptime._parse_with_format
+ValueError: time data "1746365374.0" doesn't match format "%Y-%m-%d %H:%M:%S", at position 52. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-05-25 15:11:04,564 - __main__ - INFO - Loading combined data from: data/processed/all_reddit_data.csv
+2025-05-25 15:11:04,727 - __main__ - INFO - Split into 2043 posts and 22208 comments
+2025-05-25 15:11:04,727 - __main__ - INFO - Cleaning and filtering data...
+2025-05-25 15:11:04,736 - __main__ - INFO - Removed 0 deleted/removed posts
+2025-05-25 15:11:04,736 - __main__ - INFO - Removed 0 deleted/removed comments
+2025-05-25 15:11:05,594 - __main__ - INFO - Removed 0 bot posts
+2025-05-25 15:11:05,594 - __main__ - INFO - Removed 93 bot comments
+2025-05-25 15:11:15,439 - __main__ - INFO - Removed 2043 non-English posts
+2025-05-25 15:11:15,439 - __main__ - INFO - Removed 22002 non-English comments
+2025-05-25 15:11:15,441 - __main__ - INFO - Removed 0 posts with very short content
+2025-05-25 15:11:15,441 - __main__ - INFO - Removed 0 comments with very short content
+2025-05-25 15:11:15,443 - __main__ - INFO - Adding metadata...
+2025-05-25 15:11:15,445 - __main__ - ERROR - Error processing data: time data "1746365374.0" doesn't match format "%Y-%m-%d %H:%M:%S", at position 52. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 529, in main
+    file_paths = processor.process_data(
+        posts_file=args.input,
+    ...<2 lines>...
+        sample_size=args.sample_size
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 464, in process_data
+    posts_with_metadata, comments_with_metadata = self.add_metadata(
+                                                  ~~~~~~~~~~~~~~~~~^
+        posts_filtered, comments_filtered)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 273, in add_metadata
+    comments['created_date'] = pd.to_datetime(comments['created_utc'])
+                               ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/tools/datetimes.py", line 1067, in to_datetime
+    values = convert_listlike(arg._values, format)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/tools/datetimes.py", line 433, in _convert_listlike_datetimes
+    return _array_strptime_with_fallback(arg, name, utc, format, exact, errors)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/tools/datetimes.py", line 467, in _array_strptime_with_fallback
+    result, tz_out = array_strptime(arg, fmt, exact=exact, errors=errors, utc=utc)
+                     ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "strptime.pyx", line 501, in pandas._libs.tslibs.strptime.array_strptime
+  File "strptime.pyx", line 451, in pandas._libs.tslibs.strptime.array_strptime
+  File "strptime.pyx", line 583, in pandas._libs.tslibs.strptime._parse_with_format
+ValueError: time data "1746365374.0" doesn't match format "%Y-%m-%d %H:%M:%S", at position 52. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-05-25 15:15:08,588 - __main__ - INFO - Loading combined data from: data/processed/all_reddit_data.csv
+2025-05-25 15:15:08,760 - __main__ - INFO - Split into 2043 posts and 22208 comments
+2025-05-25 15:15:08,761 - __main__ - INFO - Cleaning and filtering data...
+2025-05-25 15:15:08,769 - __main__ - INFO - Removed 0 deleted/removed posts
+2025-05-25 15:15:08,769 - __main__ - INFO - Removed 0 deleted/removed comments
+2025-05-25 15:15:09,636 - __main__ - INFO - Removed 0 bot posts
+2025-05-25 15:15:09,636 - __main__ - INFO - Removed 93 bot comments
+2025-05-25 15:15:19,906 - __main__ - INFO - Removed 2043 non-English posts
+2025-05-25 15:15:19,906 - __main__ - INFO - Removed 22002 non-English comments
+2025-05-25 15:15:19,907 - __main__ - INFO - Removed 0 posts with very short content
+2025-05-25 15:15:19,907 - __main__ - INFO - Removed 0 comments with very short content
+2025-05-25 15:15:19,909 - __main__ - INFO - Adding metadata...
+2025-05-25 15:15:19,913 - __main__ - ERROR - Error processing data: time data "1746365374.0" doesn't match format "%Y-%m-%d %H:%M:%S", at position 52. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 529, in main
+        posts_file=args.input,
+                 ^^^^^^^^^^^^^
+    ...<4 lines>...
+    
+    
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 464, in process_data
+    posts_filtered, comments_filtered)
+    
+    
+    
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 273, in add_metadata
+    comments['year_month'] = comments['created_date'].dt.strftime(
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/tools/datetimes.py", line 1067, in to_datetime
+    values = convert_listlike(arg._values, format)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/tools/datetimes.py", line 433, in _convert_listlike_datetimes
+    return _array_strptime_with_fallback(arg, name, utc, format, exact, errors)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/tools/datetimes.py", line 467, in _array_strptime_with_fallback
+    result, tz_out = array_strptime(arg, fmt, exact=exact, errors=errors, utc=utc)
+                     ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "strptime.pyx", line 501, in pandas._libs.tslibs.strptime.array_strptime
+  File "strptime.pyx", line 451, in pandas._libs.tslibs.strptime.array_strptime
+  File "strptime.pyx", line 583, in pandas._libs.tslibs.strptime._parse_with_format
+ValueError: time data "1746365374.0" doesn't match format "%Y-%m-%d %H:%M:%S", at position 52. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-05-25 15:27:02,360 - __main__ - INFO - Loading combined data from: data/processed/all_reddit_data.csv
+2025-05-25 15:27:02,523 - __main__ - INFO - Split into 2043 posts and 22208 comments
+2025-05-25 15:27:02,524 - __main__ - INFO - Cleaning and filtering data...
+2025-05-25 15:27:02,533 - __main__ - INFO - Removed 0 deleted/removed posts
+2025-05-25 15:27:02,533 - __main__ - INFO - Removed 0 deleted/removed comments
+2025-05-25 15:27:03,428 - __main__ - INFO - Removed 0 bot posts
+2025-05-25 15:27:03,428 - __main__ - INFO - Removed 93 bot comments
+2025-05-25 15:27:13,505 - __main__ - INFO - Removed 2043 non-English posts
+2025-05-25 15:27:13,505 - __main__ - INFO - Removed 22002 non-English comments
+2025-05-25 15:27:13,506 - __main__ - INFO - Removed 0 posts with very short content
+2025-05-25 15:27:13,506 - __main__ - INFO - Removed 0 comments with very short content
+2025-05-25 15:27:13,509 - __main__ - INFO - Adding metadata...
+2025-05-25 15:27:13,510 - __main__ - ERROR - Error processing data: RedditDataProcessor.add_metadata() takes 2 positional arguments but 3 were given
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 521, in main
+    file_paths = processor.process_data(
+        posts_file=args.input,
+    ...<2 lines>...
+        sample_size=args.sample_size
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 456, in process_data
+    posts_with_metadata, comments_with_metadata = self.add_metadata(
+                                                  ~~~~~~~~~~~~~~~~~^
+        posts_filtered, comments_filtered)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: RedditDataProcessor.add_metadata() takes 2 positional arguments but 3 were given
+2025-05-25 15:32:42,647 - __main__ - ERROR - Error processing data: cannot access local variable 'posts_df' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 501, in main
+    file_paths = processor.process_data(
+        posts_file=args.input,
+    ...<2 lines>...
+        sample_size=args.sample_size
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 427, in process_data
+    posts_df, comments_df = self.add_metadata(posts_df, comments_df)
+                                              ^^^^^^^^
+UnboundLocalError: cannot access local variable 'posts_df' where it is not associated with a value
+2025-05-25 15:35:12,630 - __main__ - INFO - Loading combined data from: data/processed/all_reddit_data.csv
+2025-05-25 15:35:12,805 - __main__ - INFO - Split into 2043 posts and 22208 comments
+2025-05-25 15:35:12,806 - root - INFO - Adding metadata...
+2025-05-25 15:35:12,806 - __main__ - ERROR - Error during processing: 'created_date'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'created_date'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 499, in main
+    file_paths = processor.process_data(
+        combined_file=args.input,
+        create_twitter_subset=args.twitter_subset,
+        sample_size=args.sample_size
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 431, in process_data
+    posts_df, comments_df = self.add_metadata(posts_df, comments_df)
+                            ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 254, in add_metadata
+    posts['created_date'] = posts['created_date'].apply(self.parse_created_date)
+                            ~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/myenv/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'created_date'
+2025-05-25 15:40:32,889 - __main__ - INFO - Loading combined data from: data/processed/all_reddit_data.csv
+2025-05-25 15:40:33,050 - __main__ - INFO - Available columns: ['id', 'subreddit', 'tone', 'title', 'text', 'created_utc', 'score', 'num_comments', 'upvote_ratio', 'url', 'is_self', 'author', 'scraped_utc', 'query_used', 'query_category', 'source_file', 'entry_type', 'parent_id', 'post_id']
+2025-05-25 15:40:33,050 - __main__ - INFO - Data shape: (24251, 19)
+2025-05-25 15:40:33,060 - __main__ - INFO - Split into 2043 posts and 22208 comments
+2025-05-25 15:40:33,061 - __main__ - ERROR - Error during processing: 'RedditDataProcessor' object has no attribute 'add_metadata'
+Traceback (most recent call last):
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 461, in main
+    file_paths = processor.process_data(
+        combined_file=args.input,
+        create_twitter_subset=args.twitter_subset,
+        sample_size=args.sample_size
+    )
+  File "/Users/blueberry/Library/CloudStorage/OneDrive-UniversitätZürichUZH/Studium/FS25/SoComp/SC_RP/rp_implementation/SoComp-FS25/processing/reddit_processing.py", line 397, in process_data
+    posts_df, comments_df = self.add_metadata(posts_df, comments_df)
+                            ^^^^^^^^^^^^^^^^^
+AttributeError: 'RedditDataProcessor' object has no attribute 'add_metadata'
+2025-05-25 15:41:09,919 - __main__ - INFO - Loading combined data from: data/processed/all_reddit_data.csv
+2025-05-25 15:41:10,082 - __main__ - INFO - Available columns: ['id', 'subreddit', 'tone', 'title', 'text', 'created_utc', 'score', 'num_comments', 'upvote_ratio', 'url', 'is_self', 'author', 'scraped_utc', 'query_used', 'query_category', 'source_file', 'entry_type', 'parent_id', 'post_id']
+2025-05-25 15:41:10,082 - __main__ - INFO - Data shape: (24251, 19)
+2025-05-25 15:41:10,093 - __main__ - INFO - Split into 2043 posts and 22208 comments
+2025-05-25 15:41:10,094 - root - INFO - Adding metadata...
+2025-05-25 15:41:10,686 - __main__ - INFO - Cleaning and filtering data...
+2025-05-25 15:41:10,696 - __main__ - INFO - Removed 0 deleted/removed posts
+2025-05-25 15:41:10,696 - __main__ - INFO - Removed 0 deleted/removed comments
+2025-05-25 15:41:11,576 - __main__ - INFO - Removed 0 bot posts
+2025-05-25 15:41:11,576 - __main__ - INFO - Removed 93 bot comments
+2025-05-25 15:41:21,556 - __main__ - INFO - Removed 2043 non-English posts
+2025-05-25 15:41:21,556 - __main__ - INFO - Removed 22002 non-English comments
+2025-05-25 15:41:21,556 - __main__ - INFO - Removed 0 posts with very short content
+2025-05-25 15:41:21,556 - __main__ - INFO - Removed 0 comments with very short content
+2025-05-25 15:41:21,559 - root - INFO - Adding metadata...
+2025-05-25 15:41:21,563 - __main__ - INFO - Analyzing text characteristics...
+2025-05-25 15:41:21,566 - __main__ - INFO - Creating Twitter-compatible subset...
+2025-05-25 15:41:21,567 - __main__ - INFO - Created Twitter-compatible subset: 0 posts and 110 comments
+2025-05-25 15:41:21,567 - __main__ - INFO - Creating validation sample...
+2025-05-25 15:41:21,570 - __main__ - INFO - Saving processed data...
+2025-05-25 15:41:21,573 - __main__ - INFO - Saved processed posts to: data/processed/processed_posts_20250525_154121.csv
+2025-05-25 15:41:21,573 - __main__ - INFO - Saved processed comments to: data/processed/processed_comments_20250525_154121.csv
+2025-05-25 15:41:21,574 - __main__ - INFO - Saved Twitter-compatible posts to: data/processed/twitter_compatible_posts_20250525_154121.csv
+2025-05-25 15:41:21,574 - __main__ - INFO - Saved Twitter-compatible comments to: data/processed/twitter_compatible_comments_20250525_154121.csv
+2025-05-25 15:41:21,575 - __main__ - INFO - Saved sample posts for validation to: data/processed/sample_posts_for_validation_20250525_154121.csv
+2025-05-25 15:41:21,575 - __main__ - INFO - Saved sample comments for validation to: data/processed/sample_comments_for_validation_20250525_154121.csv
+2025-05-25 15:41:21,575 - __main__ - INFO - Saved processing metadata to: data/processed/processing_metadata_20250525_154121.json
+2025-05-25 15:41:21,575 - __main__ - INFO - Data processing complete!
+2025-05-25 15:41:21,578 - __main__ - INFO - Processing complete. Output files:
+2025-05-25 15:41:21,578 - __main__ - INFO - posts_file: data/processed/processed_posts_20250525_154121.csv
+2025-05-25 15:41:21,578 - __main__ - INFO - comments_file: data/processed/processed_comments_20250525_154121.csv
+2025-05-25 15:41:21,578 - __main__ - INFO - twitter_posts_file: data/processed/twitter_compatible_posts_20250525_154121.csv
+2025-05-25 15:41:21,578 - __main__ - INFO - twitter_comments_file: data/processed/twitter_compatible_comments_20250525_154121.csv
+2025-05-25 15:41:21,578 - __main__ - INFO - sample_posts_file: data/processed/sample_posts_for_validation_20250525_154121.csv
+2025-05-25 15:41:21,578 - __main__ - INFO - sample_comments_file: data/processed/sample_comments_for_validation_20250525_154121.csv
+2025-05-25 15:41:21,578 - __main__ - INFO - metadata_file: data/processed/processing_metadata_20250525_154121.json
