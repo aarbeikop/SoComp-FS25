@@ -4,7 +4,6 @@
     - filter out empty / very short tweets
     - extract tweet date from tweetid
     - save processed data
-    - find tweet date from tweetid
     NOTE: The tweet date extraction relies on the tweetid format and may not be 100% accurate.
             Converter Code inspired by: https://github.com/oduwsdl/tweetedat/tree/master
 """
